@@ -27,8 +27,8 @@
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {{ range first 6 (where .Site.RegularPages "Section" "recipes") }}
         
-        <!-- 🏆 CARTE ULTRA-PREMIUM STYLÉE -->
-        <article class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
+        <!-- 🏆 CARTE ULTRA-PREMIUM STYLÉE - ENTIÈREMENT CLIQUABLE -->
+        <a href="{{ .RelPermalink }}" class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
           
           <!-- Image optimisée avec overlay premium -->
           <div class="relative overflow-hidden aspect-[4/3]">
@@ -73,10 +73,10 @@
           <div class="p-7 space-y-5">
             
             <!-- Titre sophistiqué -->
-          <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
-              style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
-            {{ .Title }}
-          </h3>
+            <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
+                style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+              {{ .Title }}
+            </h3>
             
             <!-- Métriques ultra-sophistiquées -->
             <div class="flex items-center justify-between pt-3 border-t border-gray-100/60">
@@ -142,7 +142,7 @@
             </div>
           </div>
           
-        </article>
+        </a>
 
       {{ end }}
     </div>
@@ -174,8 +174,8 @@
           {{ $idx := mod (add $offset $i) $count }}
           {{ $item := index $all $idx }}
           
-          <!-- 🏆 CARTE ULTRA-PREMIUM STYLÉE -->
-          <article class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
+          <!-- 🏆 CARTE ULTRA-PREMIUM STYLÉE - ENTIÈREMENT CLIQUABLE -->
+          <a href="{{ $item.RelPermalink }}" class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
             
             <!-- Image optimisée avec overlay premium -->
             <div class="relative overflow-hidden aspect-[4/3]">
@@ -220,12 +220,10 @@
             <div class="p-7 space-y-5">
               
               <!-- Titre sophistiqué -->
-              <a href="{{ $item.RelPermalink }}" class="block">
-                <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
-                    style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
-                  {{ $item.Title }}
-                </h3>
-              </a>
+              <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
+                  style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+                {{ $item.Title }}
+              </h3>
               
               <!-- Métriques ultra-sophistiquées -->
               <div class="flex items-center justify-between pt-3 border-t border-gray-100/60">
@@ -291,7 +289,7 @@
               </div>
             </div>
             
-          </article>
+          </a>
         {{ end }}
       {{ else }}
         <p class="text-center col-span-full py-12" style="color: var(--color-text-secondary);">
