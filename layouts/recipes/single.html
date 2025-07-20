@@ -245,7 +245,6 @@
             {{ $recipe_page.sections.instructions }}
           </h2>
           <div class="recipe-list recipe-list--steps">
-            {{ $stepCounter := 0 }}
             {{ range .Params.instructions }}
               {{ if strings.Contains . "===" }}
                 {{ $content := . | replaceRE "===(.+)===" "$1" }}
@@ -253,13 +252,9 @@
                   <span class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></span>
                   {{ $content }}
                 </h3>
-                <ol class="recipe-list recipe-list--steps space-y-4">
+                <ol class="recipe-list recipe-list--steps">
               {{ else }}
-                {{ $stepCounter = add $stepCounter 1 }}
-                <li class="recipe-list__item flex items-start gap-4 p-3 rounded-lg bg-gradient-to-r from-white/60 to-transparent">
-                  <span class="flex-shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-sm font-bold text-white" style="background-color: var(--primary);">{{ $stepCounter }}</span>
-                  <span class="flex-1">{{ . }}</span>
-                </li>
+                <li class="recipe-list__item">{{ . }}</li>
               {{ end }}
             {{ end }}
             </ol>
