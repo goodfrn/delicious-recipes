@@ -18,7 +18,7 @@
       
       <!-- Description avec typographie premium -->
       <p class="text-base text-center max-w-2xl mx-auto mt-4 leading-relaxed" 
-         style="color: var(--color-text-secondary); font-family: 'Source Serif Pro', Georgia, serif;">
+         style="color: var(--color-text-secondary); font-family: var(--font-serif);">
         {{ $homepage.latest_recipes.description }}
       </p>
     </div>
@@ -62,7 +62,7 @@
             {{ with index .Params.categories 0 }}
               <div class="absolute top-4 left-4 px-3 py-2 bg-white/95 backdrop-blur-sm rounded-xl shadow-lg border border-gray-200/50">
                 <span class="text-xs font-bold tracking-wider uppercase" 
-                      style="color: var(--primary); font-family: 'SF Pro Display', system-ui, sans-serif;">
+                      style="color: var(--primary); font-family: var(--font-sans);">
                   {{ . }}
                 </span>
               </div>
@@ -74,7 +74,7 @@
             
             <!-- Titre sophistiqué -->
             <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
-                style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+                style="color: var(--color-text); font-family: var(--font-serif);">
               {{ .Title }}
             </h3>
             
@@ -209,7 +209,7 @@
               {{ with index $item.Params.categories 0 }}
                 <div class="absolute top-4 left-4 px-3 py-2 bg-white/95 backdrop-blur-sm rounded-xl shadow-lg border border-gray-200/50">
                   <span class="text-xs font-bold tracking-wider uppercase" 
-                        style="color: var(--primary); font-family: 'SF Pro Display', system-ui, sans-serif;">
+                        style="color: var(--primary); font-family: var(--font-sans);">
                     {{ . }}
                   </span>
                 </div>
@@ -221,7 +221,7 @@
               
               <!-- Titre sophistiqué -->
               <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
-                  style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+                  style="color: var(--color-text); font-family: var(--font-serif);">
                 {{ $item.Title }}
               </h3>
               
@@ -332,7 +332,7 @@
             <div class="w-3 h-3 rounded-full mx-auto opacity-60 group-hover:opacity-100 transition-opacity duration-200" 
                  style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
             <span class="text-base font-semibold tracking-wide block" 
-                  style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+                  style="color: var(--color-text); font-family: var(--font-serif);">
               {{ $displayName }}
             </span>
           </div>
@@ -354,7 +354,7 @@
       
       <!-- Description avec typographie premium -->
       <p class="text-center max-w-xl mx-auto mt-4 text-base leading-relaxed" 
-         style="color: var(--color-text-secondary); font-family: 'Source Serif Pro', Georgia, serif;">
+         style="color: var(--color-text-secondary); font-family: var(--font-serif);">
         {{ $homepage.newsletter.description }}
       </p>
     </div>
