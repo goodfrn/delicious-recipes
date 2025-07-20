@@ -75,6 +75,6 @@ You can control cookies through your browser settings.
 
 This privacy policy may be updated periodically. We'll notify subscribers of significant changes via email.
 
-**Last Updated:** [Current Date]
+**Last Updated:** July 20, 2025
 
 ---
