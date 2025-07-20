@@ -10,12 +10,10 @@
 <section class="section" style="background: linear-gradient(180deg, var(--color-bg) 0%, #faf9f7 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <!-- 🏷️ Titre avec classe section__title centré -->
     <div class="text-center mb-12">
-      <h2 class="section__title flex items-center justify-center gap-3">
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+      <h2 class="section__title text-center">
         {{ $homepage.latest_recipes.title }}
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
       </h2>
       
       <!-- Description avec typographie premium -->
@@ -157,12 +155,10 @@
 <section class="section" style="background: linear-gradient(180deg, #faf9f7 0%, var(--color-bg) 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <!-- 🏷️ Titre avec classe section__title centré -->
     <div class="text-center mb-12">
-      <h2 class="section__title flex items-center justify-center gap-3">
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+      <h2 class="section__title text-center">
         {{ $homepage.popular_recipes.title }}
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
       </h2>
     </div>
     
@@ -312,12 +308,10 @@
 <section class="section" style="background: linear-gradient(135deg, var(--color-bg) 0%, #faf9f7 50%, var(--color-bg) 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <!-- 🏷️ Titre avec classe section__title centré -->
     <div class="text-center mb-12">
-      <h2 class="section__title flex items-center justify-center gap-3">
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+      <h2 class="section__title text-center">
         {{ $homepage.categories_section.title }}
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
       </h2>
     </div>
     
@@ -356,12 +350,10 @@
 <section class="section" style="background: linear-gradient(135deg, #faf9f7 0%, var(--color-bg) 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <!-- 🏷️ Titre avec classe section__title centré -->
     <div class="text-center mb-12">
-      <h2 class="section__title flex items-center justify-center gap-3">
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+      <h2 class="section__title text-center">
         {{ $homepage.newsletter.title }}
-        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
       </h2>
       
       <!-- Description avec typographie premium -->
@@ -385,10 +377,8 @@
                  class="w-full sm:flex-grow px-4 py-3 border rounded-xl focus:outline-none focus:ring-2 focus:border-transparent transition-all duration-200" 
                  style="border-color: var(--color-text-muted); color: var(--color-text); focus:ring-color: var(--primary);">
           
-          <!-- BOUTON NEWSLETTER ULTRA-PREMIUM -->
-          <button type="submit" 
-                  class="btn btn--primary btn--lg bg-gradient-to-r hover:shadow-lg transform hover:scale-105 transition-all duration-200 rounded-xl px-8 py-3 font-semibold"
-                  style="background: linear-gradient(45deg, var(--primary), var(--secondary)); border: none;">
+          <!-- BOUTON NEWSLETTER SIMPLE -->
+          <button type="submit" class="btn btn--primary btn--lg">
             {{ $homepage.newsletter.button_text }}
           </button>
         </div>
