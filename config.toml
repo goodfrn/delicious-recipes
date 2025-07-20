@@ -77,7 +77,7 @@ title = "Delicious Recipes"
 #  Paramètres personnalisables
 ###############################################################################
 [params]
-  description   = "Recettes maison faciles et gourmandes"
+  description   = "Daily Delicious Recipes"
   defaultImage  = "/img/cover-default.jpg"
   twitterHandle = "@TonCompteX"
 
