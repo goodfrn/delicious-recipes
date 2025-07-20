@@ -1253,6 +1253,31 @@ article.group:nth-child(6) { animation-delay: 0.6s; }
     transform: translateY(-4px) scale(1.01);
   }
 }
+/* === FORCER LA POLICE === */
+h1, h2, h3, h4, h5, h6,
+.section__title,
+[style*="font-family"] {
+  font-family: 'Crimson Text', 'Lora', Georgia, serif !important;
+}
+
+/* === FORCER LE CENTRAGE DES TITRES === */
+.section__title,
+.card h2,
+.card h3,
+#ingredients h2,
+#steps h2,
+#tips h2,
+#faq h2 {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+/* === MODIFIER AUSSI LA VARIABLE === */
+:root {
+  --font-serif: 'Crimson Text', 'Lora', Georgia, serif !important;
+}
 
 /* ---------------------------------------------------------------------
    Utilitaires Tailwind 
