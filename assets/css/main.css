@@ -56,8 +56,8 @@
   --color-border: var(--gray-200);
   
   /* === TYPOGRAPHIE === */
-  --font-sans: Inter, system-ui, -apple-system, sans-serif;
-  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Satoshi', 'Inter', system-ui, sans-serif;
+  --font-serif: 'Fraunces', 'Playfair Display', Georgia, serif;
   
   /* Échelle typographique (système unique) */
   --text-xs: 0.75rem;       /* 12px */
