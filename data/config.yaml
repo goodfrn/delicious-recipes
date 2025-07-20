@@ -145,7 +145,7 @@ footer:
   social_title: "Connect with Kate"
   newsletter_title: "Culinary Circle"
   newsletter_description: "Join thousands of home cooks receiving Kate's exclusive recipes, techniques, and seasonal inspirations."
-  newsletter_placeholder: "kate.deliciousrecipes@email.com"
+  newsletter_placeholder: "kate.deliciousrecipe@email.com"
   newsletter_button: "Subscribe"
   copyright_prefix: "©"
   copyright_suffix: ". All rights reserved."
