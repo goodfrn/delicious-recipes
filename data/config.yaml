@@ -122,9 +122,9 @@ recipe_page:
     total: "Total:"
     servings: "Serves:"
     cuisine: "Cuisine:"
-  chef_note_title: "Chef's Notes"
-  about_sidebar_title: "Meet Kate"
-  about_sidebar_text: "I'm Kate, a culinary artist passionate about creating exceptional flavors through technique and precision. I love crafting recipes that transform simple ingredients into extraordinary culinary experiences."
+  chef_note_title: Chef Notes
+  about_sidebar_title: Meet Kate
+  about_sidebar_text: I'm Kate, a culinary artist passionate about creating exceptional flavors through technique and precision. I love crafting recipes that transform simple ingredients into extraordinary culinary experiences.
   sectionsTitle:
    ingredients_note: "Ingredient Notes"
    instructions_note: "Technique Tips"
