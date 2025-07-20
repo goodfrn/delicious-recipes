@@ -55,7 +55,7 @@
         <span class="block mb-2 bg-gradient-to-r from-white via-white to-white/80 bg-clip-text text-transparent drop-shadow-2xl">
           {{ $hero.title_line1 | default "Plongez dans" }}
         </span>
-        <span class="block bg-gradient-to-r from-amber-300 via-yellow-300 to-amber-400 bg-clip-text text-transparent drop-shadow-2xl">
+        <span class="font-medium drop-shadow-2xl" style="color: var(--primary-light);">
           {{ $hero.title_line2 | default "l'Art de la Cuisine" }}
         </span>
       </h2>
@@ -64,7 +64,7 @@
       <p class="text-xl sm:text-2xl text-white/90 mb-12 max-w-3xl leading-relaxed font-light tracking-wide drop-shadow-lg opacity-0 animate-fade-in-up animation-delay-200">
         {{ $hero.subtitle | default "Chaque jour, une création gourmande pensée pour enchanter vos papilles et sublimer votre quotidien." }}
         {{ if $hero.subtitle_highlight }}
-          <span class="text-amber-300 font-medium">{{ $hero.subtitle_highlight }}</span>
+          <span class="font-medium" style="color: var(--primary-light);">{{ $hero.subtitle_highlight }}</span>
         {{ end }}
       </p>
 
