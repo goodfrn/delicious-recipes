@@ -1,5 +1,3 @@
----
-
 # Terms of Service
 
 ## Acceptance of Terms
@@ -81,4 +79,3 @@ These terms may be updated at any time. Continued use of the site constitutes ac
 
 **Last Updated:** [Current Date]
 
----
