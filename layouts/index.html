@@ -6,28 +6,33 @@
 <!-- Hero animé (conservé tel quel car spécifique) -->
 {{ partial "hero.html" . }}
 
-<!-- SECTION MIGRÉE : Dernières recettes -->
-<section class="section">
+<!-- SECTION MIGRÉE : Dernières recettes avec style premium -->
+<section class="section" style="background: linear-gradient(180deg, var(--color-bg) 0%, #faf9f7 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title -->
-    <h2 class="section__title">
-      {{ $homepage.latest_recipes.title }}
-    </h2>
-    
-    <!-- Description -->
-    <p class="text-base text-center mb-8 max-w-2xl mx-auto" style="color: var(--color-text-secondary);">
-      {{ $homepage.latest_recipes.description }}
-    </p>
+    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <div class="text-center mb-12">
+      <h2 class="section__title flex items-center justify-center gap-3">
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+        {{ $homepage.latest_recipes.title }}
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+      </h2>
+      
+      <!-- Description avec typographie premium -->
+      <p class="text-base text-center max-w-2xl mx-auto mt-4 leading-relaxed" 
+         style="color: var(--color-text-secondary); font-family: 'Source Serif Pro', Georgia, serif;">
+        {{ $homepage.latest_recipes.description }}
+      </p>
+    </div>
 
-    <!-- Grille recettes avec CARTES PREMIUM -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    <!-- Grille recettes avec CARTES ULTRA-PREMIUM -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {{ range first 6 (where .Site.RegularPages "Section" "recipes") }}
         
-        <!-- 🏆 CARTE PREMIUM STYLÉE -->
-        <a href="{{ .RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
+        <!-- 🏆 CARTE ULTRA-PREMIUM STYLÉE -->
+        <article class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
           
-          <!-- Image optimisée -->
+          <!-- Image optimisée avec overlay premium -->
           <div class="relative overflow-hidden aspect-[4/3]">
             {{ with .Params.image }}
               {{ $img := resources.Get (printf "images/%s" .) }}
@@ -39,7 +44,7 @@
                   <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
                   <img src="{{ $fallback.RelPermalink }}" 
                        alt="{{ $.Title }}" 
-                       class="w-full h-full object-cover"
+                       class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                        loading="lazy"
                        width="600" 
                        height="400">
@@ -47,107 +52,122 @@
               {{ else }}
                 <img src="/{{ . }}" 
                      alt="{{ $.Title }}" 
-                     class="w-full h-full object-cover"
+                     class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                      loading="lazy">
               {{ end }}
             {{ end }}
             
-            <!-- Badge catégorie -->
+            <!-- Overlay gradient subtil -->
+            <div class="absolute inset-0 bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+            
+            <!-- Badge catégorie premium -->
             {{ with index .Params.categories 0 }}
-              <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
-                <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">
+              <div class="absolute top-4 left-4 px-3 py-2 bg-white/95 backdrop-blur-sm rounded-xl shadow-lg border border-gray-200/50">
+                <span class="text-xs font-bold tracking-wider uppercase" 
+                      style="color: var(--primary); font-family: 'SF Pro Display', system-ui, sans-serif;">
                   {{ . }}
                 </span>
               </div>
             {{ end }}
           </div>
           
-          <!-- Contenu premium -->
-          <div class="p-6 space-y-4">
+          <!-- Contenu ultra-premium -->
+          <div class="p-7 space-y-5">
             
-            <!-- Titre élégant -->
-            <h3 class="font-serif text-xl leading-tight font-medium" 
-                style="color: var(--color-text); font-family: 'Times New Roman', serif;">
-              {{ .Title }}
-            </h3>
+            <!-- Titre sophistiqué -->
+            <a href="{{ .RelPermalink }}" class="block">
+              <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
+                  style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+                {{ .Title }}
+              </h3>
+            </a>
             
-            <!-- Métriques sophistiquées -->
-            <div class="flex items-center justify-between pt-2 border-t border-gray-100">
+            <!-- Métriques ultra-sophistiquées -->
+            <div class="flex items-center justify-between pt-3 border-t border-gray-100/60">
               
-              <!-- Temps -->
+              <!-- Temps avec icône premium -->
               {{ with .Params.totalTime }}
-                <div class="flex items-center space-x-1.5">
-                  <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                    <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                <div class="flex items-center space-x-2">
+                  <div class="w-5 h-5 rounded-full flex items-center justify-center" 
+                       style="background: linear-gradient(45deg, var(--primary), var(--secondary));">
+                    <div class="w-2 h-2 rounded-full bg-white"></div>
                   </div>
-                  <span class="text-sm font-medium text-gray-700">
+                  <span class="text-sm font-semibold text-gray-700">
                     {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
                   </span>
                 </div>
               {{ end }}
               
-              <!-- Portions -->
+              <!-- Portions avec icône premium -->
               {{ with .Params.recipeYield }}
-                <div class="flex items-center space-x-1.5">
-                  <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                    <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                <div class="flex items-center space-x-2">
+                  <div class="w-5 h-5 rounded-full flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200">
+                    <div class="w-2 h-2 rounded-full bg-gray-600"></div>
                   </div>
-                  <span class="text-sm font-medium text-gray-700">
+                  <span class="text-sm font-semibold text-gray-700">
                     {{ . }}
                   </span>
                 </div>
               {{ end }}
               
-              <!-- Calories -->
+              <!-- Calories avec icône premium -->
               {{ with .Params.nutrition.calories }}
-                <div class="flex items-center space-x-1.5">
-                  <div class="w-4 h-4 rounded-full bg-orange-100 flex items-center justify-center">
-                    <div class="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
+                <div class="flex items-center space-x-2">
+                  <div class="w-5 h-5 rounded-full flex items-center justify-center bg-gradient-to-br from-orange-100 to-orange-200">
+                    <div class="w-2 h-2 rounded-full bg-orange-600"></div>
                   </div>
-                  <span class="text-sm font-medium text-gray-700">
+                  <span class="text-sm font-semibold text-gray-700">
                     {{ . }} cal
                   </span>
                 </div>
               {{ end }}
             </div>
             
-            <!-- Tags premium -->
+            <!-- Tags ultra-premium -->
             {{ if .Params.tags }}
-              <div class="flex flex-wrap gap-2 pt-3">
+              <div class="flex flex-wrap gap-2 pt-4">
                 {{ range first 3 .Params.tags }}
-                  <span class="px-2.5 py-1 bg-gray-50 rounded-full">
+                  <span class="px-3 py-1.5 bg-gradient-to-r from-gray-50 to-gray-100 rounded-full border border-gray-200/50 hover:shadow-sm transition-shadow duration-200">
                     <span class="text-xs font-medium text-gray-600">{{ . }}</span>
                   </span>
                 {{ end }}
               </div>
             {{ end }}
             
-            <!-- Footer editorial -->
-            <div class="flex justify-end pt-4 border-t border-gray-50">
-              <time class="text-xs text-gray-400 font-medium" datetime="{{ .Date.Format "2006-01-02" }}">
+            <!-- Footer editorial avec séparateur -->
+            <div class="flex items-center justify-between pt-5 border-t border-gray-100/60">
+              <time class="text-xs text-gray-400 font-medium tracking-wider" datetime="{{ .Date.Format "2006-01-02" }}">
                 {{ .Date.Format "Jan 2, 2006" }}
               </time>
+              <div class="flex items-center gap-2">
+                <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+                <span class="text-xs text-gray-400 font-medium">Recipe</span>
+              </div>
             </div>
           </div>
           
-        </a>
+        </article>
 
       {{ end }}
     </div>
   </div>
 </section>
 
-<!-- SECTION MIGRÉE : Recettes populaires -->
-<section class="section">
+<!-- SECTION MIGRÉE : Recettes populaires avec style premium -->
+<section class="section" style="background: linear-gradient(180deg, #faf9f7 0%, var(--color-bg) 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title -->
-    <h2 class="section__title">
-      {{ $homepage.popular_recipes.title }}
-    </h2>
+    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <div class="text-center mb-12">
+      <h2 class="section__title flex items-center justify-center gap-3">
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+        {{ $homepage.popular_recipes.title }}
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+      </h2>
+    </div>
     
-    <!-- Grille recettes avec CARTES PREMIUM -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    <!-- Grille recettes avec CARTES ULTRA-PREMIUM -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {{ $all := where .Site.RegularPages "Section" "recipes" }}
       {{ $count := len $all }}
       {{ if gt $count 0 }}
@@ -160,10 +180,10 @@
           {{ $idx := mod (add $offset $i) $count }}
           {{ $item := index $all $idx }}
           
-          <!-- 🏆 CARTE PREMIUM STYLÉE -->
-          <a href="{{ $item.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
+          <!-- 🏆 CARTE ULTRA-PREMIUM STYLÉE -->
+          <article class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
             
-            <!-- Image optimisée -->
+            <!-- Image optimisée avec overlay premium -->
             <div class="relative overflow-hidden aspect-[4/3]">
               {{ with $item.Params.image }}
                 {{ $img := resources.Get (printf "images/%s" .) }}
@@ -175,7 +195,7 @@
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
                     <img src="{{ $fallback.RelPermalink }}" 
                          alt="{{ $item.Title }}" 
-                         class="w-full h-full object-cover"
+                         class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                          loading="lazy"
                          width="600" 
                          height="400">
@@ -183,93 +203,104 @@
                 {{ else }}
                   <img src="/{{ . }}" 
                        alt="{{ $item.Title }}" 
-                       class="w-full h-full object-cover"
+                       class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                        loading="lazy">
                 {{ end }}
               {{ end }}
               
-              <!-- Badge catégorie -->
+              <!-- Overlay gradient subtil -->
+              <div class="absolute inset-0 bg-gradient-to-t from-black/10 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+              
+              <!-- Badge catégorie premium -->
               {{ with index $item.Params.categories 0 }}
-                <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
-                  <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">
+                <div class="absolute top-4 left-4 px-3 py-2 bg-white/95 backdrop-blur-sm rounded-xl shadow-lg border border-gray-200/50">
+                  <span class="text-xs font-bold tracking-wider uppercase" 
+                        style="color: var(--primary); font-family: 'SF Pro Display', system-ui, sans-serif;">
                     {{ . }}
                   </span>
                 </div>
               {{ end }}
             </div>
             
-            <!-- Contenu premium -->
-            <div class="p-6 space-y-4">
+            <!-- Contenu ultra-premium -->
+            <div class="p-7 space-y-5">
               
-              <!-- Titre élégant -->
-              <h3 class="font-serif text-xl leading-tight font-medium" 
-                  style="color: var(--color-text); font-family: 'Times New Roman', serif;">
-                {{ $item.Title }}
-              </h3>
+              <!-- Titre sophistiqué -->
+              <a href="{{ $item.RelPermalink }}" class="block">
+                <h3 class="font-serif text-xl leading-tight font-medium hover:opacity-75 transition-opacity duration-200" 
+                    style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+                  {{ $item.Title }}
+                </h3>
+              </a>
               
-              <!-- Métriques sophistiquées -->
-              <div class="flex items-center justify-between pt-2 border-t border-gray-100">
+              <!-- Métriques ultra-sophistiquées -->
+              <div class="flex items-center justify-between pt-3 border-t border-gray-100/60">
                 
-                <!-- Temps -->
+                <!-- Temps avec icône premium -->
                 {{ with $item.Params.totalTime }}
-                  <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                  <div class="flex items-center space-x-2">
+                    <div class="w-5 h-5 rounded-full flex items-center justify-center" 
+                         style="background: linear-gradient(45deg, var(--primary), var(--secondary));">
+                      <div class="w-2 h-2 rounded-full bg-white"></div>
                     </div>
-                    <span class="text-sm font-medium text-gray-700">
+                    <span class="text-sm font-semibold text-gray-700">
                       {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
                     </span>
                   </div>
                 {{ end }}
                 
-                <!-- Portions -->
+                <!-- Portions avec icône premium -->
                 {{ with $item.Params.recipeYield }}
-                  <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                  <div class="flex items-center space-x-2">
+                    <div class="w-5 h-5 rounded-full flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200">
+                      <div class="w-2 h-2 rounded-full bg-gray-600"></div>
                     </div>
-                    <span class="text-sm font-medium text-gray-700">
+                    <span class="text-sm font-semibold text-gray-700">
                       {{ . }}
                     </span>
                   </div>
                 {{ end }}
                 
-                <!-- Calories -->
+                <!-- Calories avec icône premium -->
                 {{ with $item.Params.nutrition.calories }}
-                  <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-orange-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
+                  <div class="flex items-center space-x-2">
+                    <div class="w-5 h-5 rounded-full flex items-center justify-center bg-gradient-to-br from-orange-100 to-orange-200">
+                      <div class="w-2 h-2 rounded-full bg-orange-600"></div>
                     </div>
-                    <span class="text-sm font-medium text-gray-700">
+                    <span class="text-sm font-semibold text-gray-700">
                       {{ . }} cal
                     </span>
                   </div>
                 {{ end }}
               </div>
               
-              <!-- Tags premium -->
+              <!-- Tags ultra-premium -->
               {{ if $item.Params.tags }}
-                <div class="flex flex-wrap gap-2 pt-3">
+                <div class="flex flex-wrap gap-2 pt-4">
                   {{ range first 3 $item.Params.tags }}
-                    <span class="px-2.5 py-1 bg-gray-50 rounded-full">
+                    <span class="px-3 py-1.5 bg-gradient-to-r from-gray-50 to-gray-100 rounded-full border border-gray-200/50 hover:shadow-sm transition-shadow duration-200">
                       <span class="text-xs font-medium text-gray-600">{{ . }}</span>
                     </span>
                   {{ end }}
                 </div>
               {{ end }}
               
-              <!-- Footer editorial -->
-              <div class="flex justify-end pt-4 border-t border-gray-50">
-                <time class="text-xs text-gray-400 font-medium" datetime="{{ $item.Date.Format "2006-01-02" }}">
+              <!-- Footer editorial avec séparateur -->
+              <div class="flex items-center justify-between pt-5 border-t border-gray-100/60">
+                <time class="text-xs text-gray-400 font-medium tracking-wider" datetime="{{ $item.Date.Format "2006-01-02" }}">
                   {{ $item.Date.Format "Jan 2, 2006" }}
                 </time>
+                <div class="flex items-center gap-2">
+                  <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+                  <span class="text-xs text-gray-400 font-medium">Recipe</span>
+                </div>
               </div>
             </div>
             
-          </a>
+          </article>
         {{ end }}
       {{ else }}
-        <p class="text-center col-span-full" style="color: var(--color-text-secondary);">
+        <p class="text-center col-span-full py-12" style="color: var(--color-text-secondary);">
           {{ $homepage.popular_recipes.empty_message }}
         </p>
       {{ end }}
@@ -277,16 +308,20 @@
   </div>
 </section>
 
-<!-- SECTION MIGRÉE : Explorer par catégorie -->
-<section class="section">
+<!-- SECTION MIGRÉE : Explorer par catégorie avec style premium -->
+<section class="section" style="background: linear-gradient(135deg, var(--color-bg) 0%, #faf9f7 50%, var(--color-bg) 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title -->
-    <h2 class="section__title">
-      {{ $homepage.categories_section.title }}
-    </h2>
+    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <div class="text-center mb-12">
+      <h2 class="section__title flex items-center justify-center gap-3">
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+        {{ $homepage.categories_section.title }}
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+      </h2>
+    </div>
     
-    <!-- Grille catégories avec CARDS MIGRÉES -->
+    <!-- Grille catégories avec CARDS ULTRA-PREMIUM -->
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-center">
       {{ range sort .Site.Taxonomies.categories "Count" "desc" }}
         {{/* 🎯 LOGIQUE IDENTIQUE aux autres templates */}}
@@ -301,37 +336,64 @@
           {{ end }}
         {{ end }}
         
-        <a href="{{ .Page.RelPermalink }}" class="card--compact card flex items-center justify-center text-center text-base font-semibold min-h-[96px] hover:scale-105 transform transition duration-300" style="color: var(--color-text); font-family: var(--font-serif);">
-          {{ $displayName }}  {{/* ← MAINTENANT AFFICHE "Apéritifs Gourmands" */}}
+        <a href="{{ .Page.RelPermalink }}" 
+           class="group bg-white/70 backdrop-blur-sm border border-gray-200/50 rounded-2xl p-6 flex items-center justify-center text-center hover:shadow-xl hover:scale-105 transform transition-all duration-300 min-h-[120px]">
+          <div class="space-y-2">
+            <div class="w-3 h-3 rounded-full mx-auto opacity-60 group-hover:opacity-100 transition-opacity duration-200" 
+                 style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
+            <span class="text-base font-semibold tracking-wide block" 
+                  style="color: var(--color-text); font-family: 'Playfair Display', Georgia, serif;">
+              {{ $displayName }}
+            </span>
+          </div>
         </a>
       {{ end }}
     </div>
   </div>
 </section>
 
-<!-- SECTION MIGRÉE : Newsletter -->
-<section class="section">
+<!-- SECTION MIGRÉE : Newsletter avec style premium -->
+<section class="section" style="background: linear-gradient(135deg, #faf9f7 0%, var(--color-bg) 100%);">
   <div class="container">
     
-    <!-- 🏷️ Titre avec classe section__title -->
-    <h2 class="section__title">
-      {{ $homepage.newsletter.title }}
-    </h2>
+    <!-- 🏷️ Titre avec classe section__title et accent premium -->
+    <div class="text-center mb-12">
+      <h2 class="section__title flex items-center justify-center gap-3">
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+        {{ $homepage.newsletter.title }}
+        <span class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+      </h2>
+      
+      <!-- Description avec typographie premium -->
+      <p class="text-center max-w-xl mx-auto mt-4 text-base leading-relaxed" 
+         style="color: var(--color-text-secondary); font-family: 'Source Serif Pro', Georgia, serif;">
+        {{ $homepage.newsletter.description }}
+      </p>
+    </div>
     
-    <!-- Description -->
-    <p class="text-center max-w-xl mx-auto mb-8 text-base" style="color: var(--color-text-secondary);">
-      {{ $homepage.newsletter.description }}
-    </p>
-    
-    <!-- Formulaire newsletter avec BOUTON MIGRÉ -->
-    <form action="{{ $homepage.newsletter.form_action }}" method="POST" class="max-w-lg mx-auto flex flex-col sm:flex-row sm:items-center gap-4">
-      <label for="newsletter-email" class="sr-only">Adresse email</label>
-      <input id="newsletter-email" type="email" name="email" required placeholder="{{ $homepage.newsletter.email_placeholder }}" class="w-full sm:flex-grow px-4 py-3 border rounded-lg focus:outline-none focus:ring-2" style="border-color: var(--color-text-muted); color: var(--color-text);">
-      <!-- BOUTON NEWSLETTER MIGRÉ -->
-      <button type="submit" class="btn btn--primary btn--lg">
-        {{ $homepage.newsletter.button_text }}
-      </button>
-    </form>
+    <!-- Formulaire newsletter ultra-premium -->
+    <div class="max-w-lg mx-auto">
+      <form action="{{ $homepage.newsletter.form_action }}" method="POST" 
+            class="bg-white/80 backdrop-blur-sm border border-gray-200/50 rounded-2xl p-8 shadow-xl">
+        <div class="flex flex-col sm:flex-row sm:items-center gap-4">
+          <label for="newsletter-email" class="sr-only">Email Address</label>
+          <input id="newsletter-email" 
+                 type="email" 
+                 name="email" 
+                 required 
+                 placeholder="{{ $homepage.newsletter.email_placeholder }}" 
+                 class="w-full sm:flex-grow px-4 py-3 border rounded-xl focus:outline-none focus:ring-2 focus:border-transparent transition-all duration-200" 
+                 style="border-color: var(--color-text-muted); color: var(--color-text); focus:ring-color: var(--primary);">
+          
+          <!-- BOUTON NEWSLETTER ULTRA-PREMIUM -->
+          <button type="submit" 
+                  class="btn btn--primary btn--lg bg-gradient-to-r hover:shadow-lg transform hover:scale-105 transition-all duration-200 rounded-xl px-8 py-3 font-semibold"
+                  style="background: linear-gradient(45deg, var(--primary), var(--secondary)); border: none;">
+            {{ $homepage.newsletter.button_text }}
+          </button>
+        </div>
+      </form>
+    </div>
   </div>
 </section>
 
