@@ -9,18 +9,18 @@
 
 <section class="container mx-auto px-4 relative" style="background: linear-gradient(135deg, var(--color-bg) 0%, #faf9f7 100%); min-height: 100vh; padding-top: 96px;">
   
-  <!-- 📍 Fil d'Ariane PLUS HAUT (position absolue) avec style premium -->
+  <!-- 📍 Fil d'Ariane responsive -->
   <div class="absolute top-4 left-0 right-0">
     <div class="container mx-auto px-4">
       <nav class="text-sm text-gray-500" aria-label="Breadcrumb Navigation">
-        <ol class="flex flex-wrap items-center gap-1 text-[0.95rem] sm:text-base font-medium">
+        <ol class="flex flex-wrap items-center gap-1 text-xs sm:text-sm md:text-base font-medium">
           <li>
-            <a href="/" class="hover:underline hover:scale-105 transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $breadcrumb.home }}</a>
-            <span class="mx-2 text-gray-300">•</span>
+            <a href="/" class="hover:underline transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $breadcrumb.home }}</a>
+            <span class="mx-1 sm:mx-2 text-gray-300">•</span>
           </li>
           <li>
-            <a href="/categories/" class="hover:underline hover:scale-105 transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $breadcrumb.categories }}</a>
-            <span class="mx-2 text-gray-300">•</span>
+            <a href="/categories/" class="hover:underline transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $breadcrumb.categories }}</a>
+            <span class="mx-1 sm:mx-2 text-gray-300">•</span>
           </li>
           {{ with index .Params.categories 0 }}
             {{ $cat := . }}
@@ -38,12 +38,11 @@
             {{ $catTerm := site.Taxonomies.categories.Get $cat }}
             {{ if $catTerm }}
               <li>
-                <a href="{{ $catTerm.Page.RelPermalink }}" class="hover:underline hover:scale-105 transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
+                <a href="{{ $catTerm.Page.RelPermalink }}" class="hover:underline transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
               </li>
             {{ else }}
-              <!-- Fallback: utiliser la méthode directe -->
               <li>
-                <a href="{{ printf "/categories/%s/" $catSlug }}" class="hover:underline hover:scale-105 transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
+                <a href="{{ printf "/categories/%s/" $catSlug }}" class="hover:underline transition-all duration-200 font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
               </li>
             {{ end }}
           {{ end }}
@@ -52,78 +51,75 @@
     </div>
   </div>
 
-  <!-- 🍳 Titre recette distinctif avec ombre subtile et accent décoratif -->
-  <div class="text-center mb-10">
-    <div class="inline-flex items-center gap-3 mb-4">
-      <div class="w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
+  <!-- 🍳 Titre recette responsive -->
+  <div class="text-center mb-8 md:mb-10">
+    <div class="inline-flex items-center gap-2 md:gap-3 mb-3 md:mb-4">
+      <div class="w-4 md:w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
       <span class="text-xs uppercase tracking-widest text-gray-500 font-medium">Featured Recipe</span>
-      <div class="w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
+      <div class="w-4 md:w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
     </div>
-    <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-4 drop-shadow-sm" 
+    <h1 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-extrabold tracking-tight mb-3 md:mb-4 drop-shadow-sm px-2" 
         style="color: var(--color-text); font-family: var(--font-serif); text-shadow: 0 2px 4px rgba(0,0,0,0.05);">
       {{ .Title }}
     </h1>
     <div class="flex justify-center items-center gap-2">
-      <div class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
-      <div class="w-16 h-px bg-gradient-to-r from-gray-300 via-gray-400 to-gray-300"></div>
-      <div class="w-3 h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></div>
+      <div class="w-2 h-2 md:w-3 md:h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
+      <div class="w-8 md:w-16 h-px bg-gradient-to-r from-gray-300 via-gray-400 to-gray-300"></div>
+      <div class="w-2 h-2 md:w-3 md:h-3 rounded-full opacity-60" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></div>
     </div>
   </div>
 
-  <!-- 📱 Contenu recette avec layout grid et séparateurs élégants -->
+  <!-- 📱 Contenu recette responsive -->
   <div class="max-w-6xl mx-auto">
     
-    <!-- En-tête recette : image + infos organisées avec bordures subtiles -->
-    <div class="grid grid-cols-1 lg:grid-cols-[1fr_1fr] gap-8 sm:gap-12 items-start mb-16 pb-8">
+    <!-- En-tête recette responsive -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8 lg:gap-12 items-start mb-12 md:mb-16 pb-6 md:pb-8">
       
-      <!-- Image avec hover effect et cadre sophistiqué -->
+      <!-- Image responsive -->
       {{ with .Params.image }}
-        <div class="w-full max-w-sm mx-auto lg:mx-0 lg:max-w-none">
-          {{/* VERSION SIMPLIFIÉE : WebP + Fallback JPG seulement */}}
+        <div class="w-full max-w-sm mx-auto lg:mx-0 lg:max-w-none order-1 lg:order-1">
           {{ $img := resources.Get (printf "images/%s" .) }}
           {{ if $img }}
-            {{/* Générer WebP + Fallback JPG */}}
             {{ $webp := $img.Fill "600x900 q80 webp" }}
             {{ $fallback := $img.Fill "600x900 q85" }}
             
-            <div class="relative p-2 bg-gradient-to-br from-white via-gray-50 to-white rounded-3xl shadow-2xl">
+            <div class="relative p-1 md:p-2 bg-gradient-to-br from-white via-gray-50 to-white rounded-2xl md:rounded-3xl shadow-lg md:shadow-2xl">
               <picture>
                 <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
                 <img src="{{ $fallback.RelPermalink }}" 
                      alt="{{ $.Title }}" 
-                     class="rounded-2xl w-full h-auto object-cover transform hover:scale-[1.02] transition-transform duration-500"
+                     class="rounded-xl md:rounded-2xl w-full h-auto object-cover"
                      loading="eager"
-                     width="800" 
-                     height="600">
+                     width="600" 
+                     height="900">
               </picture>
-              <!-- Accent décoratif sur l'image -->
-              <div class="absolute -top-1 -left-1 w-6 h-6 border-t-2 border-l-2 rounded-tl-xl" style="border-color: var(--primary);"></div>
-              <div class="absolute -bottom-1 -right-1 w-6 h-6 border-b-2 border-r-2 rounded-br-xl" style="border-color: var(--secondary);"></div>
+              <!-- Accents décoratifs cachés sur mobile -->
+              <div class="hidden md:block absolute -top-1 -left-1 w-4 h-4 md:w-6 md:h-6 border-t-2 border-l-2 rounded-tl-xl" style="border-color: var(--primary);"></div>
+              <div class="hidden md:block absolute -bottom-1 -right-1 w-4 h-4 md:w-6 md:h-6 border-b-2 border-r-2 rounded-br-xl" style="border-color: var(--secondary);"></div>
             </div>
           {{ else }}
-            {{/* Fallback si image non trouvée */}}
-            <div class="w-full h-80 bg-gradient-to-br from-gray-100 to-gray-200 rounded-2xl flex items-center justify-center">
-              <span class="text-gray-400">Recipe image coming soon</span>
+            <div class="w-full h-64 md:h-80 bg-gradient-to-br from-gray-100 to-gray-200 rounded-2xl flex items-center justify-center">
+              <span class="text-gray-400 text-sm md:text-base">Recipe image coming soon</span>
             </div>
           {{ end }}
         </div>
       {{ end }}
       
-      <!-- Infos recette organisées avec cartes sophistiquées -->
-      <div class="flex flex-col gap-6">
+      <!-- Infos recette responsive -->
+      <div class="flex flex-col gap-4 md:gap-6 order-2 lg:order-2">
         
-        <!-- Auteur et date avec accent premium et nouveau style -->
+        <!-- Auteur et date -->
         {{ if or .Params.author .Date }}
-          <div class="relative p-6 bg-gradient-to-br from-white/80 via-white/60 to-white/40 backdrop-blur-md rounded-2xl border border-white/50 shadow-xl">
-            <div class="absolute top-3 right-3 w-2 h-2 rounded-full opacity-70" style="background: var(--primary);"></div>
+          <div class="relative p-4 md:p-6 bg-white/90 md:bg-gradient-to-br md:from-white/80 md:via-white/60 md:to-white/40 rounded-xl md:rounded-2xl border border-white/50 shadow-lg md:shadow-xl">
+            <div class="hidden md:block absolute top-3 right-3 w-2 h-2 rounded-full opacity-70" style="background: var(--primary);"></div>
             {{ with .Params.author }}
-              <p class="text-lg font-semibold flex items-center gap-3 mb-2" style="color: var(--color-text); font-family: var(--font-serif);">
-                <span class="w-3 h-3 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+              <p class="text-base md:text-lg font-semibold flex items-center gap-2 md:gap-3 mb-1 md:mb-2" style="color: var(--color-text); font-family: var(--font-serif);">
+                <span class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
                 {{ $recipe_page.author_prefix }} {{ . }}
               </p>
             {{ end }}
             {{ if .Date }}
-              <p class="text-base italic pl-6" style="color: var(--color-text-secondary);">
+              <p class="text-sm md:text-base italic pl-4 md:pl-6" style="color: var(--color-text-secondary);">
                 <time datetime="{{ .Date.Format "2006-01-02" }}">
                   {{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}
                 </time>
@@ -132,61 +128,62 @@
           </div>
         {{ end }}
 
-        <!-- Description avec typographie améliorée et nouveau design -->
+        <!-- Description responsive -->
         {{ $intro := .Params.description | default .Summary }}
         {{ with $intro }}
-          <div class="relative text-lg italic leading-relaxed p-6 bg-gradient-to-r from-transparent via-white/50 to-transparent backdrop-blur-sm rounded-2xl border border-white/30" style="color: var(--color-text-secondary); font-family: var(--font-serif);">
-            <div class="absolute top-2 left-2 text-4xl text-gray-200 leading-none">"</div>
+          <div class="text-base md:text-lg italic leading-relaxed p-4 md:p-6 bg-white/90 md:bg-gradient-to-r md:from-transparent md:via-white/50 md:to-transparent rounded-xl md:rounded-2xl border border-white/30" style="color: var(--color-text-secondary); font-family: var(--font-serif);">
+            <!-- Guillemets cachés sur mobile -->
+            <div class="hidden md:block absolute top-2 left-2 text-3xl md:text-4xl text-gray-200 leading-none">"</div>
             <div class="relative z-10">{{ . | markdownify }}</div>
-            <div class="absolute bottom-2 right-2 text-4xl text-gray-200 leading-none">"</div>
+            <div class="hidden md:block absolute bottom-2 right-2 text-3xl md:text-4xl text-gray-200 leading-none">"</div>
           </div>
         {{ end }}
 
-        <!-- Infos recette avec icônes et style card sophistiqué -->
-        <div class="grid grid-cols-2 gap-4 p-6 bg-gradient-to-br from-white/70 via-white/50 to-white/30 backdrop-blur-lg rounded-2xl border border-white/40 shadow-lg">
+        <!-- Infos recette responsive -->
+        <div class="grid grid-cols-2 gap-2 md:gap-4 p-4 md:p-6 bg-white/90 md:bg-gradient-to-br md:from-white/70 md:via-white/50 md:to-white/30 rounded-xl md:rounded-2xl border border-white/40 shadow-md md:shadow-lg">
           {{ with .Params.prepTime }}
-            <div class="flex items-center gap-3 p-3 rounded-xl bg-white/60 border border-white/40 hover:shadow-md transition-shadow duration-200">
-              <div class="w-3 h-3 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
-              <div class="flex flex-col">
-                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide">{{ $recipe_page.summary_labels.prep }}</span>
-                <span class="text-slate-600 text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+            <div class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg md:rounded-xl bg-white/80 md:bg-white/60 border border-white/40">
+              <div class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
+              <div class="flex flex-col min-w-0">
+                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide truncate">{{ $recipe_page.summary_labels.prep }}</span>
+                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
               </div>
             </div>
           {{ end }}
           {{ with .Params.cookTime }}
-            <div class="flex items-center gap-3 p-3 rounded-xl bg-white/60 border border-white/40 hover:shadow-md transition-shadow duration-200">
-              <div class="w-3 h-3 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></div>
-              <div class="flex flex-col">
-                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide">{{ $recipe_page.summary_labels.cook }}</span>
-                <span class="text-slate-600 text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+            <div class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg md:rounded-xl bg-white/80 md:bg-white/60 border border-white/40">
+              <div class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></div>
+              <div class="flex flex-col min-w-0">
+                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide truncate">{{ $recipe_page.summary_labels.cook }}</span>
+                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
               </div>
             </div>
           {{ end }}
           {{ with .Params.totalTime }}
-            <div class="flex items-center gap-3 p-3 rounded-xl bg-white/60 border border-white/40 hover:shadow-md transition-shadow duration-200">
-              <div class="w-3 h-3 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
-              <div class="flex flex-col">
-                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide">{{ $recipe_page.summary_labels.total }}</span>
-                <span class="text-slate-600 text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+            <div class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg md:rounded-xl bg-white/80 md:bg-white/60 border border-white/40">
+              <div class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
+              <div class="flex flex-col min-w-0">
+                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide truncate">{{ $recipe_page.summary_labels.total }}</span>
+                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
               </div>
             </div>
           {{ end }}
           {{ with .Params.recipeYield }}
-            <div class="flex items-center gap-3 p-3 rounded-xl bg-white/60 border border-white/40 hover:shadow-md transition-shadow duration-200">
-              <div class="w-3 h-3 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></div>
-              <div class="flex flex-col">
-                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide">{{ $recipe_page.summary_labels.servings }}</span>
-                <span class="text-slate-600 text-sm font-semibold">{{ . }}</span>
+            <div class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg md:rounded-xl bg-white/80 md:bg-white/60 border border-white/40">
+              <div class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></div>
+              <div class="flex flex-col min-w-0">
+                <span class="font-medium text-slate-700 text-xs uppercase tracking-wide truncate">{{ $recipe_page.summary_labels.servings }}</span>
+                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . }}</span>
               </div>
             </div>
           {{ end }}
         </div>
 
-        <!-- Tags avec style premium repensé -->
+        <!-- Tags responsive -->
         {{ with .Params.tags }}
-          <div class="flex flex-wrap gap-3">
+          <div class="flex flex-wrap gap-2 md:gap-3">
             {{ range . }}
-              <span class="px-4 py-2 bg-gradient-to-r from-slate-100/80 to-slate-50/60 text-slate-700 rounded-2xl text-sm font-medium border border-slate-200/50 backdrop-blur-sm hover:shadow-lg hover:scale-105 transition-all duration-200">
+              <span class="px-3 md:px-4 py-1.5 md:py-2 bg-slate-100 md:bg-gradient-to-r md:from-slate-100/80 md:to-slate-50/60 text-slate-700 rounded-xl md:rounded-2xl text-xs md:text-sm font-medium border border-slate-200/50">
                 {{ . }}
               </span>
             {{ end }}
@@ -198,48 +195,46 @@
       </div>
     </div>
 
-    <!-- INTRODUCTION COMPLÈTE avec séparateur repensé -->
+    <!-- Introduction responsive -->
     {{ with .Params.introduction }}
-      <div class="max-w-6xl mx-auto mb-16 pb-8">
-        <div class="text-center mb-8">
+      <div class="max-w-6xl mx-auto mb-12 md:mb-16 pb-6 md:pb-8">
+        <div class="text-center mb-6 md:mb-8">
           <div class="inline-flex items-center gap-2">
-            <div class="w-12 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
+            <div class="w-8 md:w-12 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
             <span class="text-xs uppercase tracking-widest text-gray-500 font-medium">Introduction</span>
-            <div class="w-12 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
+            <div class="w-8 md:w-12 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
           </div>
         </div>
-        <div class="text-xl leading-relaxed text-slate-800 font-light p-8 bg-gradient-to-br from-white/60 via-white/40 to-transparent backdrop-blur-sm rounded-3xl border border-white/30 shadow-lg" style="font-family: var(--font-serif); line-height: 1.7;">
+        <div class="text-lg md:text-xl leading-relaxed text-slate-800 font-light p-4 md:p-8 bg-white/90 md:bg-gradient-to-br md:from-white/60 md:via-white/40 md:to-transparent rounded-2xl md:rounded-3xl border border-white/30 shadow-md md:shadow-lg" style="font-family: var(--font-serif); line-height: 1.7;">
           {{ . | markdownify }}
         </div>
       </div>
     {{ end }}
 
-    <!-- Corps recette : ingrédients + instructions avec cartes améliorées -->
-    <div class="grid lg:grid-cols-[2fr_1fr] gap-6 sm:gap-8 lg:gap-12 items-start">
+    <!-- Corps recette responsive -->
+    <div class="grid lg:grid-cols-[2fr_1fr] gap-6 md:gap-8 lg:gap-12 items-start">
       
       <!-- Colonne principale -->
-      <div class="w-full space-y-12">
+      <div class="w-full space-y-8 md:space-y-12">
         
-        <!-- SECTION INGRÉDIENTS avec style premium repensé -->
-        <div class="card card--large bg-gradient-to-br from-white/80 via-white/60 to-white/40 backdrop-blur-lg border border-white/50 shadow-xl rounded-3xl" id="ingredients">
-          <div class="text-center mb-8">
+        <!-- SECTION INGRÉDIENTS responsive -->
+        <div class="card card--large bg-white/95 md:bg-gradient-to-br md:from-white/80 md:via-white/60 md:to-white/40 border border-white/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-8" id="ingredients">
+          <div class="text-center mb-6 md:mb-8">
             <h2 class="section__title">{{ $recipe_page.sections.ingredients }}</h2>
-            <div class="w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
+            <div class="w-16 md:w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
           </div>
           <div class="recipe-list recipe-list--ingredients">
             {{ range .Params.ingredients }}
               {{ if strings.Contains . "===" }}
                 {{ $content := . | replaceRE "===(.+)===" "$1" }}
-                <h3 class="font-bold text-lg mt-8 mb-4 text-gray-800 flex items-center justify-center gap-3" style="font-family: var(--font-serif);">
-                  <div class="w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
+                <h3 class="font-bold text-lg mt-6 md:mt-8 mb-3 md:mb-4 text-gray-800 text-center" style="font-family: var(--font-serif);">
                   {{ $content }}
-                  <div class="w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
                 </h3>
-                <ul class="list-none space-y-3 pl-4">
+                <ul class="list-none space-y-2 md:space-y-3 pl-0 md:pl-4">
               {{ else }}
-                <li class="recipe-list__item flex items-start gap-4 p-3 rounded-xl bg-white/40 border border-white/30 hover:bg-white/60 transition-colors duration-200">
-                  <span class="w-2 h-2 rounded-full mt-2 flex-shrink-0" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
-                  {{ . }}
+                <li class="recipe-list__item flex items-start gap-3 md:gap-4 p-2 md:p-3 rounded-lg md:rounded-xl bg-white/60 md:bg-white/40 border border-white/30">
+                  <span class="w-1.5 h-1.5 md:w-2 md:h-2 rounded-full mt-2 flex-shrink-0" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+                  <span class="text-sm md:text-base">{{ . }}</span>
                 </li>
               {{ end }}
             {{ end }}
@@ -247,162 +242,102 @@
           </div>
         </div>
         
-        <!-- NOTE INGRÉDIENTS (background ultra-premium) -->
+        <!-- Note ingrédients responsive -->
         {{ with .Params.ingredientsNote }}
-          <div class="relative -mx-0 sm:-mx-6 lg:-mx-8 my-16">
-            <div class="relative py-16 px-6 sm:px-8 lg:px-20" 
-                 style="background: linear-gradient(135deg, 
-                         rgba(45, 27, 105, 0.03) 0%, 
-                         rgba(201, 169, 110, 0.08) 20%, 
-                         rgba(255, 255, 255, 0.95) 30%, 
-                         rgba(254, 252, 248, 1) 50%, 
-                         rgba(255, 255, 255, 0.95) 70%, 
-                         rgba(201, 169, 110, 0.08) 80%, 
-                         rgba(45, 27, 105, 0.03) 100%);
-                 border-top: 2px solid rgba(201, 169, 110, 0.2);
-                 border-bottom: 2px solid rgba(201, 169, 110, 0.2);
-                 backdrop-filter: blur(12px);">
+          <div class="relative -mx-2 md:-mx-0 lg:-mx-8 my-8 md:my-16">
+            <div class="relative py-8 md:py-16 px-4 md:px-6 lg:px-20 bg-white/95 md:bg-gradient-to-r md:from-white/90 md:via-gray-50/90 md:to-white/90 border-y border-gray-200/50 md:border-y-2 md:border-gray-300/20">
               <div class="max-w-4xl mx-auto text-center">
-                <h3 class="text-3xl font-normal mb-10 tracking-wide flex items-center justify-center gap-4" 
-                    style="color: var(--primary); 
-                           font-family: var(--font-serif); 
-                           font-style: italic; 
-                           font-weight: 400;
-                           letter-spacing: 1px;">
-                  <div class="w-12 h-px bg-gradient-to-r from-transparent via-current to-transparent"></div>
+                <h3 class="text-xl md:text-3xl font-normal mb-6 md:mb-10 tracking-wide text-center" 
+                    style="color: var(--primary); font-family: var(--font-serif); font-style: italic; font-weight: 400;">
                   {{ $recipe_page.sectionsTitle.ingredients_note }}
-                  <div class="w-12 h-px bg-gradient-to-r from-transparent via-current to-transparent"></div>
                 </h3>
-                <div class="prose prose-gray prose-xl max-w-none">
-                  <div class="text-gray-800 leading-relaxed text-lg text-center" 
-                       style="font-family: var(--font-serif); 
-                              line-height: 1.8; 
-                              font-weight: 400;
-                              color: #2d1b69;
-                              text-shadow: 0 1px 2px rgba(255,255,255,0.8);">
-                    {{ . | markdownify }}
-                  </div>
+                <div class="text-gray-800 leading-relaxed text-base md:text-lg text-center" 
+                     style="font-family: var(--font-serif); line-height: 1.8; font-weight: 400; color: #2d1b69;">
+                  {{ . | markdownify }}
                 </div>
               </div>
             </div>
           </div>
         {{ end }}
         
-        <!-- SECTION INSTRUCTIONS avec style premium repensé -->
-        <div class="card card--large bg-gradient-to-br from-white/80 via-white/60 to-white/40 backdrop-blur-lg border border-white/50 shadow-xl rounded-3xl" id="steps">
-          <div class="text-center mb-8">
-            <h2 class="section__title">
-              <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
-              {{ $recipe_page.sections.instructions }}
-              <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
-            </h2>
-            <div class="w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
+        <!-- SECTION INSTRUCTIONS responsive -->
+        <div class="card card--large bg-white/95 md:bg-gradient-to-br md:from-white/80 md:via-white/60 md:to-white/40 border border-white/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-8" id="steps">
+          <div class="text-center mb-6 md:mb-8">
+            <h2 class="section__title">{{ $recipe_page.sections.instructions }}</h2>
+            <div class="w-16 md:w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
           </div>
           <div class="recipe-list recipe-list--steps">
             {{ range .Params.instructions }}
               {{ if strings.Contains . "===" }}
                 {{ $content := . | replaceRE "===(.+)===" "$1" }}
-                <h3 class="font-bold text-lg mt-8 mb-4 text-gray-800 flex items-center justify-center gap-3" style="font-family: var(--font-serif);">
-                  <div class="w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
+                <h3 class="font-bold text-lg mt-6 md:mt-8 mb-3 md:mb-4 text-gray-800 text-center" style="font-family: var(--font-serif);">
                   {{ $content }}
-                  <div class="w-8 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent"></div>
                 </h3>
-                <ol class="recipe-list recipe-list--steps space-y-6">
+                <ol class="recipe-list recipe-list--steps space-y-4 md:space-y-6">
               {{ else }}
-                <li class="recipe-list__item p-4 rounded-xl bg-white/40 border border-white/30 hover:bg-white/60 transition-colors duration-200">{{ . }}</li>
+                <li class="recipe-list__item p-3 md:p-4 rounded-lg md:rounded-xl bg-white/60 md:bg-white/40 border border-white/30 text-sm md:text-base">{{ . }}</li>
               {{ end }}
             {{ end }}
             </ol>
           </div>
         </div>
         
-        <!-- NOTE INSTRUCTIONS (background ultra-premium) -->
+        <!-- Note instructions responsive -->
         {{ with .Params.instructionsNote }}
-          <div class="relative -mx-0 sm:-mx-6 lg:-mx-8 my-16">
-            <div class="relative py-16 px-6 sm:px-8 lg:px-20" 
-                 style="background: linear-gradient(135deg, 
-                         rgba(201, 169, 110, 0.03) 0%, 
-                         rgba(45, 27, 105, 0.08) 20%, 
-                         rgba(255, 255, 255, 0.95) 30%, 
-                         rgba(254, 252, 248, 1) 50%, 
-                         rgba(255, 255, 255, 0.95) 70%, 
-                         rgba(45, 27, 105, 0.08) 80%, 
-                         rgba(201, 169, 110, 0.03) 100%);
-                 border-top: 2px solid rgba(45, 27, 105, 0.2);
-                 border-bottom: 2px solid rgba(45, 27, 105, 0.2);
-                 backdrop-filter: blur(12px);">
+          <div class="relative -mx-2 md:-mx-0 lg:-mx-8 my-8 md:my-16">
+            <div class="relative py-8 md:py-16 px-4 md:px-6 lg:px-20 bg-white/95 md:bg-gradient-to-r md:from-white/90 md:via-gray-50/90 md:to-white/90 border-y border-gray-200/50 md:border-y-2 md:border-gray-300/20">
               <div class="max-w-4xl mx-auto text-center">
-                <h3 class="text-3xl font-normal mb-10 tracking-wide flex items-center justify-center gap-4" 
-                    style="color: var(--secondary); 
-                           font-family: var(--font-serif); 
-                           font-style: italic; 
-                           font-weight: 400;
-                           letter-spacing: 1px;">
-                  <div class="w-12 h-px bg-gradient-to-r from-transparent via-current to-transparent"></div>
+                <h3 class="text-xl md:text-3xl font-normal mb-6 md:mb-10 tracking-wide text-center" 
+                    style="color: var(--secondary); font-family: var(--font-serif); font-style: italic; font-weight: 400;">
                   {{ $recipe_page.sectionsTitle.instructions_note }}
-                  <div class="w-12 h-px bg-gradient-to-r from-transparent via-current to-transparent"></div>
                 </h3>
-                <div class="prose prose-gray prose-xl max-w-none">
-                  <div class="text-gray-800 leading-relaxed text-lg text-center" 
-                       style="font-family: var(--font-serif); 
-                              line-height: 1.8; 
-                              font-weight: 400;
-                              color: #2d1b69;
-                              text-shadow: 0 1px 2px rgba(255,255,255,0.8);">
-                    {{ . | markdownify }}
-                  </div>
+                <div class="text-gray-800 leading-relaxed text-base md:text-lg text-center" 
+                     style="font-family: var(--font-serif); line-height: 1.8; font-weight: 400; color: #2d1b69;">
+                  {{ . | markdownify }}
                 </div>
               </div>
             </div>
           </div>
         {{ end }}
 
-        <!-- SECTION TIPS avec style premium repensé -->
+        <!-- SECTION TIPS responsive -->
         {{ with .Params.tips }}
-          <div class="card card--large bg-gradient-to-br from-white/80 via-white/60 to-white/40 backdrop-blur-lg border border-white/50 shadow-xl rounded-3xl" id="tips">
-            <div class="text-center mb-8">
-              <h2 class="section__title">
-                <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
-                {{ $recipe_page.sections.tips }}
-                <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
-              </h2>
-              <div class="w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
+          <div class="card card--large bg-white/95 md:bg-gradient-to-br md:from-white/80 md:via-white/60 md:to-white/40 border border-white/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-8" id="tips">
+            <div class="text-center mb-6 md:mb-8">
+              <h2 class="section__title">{{ $recipe_page.sections.tips }}</h2>
+              <div class="w-16 md:w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
             </div>
-            <ul class="space-y-6">
+            <ul class="space-y-4 md:space-y-6">
               {{ range . }}
-                <li class="flex items-start gap-5 p-6 bg-gradient-to-r from-white/60 to-white/40 border border-white/40 rounded-2xl shadow-md hover:shadow-lg transition-shadow duration-300">
-                  <span class="text-2xl flex-shrink-0 mt-1">💡</span>
-                  <span class="text-gray-700 leading-relaxed font-medium">{{ . }}</span>
+                <li class="flex items-start gap-3 md:gap-5 p-4 md:p-6 bg-white/80 md:bg-gradient-to-r md:from-white/60 md:to-white/40 border border-white/40 rounded-xl md:rounded-2xl shadow-sm md:shadow-md">
+                  <span class="text-lg md:text-2xl flex-shrink-0 mt-0.5 md:mt-1">💡</span>
+                  <span class="text-gray-700 leading-relaxed font-medium text-sm md:text-base">{{ . }}</span>
                 </li>
               {{ end }}
             </ul>
           </div>
         {{ end }}
         
-        <!-- FAQ avec style premium repensé -->
+        <!-- FAQ responsive -->
         {{ with .Params.faq }}
-          <div class="card card--large bg-gradient-to-br from-white/80 via-white/60 to-white/40 backdrop-blur-lg border border-white/50 shadow-xl rounded-3xl" id="faq">
-            <div class="text-center mb-8">
-              <h2 class="section__title">
-                <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
-                {{ $recipe_page.sections.faq }}
-                <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
-              </h2>
-              <div class="w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
+          <div class="card card--large bg-white/95 md:bg-gradient-to-br md:from-white/80 md:via-white/60 md:to-white/40 border border-white/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-8" id="faq">
+            <div class="text-center mb-6 md:mb-8">
+              <h2 class="section__title">{{ $recipe_page.sections.faq }}</h2>
+              <div class="w-16 md:w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
             </div>
-            <div class="space-y-6">
+            <div class="space-y-4 md:space-y-6">
               {{ range . }}
                 {{ if strings.Contains . "q:" }}
                   {{ $parts := split . "a:" }}
                   {{ $question := index $parts 0 | replaceRE "q:\\s*" "" | strings.TrimSpace }}
                   {{ $answer := index $parts 1 | strings.TrimSpace }}
                   
-                  <details class="p-6 bg-gradient-to-r from-white/60 to-white/40 border border-white/40 rounded-2xl shadow-md hover:shadow-lg transition-shadow duration-300">
-                    <summary class="font-medium cursor-pointer text-stone-800 hover:text-stone-900 flex items-center gap-3" style="font-family: var(--font-serif);">
-                      <span class="w-3 h-3 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+                  <details class="p-4 md:p-6 bg-white/80 md:bg-gradient-to-r md:from-white/60 md:to-white/40 border border-white/40 rounded-xl md:rounded-2xl shadow-sm md:shadow-md">
+                    <summary class="font-medium cursor-pointer text-stone-800 hover:text-stone-900 flex items-center gap-2 md:gap-3 text-sm md:text-base" style="font-family: var(--font-serif);">
+                      <span class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
                       {{ $question }}
                     </summary>
-                    <p class="mt-6 pl-6 text-stone-700 leading-relaxed border-l-2 border-gray-200">{{ $answer }}</p>
+                    <p class="mt-4 md:mt-6 pl-4 md:pl-6 text-stone-700 leading-relaxed border-l-2 border-gray-200 text-sm md:text-base">{{ $answer }}</p>
                   </details>
                 {{ end }}
               {{ end }}
@@ -417,46 +352,24 @@
         {{ partial "comments.html" . }}
       </div>
 
-      <!-- Colonne latérale avec style premium repensé -->
-      <aside class="space-y-8 w-full">
+      <!-- Sidebar responsive -->
+      <aside class="space-y-6 md:space-y-8 w-full">
         
-        <!-- INFORMATIONS NUTRITIONNELLES avec style premium repensé -->
+        <!-- Nutrition responsive -->
         {{ with .Params.nutrition }}
-          <div class="card bg-gradient-to-br from-slate-50/80 to-white/60 backdrop-blur-lg border border-slate-200/50 shadow-xl rounded-3xl">
-            <!-- Titre centralisé avec sous-titre -->
-            <div class="text-center mb-6 pb-4 border-b border-slate-200/40">
-              <h3 class="text-lg font-semibold text-slate-800 flex items-center justify-center gap-3 mb-2" style="font-family: var(--font-serif);">
-                <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+          <div class="card bg-white/95 md:bg-gradient-to-br md:from-slate-50/80 md:to-white/60 border border-slate-200/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-6">
+            <div class="text-center mb-4 md:mb-6 pb-3 md:pb-4 border-b border-slate-200/40">
+              <h3 class="text-base md:text-lg font-semibold text-slate-800 mb-1 md:mb-2" style="font-family: var(--font-serif);">
                 {{ $recipe_page.nutritionSection.title }}
-                <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
               </h3>
               <p class="text-xs text-slate-500 uppercase tracking-wider">
                 {{ $recipe_page.nutritionSection.subtitle }}
               </p>
             </div>
             
-            <!-- Valeurs nutritionnelles avec style premium -->
-            <div class="grid grid-cols-1 gap-4 text-sm">
-              {{ with .calories }}
-                <div class="flex justify-between py-3 px-4 rounded-xl bg-white/70 border border-slate-200/40 hover:shadow-md transition-shadow duration-200">
-                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.calories }}</span>
-                  <span class="text-slate-600 font-bold">{{ . }}</span>
-                </div>
-              {{ end }}
-              {{ with .proteinContent }}
-                <div class="flex justify-between py-3 px-4 rounded-xl bg-white/70 border border-slate-200/40 hover:shadow-md transition-shadow duration-200">
-                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.proteinContent }}</span>
-                  <span class="text-slate-600 font-bold">{{ . }}</span>
-                </div>
-              {{ end }}
-              {{ with .carbohydrateContent }}
-                <div class="flex justify-between py-3 px-4 rounded-xl bg-white/70 border border-slate-200/40 hover:shadow-md transition-shadow duration-200">
-                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</span>
-                  <span class="text-slate-600 font-bold">{{ . }}</span>
-                </div>
-              {{ end }}
+            <div class="grid grid-cols-1 gap-3 md:gap-4 text-sm">
               {{ with .fatContent }}
-                <div class="flex justify-between py-3 px-4 rounded-xl bg-white/70 border border-slate-200/40 hover:shadow-md transition-shadow duration-200">
+                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
                   <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.fatContent }}</span>
                   <span class="text-slate-600 font-bold">{{ . }}</span>
                 </div>
@@ -465,17 +378,15 @@
           </div>
         {{ end }}
 
-        <!-- MOTS-CLÉS avec style premium repensé -->
+        <!-- Mots-clés responsive -->
         {{ with .Params.keywords }}
-          <div class="card bg-gradient-to-br from-stone-50/80 to-white/60 backdrop-blur-lg border border-stone-200/50 shadow-xl rounded-3xl">
-            <h3 class="text-lg font-semibold mb-4 text-stone-800 flex items-center justify-center gap-3" style="font-family: var(--font-serif);">
-              <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+          <div class="card bg-white/95 md:bg-gradient-to-br md:from-stone-50/80 md:to-white/60 border border-stone-200/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-6">
+            <h3 class="text-base md:text-lg font-semibold mb-3 md:mb-4 text-stone-800 text-center" style="font-family: var(--font-serif);">
               {{ $recipe_page.sectionsTitle.keywords }}
-              <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
             </h3>
-            <div class="flex flex-wrap gap-3">
+            <div class="flex flex-wrap gap-2 md:gap-3">
               {{ range . }}
-                <span class="px-4 py-2 bg-gradient-to-r from-stone-100/80 to-white/60 border border-stone-200/40 rounded-2xl text-xs font-medium text-stone-600 hover:shadow-lg hover:scale-105 transition-all duration-200">
+                <span class="px-3 md:px-4 py-1.5 md:py-2 bg-white/90 md:bg-gradient-to-r md:from-stone-100/80 md:to-white/60 border border-stone-200/40 rounded-xl md:rounded-2xl text-xs font-medium text-stone-600">
                   {{ . }}
                 </span>
               {{ end }}
@@ -483,15 +394,13 @@
           </div>
         {{ end }}
         
-        <!-- Note de la cheffe avec style premium repensé -->
+        <!-- Note cheffe responsive -->
         {{ with .Params.note }}
-          <div class="relative card bg-gradient-to-br from-white/80 to-gray-50/60 backdrop-blur-lg shadow-xl rounded-3xl overflow-hidden">
-            <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-gray-400 to-transparent" style="background: linear-gradient(90deg, var(--primary), var(--secondary), var(--primary));"></div>
-            <div class="p-6 pt-8">
-              <h3 class="text-lg font-semibold mb-4 flex items-center justify-center gap-3" style="color: var(--color-text); font-family: var(--font-serif);">
-                <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+          <div class="relative card bg-white/95 md:bg-gradient-to-br md:from-white/80 md:to-gray-50/60 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl overflow-hidden p-4 md:p-6">
+            <div class="hidden md:block absolute top-0 left-0 w-full h-1" style="background: linear-gradient(90deg, var(--primary), var(--secondary), var(--primary));"></div>
+            <div class="pt-2 md:pt-4">
+              <h3 class="text-base md:text-lg font-semibold mb-3 md:mb-4 text-center" style="color: var(--color-text); font-family: var(--font-serif);">
                 {{ $recipe_page.chef_note_title }}
-                <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
               </h3>
               <div class="text-center">
                 <p class="text-sm leading-relaxed italic" style="color: var(--color-text-secondary); font-family: var(--font-serif);">
@@ -502,14 +411,12 @@
           </div>
         {{ end }}
 
-        <!-- À propos avec style premium repensé -->
-        <div class="relative card bg-gradient-to-br from-white/80 to-gray-50/60 backdrop-blur-lg shadow-xl rounded-3xl overflow-hidden">
-          <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-gray-400 to-transparent" style="background: linear-gradient(90deg, var(--secondary), var(--primary), var(--secondary));"></div>
-          <div class="p-6 pt-8">
-            <h3 class="text-lg font-semibold mb-4 flex items-center justify-center gap-3" style="color: var(--color-text); font-family: var(--font-serif);">
-              <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
+        <!-- À propos responsive -->
+        <div class="relative card bg-white/95 md:bg-gradient-to-br md:from-white/80 md:to-gray-50/60 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl overflow-hidden p-4 md:p-6">
+          <div class="hidden md:block absolute top-0 left-0 w-full h-1" style="background: linear-gradient(90deg, var(--secondary), var(--primary), var(--secondary));"></div>
+          <div class="pt-2 md:pt-4">
+            <h3 class="text-base md:text-lg font-semibold mb-3 md:mb-4 text-center" style="color: var(--color-text); font-family: var(--font-serif);">
               {{ $recipe_page.about_sidebar_title }}
-              <span class="w-2 h-2 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
             </h3>
             <div class="text-center">
               <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary); font-family: var(--font-serif);">
@@ -527,4 +434,22 @@
 
 <!-- Navigation sticky conservée -->
 {{ partial "recipe-sticky-nav.html" . }}
-{{ end }}
+{{ end }}calories }}
+                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.calories }}</span>
+                  <span class="text-slate-600 font-bold">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .proteinContent }}
+                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.proteinContent }}</span>
+                  <span class="text-slate-600 font-bold">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .carbohydrateContent }}
+                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</span>
+                  <span class="text-slate-600 font-bold">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .
