@@ -1,36 +1,37 @@
+Hello, I'm **Kate**.
 
-
-Bonjour, je suis **Amelia Feuss**.
-
-Je suis docteure en chimie, passionnée de cuisine, et convaincue que la précision scientifique peut rendre la cuisine plus simple, plus savoureuse, et surtout plus accessible. Mon amour pour les recettes vient de loin des dimanches passés avec ma grand-mère, des voyages en Méditerranée, et de toutes ces odeurs qui restent longtemps après qu’un plat a été partagé.
+I'm a culinary artist, trained chef, and firm believer that exceptional cooking begins with understanding ingredients, technique, and the stories they tell together. My passion for creating transcendent flavors stems from years spent in professional kitchens, traveling through culinary capitals, and those transformative moments when a simple ingredient becomes something extraordinary.
 
 ---
 
-## Ce que tu trouveras ici
+## What Awaits You Here
 
-World Recipes est une collection vivante de recettes de saison, accessibles et fiables. Tu y trouveras des plats du quotidien, des desserts de fête, des idées végétariennes, sans gluten, et bien plus.  
-Chaque recette est testée, retravaillée et expliquée étape par étape, avec soin. Je veux que tu réussisses du premier coup.
+Delicious Recipes is a curated sanctuary of artisanal cooking—where technique meets intuition, and every recipe is a masterpiece waiting to unfold in your kitchen. You'll discover signature creations, seasonal celebrations, elevated comfort foods, and innovative approaches to timeless classics.
 
-Nous publions régulièrement de nouvelles recettes et visuels pour te guider, t’inspirer, t’aider à cuisiner mieux, et surtout à prendre du plaisir.
+Each recipe is meticulously crafted, tested to perfection, and presented with the precision of a chef and the warmth of a friend. I want your kitchen to become a place of creative expression and culinary confidence.
 
----
-
-## Pour les vrais passionné·es
-
-Les abonné·es à notre newsletter ont accès à des contenus exclusifs : des collections thématiques, des tutoriels vidéo, des recettes triées par niveau ou par occasion, et une boîte à recettes pour sauvegarder leurs coups de cœur.  
-
-Toutes nos recettes incluent des évaluations, des commentaires, des astuces de lecteurs. Parce qu’on apprend aussi en cuisinant ensemble.
+We unveil new culinary journeys regularly, accompanied by intimate photography and detailed guidance designed to elevate your cooking from ordinary to extraordinary.
 
 ---
 
-## Nos valeurs
+## For the Culinary Connoisseurs
 
-Je crois en la confiance.  
-Je crois qu’une bonne recette doit marcher pour tout le monde, peu importe le niveau.  
-Je crois que cuisiner chez soi est un acte de soin, de créativité, de liberté.
+Members of our exclusive Culinary Circle receive access to premium content: chef's technique masterclasses, seasonal tasting menus, advanced cooking methods, and a personal recipe vault to treasure your favorites.
 
-C’est pourquoi chaque recette est testée plusieurs fois. Rien n’est publié au hasard. Tout est là pour t’aider à te sentir bien en cuisine, et à donner du goût à ton quotidien.
+Every creation includes professional insights, community wisdom, and behind-the-scenes stories. Because culinary excellence flourishes when passionate cooks share their discoveries.
 
-Merci d’être là.
+---
 
-— **Amelia**
+## Our Philosophy
+
+I believe in culinary integrity.
+
+I believe that exceptional recipes should inspire confidence, regardless of your experience level.
+
+I believe that cooking at home is an act of artistry, mindfulness, and personal expression.
+
+This is why every recipe undergoes rigorous testing and refinement. Nothing reaches your kitchen without earning its place. Everything is designed to transform your cooking experience and infuse your daily life with extraordinary flavor.
+
+Thank you for joining this culinary journey.
+
+— **Kate**
