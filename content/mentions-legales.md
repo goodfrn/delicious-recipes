@@ -80,4 +80,4 @@ Any disputes related to this website will be resolved through:
 2. Mediation if necessary
 3. Jurisdiction governed by applicable local laws
 
-**Last Updated:** [Current Date]
+**Last Updated:** July 20, 2025
