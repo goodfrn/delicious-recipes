@@ -56,8 +56,8 @@
   --color-border: var(--gray-200);
   
   /* === TYPOGRAPHIE === */
-  --font-sans: 'Satoshi', 'Inter', system-ui, sans-serif;
-  --font-serif: 'Fraunces', 'Playfair Display', Georgia, serif;
+  --font-sans: Inter, system-ui, -apple-system, sans-serif;
+  --font-serif: 'Crimson Text', 'Lora', Georgia, serif;  
   
   /* Échelle typographique (système unique) */
   --text-xs: 0.75rem;       /* 12px */
@@ -178,33 +178,46 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-serif);
-  font-weight: 700;
+  font-weight: 600;                    /* Plus fin, plus moderne */
   line-height: 1.2;
   color: var(--color-text);
   margin-bottom: var(--space-4);
+  letter-spacing: -0.01em;             /* Espacement plus serré */
 }
 
 h1 { 
-  font-size: var(--text-4xl); 
+  font-size: var(--text-6xl);          /* PLUS GRAND (était text-4xl) */
   line-height: 1.1;
   margin-bottom: var(--space-6);
+  font-weight: 700;                     /* H1 reste gras */
 }
 
 h2 { 
-  font-size: var(--text-3xl); 
+  font-size: var(--text-4xl);          /* PLUS GRAND (était text-3xl) */
   line-height: 1.2;
   margin-bottom: var(--space-6);
 }
 
 h3 { 
-  font-size: var(--text-2xl); 
+  font-size: var(--text-3xl);          /* PLUS GRAND (était text-2xl) */
   line-height: 1.3;
   margin-bottom: var(--space-4);
 }
 
-h4 { font-size: var(--text-xl); margin-bottom: var(--space-3); }
-h5 { font-size: var(--text-lg); margin-bottom: var(--space-3); }
-h6 { font-size: var(--text-base); margin-bottom: var(--space-2); }
+h4 { 
+  font-size: var(--text-2xl);          /* PLUS GRAND (était text-xl) */
+  margin-bottom: var(--space-3); 
+}
+
+h5 { 
+  font-size: var(--text-xl);           /* PLUS GRAND (était text-lg) */
+  margin-bottom: var(--space-3); 
+}
+
+h6 { 
+  font-size: var(--text-lg);           /* PLUS GRAND (était text-base) */
+  margin-bottom: var(--space-2); 
+}
 
 p {
   margin-bottom: var(--space-4);
