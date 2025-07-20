@@ -131,7 +131,7 @@
         <!-- Description responsive -->
         {{ $intro := .Params.description | default .Summary }}
         {{ with $intro }}
-          <div class="text-base md:text-lg italic leading-relaxed p-4 md:p-6 bg-white/90 md:bg-gradient-to-r md:from-transparent md:via-white/50 md:to-transparent rounded-xl md:rounded-2xl border border-white/30" style="color: var(--color-text-secondary); font-family: var(--font-serif);">
+          <div class="relative text-base md:text-lg italic leading-relaxed p-4 md:p-6 bg-white/90 md:bg-gradient-to-r md:from-transparent md:via-white/50 md:to-transparent rounded-xl md:rounded-2xl border border-white/30" style="color: var(--color-text-secondary); font-family: var(--font-serif);">
             <!-- Guillemets cachés sur mobile -->
             <div class="hidden md:block absolute top-2 left-2 text-3xl md:text-4xl text-gray-200 leading-none">"</div>
             <div class="relative z-10">{{ . | markdownify }}</div>
@@ -355,7 +355,7 @@
       <!-- Sidebar responsive -->
       <aside class="space-y-6 md:space-y-8 w-full">
         
-        <!-- Nutrition responsive -->
+       <!-- Nutrition responsive -->
         {{ with .Params.nutrition }}
           <div class="card bg-white/95 md:bg-gradient-to-br md:from-slate-50/80 md:to-white/60 border border-slate-200/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-6">
             <div class="text-center mb-4 md:mb-6 pb-3 md:pb-4 border-b border-slate-200/40">
@@ -368,6 +368,24 @@
             </div>
             
             <div class="grid grid-cols-1 gap-3 md:gap-4 text-sm">
+              {{ with .calories }}
+                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.calories }}</span>
+                  <span class="text-slate-600 font-bold">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .proteinContent }}
+                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.proteinContent }}</span>
+                  <span class="text-slate-600 font-bold">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .carbohydrateContent }}
+                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</span>
+                  <span class="text-slate-600 font-bold">{{ . }}</span>
+                </div>
+              {{ end }}
               {{ with .fatContent }}
                 <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
                   <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.fatContent }}</span>
@@ -434,22 +452,5 @@
 
 <!-- Navigation sticky conservée -->
 {{ partial "recipe-sticky-nav.html" . }}
-{{ end }}calories }}
-                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
-                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.calories }}</span>
-                  <span class="text-slate-600 font-bold">{{ . }}</span>
-                </div>
-              {{ end }}
-              {{ with .proteinContent }}
-                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
-                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.proteinContent }}</span>
-                  <span class="text-slate-600 font-bold">{{ . }}</span>
-                </div>
-              {{ end }}
-              {{ with .carbohydrateContent }}
-                <div class="flex justify-between py-2 md:py-3 px-3 md:px-4 rounded-lg md:rounded-xl bg-white/90 md:bg-white/70 border border-slate-200/40">
-                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</span>
-                  <span class="text-slate-600 font-bold">{{ . }}</span>
-                </div>
-              {{ end }}
-              {{ with .
+{{ end }}
+Smar
