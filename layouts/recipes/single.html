@@ -195,7 +195,7 @@
         
         <!-- SECTION INGRÉDIENTS avec style premium -->
         <div class="card card--large bg-white/70 backdrop-blur-sm border border-gray-200/50 shadow-lg" id="ingredients">
-          <h2 class="section__title flex items-center gap-3">
+          <h2 class="section__title flex items-center justify-center gap-3">
             <span class="w-3 h-3 rounded-full" style="background-color: var(--primary);"></span>
             {{ $recipe_page.sections.ingredients }}
           </h2>
@@ -261,7 +261,7 @@
         
         <!-- SECTION INSTRUCTIONS avec style premium -->
         <div class="card card--large bg-white/70 backdrop-blur-sm border border-gray-200/50 shadow-lg" id="steps">
-          <h2 class="section__title flex items-center gap-3">
+          <h2 class="section__title flex items-center justify-center gap-3">
             <span class="w-3 h-3 rounded-full" style="background-color: var(--secondary);"></span>
             {{ $recipe_page.sections.instructions }}
           </h2>
@@ -325,7 +325,7 @@
         <!-- SECTION TIPS avec style premium -->
         {{ with .Params.tips }}
           <div class="card card--large bg-white/70 backdrop-blur-sm border border-gray-200/50 shadow-lg" id="tips">
-            <h2 class="section__title flex items-center gap-3">
+            <h2 class="section__title flex items-center justify-center gap-3">
               <span class="w-3 h-3 rounded-full" style="background-color: var(--secondary);"></span>
               {{ $recipe_page.sections.tips }}
             </h2>
@@ -343,7 +343,7 @@
         <!-- FAQ avec style premium -->
         {{ with .Params.faq }}
           <div class="card card--large bg-white/70 backdrop-blur-sm border border-gray-200/50 shadow-lg" id="faq">
-            <h2 class="section__title flex items-center gap-3">
+            <h2 class="section__title flex items-center justify-center gap-3">
               <span class="w-3 h-3 rounded-full" style="background-color: var(--primary);"></span>
               {{ $recipe_page.sections.faq }}
             </h2>
