@@ -22,7 +22,7 @@
       {{ range first 6 (where .Site.RegularPages "Section" "recipes") }}
         
         <!-- 🏆 CARTE PREMIUM STYLÉE -->
-        <a href="{{ .RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
+        <a href="{{ .RelPermalink }}" class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
           
           <!-- Image optimisée -->
           <div class="relative overflow-hidden aspect-[4/3]">
@@ -51,7 +51,7 @@
             
             <!-- Badge catégorie -->
             {{ with index .Params.categories 0 }}
-              <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
+              <div class="absolute top-4 left-4 px-3 py-2 bg-white/95 backdrop-blur-sm rounded-xl shadow-lg border border-gray-200/50">
                 <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">
                   {{ . }}
                 </span>
@@ -64,7 +64,7 @@
             
             <!-- Titre élégant -->
             <h3 class="font-serif text-xl leading-tight font-medium" 
-                style="color: var(--color-text); font-family: 'Times New Roman', serif;">
+                style="color: var(--color-text); font-family: var(--font-serif);">
               {{ .Title }}
             </h3>
             
@@ -74,8 +74,9 @@
               <!-- Temps -->
               {{ with .Params.totalTime }}
                 <div class="flex items-center space-x-1.5">
-                  <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                    <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                  <div class="w-5 h-5 rounded-full flex items-center justify-center" 
+                       style="background: linear-gradient(45deg, var(--primary), var(--secondary));">
+                    <div class="w-2 h-2 rounded-full bg-white"></div>
                   </div>
                   <span class="text-sm font-medium text-gray-700">
                     {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
@@ -86,8 +87,9 @@
               <!-- Portions -->
               {{ with .Params.recipeYield }}
                 <div class="flex items-center space-x-1.5">
-                  <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                    <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                  <div class="w-5 h-5 rounded-full flex items-center justify-center" 
+                       style="background: linear-gradient(45deg, var(--primary), var(--secondary));">
+                    <div class="w-2 h-2 rounded-full bg-white"></div>
                   </div>
                   <span class="text-sm font-medium text-gray-700">
                     {{ . }}
@@ -179,7 +181,7 @@
         {{ range $p.Pages }}
           
           <!-- 🏆 CARTE PREMIUM STYLÉE -->
-          <a href="{{ .RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
+          <a href="{{ .RelPermalink }}" class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
             
             <!-- Image optimisée -->
             <div class="relative overflow-hidden aspect-[4/3]">
@@ -208,7 +210,7 @@
               
               <!-- Badge catégorie -->
               {{ with index .Params.categories 0 }}
-                <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
+                <div class="absolute top-4 left-4 px-3 py-2 bg-white/95 backdrop-blur-sm rounded-xl shadow-lg border border-gray-200/50">
                   <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">
                     {{ . }}
                   </span>
@@ -221,7 +223,7 @@
               
               <!-- Titre élégant -->
               <h3 class="font-serif text-xl leading-tight font-medium" 
-                  style="color: var(--color-text); font-family: 'Times New Roman', serif;">
+                  style="color: var(--color-text); font-family: var(--font-serif);">
                 {{ .Title }}
               </h3>
               
@@ -231,8 +233,9 @@
                 <!-- Temps -->
                 {{ with .Params.totalTime }}
                   <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                    <div class="w-5 h-5 rounded-full flex items-center justify-center" 
+                         style="background: linear-gradient(45deg, var(--primary), var(--secondary));">
+                      <div class="w-2 h-2 rounded-full bg-white"></div>
                     </div>
                     <span class="text-sm font-medium text-gray-700">
                       {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
@@ -243,8 +246,9 @@
                 <!-- Portions -->
                 {{ with .Params.recipeYield }}
                   <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                    <div class="w-5 h-5 rounded-full flex items-center justify-center" 
+                         style="background: linear-gradient(45deg, var(--primary), var(--secondary));">
+                      <div class="w-2 h-2 rounded-full bg-white"></div>
                     </div>
                     <span class="text-sm font-medium text-gray-700">
                       {{ . }}
