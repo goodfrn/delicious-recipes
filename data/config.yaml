@@ -1,12 +1,12 @@
-baseURL: "https://recettes-blog-test.pagestest.dev/"
+baseURL: "https://deliciousrecip.com/"
 
 site:
-  name: "Testt"
-  language: fr
-  tagline: Chef & Créatrice
-  description: Recettes maison faciles et gourmandes
-  author: Amelia Feuss 
-  email: contact@recettes-blog.com
+  name: "Delicious Recipes"
+  language: "en"
+  tagline: "Daily Delicious Recipes"
+  description: "Daily Delicious Recipes"
+  author: "Kate"
+  email: "contact@deliciousrecip.com"
   
 navigation: 
   menu_items:
