@@ -223,11 +223,7 @@
         <!-- SECTION INGRÉDIENTS avec style premium repensé -->
         <div class="card card--large bg-gradient-to-br from-white/80 via-white/60 to-white/40 backdrop-blur-lg border border-white/50 shadow-xl rounded-3xl" id="ingredients">
           <div class="text-center mb-8">
-            <h2 class="section__title">
-              <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
-              {{ $recipe_page.sections.ingredients }}
-              <span class="w-4 h-4 rounded-full" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></span>
-            </h2>
+            <h2 class="section__title">{{ $recipe_page.sections.ingredients }}</h2>
             <div class="w-24 h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent mx-auto"></div>
           </div>
           <div class="recipe-list recipe-list--ingredients">
