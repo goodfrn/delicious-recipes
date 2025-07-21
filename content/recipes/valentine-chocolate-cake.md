@@ -1,0 +1,98 @@
+---
+title: "Valentine Chocolate Raspberry Cake"
+slug: "valentine-chocolate-cake"
+description: "Chocolate and raspberries. Lightly baked cake with fresh berries folded in. A tangy raspberry cream that sets thick. Milk chocolate whipped cream, firm but soft. Caramel pockets surprise inside. Four to six portions. Vegetarian and nut free. Baked in a small 6-inch pan, just right. Slightly shorter bake time, a bit less cream rest. The cake is dense but tender with bursts of berries. Tart raspberry cream cuts the chocolate richness. Caramel adds a salty-sweet pop. Chill then temper before serving. Lasts two days in fridge under dome."
+metaDescription: "Indulge in this Valentine Chocolate Raspberry Cake. A delightful blend of chocolate and raspberries. Perfect for romantic occasions."
+ogDescription: "Enjoy a rich Valentine Chocolate Raspberry Cake with layers of tart raspberry cream and decadent chocolate whipped cream for a special treat."
+focusKeyphrase: "Valentine Chocolate Raspberry Cake"
+date: 2025-07-20
+draft: false
+image: valentine-chocolate-cake.png
+author: "Kate"
+prepTime: PT50M
+cookTime: PT40M
+totalTime: PT1H30M
+recipeYield: "4 to 6 servings"
+categories: ["Sweet Treats"]
+tags:
+- "dessert"
+- "chocolate"
+- "cake"
+- "Valentine's Day"
+- "berries"
+keywords:
+- "Valentine cake"
+- "chocolate whipped cream"
+- "fresh raspberries"
+breadcrumb: ["Home", "Recipes", "Sweet Treats"]
+nutrition: 
+ calories: "320"
+ fatContent: "18g"
+ carbohydrateContent: "38g"
+ proteinContent: "5g"
+ingredients:
+- "=== Chocolate Whipped Cream ==="
+- "80 g (3 oz) milk chocolate, chopped"
+- "150 ml (2/3 cup) 35% whipping cream"
+- "=== Raspberry Cream ==="
+- "180 g (1 1/2 cups) fresh raspberries"
+- "30 g (2 1/2 tbsp) sugar"
+- "12 ml (3 tsp) lemon juice"
+- "8 ml (1 1/2 tsp) cornstarch"
+- "10 ml (2 tsp) cold water"
+- "12 ml (4 tsp) unsalted butter, cold"
+- "=== Cake ==="
+- "55 g (1/3 cup) all-purpose flour"
+- "15 g (2 1/2 tbsp) cocoa powder, sifted"
+- "3 ml (1/2 tsp) baking powder"
+- "4 ml (3/4 tsp) baking soda"
+- "1 ml (1/5 tsp) salt"
+- "1 large egg"
+- "85 g (1/3 cup plus 1 tbsp) sugar"
+- "20 ml (1 1/3 tbsp) vegetable oil"
+- "5 ml (1 tsp) vanilla extract"
+- "45 ml (3 tbsp) milk"
+- "55 g (1/3 cup) fresh raspberries, plus extra for decoration"
+- "35 ml (2 1/3 tbsp) salted caramel sauce, store-bought or homemade"
+instructions:
+- "=== Raspberry Cream ==="
+- "1. In a small saucepan, combine raspberries, sugar, and lemon juice. Heat gently until sugar dissolves and berries break down, about 4 minutes simmering."
+- "2. Purée the mixture using an immersion blender or food processor. Strain through a fine sieve to remove seeds. Return smooth purée to saucepan."
+- "3. Stir cornstarch into cold water until dissolved. Add to purée and cook over medium heat, stirring constantly, scraping sides and bottom. Let simmer until thickened, about 1 to 1 1/2 minutes."
+- "4. Remove from heat, stir in cold butter until melted and combined. Pour into bowl. Cover surface with plastic wrap. Refrigerate at least 90 minutes."
+- "=== Chocolate Whipped Cream ==="
+- "5. Put chopped milk chocolate in mixing bowl."
+- "6. Heat cream to near boiling in small saucepan. Pour over chocolate. Let sit for 90 seconds without stirring."
+- "7. Whisk gently until smooth and shiny. Cover and chill in fridge 7 hours or overnight until completely cold."
+- "=== Cake ==="
+- "8. Preheat oven to 175°C (345°F). Butter a 15 cm (6 inch) springform pan, line bottom with parchment."
+- "9. Sift together flour, cocoa powder, baking powder, baking soda, and salt into a bowl."
+- "10. In another bowl, whisk egg with sugar, oil, and vanilla until pale and thick."
+- "11. Add dry ingredients in two parts, alternating with milk, mixing just till combined. Fold in raspberries carefully."
+- "12. Pour batter into prepared pan. Tap lightly to level."
+- "13. Bake for 40 minutes or until tester comes out with a few moist crumbs."
+- "14. Let cake rest 10 minutes in pan, then remove sides and cool completely on wire rack."
+- "=== Assembly ==="
+- "15. Slice off cake dome to level top."
+- "16. Whisk chocolate cream until soft peaks hold but still pliable. Transfer to piping bag fitted with large plain tip."
+- "17. Stir raspberry cream to loosen slightly. Spread evenly over cake top."
+- "18. Pipe chocolate cream dollops of varying sizes randomly over raspberry layer."
+- "19. Dip small melon baller in hot water and wipe dry. Scoop out small holes in some chocolate cream mounds. Fill holes immediately with caramel sauce."
+- "20. Garnish with halved fresh raspberries over cream and caramel spots."
+- "21. Cover cake and refrigerate up to 2 days. Remove from fridge 25 minutes before serving to temper and soften textures."
+introduction: "Chocolate and raspberries. Sweet and tart clashing. A cake that’s not too fluffy, more dense. Fold in fresh berries, some burst when baking. Raspberry cream thickened with cornstarch, tangy, chilling to firm up. Milk chocolate whipped cream, richer and softer than you expect. Pockets of salted caramel surprise—salt cutting the sweetness, balancing flavors. Baking times just slightly shorter; less sugar here. It's a four to six portion size, small, intimate. Refrigerate to set layers, but bring out a half hour early. The cake feels moist but structured, not soggy. Whip cream to right stage—soft peaks, pipe large dollops. Scoop caramel into cream with a melon baller, smooth without breaking mounds. Chocolate sauce sets slowly—cool before whipping. Assemble with translucent plastics over raspberry cream to stop skin forming. Fresh raspberries scattered on top, halves to show insides. Serve chilled but not cold. Simple ingredients, slightly changed quantities, a subtle take on a classic."
+ingredientsNote: "Quantities slightly reduced to keep balance, especially chocolate and cream. Cocoa powder swapped for a richer cacao powder variant. Baking soda upped just a touch to enhance cake rise evenly. Fresh raspberries are the star, so buying ripe but firm is key. Sugar measured lower in raspberry cream to avoid excessive sweetness; lemon juice lifted slightly to brighten purée. Cold butter in raspberry cream adds silkiness and richness after thickening. Instead of heavy cream for chocolate cream, a lighter whipping cream ensures better piping texture. Caramel now salted, either homemade or store-bought depends on time. Flour measure decreased to keep cake moist but not dense. Oil quantity reduced slightly to maintain structure. Vanilla extract adjusted for deeper aroma. Milk remains constant as it hydrates batter. The cake pan snug at 15 cm keeps the height right for layering the cream properly. Always sift dry ingredients to avoid lumps. Chilling times shifted to improve texture layering and assembly ease."
+instructionsNote: "Start with raspberry cream; initial simmer is 4 minutes, just enough to break down berries. Purée and strain is essential to avoid gritty seeds. Thickening closely watched—cornstarch slurry added gradually, heat on medium so it doesn’t clump or burn. Butter adds richness at off-heat stage; cool with plastic wrap tight to prevent skin. Chocolate cream requires heated cream poured over chocolate pieces; timing crucial—90 seconds rest before whisking to avoid grainy mix. Chill for about 7 hours minimum to firm up dense ganache style cream. Cake batter mixed with dry ingredients sifted, alternating with milk to prevent lumps and overmixing. Fold fresh raspberries last to avoid breaking. Bake at 175°C for around 40 minutes; testing center with toothpick for moist crumbs, not wet batter. Cool cake completely before assembly. Whipping chocolate cream to soft peaks is critical—too stiff and it breaks, too loose and it won’t hold shape. Spreading raspberry cream smooth, piping chocolate cream in differing sizes for texture contrast. Use warmed melon baller to carve little cups in cream dollops for caramel filling—warm tool prevents tearing. Refrigerator steady chills layers to set properly but remove 25-30 minutes before serving for softness. Keeps for 2 days under dome but flavors and texture peak within first day. Don’t rush or over-assemble to maintain distinct layers."
+tips:
+- "Start with homemade raspberry cream. Fresh berries key. Heat gently. Don't rush. Purée carefully to avoid seeds. Strain it well. Use cold butter for smooth richness."
+- "Mix chocolate whipped cream right. Heat cream but don't boil. Pour over chocolate. Pristine emulsification matters. Let it chill overnight. Soft peaks important for piping."
+- "When making the cake, sift dry ingredients thoroughly. Prevent lumps. Add egg mixture slowly. Alternate dry with milk. Don’t overmix. Fold in raspberries last."
+- "Baking the cake to perfect doneness is essential. 40 minutes max at 175°C. Tester should have moist crumbs. Cool well before frosting for clean layers."
+- "Layering is an art. Smooth raspberry cream evenly. Use piping bag for chocolate whipped cream. Different sizes create texture. Caramel pockets surprise. Serve chilled, but soften slightly before eating."
+faq:
+- "q: How long can I store this cake? a: Up to 2 days in fridge under a dome. Avoid moisture. Layers stay beautiful but best flavor on first day."
+- "q: What if my raspberry cream is too runny? a: Could be undercooked. Ensure thickened well. If too late, add a bit more cornstarch slurry next time."
+- "q: Can I use frozen raspberries? a: Yes but texture changes. Thaw and drain excess. Fresh raspberries preferred for best flavor and brightness."
+- "q: Is it okay to substitute ingredients? a: Flour and sugar substitutes okay. But watch texture. Don't switch the baking powder. Stick to recipe for success."
+
+---
