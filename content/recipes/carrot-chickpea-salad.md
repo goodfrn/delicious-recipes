@@ -1,5 +1,5 @@
 ---
-title: "Carrot Chickpea Salad Twist"
+title: "Carrot Chickpea Salad Twist"  
 slug: "carrot-chickpea-salad"
 description: "A vibrant mix of roasted chickpeas and shredded carrots tossed with dried apricots and crumbly feta. Chickpeas and carrots roasted with cumin and coriander powders, sweet apricot pieces chopped fine, fresh parsley added. Finished with lemon zest and a splash of pomegranate molasses. Gluten, dairy, nut, and egg free options kept in mind. The feta replaced by creamy vegan cheese for lactose-free choice. Roasting times adjusted to crisp chickpeas just right, carrots caramelized but tender. Bright, chewy, crunchy textures meet citrus hints. A simple salad with unexpected notes from pomegranate molasses and toasted spices. Ready in about 70 minutes with minimal active time."
 metaDescription: "Carrot Chickpea Salad Twist. A colorful and healthy salad with roasted chickpeas, carrots, and apricots. Fresh, vibrant tastes."
