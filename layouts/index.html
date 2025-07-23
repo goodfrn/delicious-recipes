@@ -30,13 +30,14 @@
         <!-- 🏆 CARTE ULTRA-PREMIUM STYLÉE - ENTIÈREMENT CLIQUABLE -->
         <a href="{{ .RelPermalink }}" class="group block bg-white/80 backdrop-blur-sm overflow-hidden hover:shadow-2xl hover:scale-[1.02] transition-all duration-500 rounded-2xl border border-gray-200/50">
           
-          <!-- Image optimisée avec overlay premium -->
+<!-- Image optimisée avec overlay premium -->
           <div class="relative overflow-hidden aspect-[4/3]">
             {{ with .Params.image }}
               {{ $img := resources.Get (printf "images/%s" .) }}
               {{ if $img }}
-                {{ $webp := $img.Fill "600x400 q80 webp" }}
-                {{ $fallback := $img.Fill "600x400 q85" }}
+                {{/* CORRIGÉ : taille exacte d'affichage */}}
+                {{ $webp := $img.Fill "400x300 q50 webp" }}
+                {{ $fallback := $img.Fill "400x300 q60" }}
                 
                 <picture>
                   <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
@@ -44,8 +45,8 @@
                        alt="{{ $.Title }}" 
                        class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                        loading="lazy"
-                       width="600" 
-                       height="400">
+                       width="400" 
+                       height="300">
                 </picture>
               {{ else }}
                 <img src="/{{ . }}" 
@@ -160,7 +161,7 @@
       </h2>
     </div>
     
-    <!-- Grille recettes avec CARTES ULTRA-PREMIUM -->
+<!-- Grille recettes avec CARTES ULTRA-PREMIUM -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {{ $all := where .Site.RegularPages "Section" "recipes" }}
       {{ $count := len $all }}
@@ -169,7 +170,6 @@
         {{ $offset := mod $week $count }}
         {{ $limit := 6 }}
         {{ if lt $count 6 }}{{ $limit = $count }}{{ end }}
-
         {{ range $i := seq 0 (sub $limit 1) }}
           {{ $idx := mod (add $offset $i) $count }}
           {{ $item := index $all $idx }}
@@ -182,8 +182,8 @@
               {{ with $item.Params.image }}
                 {{ $img := resources.Get (printf "images/%s" .) }}
                 {{ if $img }}
-                  {{ $webp := $img.Fill "600x400 q80 webp" }}
-                  {{ $fallback := $img.Fill "600x400 q85" }}
+                  {{ $webp := $img.Fill "400x300 q50 webp" }}
+                  {{ $fallback := $img.Fill "400x300 q60" }}
                   
                   <picture>
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
@@ -191,8 +191,8 @@
                          alt="{{ $item.Title }}" 
                          class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                          loading="lazy"
-                         width="600" 
-                         height="400">
+                         width="400" 
+                         height="300">
                   </picture>
                 {{ else }}
                   <img src="/{{ . }}" 
