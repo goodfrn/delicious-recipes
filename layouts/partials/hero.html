@@ -4,35 +4,29 @@
 {{ $hero := $config.hero }}
 
 {{/*----------------------------------------------
-  1. On récupère l'image source
+  Hero simple : Mobile + Desktop seulement
 ------------------------------------------------*/}}
 {{ $src := "images/delicious_cover.png" }}
 {{ $img := resources.Get $src }}
-
 {{ if $img }}
-  {{/*--------------------------------------------
-        2. VERSION SIMPLIFIÉE : 2 versions seulement
-  ---------------------------------------------*/}}
-  {{ $webp := $img.Fill "1600x900 q80 webp" }}
-  {{ $fallback := $img.Fill "1600x900 q85" }}
-
+  {{/* Mobile : 400x600 optimisé */}}
+  {{ $mobile := $img.Fill "400x600 q65 webp" }}
+  
+  {{/* Desktop : votre taille mais plus compressé */}}
+  {{ $desktop := $img.Fill "1600x900 q60 webp" }}
+  
   <section class="hero relative overflow-hidden min-h-screen flex items-center justify-center">
-
-    {{/*------------------------------------------
-          Image de fond avec parallax subtil
-    -------------------------------------------*/}}
     <picture class="absolute inset-0 w-full h-full z-0">
-      <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+      <source media="(max-width: 768px)" srcset="{{ $mobile.RelPermalink }}">
       <img
         class="w-full h-full object-cover"
-        src="{{ $fallback.RelPermalink }}"
+        src="{{ $desktop.RelPermalink }}"
         loading="eager"
         fetchpriority="high"
         alt="Discover your daily recipe"
         width="1600"
         height="900">
     </picture>
-
     <!-- Overlay sophistiqué en couches -->
     <div class="absolute inset-0 bg-gradient-to-br from-purple-900/80 via-indigo-900/60 to-amber-900/70 z-10"></div>
     <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/30 z-10"></div>
