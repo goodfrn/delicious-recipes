@@ -1,6 +1,6 @@
 ---
 title: "Spicy Shrimp Avocado Flatbread"
-slug: "spicy-shrimp-avocado-flatbread"
+slug: "spicy-shrimp-avocado-flatbread" 
 description: "Flatbread made with cottage cheese, eggs, oregano, garlic and onion powders. Spicy shrimp sautéed with garlic, cumin, coriander, smoked paprika and hot sauce. Avocado purée and diced avocado tossed with lime juice. Topped with tomato slices and arugula. Baked flatbread cut into four. Shrimp cooked quickly in a skillet. Garnish with lime wedges and extra hot sauce. Nut free and gluten free. Prep and cook times slightly varied. Two ingredients swapped for bolder twist."
 metaDescription: "Spicy Shrimp Avocado Flatbread recipe featuring cottage cheese, spicy shrimp, creamy avocado, tomatoes, and arugula. A bold gluten-free dish."
 ogDescription: "Making Spicy Shrimp Avocado Flatbread with cottage cheese, shrimp, avocado, and arugula. A vibrant gluten-free meal you can't miss."
