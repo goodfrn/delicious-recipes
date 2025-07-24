@@ -52,7 +52,7 @@ ingredients:
 - "Salt and pepper"
 instructions:
 - "=== Preparation of Spice Mix and Veggies ==="
-- "Mix all "Cajun" spices in a bowl. Set aside."
+- "Mix all 'Cajun' spices in a bowl. Set aside."
 - "Bring seasoned boiling water. Boil corn ears 6 minutes. Add snap peas last 4 minutes. Drain and rinse under cold water."
 - "Cut corn into 4 cm (1 ½ inch) segments. Keep veggies ready, set aside."
 - "=== Salmon and Grill Prep ==="
