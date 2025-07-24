@@ -43,7 +43,7 @@ jobs:
          npm run build:js
        
      - name: Setup Hugo
-       uses: actions/hugo-setup@v3
+       uses: peaceiris/actions-hugo@v3
        with:
          hugo-version: 'latest'
          extended: true
@@ -60,7 +60,7 @@ jobs:
            hugo --gc --minify
          fi
          
-         echo "✅ Site build complete!"
+         echo "✅ Build complete!"
          
      - name: Setup Pages
        uses: actions/configure-pages@v4
