@@ -5,7 +5,7 @@ title = "Delicious Recipes"
 ############################################################################### 
 #  Pagination, taxonomies, permaliens 
 ###############################################################################
-[pagination]
+[pagination] 
   pagerSize = 30
 
 [taxonomies]
