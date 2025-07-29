@@ -82,7 +82,7 @@ title = "Delicious Recipes"
   twitterHandle = "@TonCompteX"
 
 [params.analytics]
-  ga4 = ""
+  ga4 = "G-EJ03370FZ8"
 
 [params.ui]
   primary     = "#0f52ba"
