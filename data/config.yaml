@@ -178,38 +178,6 @@ categories_system:
   site_type: "recipes"
   main_section: "recipes"
   section_title: "Recipes"
-  categories_config:
-    mode: "auto"
-    categories_list:
-      - slug: "entrees"
-        name: "Entrées"
-        weight: 1
-      - slug: "salades" 
-        name: "Salades"
-        weight: 2
-      - slug: "plats-principaux"
-        name: "Plats principaux"
-        weight: 3
-      - slug: "accompagnements"
-        name: "Accompagnements"
-        weight: 4
-      - slug: "desserts"
-        name: "Desserts"
-        weight: 5
-      - slug: "boissons"
-        name: "Boissons"
-        weight: 6
-      - slug: "aaaaaa"
-        name: "Apéritifs Gourmands"
-        weight: 7
-      - slug: "sauces"
-        name: "Sauces & Dips"
-        weight: 8
-      - slug: "vegetalien"
-        name: "Végan & Végétarien"
-        weight: 9
-
-
 
 tags_page:
   all_tags_title: "All Recipe Tags"
@@ -280,9 +248,6 @@ components:
   accessibility:
     skip_to_content: Aller au contenu principal
 
-technical:
-  analytics:
-    plausible_domain: recettes-blog-test.pages.dev
   default_images:
     hero: hero-bg.jpg
     chef: chef.jpg
