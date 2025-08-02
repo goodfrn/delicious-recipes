@@ -1,0 +1,98 @@
+---
+title: "Spiced Layer Cake With Dulce Frosting"
+slug: "spiced-layer-cake"
+description: "A layered spiced cake, light yet dense with warm cinnamon, ginger, and nutmeg notes. Replacing some flour with almond meal for texture and swapping molasses with maple syrup to soften bitterness. Egg-whip aeration crucial for lift; folding flour gently retains air. Dulce de leche combined with mascarpone and whipping cream creates a luscious, stable frosting with richness and slight tang. Precise oven temp and toothpick test critical. Decorate with ginger snap stars for crunch contrast or opt for crystallized ginger pieces. A tactile, aromatic baking process rewarding patience and exactness."
+metaDescription: "Spiced Layer Cake With Dulce Frosting. A warm spiced cake layered with a rich frosting, an aromatic treat worth the effort."
+ogDescription: "Indulge in a Spiced Layer Cake With Dulce Frosting. Layers of spice, rich creaminess—savor the flavorful experience."
+focusKeyphrase: "Spiced Layer Cake"
+date: 2025-08-01
+draft: false
+image: spiced-layer-cake.png
+author: "Kate"
+prepTime: PT35M
+cookTime: PT27M
+totalTime: PT1H30M
+recipeYield: "12 servings"
+categories: ["Sweet Treats"]
+tags:
+- "baking"
+- "desserts"
+- "spices"
+- "frosting"
+- "cake recipes"
+keywords:
+- "layered cake"
+- "spiced dessert"
+- "frosting techniques"
+breadcrumb: ["Home", "Recipes", "Sweet Treats"]
+nutrition: 
+ calories: "420"
+ fatContent: "32g"
+ carbohydrateContent: "30g"
+ proteinContent: "6g"
+ingredients:
+- "=== Spice Sponge ==="
+- "105 g 3/4 cup unbleached all-purpose flour"
+- "45 g 1/3 cup almond meal (substitution to add texture)"
+- "3 ml 3/4 tsp baking powder"
+- "4 ml 3/4 tsp ground cinnamon"
+- "2.5 ml 1/2 tsp ground ginger"
+- "0.5 ml 1/8 tsp freshly grated nutmeg (finer aroma than preground)"
+- "2.5 ml 1/2 tsp kosher salt"
+- "5 large eggs at room temp"
+- "75 g 1/3 cup dark brown sugar (more moisture than cassonade)"
+- "25 ml 1 1/2 tbsp pure maple syrup (instead of molasses for milder flavor)"
+- "5 ml 1 tsp vanilla bean paste"
+- "25 ml 1 1/2 tbsp canola oil (neutral flavor, careful not too much)"
+- "=== Dulce de leche Frosting ==="
+- "400 g mascarpone cheese (cold for better whip)"
+- "150 ml dulce de leche (use thicker quality, homemade if possible)"
+- "200 ml heavy cream 35% fat (cold for stiff peaks)"
+- "=== Decoration ==="
+- "Ginger snaps or store-bought spiced cookies cut in star shapes"
+- "Optional: crystallized ginger chunks or lightly toasted chopped pecans"
+instructions:
+- "=== Spice Sponge ==="
+- "1. Center oven rack. Heat oven to 175°C 347°F. Line bottoms of two 8-inch springform pans with parchment. Skip greasing sides; cake pulls cleanly when cooled upside down."
+- "2. Sift together flours, baking powder, cinnamon, ginger, nutmeg, and salt into medium bowl. Set aside."
+- "3. Using electric mixer, beat eggs, brown sugar, maple syrup, and vanilla paste on high speed until triple in volume—foam thick enough so when lifted, batter falls like a ribbon. Duration ~9 minutes but watch carefully. Overbeating dries it out, underbeating loses lift."
+- "4. On low speed, drizzle oil slowly into egg mixture, keep mixing until fully integrated so fat holds air bubbles gently. Immediately transfer to large bowl."
+- "5. With a rubber spatula and gentle folding motion, add dry mix in thirds. Every fold counts; you want uniform batter but must keep aeration intact. Stop as soon as lumps disappear. If you see thick spots, fold with a lifting flip gently."
+- "6. Divide batter evenly between pans. Tap pans firmly on counter to pop large air bubbles."
+- "7. Bake 25-28 minutes. Watch golden domed tops, springs back softly under finger. A thin skewer poked in center comes out clean or with just a few moist crumbs — no wet batter. Avoid overbaking; cake cracks and becomes dry."
+- "8. Remove from oven. Immediately invert pans onto wire racks. Leave pans on cakes but upside down—keeps shape and moisture while cooling. Chill minimum 2 1/2 hours or overnight—best texture forms fully chilled."
+- "9. Run thin spatula or butter knife around edges before unmolding to avoid tearing layers."
+- "=== Dulce de leche Frosting ==="
+- "10. Cold mascarpone and dulce de leche combined first. Beat on medium speed 1 minute till uniform, no streaks. Don't rush; mascarpone can split if over-beaten."
+- "11. Slowly pour cold cream in a thin steady stream while whipping continues at medium-high speed. Whip till firm peaks form but textures still silky. Stop often to check stiffness—overwhipping causes separation or curdling."
+- "12. Reserve 60 ml frosting aside for crumb coat in cake assembly."
+- "=== Assembly ==="
+- "13. Slice each cake horizontally into two layers using serrated knife. Chill layers briefly if crumbs are loose—firmer cake cuts cleaner."
+- "14. On serving platter, place first bottom layer. Spread 1/4 of frosting smoothly using offset spatula. Repeat for all layers, building tall even stack."
+- "15. Spread thin coat (crumb coat) all around to trap crumbs. Refrigerate 15 minutes to firm that layer."
+- "16. Apply generous thick layer of remaining frosting on top. Use spatula or palette knife to create decorative swoops or rustic peaks."
+- "17. Garnish with ginger snap stars or crystallized ginger for texture contrast and aroma spike."
+- "18. Let cake rest 30 minutes before slicing so frosting sets properly and flavors meld."
+- "=== Troubleshooting Tips ==="
+- "- Egg temperature: room temp eggs maximize volume. Cold eggs = dense batter, lifeless cake."
+- "- Folding: too violent folding collapses batter. Use spatula edges to scrape around bowl, gently cut and fold batter over itself."
+- "- Oven calibration: oven too hot = edges darker before center cooks; too low = dense moist cake. Visual cues > strict time."
+- "- Frosting: mascarpone too warm = curdling risk. Always beat cold and avoid prolonged whipping."
+- "- Dulce de leche substitutes: caramel sauce with thick consistency works but looser frostings prone to run."
+- "- Decoration: store-bought cookies convenient but homemade snaps provide crunch and freshness."
+introduction: "Spiced cake in layers. Airy but firm crumb. Cinnamon, ginger, nutmeg round out warm aromatics you smell before you see the bake's golden crust crackle slightly. Swapping molasses for maple syrup tames bitterness—maple's nuanced sweetness blends more gently into batter. Almond meal adds toothsome texture; flour alone risks too soft or gummy inside. Eggs beaten to triple volume bring life, avoid quick heavy stir-ins. The dulce de leche frosting cut with mascarpone and whipped cream balances richness and lift, not too dense like buttercream but holds shape. Proper cooling crucial—hot cake wrecks frosting, cold cake cuts clean. Final touch: spiced cookie stars for festive crisp. Tactile, sensory, rewarding. Skill, patience, attention."
+ingredientsNote: "Using unbleached flour matters. Bleached flour can strip flavor and weaken structure. Almond meal, no nuts? Use oat bran as substitution but add some liquid for hydration. Maple syrup in place of molasses reduces bitterness and adds depth; molasses stronger, can dominate if overused. Vanilla bean paste preferred for intense aroma over extract. For oil, neutral vegetable oil (canola or grapeseed) keeps flavors clean but olive oil imparts green notes that may conflict with spices. Mascarpone adds creaminess and tang, substitutes could be full-fat cream cheese but expect thicker frosting and more tangy sharpness. Whipping cream must be cold or whipping fails; warm cream results in runny, loose frosting. Dulce de leche must be thick, homemade better than store-bought watery types. Always sift spices or pregrind freshly for best flavor—pre-ground can lose punch after storage. Salt is vital in desserts; balances sweetness and enhances spice layers."
+instructionsNote: "Beat eggs and sugars properly until tripled volume signals full aeration; under or over can ruin rise and crumb. Folding flour in carefully preserves air; avoid beating here. Oil added after aeration stabilizes batter and adds moistness but if added too fast, deflates foam. Baking timing not exact; visual cues trump timers. Invert pans when hot traps steam, finishing baking gently and preventing crust shrinkage inside. Cooling fully (2-3 hours min) mandatory for cake to set before slicing or frosting; warm cake yields melted layers and soggy slicing. Frosting steps matter—mix mascarpone and dulce de leche first to avoid lumps, then gently whip cream in to hold shape. Overwhipping causes curdling; stop when peaks form but still pliable. Use serrated knife for layers, chilled layers cut neater. Crumb coat traps loose crumbs and creates clean frosting finish. Decorate right before serving to keep cookies crisp; stored decorated cake in fridge absorbs moisture and loses crunch. Slice with sharp, clean knife to keep layers distinct."
+tips:
+- "Eggs need room temperature. Cold eggs: dense batter. Hot halves won't mix well. Triple volume crucial—watch for ribbon stage when lifting beaters. Whisk high speed, 9 min possibly."
+- "Sifting flour blend matters. Sifting incorporates air, removes lumps. Dry ingredients evenly mixed, flour folds gently. Avoid violent stirring. Feels like soft fabric."
+- "Pans lined but not greased. Inverting keeps moisture. Allow cakes cool upside down; prevents shrinkage, condensation chaos. Let chill overnight for best texture."
+- "Watch your oven—a calibrated one. Visual cues top priority. Center springs back when touched. Aroma shifts to golden crust. Thin skewer test—few crumbs ideal, no batter."
+- "Dulce de leche should be thick. Loose frosting? Won't hold shape. Use quality, homemade is best for stability. Mascarpone cold too; warm separates easily."
+faq:
+- "q: How do I ensure my cake rises well? a: Monitor egg temperature—room temp much better. Volume triples indicates proper whipping; includes density."
+- "q: What if my frosting turns runny? a: Start whipping cream cold, too firm peaks can cause separation. Mix mascarpone and dulce de leche slowly."
+- "q: Can I substitute ingredients? a: Sure, almond meal? Oat bran with extra liquid could work. Maple syrup instead of molasses less bitter, balanced sweetness."
+- "q: How do I store the cake? a: Unfrosted, airtight container—refrigerate. Frosted? Keep in cool, short-term. Crisp decorations, store separately to avoid sogginess."
+
+---
