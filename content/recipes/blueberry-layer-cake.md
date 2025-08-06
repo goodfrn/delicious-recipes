@@ -1,0 +1,98 @@
+---
+title: "Blueberry Layer Cake"
+slug: "blueberry-layer-cake"
+description: "Layer cake with tender crumb and tangy blueberry compote. Uses all-purpose and almond flour mix for texture twist. Butter and brown sugar for depth, eggs for structure. Glaze thickened with arrowroot, fresh lemon brightens flavor. Composed in 4 layers, spread with creamy frosting and jammy compote. Cool completely before assembly. Bake until firm but moist, toothpick test mandatory. Keeps refrigerated 2–3 days under cloche. Practical substitutions included for common pantry gaps."
+metaDescription: "Create a luscious Blueberry Layer Cake with tender crumb, creamy glaze, and tangy blueberry compote for an impressive dessert."
+ogDescription: "Indulge in a Blueberry Layer Cake featuring fluffy layers and fresh blueberry flavors. A perfect dessert for gatherings or any occasion."
+focusKeyphrase: "Blueberry Layer Cake"
+date: 2025-08-06
+draft: false
+image: blueberry-layer-cake.png
+author: "Kate"
+prepTime: PT30M
+cookTime: PT40M
+totalTime: PT1H45M
+recipeYield: "12 servings"
+categories: ["Sweet Treats"]
+tags:
+- "cake"
+- "blueberry"
+- "dessert"
+- "bakery"
+keywords:
+- "blueberry cake"
+- "French dessert"
+- "layered dessert"
+breadcrumb: ["Home", "Recipes", "Sweet Treats"]
+nutrition: 
+ calories: "410"
+ fatContent: "22g"
+ carbohydrateContent: "50g"
+ proteinContent: "5g"
+ingredients:
+- "Gâteau"
+- "275 g (2 cups) unbleached all-purpose flour"
+- "65 g (1/2 cup) almond flour"
+- "10 ml (2 tsp) baking powder"
+- "1.5 ml (1/3 tsp) salt"
+- "110 g (1/2 cup minus 1 tbsp) unsalted butter, softened"
+- "280 g (1 1/3 cups packed) brown sugar"
+- "2 large eggs"
+- "235 ml (1 cup minus 2 tbsp) whole milk"
+- "2.5 ml (1/2 tsp) pure vanilla extract"
+- "Glaçage"
+- "280 g (1 1/4 cups) unsalted butter, softened"
+- "40 g (1/4 cup plus 1 tbsp) unbleached all-purpose flour"
+- "230 ml (1 cup) blueberry purée (see note)"
+- "25 ml (1 1/2 tbsp) fresh lemon juice"
+- "200 g (1 cup) granulated sugar"
+- "Compote"
+- "20 ml (1 1/2 tbsp) granulated sugar"
+- "25 ml (1 1/2 tbsp) arrowroot powder"
+- "470 g (3 3/4 cups) frozen blueberries"
+- "15 ml (1 tbsp) lemon juice"
+instructions:
+- "=== Cake ==="
+- "Position oven rack mid-level. Heat oven to 175 C (350 F). Prepare two 20 cm (8 inch) springform pans; grease sides, line bottoms tightly with parchment. Ensures clean edges, no sticking hassle."
+- "Whisk combined flours, baking powder, salt. Almond flour adds moist crumb and subtle nutty note; can omit if allergic, sub total with all-purpose."
+- "Use electric mixer to cream room temp butter with brown sugar until pale, fluffy — about 4 minutes. Brown sugar deepens sweetness and moisture. Add eggs one at a time, beat until fully incorporated, no streaks."
+- "Slow speed now. Alternate dry ingredients with milk and vanilla, starting and ending dry. Don’t overmix; batter should be thick but pourable."
+- "Divide batter evenly, smooth tops. Tap pans on counter to release air bubbles — avoid giant holes later."
+- "Bake 38–40 minutes or until toothpick inserted comes out clean or with few crumbs. Resist opening door early — temperature dips cause sinking."
+- "Cool cakes in pans for 20 min, then invert onto wire racks to cool completely; 2.5–3 hours minimum. Warm cake ruins frosting and causes slipping."
+- "=== Glaze ==="
+- "In medium saucepan over medium heat, melt 55 g butter. Stir in flour, cook for 1 min until paste bubbles lightly — cooks out raw taste. Add blueberry purée and lemon juice; whisk constantly to prevent lumps. Bring to boil but watch carefully — simmers for 2 min until thickened, glossy, like jam. Remove from heat; cover surface immediately with plastic wrap to avoid skin. Chill 1 hour until cool but still spreadable."
+- "In mixer, whip remaining butter and granulated sugar till fluffy, about 5 minutes. Fold cooled blueberry mixture in gradually; mix on medium until glossy frosting forms. Can store covered 2 days refrigerated. Let soften on counter before using."
+- "=== Compote ==="
+- "Off heat, combine sugar and arrowroot in saucepan. Add frozen blueberries and lemon juice, stir gently. Place over medium heat; bring to gentle boil while stirring constantly. Cook 8–10 minutes; mixture thickens, blueberries burst releasing liquid but still holds shape."
+- "Remove from heat; spoon into bowl, cover with plastic wrap pressed down on surface to prevent skin. Cool to room temp, chill 1 hour before using. Keeps flavor punch and thick consistency."
+- "=== Assembly ==="
+- "Trim cake domes for flat tops using serrated knife. Slice each layer horizontally into 2 thin cakes — 4 layers total."
+- "On serving plate, lay bottom layer. Spread 100 ml of glaze leaving rim edges slightly higher — acts as dam holding compote inside. Dollop 1/3 compote. Layer next cake gently; repeat glaze and compote. Third layer same. Final layer placed on top, no compote."
+- "Apply remaining glaze all over cake with smooth spatula or offset palette knife. Chill assembled cake minimum 1 hour for flavors to marry, frosting to firm up."
+- "Serve cold or room temp but chilled is easiest to slice clean. Cake lasts 2–3 days covered and refrigerated. Let sit 15 minutes before slicing for softer texture."
+- "=== Notes and Alternatives ==="
+- "Flours: almond flour can be swapped for oat flour or fine cornmeal for a different crumb texture, but keep total volume same. Brown sugar replaces granulated for moisture; if unavailable, use light molasses or 2 tbsp honey plus sugar to mimic depth."
+- "Arrowroot in compote thickens without cloudiness; cornstarch works but may slightly alter clarity and gel firmness."
+- "Blueberry purée: blitz fresh or thawed blueberries; strain seeds if preferred smoother glaze but some texture adds rustic feel. Can substitute frozen blackberries for twist in flavor."
+- "Butter substitution is tricky; butter brings flavor and structure unlike oils. Use high-quality for best taste and consistency. If salted, reduce added salt slightly."
+- "Careful temperature control key: avoid overbrowning cake edges by checking at the 35-minute mark; sides should spring back on light touch."
+- "Cooling cake fully ensures stable layers; rushing leads to meltdown of glaze or compote slipping out."
+- "If texture feels dense, next batch try room temp milk or swap half for buttermilk to add tender acid toner."
+- "If frosting gets too soft, chill and whip again briefly for firmness. Too stiff? Add splash milk or vanilla to loosen."
+introduction: "At heart a humble blueberry layer cake. Nothing fancy, but gets the job done with careful details. Grain textures go beyond white flour — folded almond flour bonus points for moist crumb. Browning brown sugar—not just sweetness—adds a toasty nuance. No phantom artificial flavors; real lemon juice and fresh blueberry purée punch through. Watch the bake; toothpick is king. Overbake and cake crumbles, underbake — dense pudding disaster. Glaçage and compote are anchors — thick enough to stay but still spreadable. Chilling stages are brutal but unforgiving if skipped. The real effort pays off in layers that hold shape, flavor punch, and that subtle crumb bite every good cake demands. For late-night casual baking or dinner party, chunks of kitchen discipline locked in."
+ingredientsNote: "Switching up flours here is not mere whimsy. Almond flour lends moistness and slight nuttiness, giving crumb complexity missing from straight all-purpose; good tweak for advanced home bakers wanting next level. Always weigh flours for accuracy — packed cups vary wildly. Brown sugar improves both moisture and depth; regular granulated sugar would dry cake quicker. For compote thickening, arrowroot yields glossy, clean finish unlike cornstarch, which can cloud or gunk up. Lemon juice is essential to balance sweetness and brighten blueberry tones — skip at risk of flat flavors. Butter must be at room temp for smooth creaming — cold butter ruins aeration. Don’t substitute with oil; texture changes significantly. Using frozen berries year-round practical, but thaw fully to avoid extra liquid in compote. Keep puree seed-free if you want slick glaze; otherwise leave seeds for rustic bite. All in all, modest ingredient changes but massive textural and sensory shifts if done right."
+instructionsNote: "Baking happens on observation more than clock. Watch for cake edges pulling from pan and toothpick near dry—not fully dry- is acceptable because almond flour holds moisture differently. Creaming butter and sugar well introduces air, critical for rise; don’t rush this step. Combining ingredients low and slow avoids dense pasty batter — flour folded in alternating milk keeps batter balanced. Pouring batter into pans evenly and knocking out big air bubbles saves giant holes or tunnels. Cooling is non-negotiable; warm cake ruins frost stability and causes sliding layers. Glaze prep needs continuous stirring to avoid flour lumps — the smallest clump ruins finish. Cover glaze with plastic wrap touching surface immediately after cooking; else skin forms. Compote requires gentle boil and constant attention so it doesn't scorch or separate. Assembly with layer trimming ensures flat stacking — trims recycled into crumbs or snacks. Frosting border acts as dam; key to hold compote in place instead of wet mess oozing over. Chilling final cake for set time firms structure making slicing feasible. Patience here is professional shortcut, not waste."
+tips:
+- "Use scale for flour accuracy. Compact cups vary wildly. Almond flour’s nutty note adds complexity. Don’t skip weight measure."
+- "Watch bake times closely. Oven temps can differ. Golden edges plus toothpick test keep cake from soggy—trust signs."
+- "Need alternatives? Swap almond flour with oat flour. Same volume adjusts texture but keep balance tight."
+- "Chilling is non-negotiable for structure. Warm cake layers will slip, frost won’t hold. Don't rush. Savor the process."
+- "Keep compote thick. If watery, boil longer or add arrowroot. Precise timing and stirring prevent a mess—always watch."
+faq:
+- "q: How can I tell if my cake is done? a: Toothpick test is key. Insert it; few crumbs on it means done. Look for edges pulling away from pans."
+- "q: My frosting turned out too soft? a: Chill it, then whip briefly. If too stiff, a splash of milk helps loosen it. Adjust consistency based on feel."
+- "q: What if my compote is too runny? a: Simmer extra minutes. May need more arrowroot mixed in cold water. Thicken while stirring means control."
+- "q: How do I store leftover cake? a: Wrap well; refrigerate for 2-3 days. Slices freeze tightly for months. Thaw slowly overnight for best results."
+
+---
