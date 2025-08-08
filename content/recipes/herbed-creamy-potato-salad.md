@@ -1,7 +1,7 @@
 ---
 title: "Herbed Creamy Potato Salad"
 slug: "herbed-creamy-potato-salad"
-description: "Small new potatoes simmered with fresh herbs then cooled before halving and tossed in a creamy herbed dressing with mayo, yogurt, and a hint of pesto. Lime zest adds brightness. A rustic take with deliberate techniques focusing on texture and seasoning balance. Substitutions included for herbs and dairy plus tips on doneness cues and handling hot potatoes safely."
+description: "Small new potatoes simmered with fresh herbs then cooled before halving and tossed in a creamy herbed dressing with mayo, yogurt, and a hint of pesto. Lime zest adds brightness.. A rustic take with deliberate techniques focusing on texture and seasoning balance. Substitutions included for herbs and dairy plus tips on doneness cues and handling hot potatoes safely."
 metaDescription: "Herbed Creamy Potato Salad combines new potatoes, fresh herbs, and a dressing with mayo, yogurt, and pesto. A bright twist for your table."
 ogDescription: "Creamy dressing coats tender potatoes and fresh herbs in Herbed Creamy Potato Salad. A vibrant dish for warm gatherings or quick meals."
 focusKeyphrase: "Herbed Creamy Potato Salad"
