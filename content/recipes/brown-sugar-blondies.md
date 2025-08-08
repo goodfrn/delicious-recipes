@@ -42,7 +42,7 @@ ingredients:
 - "40g dulce de leche"
 - "50g powdered sugar sifted"
 instructions:
-- "Preheat oven 175C on center rack. Line 9x9" pan with parchment, edges hanging for easy removal. Melt butter till just clear, no browning. Mix sugars into warm butter. Whisk eggs and vanilla quick; temper into sugar butter mix, avoid scrambling eggs."
+- "Preheat oven 175C on center rack. Line 9x9 pan with parchment, edges hanging for easy removal. Melt butter till just clear, no browning. Mix sugars into warm butter. Whisk eggs and vanilla quick; temper into sugar butter mix, avoid scrambling eggs."
 - "Sift flour, cornstarch, baking powder, salt into a bowl; stir to combine well. Fold dry into wet in two additions, minimal mixing; don’t overwork or toughens."
 - "In separate small bowl, whip cream cheese with powdered sugar until creamy but no overbeating to avoid graininess. Fold dulce de leche gently, swirl barely mixed—pockets of caramel to come through."
 - "Dump half blondie batter in pan. Dollop half cream cheese swirl in drops, then rest batter, then remaining swirl on top in random blotches. Run a knife or skewer deep swirls—look for ‘marbled snake’ pattern, not full mixing."
