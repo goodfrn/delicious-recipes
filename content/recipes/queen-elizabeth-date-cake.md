@@ -1,0 +1,96 @@
+---
+title: "Queen Elizabeth Date Cake Remix"
+slug: "queen-elizabeth-date-cake"
+description: "Dense, moist date cake updated with swapped nuts and enriched flavors. Simmered dates for soft texture; batter balanced with half whole wheat flour and all-purpose mix. Leavening adjusted for loft without wild rise. Brown butter swapped for clarified butter, sharper nutty aroma. Glaçage remade with muscovado sugar for deeper molasses notes, coconut flakes replaced with toasted pecans. Sauce thickened slightly and almond extract added for complexity. Baking times tweaked; watch for golden edges and springy center. Frost hot cake for sticky finish, let cool fully before unmolding. Nut swap adds crunch variety; clarified butter avoids soggy spots. Sauce thick beat signals readiness. Real kitchen hacks included."
+metaDescription: "Queen Elizabeth Date Cake Remix is a moist and dense date cake with pecans. A unique twist with rich flavors that impresses."
+ogDescription: "Dense date cake with bold flavors and a pecan crunch. An innovative twist on a classic dessert that's sure to delight."
+focusKeyphrase: "Queen Elizabeth Date Cake Remix"
+date: 2025-08-09
+draft: false
+image: queen-elizabeth-date-cake.png
+author: "Kate"
+prepTime: PT30M
+cookTime: PT50M
+totalTime: PT1H20M
+recipeYield: "10 to 12 servings"
+categories: ["Sweet Treats"]
+tags:
+- "date cake"
+- "dessert"
+- "baking"
+- "pecans"
+- "Canadian cuisine"
+keywords:
+- "cake recipe"
+- "baking tips"
+- "date dessert"
+breadcrumb: ["Home", "Recipes", "Sweet Treats"]
+nutrition: 
+ calories: "350"
+ fatContent: "15g"
+ carbohydrateContent: "48g"
+ proteinContent: "4g"
+ingredients:
+- "250 ml 1 cup water"
+- "125 g 3/4 cup pitted chopped dates"
+- "170 g 1 1/4 cups all-purpose flour, unbleached"
+- "55 g 1/3 cup whole wheat flour"
+- "5 ml 1 teaspoon baking powder"
+- "2.5 ml 1/2 teaspoon baking soda"
+- "Pinch salt"
+- "55 g 1/4 cup clarified butter, warm"
+- "180 g 3/4 cup brown sugar"
+- "5 ml 1 teaspoon vanilla extract"
+- "1 large egg"
+- "50 g 1/2 cup toasted pecans chopped"
+- "=== Glaze ==="
+- "90 g 1/2 cup muscovado sugar"
+- "30 ml 2 tablespoons 35 percent cream"
+- "75 g 1/3 cup clarified butter"
+- "70 g 3/4 cup toasted pecan pieces"
+- "=== Sauce ==="
+- "180 ml 3/4 cup brown sugar"
+- "180 ml 3/4 cup white sugar"
+- "250 ml 1 cup 35 percent cream"
+- "5 ml 1 teaspoon almond extract"
+instructions:
+- "=== Cake ==="
+- "Preheat oven to 175 C 350 F. Position rack mid-oven. Butter a 20 cm 8 inch springform pan, line base with parchment. Paper prevents soggy bottom; butter ensures edges release cleanly."
+- "Bring water and dates to boil in saucepan over medium heat. Simmer 4 minutes, stirring often until plump and syrupy. Let rest off heat. Diced dates soak in hot water, softening texture and infusing batter with richness. Hot liquid folds better into dry ingredients, no lumps."
+- "In medium bowl, whisk together all-purpose flour, whole wheat flour, baking powder, baking soda, and salt. Dry leaveners balanced for rise and crumb; whole wheat adds crumb density and nutty undertone but don't overdo."
+- "Cream clarified butter with brown sugar and vanilla extract in mixer until fluffy and light in color about 3 minutes medium speed. Clarified butter less moisture than straight butter; gives cleaner texture without greasiness. Brown sugar adds subtle molasses notes deeper than white sugars."
+- "Add egg, mix 1 minute until homogenous. Lower speed. Alternate adding dry flour mixture and warm date liquid, starting and ending with flour. Too fast here risks gluten overdevelopment, tough crumb."
+- "Fold in toasted chopped pecans with rubber spatula, even distribution crucial for texture variation."
+- "Pour batter into prepared pan, smooth top with spatula. Thickness consistent, bake 45 to 50 minutes. Check doneness after 40 minutes by inserting skewer into center. Sticky crumbs okay; knife should come with moist bits clinging but no raw batter."
+- "=== Glaze ==="
+- "Combine muscovado sugar, cream, and clarified butter in small saucepan. Bring to rolling boil over medium heat while stirring. Simmer glaze 2 1/2 minutes to thicken slightly; sizzle intensifies aroma. Remove from heat and stir in toasted pecans, evenly coating before serving."
+- "Brush hot cake top generously with hot glaze immediately after removing from oven. Return to oven for 5 minutes. Glaze seeps in, creating thin crust that crackles when sliced; sticky deterrent for dryness."
+- "Let cake cool at least 45 minutes before removing pan sides. Cooler temp sets crumb, prevents falling apart. Warm cake more fragile."
+- "=== Sauce ==="
+- "In saucepan, stir brown sugar, white sugar, cream, and almond extract over medium heat. Bring to steady boil, reduce heat to low simmer. Cook 5–7 minutes, stirring occasionally, until sauce thickens and coats the back of a spoon."
+- "Remove from heat and cool to warm room temp before serving alongside sliced cake. Almond extract adds sharpness counterpointing rich Dates and pecans."
+- "=== Troubleshooting and Tips ==="
+- "If batter looks too thick after adding dates, add splash cold water or cream 1-2 tablespoons max. Too thin batter loses structure."
+- "Dates too big? Chop finer so they disperse evenly. Clumps cause uneven centers."
+- "Clarified butter can be replaced by melted unsalted butter left to cool slightly. Avoid cold butter lumps."
+- "Glaze consistency signals readiness by slow drip from spoon—not watery but not entirely solid. Thickens off heat."
+- "Cake edges brown first? Tent with foil at 40 minutes if oven runs hot."
+- "Check nuts for freshness; rancid nuts drastically undermine taste."
+- "Freezing: wrapped tight in plastic, freeze slices for up to 2 months. Defrost overnight in fridge."
+- "Serve with lightly whipped cream or vanilla bean ice cream for contrast."
+introduction: "Dense cake studded with soft dates and crisp pecans. Adds whole wheat for rustic texture. From simmering dates to final glaze, each act matters. You’ll hear the simmer, smell caramelizing sugars, see batter thicken just so. Not a flimsy sponge; cake holds moisture and slice integrity under sugary glaze crust. The nut swap brings sharp bite; clarified butter avoids soggy spots. Sauce turns sweet meeting fresh almond notes. Watch edges for golden hints, center for bounce; that’s your cue to perfect bake. Starting with simple ingredients but methodical process conveys experience. Don’t rush mixing; balance moisture, solids, leavening like a pro. This cake is forgiving if you read cues right—aroma, texture, color—each piece tells when it’s done. Serve warm or room temp but avoid slicing straight from the fridge. Partner with almond-spiked cream or ice cream to round flavor. No fluff, just solid know-how baked into every bite."
+ingredientsNote: "Swapping half flour to whole wheat deepens texture and adds nuttiness without heaviness. Whole wheat needs care—not too much or cake stiffens. Dates broken down in hot water create moist pockets escaping dryness, key for rich crumb. Clarified butter enhances nutty essence and creates cleaner mouthfeel; if not on hand, unsalted melted butter is acceptable but avoid cold lumps that cause uneven mixing. Brown sugar replaced by muscovado in glaze gives robust, almost smoky undertones, better with toasted pecans replacing coconut flakes which could water down glaze texture. Pecan's oiliness suits this better. Sauce sweetens and fattens with almond extract for depth. These twists elevate basics without complicating pantry needs. Toast nuts prior to adding to brighten flavor, remove any bitter skins or old pieces. Proper parchment lining and greased pan sides prevent stubborn cake sticking mishaps—saves delicate cake integrity on unmolding stage."
+instructionsNote: "Simmer dates until plump, syrupy but not disintegrated. This step infuses moisture and sweetness throughout cake. Mixing methods prioritize creaming butter and sugar well to trap air for lift, but folding in flours with care to avoid tough crumb. Alternating wet and dry additions maintains batter cohesion. Watch your batter texture, should be thick but spreadable. Baking time flexible, the visually golden edges and springy center better measures doneness over time alone. Applying glaze hot lets it absorb into cake surface, then baking further melds flavors creating that sticky crackled top layer. Sauce boiled gently to thicken avoiding rapid bubbles that risk crystallization. Timings adjusted slightly to accommodate ingredient swaps; trust your senses—not just the clock. Let rest fully before slicing, hot cakes crumble easily. Parchment and butter lining helps avoid tears on unmolding. Nuts toasted to aromatic stage without burning. Sauce served warm but not boiling avoids shock when paired with cake."
+tips:
+- "Rinse dates before slicing, keeps them fresher. Soak in warm water until plumped. Adds moisture, enhances flavor distribution."
+- "Ensure pecans are toasted well, releases oils. Just don’t burn. Burnt nuts ruin aroma and taste. Chop size uniform for texture."
+- "Watch your molten glaze, consistently check temp. Too hot, it hardens too quickly. Too cool, won’t stick. Consistency matters."
+- "If batter seems thick, splash in cold water; 1-2 tablespoons. Adds moisture without making it too loose. Stay balanced in textures."
+- "Don’t rush cooling, patience necessary with hot cakes. Let rest enough time, leaves crumb set. Warm cakes crumble during unmolding."
+faq:
+- "q: Cake fell apart when slicing? a: Maybe too warm. Let cool before cutting. Also check flour ratio; whole wheat dense by nature."
+- "q: Can I swap dates for something else? a: Yes, use figs or prunes. But adjust moisture; figs drier, prunes sweeter. Taste varies."
+- "q: Too dry? a: Check oven temp; hotter than stated can dry out. Maybe overbaked. Moisture key here, adjust liquids if needed."
+- "q: How to store leftover cake? a: Wrap tightly in plastic. Fridge works but might get dry; keep at room temp if can."
+
+---
