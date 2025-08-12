@@ -36,7 +36,7 @@ ingredients:
 - "50 g hazelnut flour"
 instructions:
 - "1. Cream butter and brown sugar vigorously in a mixing bowl with a whisk until fluffy but not melting. Should be pale yellow, soft but cool to touch."
-- "2. Gradually fold in sifted flour, using a spatula not a mixer. The key — don’t overwork flour or the dough gets tough. Texture like damp sand but holds together when pinched."
+- "2. Gradually fold in sifted flour, using a spatula not a mixer. The key: don’t overwork flour or the dough gets tough. Texture like damp sand but holds together when pinched."
 - "3. In separate bowl, whisk eggs and hazelnut flour until smooth. Particles evenly dispersed, no lumps."
 - "4. Add egg-hazelnut blend to flour-butter mix. Stir gently with wooden spoon. Expect some resistance; don’t rush. Dough turns cohesive, almost satiny."
 - "5. ‘Sablage’ step — rub dough between fingers to break clumps, releasing butter onto flour. Then briefly knead to bind into ball. Dough should be soft but not sticky, if sticky, add small flour dusting."
