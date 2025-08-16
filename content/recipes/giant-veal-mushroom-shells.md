@@ -1,0 +1,95 @@
+---
+title: "Giant Veal Mushroom Shells"
+slug: "giant-veal-mushroom-shells"
+description: "Large pasta shells stuffed with a rich mix of lean ground veal, wild mushrooms rehydrated in broth, fresh white mushrooms, and a blend of cheeses. Tomato sauce acts as a bed, mozzarella melts on top. Deep flavors from toasted pine nuts replaced by chopped hazelnuts, sun-dried tomatoes swapped for roasted red peppers. Balanced heat from red pepper flakes. Baked until bubbling, golden on the edges, with fresh parsley garnish. Techniques highlight moisture control, browning, and stuffing consistency for bite and proper cooking. Slow reduction of meat mixture seals in juices, avoids soggy shells."
+metaDescription: "Giant Veal Mushroom Shells filled with veal, wild mushrooms, and cheese blend baked in tomato sauce. Perfect for a cozy dinner."
+ogDescription: "Indulge in Giant Veal Mushroom Shells with a rich filling and bubbling cheese. A twist on classic comfort food."
+focusKeyphrase: "Giant Veal Mushroom Shells"
+date: 2025-08-16
+draft: false
+image: giant-veal-mushroom-shells.png
+author: "Kate"
+prepTime: PT45M
+cookTime: PT55M
+totalTime: PT1H40M
+recipeYield: "6 servings"
+categories: ["Hearty Mains"]
+tags:
+- "pasta"
+- "veal"
+- "mushrooms"
+- "baking"
+keywords:
+- "Italian cuisine"
+- "comfort food"
+- "meat dishes"
+breadcrumb: ["Home", "Recipes", "Hearty Mains"]
+nutrition: 
+ calories: "550"
+ fatContent: "28g"
+ carbohydrateContent: "48g"
+ proteinContent: "32g"
+ingredients:
+- "24 giant pasta shells"
+- "750 ml 3 cups warm tomato sauce preferably homemade or store-bought no sugar added"
+- "250 ml 1 cup shredded mozzarella cheese"
+- ""
+- "=== Filling ==="
+- "250 ml 1 cup chicken broth"
+- "1 sachet 20 g dried porcini mushrooms roughly chopped"
+- "225 g 8 oz cremini mushrooms chopped coarse"
+- "2 medium onions chopped"
+- "60 ml 1/4 cup extra virgin olive oil"
+- "454 g 1 lb lean ground veal"
+- "30 ml 2 tbsp roasted red peppers drained and chopped"
+- "30 ml 2 tbsp toasted chopped hazelnuts optional"
+- "2.5 ml 1/2 tsp crushed red pepper flakes"
+- "250 ml 1 cup fresh white bread cubes crust removed"
+- "250 ml 1 cup whole milk ricotta cheese"
+- "125 ml 1/2 cup grated Parmigiano Reggiano"
+- "60 ml 1/4 cup flat leaf parsley chopped"
+- "Salt and freshly ground black pepper"
+instructions:
+- "=== Filling Setup and Broth Infusion ==="
+- "Bring chicken broth to a rapid simmer, add dried porcini mushrooms. Remove from heat. Let steep until broth is deeply fragrant, darkened. Strain if desired or chop porcini with broth intact for texture. Mushrooms release subtle earthy aroma; broth now a flavor bomb."
+- ""
+- "=== Pasta Preparation ==="
+- "Boil heavily salted water. Drop shells gently. Cook until firm but not raw inside careful not to overcook. Test by biting into a shell. Surface tender, slight chew inside. Drain shells well; toss quickly in olive oil to prevent sticking, set aside on a tray single layer. No crowding keeps shape intact."
+- ""
+- "=== Vegetables and Mushrooms ==="
+- "Heat half the oil in large skillet medium-high. Add onions and cremini mushrooms. Sauté stirring occasionally until mushrooms give off moisture and pan looks dry again, onions translucent and edges golden. Season lightly with salt and fresh pepper to draw out flavor. Remove from pan, reserve."
+- ""
+- "=== Meat Browning and Reduction ==="
+- "Add remaining oil to same pan over medium-high heat. Add ground veal, breaking up lumps. Stir occasionally until browned and no pink remains. Add roasted red peppers, hazelnuts if using, and red pepper flakes. Season with salt, pepper."
+- "Pour porcini broth and reserved mushrooms into pan with veal. Add sautéed onions and cremini mushrooms. Finally add bread cubes. Stir well. Let simmer on medium heat, stirring often, until nearly all liquid evaporated. Mixture should be thick but moist, sticks together when pressed. This step concentrates flavor and keeps filling from being watery."
+- ""
+- "=== Cheese and Herb Mixing ==="
+- "Remove pan from heat. Fold in ricotta, Parmigiano, and half of chopped parsley. Taste for saltiness and pepper. Consistency should be creamy but firm enough to hold shape. Crunch from nuts optional but gives texture contrast."
+- ""
+- "=== Oven Setup ==="
+- "Preheat oven to 175 C 350 F. Position rack center of oven. Prepare a 33x23 cm 13x9 inch baking dish."
+- ""
+- "=== Assembly and Baking ==="
+- "Spread warm tomato sauce evenly on bottom of baking dish. Fill pasta shells generously with meat mixture, pack but do not overstuff to avoid bursting during bake. Arrange shells side by side sauce below to prevent sticking."
+- "Sprinkle shredded mozzarella over filled shells. Cover with foil if cheese browns too quickly to avoid burning."
+- "Bake approximately 30 to 35 minutes. Look for bubbly sauce at edges, mozzarella melted, shells starting to crisp slightly on edges."
+- ""
+- "=== Finishing Touches ==="
+- "Remove from oven. Let stand 5 minutes to set slightly and cool for handling. Garnish with remaining parsley for a fresh pop of color and herbaceous note."
+- "Serve immediately. Leftovers reheat covered at moderate temperature to avoid drying out."
+introduction: "Big pasta shells always tricky. Too soft or too tough? Cook just enough by timing first test bites. Fillings slip away if too wet and meat turns rubbery if rushed. Veal offers mild flavor; boost with wild mushrooms soaked slow in hot broth. Don’t rush reduction—listen for the soft sizzle, see the mixture thicken. Toasted nuts replaced pine nuts to bring toasted depth. Roasted red peppers swap intensity for tomatoes dried in oil—adds sweetness and moisture. Mozzarella browns beautifully, bubbles and melts over shells like molten snow. Fresh parsley scattered last gives brightness and cuts richness. Underbaking? Ends up mushy. Overbaking? Dry and tough. Watch carefully, smell for that roasted perfume, color shifts. Patience wins here."
+ingredientsNote: "Use fresh pasta shells if available for quicker cooking but dry shells hold shape better. Broth infusion with porcini mushrooms unlocks that deep earthiness missing from plain mushrooms—critical step. Replace veal with ground turkey or chicken for leaner filling; adjust seasoning accordingly. Roasted red peppers can be substituted with sun-dried tomatoes to get tang, but drain thoroughly. Hazelnuts toast longer than pine nuts—double-check to avoid bitter burnt flavor. Keep bread cubes fresh, not stale to soak but not turn gummy. Cheese blend balances moisture—ricotta adds creaminess, Parmigiano sharpness, mozzarella melting top. Olive oil is your friend for sautéing, browning in stages; no butter here to prevent water release and soggy filling."
+instructionsNote: "Prep broth infusion first to maximize flavor extraction. Use sharp knife or scissors to roughly chop soaked porcini, don’t waste meat stuck in broth. Cook pasta shells just shy of al dente if you plan to bake long, as baking cooks them through further. Always toss cooked pasta in oil immediately after draining—no stickiness means easier filling. Sauté mushrooms until juices evaporate entirely—if pan stays wet, final filling will be watery and leak flavors. Brown meat thoroughly in batches if needed to avoid steaming. When adding broth to meat mixture, simmer till almost dry but keep it moist enough to blend well with cheese. Don’t overfill shells, leaving some room avoids bursting and spilling during bake. Bake uncovered last 5 minutes for cheese to brown if desired. Test doneness by poking shells; they should be tender but still hold shape. Garnishing after baking adds that sensory finish—fresh herb aroma on top of warm, rich meat mixture. If mushrooms scarce, substitute with shiitakes or creminis only. Keep cleanup simple—reuse skillet, no extra dishes."
+tips:
+- "Cook pasta shells just shy of al dente. They will cook more when baking. Keep them from sticking by tossing in oil. Don't crowd them too much."
+- "When sautéing mushrooms, ensure moisture evaporates. Pan should seem dry before moving on. Test seasoning often for balanced flavor."
+- "For filling, control moisture tightly. Too wet means bursting shells. Ground veal can be swapped for turkey or chicken. Adjust seasonings accordingly."
+- "Baking uncovered at the end? Watch closely. Cheese should bubble, brown around edges. If too quick to brown, cover with foil to protect."
+- "Aromas of cooking should drive you forward. Listen for sizzles as mixtures reduce. Patience is key; let flavors deepen. Use texture as your guide."
+faq:
+- "q: What if shells break during filling? a: Avoid overstuffing. Pack lightly and use gentle pressure. Shells can be tricky but handle carefully."
+- "q: I ran out of ricotta, alternatives? a: Cream cheese can work, or blend cottage cheese. Adjust salt content; flavors vary. Firmness key here."
+- "q: How to store leftovers? a: Cool completely, store in airtight container. Can freeze but may alter texture. Reheat gently with moisture."
+- "q: Too much heat in filling? a: Adding more cheese can tone down spices. Serve with cooling side salad. Balance chili heat with sweetness."
+
+---
