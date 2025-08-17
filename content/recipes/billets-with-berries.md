@@ -1,0 +1,95 @@
+---
+title: "Billets with Berries and Coconut"
+slug: "billets-with-berries"
+description: "Rolled sponge cake layered with berry syrup and coconut cream. Uses frozen berries, a light meringue-based batter enriched with syrup, and whipped coconut cream with a hint of almond extract. Technique focuses on gentle folding, proper meringue peaks, and avoiding sogginess. Cooling and handling crucial for neat rolls. Adapted with reduced sugar and swapped lemon juice for orange zest. Coconut adds texture and color from soaking. Refrigerate to set flavors and maintain structure. Can substitute frozen berries or coconut cream for dairy-free option. Holds well in fridge for 2–3 days. Clear visual cues guide baking and rolling stages."
+metaDescription: "Billets with Berries and Coconut; a rolled sponge cake with berry syrup and creamy coconut. Layered textures for a satisfying dessert experience."
+ogDescription: "Enjoy Billets with Berries and Coconut; a layered sponge cake featuring sweet berries and coconut cream. Perfect dessert for gatherings."
+focusKeyphrase: "Billets with Berries and Coconut"
+date: 2025-08-17
+draft: false
+image: billets-with-berries.png
+author: "Kate"
+prepTime: PT75M
+cookTime: PT20M
+totalTime: PT95M
+recipeYield: "6 servings"
+categories: ["Sweet Treats"]
+tags:
+- "dessert"
+- "cake"
+- "berries"
+- "coconut"
+- "French cuisine"
+keywords:
+- "sponge cake"
+- "berry dessert"
+- "coconut recipe"
+breadcrumb: ["Home", "Recipes", "Sweet Treats"]
+nutrition: 
+ calories: "280"
+ fatContent: "15g"
+ carbohydrateContent: "32g"
+ proteinContent: "5g"
+ingredients:
+- "=== Berry syrup ==="
+- "210 g (1 1/3 cups) frozen mixed berries (replace camerises with blueberries or raspberries)"
+- "110 g (1/2 cup) granulated sugar"
+- "25 ml (1 1/2 tbsp) water"
+- "15 ml (1 tbsp) freshly squeezed orange juice (in place of lemon juice)"
+- "=== Sponge cake ==="
+- "6 large eggs separated"
+- "73 g (1/3 cup plus 1 tbsp) caster sugar"
+- "120 g (3/4 cup) unbleached all-purpose flour sifted"
+- "=== Filling and garnish ==="
+- "75 g (3/4 cup) unsweetened shredded coconut"
+- "200 ml (3/4 cup plus 1 tbsp) heavy cream 35% whipping cream (or coconut cream for dairy-free)"
+- "20 g (2 tbsp) powdered sugar"
+- "5 ml (1 tsp) pure almond extract (substitutes vanilla to add nutty aroma)"
+instructions:
+- "=== Prepare berry syrup ==="
+- "1. Combine frozen berries, sugar, and water in a small saucepan over medium heat. Bring to a lively boil while stirring frequently to avoid burning spots on the bottom. The mixture will bubble and release berry aroma, signaling juice extraction."
+- "2. Remove from heat, drain through a fine mesh strainer set over a measuring cup. Do not press or mash berries; you want clear syrup without pulp. Reserve 200 ml (just under 1 cup) of this syrup. Add water if needed to reach volume."
+- "3. Return strained berries to the pan with orange juice. Simmer gently for 5 minutes on low heat. This lightly thickens berry pulp while balancing acidity."
+- "4. Transfer into a bowl and set aside to cool completely."
+- "=== Make sponge cake ==="
+- "5. Heat oven to 185°C (365°F). Position rack mid-level. Line a 33x22 cm (13x9 in) rimmed baking sheet with parchment, extending over two sides for easy removal."
+- "6. In a clean, dry bowl, whisk egg whites with 15 ml (1 tbsp) sugar on medium speed until soft peaks form. Gradually add remaining sugar in thin streams while increasing speed. Whip until stiff, glossy peaks hold shape without falling."
+- "7. At low speed, drizzle in 180 ml (3/4 cup) berry syrup slowly, incorporating fully but being careful to keep meringue volume."
+- "8. Stir in egg yolks gently with a whisk until blended. Sift flour atop meringue mixture, folding delicately with a spoon or rubber spatula. Stop folding once flour streaks vanish; overmixing will deflate batter."
+- "9. Spread mixture evenly over prepared pan using an offset spatula, smoothing surface. Tap pan lightly on counter to release large air bubbles."
+- "10. Bake approximately 18 to 22 minutes. Look for pale golden edges peeling slightly from sides. The center should spring back under gentle pressure – not mushy or cracked."
+- "11. Cool 10 minutes on wire rack. Run a spatula around edges to free cake. Invert onto fresh parchment. Remove original parchment carefully. Cool completely (about 20 minutes)."
+- "12. Flip again so smooth side is on top. Trim two long edges to even cake thickness. This helps uniform rolling and removes browned crust."
+- "=== Assembly ==="
+- "13. Stir coconut into remaining berry syrup until evenly tinted purple; moisture softens fibrous coconut flakes making them fragrant and colorful."
+- "14. Whip heavy cream with powdered sugar and almond extract on medium-high speed until firm peaks form. Don't overwhip; cream should hold shape but remain pliable."
+- "15. Spread berry pulp evenly over cake surface using an offset spatula. Then spread three-quarters of whipped cream over that, smoothing gently."
+- "16. Cut cake in half widthwise to make two rectangles. Starting from the long edge, roll each up gently but firmly, using extended parchment to guide the roll and prevent cracks."
+- "17. Cover rolls with remaining whipped cream — thin layer only to avoid overpowering the structure. Immediately roll in coconut mixture, pressing lightly so flakes cling all around."
+- "18. Refrigerate assembled rolls for at least 1 hour or up to overnight. This firms cream and allows flavors to meld."
+- "19. Slice each roll into 3 equal portions using a sharp serrated knife. Wipe blade between cuts to maintain clean edges."
+- "20. Store leftovers in airtight container in fridge. Best within 2 to 3 days; coconut stays moist but not soggy."
+- "=== Tips & Troubleshooting ==="
+- "If meringue weeps liquid (we call it syneresis), then sugar wasn't beaten in fully or syrup was too hot. Cool syrup to room temp before folding."
+- "Cake shrinks when rolled? Let cool thoroughly. Slight trimming removes tough crust preventing cracks."
+- "Sub cedar (orange juice) for fresh lemon juice to soften acidity while adding citrus notes."
+- "Use coconut cream for dairy intolerance; omit sugar in cream if coconut cream too sweet."
+- "For more bite, toast coconut lightly before soaking. Adds nuttiness and crunch variation."
+- "Keep whipped cream cold; if it softens, pop back in fridge before finishing roll."
+- "Rolling technique key: don't rush; roll tightly but gently, easing with parchment under to prevent ripping."
+introduction: "Cold berries busted with sugar and water into syrup. Sharp citrus turned mellow; pulp cooked low and slow. Whip egg whites stiff then drenched them with sweet berry nectar — integrating yolks without deflating. Flour sifted, folded delicately like folding dreams. Spread thin in pan lined with parchment, wary of air bubbles that burn away flavor in oven’s heat. Cook until edges barely bronze and center still tender springy. Roll after warming, slick berry spread beneath clouds of whipped cream tinged almond and coconut soaked purple. Press coconut tight on cream, refrigerate to set the shape. Slice gently, serve cool. Keep secure in fridge; flavors settle. Classic rolled cakes require patience, but rewards? Worth every second."
+ingredientsNote: "Frozen berries hold texture after simmering, choose firm varieties like blueberries, blackcurrants, or raspberries if camerises unavailable. Adjust sugar slightly if using sweeter fruits. Orange juice trades acidity for fragrance—lemon juice works too for brightness. Egg whites must be room temperature and spotless bowl aids stiff peaks. Folding flour requires gentle hands; deflation ruins lift. Heavy cream can be substituted with coconut cream for dairy-free adaptation but skip added sugar if coconut cream is sweetened. Soaking coconut in syrup colors it while adding moisture and flavor punch. Powdered sugar stabilizes cream, almond extract replaces vanilla to give a subtle nutty edge—alter according to preference."
+instructionsNote: "Syphon syrup carefully to avoid pulp extraction, clarity enhances sponge moisture balance. Whip eggs to dry peaks, no sugar lags or syrup in hot state ensures stable meringue. Incorporate syrup and yolks slowly—the batter will be light and airy, don’t deflate with aggressive mixing. Folding flour is balancing act between full incorporation and keeping trapped air. Roll cake moving with parchment for support, trimming edges helps formation. Cool roll in fridge before slicing for clean portions. Coconut soak serves dual role: color and cohesiveness on outside. Whip cream peaks to hold stiff but still light texture allowing spread without breaking cake surface. Monitor baking with visual cues more than time. Listen for crackles when syrup thickens, look for glossy meringue tips, press sponge lightly to test doneness."
+tips:
+- "Work with room temp egg whites. Avoid any yolk in whites; they'll never whip. Whip until you see stiff peaks — glossy and stable. Pay attention when folding. It's a balance, too much can deflate it, too little, it'll be lumpy."
+- "If syrup is too hot, meringue collapses. Let it cool before mixing. Keep an eye on your cream; don't overwhip. You want stiff but still spreadable. Dip parchment into cakes, makes rolling easier, prevents cracks."
+- "Check for doneness by pressing the center, it should spring back. Look for pale golden edges. Always cool thoroughly before rolling. Cutting edges improves rolling, don’t skip this step. Clean knife edges matter."
+- "Toast coconut if desired. Adds crunch and flavor depth. Store leftovers in airtight container to maintain that texture. If you made too much syrup, freeze it for later. Works wonders in smoothies."
+- "Measure ingredients by weight for accuracy. A scale provides consistency every time. Variations in berries can throw sweetness off; adjust sugar accordingly. Keep an eye on those baking times but trust your senses."
+faq:
+- "q: How do I fix soggy cake? a: If sogginess happens, cake wasn't cooled enough. Ensure cooling is thorough. Also check syrup's sweetness; adjust for your preference. Don't rush rolling, be gentle."
+- "q: Can I freeze the rolls? a: Yes, freeze them after cutting. Wrap tightly in plastic; they keep well for a month. Thaw in fridge before serving. Taste remains surprisingly good."
+- "q: Substitutions for cream? a: Coconut cream works well, skip added sugar. ‘Whipped’ coconut cream can be tricky. It's temperamental, keep it cold. Use stabilized cream if worried."
+- "q: What if berries are too sweet? a: Adjust sugar levels in the syrup. Taste as you go, always better. Combining sweet with tart like citrus can help balance flavors."
+
+---
