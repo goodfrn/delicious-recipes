@@ -1,0 +1,97 @@
+---
+title: "Maple Blueberry Pavlova"
+slug: "maple-blueberry-pavlova"
+description: "A crisp low-heat baked meringue dome with a marshmallow interior. Layered with a custard-sweet maple cream and simmered blueberry compote boosted by a touch of lemon. Substitutes tapioca starch for corn starch, light cream swaps heavy, and honey replaces half the maple syrup for depth. Slow baking prevents cracking yet holds structure. Delicate folding preserves air in whipped whites. Blueberries cook down to syrupy, tart richness, balancing sweet custard and airy meringue. Garnish with fresh mint or candied zest for punch. Serving suggestions included. Gluten and nut free, vegetarian-friendly."
+metaDescription: "Maple Blueberry Pavlova is a complex dessert with airy meringue, rich custard, and tangy compote that's perfect for special occasions."
+ogDescription: "Indulge in Maple Blueberry Pavlova, a layered dessert with meringue, creamy custard, and tart blueberries for a stunning finish."
+focusKeyphrase: "Maple Blueberry Pavlova"
+date: 2025-08-17
+draft: false
+image: maple-blueberry-pavlova.png
+author: "Kate"
+prepTime: PT30M
+cookTime: PT2H15M
+totalTime: PT2H45M
+recipeYield: "8 servings"
+categories: ["Sweet Treats"]
+tags:
+- "dessert"
+- "French-Canadian"
+- "vegetarian"
+- "gluten-free"
+keywords:
+- "pavlova"
+- "blueberries"
+- "custard dessert"
+breadcrumb: ["Home", "Recipes", "Sweet Treats"]
+nutrition: 
+ calories: "270"
+ fatContent: "10g"
+ carbohydrateContent: "40g"
+ proteinContent: "5g"
+ingredients:
+- "=== Pavlova ==="
+- "10 ml (2 tsp) tapioca starch, dissolved"
+- "5 ml (1 tsp) white vinegar"
+- "4 large egg whites at room temp"
+- "112 g (1/2 cup plus 2 tbsp) granulated sugar"
+- "fresh mint leaves (optional)"
+- ""
+- "=== Maple Cream Custard ==="
+- "45 ml (3 tbsp) pure maple syrup"
+- "25 ml (1 1/2 tbsp) tapioca starch"
+- "4 egg yolks"
+- "240 ml (1 cup) whole milk"
+- "60 ml (1/4 cup) light cream 15-20% fat"
+- "15 ml (1 tbsp) honey"
+- ""
+- "=== Blueberry Compote ==="
+- "90 g (1/2 cup) frozen blueberries"
+- "20 ml (1 tbsp plus 1 tsp) pure maple syrup"
+- "7 ml (1 1/2 tsp) fresh lemon juice"
+instructions:
+- "=== Pavlova ==="
+- "1. Position oven rack center height. Preheat oven to 90 °C (195 °F). Line sheet pan with parchment; flip over. Draw 20 cm (8 inch) circle on back of paper as a guide."
+- "2. Blend tapioca starch into vinegar till smooth. Set aside."
+- "3. In a clean dry bowl, beat egg whites with electric mixer until foamy, unstable peaks. Add sugar slowly, tablespoon at a time, mixing vigorously after each addition. Watch mixture thicken, shine, and hold stiff peaks that stand straight. Peak should be glossy, not grainy. Use clean beaters for best pellicle."
+- "4. Gently fold in starch-vinegar mix with rubber spatula. Avoid deflating whites — incorporate steadily with wide strokes and rotation."
+- "5. Spoon meringue onto parchment, shape into a dome about 20 cm wide. Use spatula to hollow center creating a 12.5 cm wide nest — careful to keep shell walls roughly equal thickness. Texturize outer shell by dragging spatula upwards in quick strokes for bite and cracking control."
+- "6. Bake at 90 °C for about 2 hours or until exterior is firm and dry to touch but interior still soft and marshmallowy. Oven sounds will soften; pavlova releases a faint caramel aroma. Don't open oven door during baking."
+- "7. Turn oven off, leave pavlova inside to cool completely for 30-45 minutes to minimize cracking from temperature shock. Then remove paper carefully, transfer onto rack to cool fully (about 45 mins)."
+- ""
+- "=== Maple Cream Custard ==="
+- "8. Whisk maple syrup, honey, tapioca starch, and egg yolks in medium saucepan off heat for an evenly combined base. Stream in milk slowly."
+- "9. Stir over medium-low heat continuously with wooden spoon or heatproof spatula scraping bottom and sides — mixture thickens gradually, resembling soft pudding; hold for 20 seconds after thickening. Avoid bubbling or boiling aggressively to prevent curdling."
+- "10. Strain custard through fine sieve into bowl to remove any lumps. Cover surface directly with plastic wrap to block skin formation. Cool to room temperature, then refrigerate a minimum of 90 minutes until chilled and set."
+- ""
+- "=== Blueberry Compote ==="
+- "11. In small saucepan, combine blueberries, maple syrup, and lemon juice. Bring quickly to low boil, then reduce heat to a gentle simmer."
+- "12. Cook for about 7 minutes stirring occasionally until the mixture is slightly thickened and syrupy but berries still hold shape. Remove from heat, cool slightly."
+- "13. Cover with plastic wrap touching surface and refrigerate until fully cold — compote thickens further in cold."
+- ""
+- "=== Assembly ==="
+- "14. Whip light cream to stiff peaks; ensure no over-beating starts turning to butter."
+- "15. Beat maple custard with mixer to loosen and bring back to spreading consistency."
+- "16. Fold whipped cream gently into custard in portions to keep airy texture."
+- "17. Fill pavlova center with half the maple cream mixture, spread evenly but not pressed. Top with half the blueberry compote gently spooned on."
+- "18. Repeat layering with remaining cream and compote over top. Garnish with fresh mint leaves or frozen citrus zest if desired."
+- "19. Serve immediately for best texture contrast — meringue crisp edges, creamy custard, tart jammy berries."
+- ""
+- "=== Tips and Substitutions ==="
+- "If no tapioca starch, corn starch can be used but taut folding required to avoid excess moisture weakening meringue. Vinegar helps stabilize whites but lemon juice is an alternative acidic agent. Heavy cream can replace light cream for a richer custard, just skip honey. Fresh berries can substitute frozen compote but cook less to keep shape. If meringue cracks, it likely cooled too fast or had sugar added too rapidly. Whisk whites at room temperature for maximum volume. Accidental grainy sugar? Keep beating longer — sugar needs to be dissolved fully."
+introduction: "Airy meringue, baking low and slow to avoid fractures. The faint crackle signalling dried exterior but yielding pillow-soft inside. Maple notes layered through a custard thickened with tapioca adds texture and a robust sweetness that honey deepens. Slow-simmered blueberries build tartness, their syrup clinging to fruit. Cream whipped just right to fold into custard without breaking down structure. The nesting technique protects delicate interior, traps cream and compote. Timing flexed to your oven's beast, guided by touch and glossiness rather than clock alone. Garnish adds freshness. The dance between airy, creamy, and jammy."
+ingredientsNote: "Tapioca starch offers less gritty mouthfeel than cornstarch and holds moisture better in meringue. Vinegar stabilizes egg whites, avoiding weeping and collapse. Room temperature egg whites whip higher, incorporate air easier. Honey works with maple to avoid one-dimensional sweetness; if not available, maple alone works but less depth. Frozen blueberries reduce prep but fresh is excellent; just reduce cooking to avoid mush. Light cream tones down fat, maintains lightness. Mint optional but brightens sweet and acidic combos. Prepare all elements chilled to properly assemble without melting or collapsing fragile meringue."
+instructionsNote: "Meringue demands patience — slow adding sugar dissolves crystals, encouraging glossy peaks. Folding starch prevents sugar leakage, stabilizes foam. Oven low and steady dries without browning, cracking due to sudden heat changes. Cooling in closed oven finishes drying without cracks, happens less if oven door is opened. Custard thickens when starch swells; scald milk slowly to prevent lumps and overcooking eggs. Straining custard removes grainy bits—skip and risk gritty mouthfeel. Cook blueberry compote till syrupy but berries still intact — mush kills contrasting texture. Whipping cream last avoids overmixing. Fold cream gently to preserve volume. Assembly quick to keep pavlova crisp. Serve soon or bring back crisp using low oven heat briefly."
+tips:
+- "Room temp egg whites whip better, high volume. Patience when adding sugar — dissolve fully. Glossy peaks matter, avoid grainy."
+- "Too much moisture will wreck meringue. Use a clean bowl, no grease. Stick with tapioca for smoother texture. Corn starch works, just be careful."
+- "Cooling meringue too quickly? Cracks show up. Leave in warm oven after baking. Gradual cooling helps stabilize and avoid shock."
+- "Custard clumps? Strain it! Avoids grainy texture. Stirring constantly necessary — prevents burning. Simple mistake, can ruin finish."
+- "Layering quickly is key. Pavlova dries out. Serve soon after assembly. Don’t let it sit; textures lose contrast."
+faq:
+- "q: Why did my pavlova crack? a: Often due to rapid cooling, or sugar added too fast. Watch oven temps, keep door shut while baking. Cracks indicate issues."
+- "q: Can I use fresh blueberries instead of frozen? a: Yes, just reduce cooking time. Fresh may burst easier, be gentle. Must monitor closely."
+- "q: How do I store leftovers? a: Best eaten fresh, but if needed, keep meringue separately from cream and compote. Pack carefully to avoid sogginess."
+- "q: What if my cream won’t whip? a: Check for fat content. If too low, no good. Use very cold cream. If all fails, beat longer. Avoid overbeating though."
+
+---
