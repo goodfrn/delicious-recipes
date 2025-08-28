@@ -4,6 +4,9 @@
 {{ $description := cond (isset .Params "description") .Params.description .Site.Params.description }}
 {{ $image       := cond (isset .Params "image") (index .Params.image 0) .Site.Params.defaultImage }}
 
+{{/* pinterest */}}
+<meta name="p:domain_verify" content="7fb529081daa77710edda75452fcc1e7"/>
+
 <!-- OpenGraph -->
 <meta property="og:type"        content="{{ if .IsHome }}website{{ else if eq .Section "recipes" }}article{{ else }}website{{ end }}">
 <meta property="og:title"       content="{{ $title }}">
