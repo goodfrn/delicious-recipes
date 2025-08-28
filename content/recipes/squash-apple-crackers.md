@@ -1,5 +1,5 @@
 ---
-title:"Squash Apple Crackers"
+title: "Squash Apple Crackers"
 slug: "squash-apple-crackers"
 description: "Small bites mingling roasted Delicata squash and Fuji apple. Light syrup textures, warm spice hints from coriander instead of cumin. Spread almond butter on toasted olive oil crackers. Crunch balanced with soft fruit compote and crisp nut topping. Vegan, gluten free, egg free and lactose free appetizer. Simple ingredients upgraded with a touch of citrus and aromatic peel zest. Serve cold or slightly chilled. Storage up to five days refrigerated. Substitutions offered for nuts and crackers to suit allergies or pantry limits."
 metaDescription: "Squash Apple Crackers feature roasted Delicata squash and Fuji apple. A vegan, gluten free appetizer with rich flavors."
