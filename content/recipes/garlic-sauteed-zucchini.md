@@ -1,5 +1,5 @@
 ---
-title:Perfect Sides "Garlic Sautéed Zucchini Medley"
+title: "Garlic Sautéed Zucchini Medley"
 slug: "garlic-sauteed-zucchini"
 description: "Two types zucchini chopped thick, garlic and scallions chopped fine; olive oil toasted with fresh herbs; quick sauté to tender-crisp. Substitute thyme for oregano or chives for scallions. Simple seasoning. Technique focuses on heat management to avoid soggy squash. Watch color changes, slight caramelization signals ready. Timing guided by texture, not clock. Serve alongside pork crusted in herbs or honey-coriander salmon."
 metaDescription: "Garlic Sautéed Zucchini Medley for a quick, vibrant side with herbs. Master heat control, balance flavors, enjoy tender-crisp zucchini."
