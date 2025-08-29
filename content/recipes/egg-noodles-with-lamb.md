@@ -1,5 +1,5 @@
 ---
-title:Noodle Dishes "Egg Noodles with Spiced Lamb"
+title: "Egg Noodles with Spiced Lamb"
 slug: "egg-noodles-with-lamb"
 description: "Egg noodles cooked al dente tossed with a seared blend of spicy merguez sausage and ground lamb. Finished with white wine deglaze and a sharp aged pecorino cheese. No gluten, dairy, or nuts used. Quick sear for deep browning important. Wine cuts through fat. Final seasoning adjustment crucial. Substituted Italian sausage for merguez, pecorino for parmigiano. Onion replaced with fennel for slight anise twist. Total time about 28 minutes."
 metaDescription: "Egg Noodles with Spiced Lamb cooked with spicy sausage and ground lamb. Quick recipe delivers punchy flavors."
