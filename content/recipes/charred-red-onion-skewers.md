@@ -1,5 +1,5 @@
 ---
-title:Perfect Sides "Charred Red Onion Skewers"
+title: "Charred Red Onion Skewers"
 slug: "charred-red-onion-skewers"
 description: "Thick slices of large Spanish red onions threaded on soaked skewers, brushed with olive oil and sprinkled with fresh rosemary. Seasoned simply with sea salt and cracked pepper. Grilled over medium heat until soft with char marks. Aromas sharp, sweet, smoky. Serve off skewers to release sweetness. Uses rosemary instead of thyme. Skewer soak prevents burning. Cook 12 minutes, looking for translucent edges and slight collapse. Best on gas grill or charcoal ember bed. Substitute shallots or white onions for variations. Omit oil for no-fat but watch sticking. A smoky, tender base for salads or sides."
 metaDescription: "Charred Red Onion Skewers elevate grilled vegetables with bold flavor thanks to rosemary, olive oil, and smoky char."
