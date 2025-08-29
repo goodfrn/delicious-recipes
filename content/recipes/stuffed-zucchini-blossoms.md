@@ -1,5 +1,5 @@
 ---
-title:Starters & Nibbles "Stuffed Zucchini Blossoms"
+title: "Stuffed Zucchini Blossoms"
 slug: "stuffed-zucchini-blossoms"
 description: "Zucchini flowers filled with a medley of summer vegetables, simmered cream reduced to balance richness. Aromatic herbs—rosemary swapped for thyme, parsley for basil—brighten layers. White wine swapped for dry vermouth adds subtle depth. Slow sauté brings out natural sweetness in carrots and celery; bell pepper replaced by diced yellow squash for gentle flavor twist. Finished gently braised in a light vegetable broth. Techniques focus on tight folding of fragile petals, reducing risk of tearing. A simple dish packing vegetable essence, creamy texture, fresh herbs. No gluten, no nuts, no eggs. Timing tricks anchored on visual cues: butter bubbling low, cream thickening till silk, broth simmer whisper before oven drop."
 metaDescription: "Stuffed Zucchini Blossoms. Light yet rich. Filled with summer vegetables and herbs. Creamy texture, aromatic finish. Perfect for warm evenings."
