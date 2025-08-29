@@ -1,5 +1,5 @@
 ---
-title:Starters & Nibbles "Leek Apple Camembert Galette"
+title: "Leek Apple Camembert Galette"
 slug: "leek-apple-camembert-galette"
 description: "Flaky puff pastry layered with sautéed leeks and crisp apple slices. Tangy Reblochon cheese swapped in for Camembert for richer melt. Toasted walnuts instead of pine nuts for crunch. Sweetened with a drizzle of maple syrup over buttery filling. Bake until golden, edges puffed, and juices bubbling. Balance of savory, sweet, and nutty textures with peppery pink peppercorns for bite."
 metaDescription: "Leek Apple Camembert Galette combines flaky pastry with savory leeks, sweet apples, and rich Reblochon cheese for an appetizer full of texture."
