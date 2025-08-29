@@ -1,5 +1,5 @@
 ---
-title:Refreshing Drinks "Twisted Corpse Reviver"
+title: "Twisted Corpse Reviver"
 slug: "twisted-corpse-reviver"
 description: "A citrus-driven cocktail riffed from the classic corpse reviver, swapping absinthe for herbaceous chartreuse, and Cointreau for a clean elderflower liqueur. Bright lemon juice cuts through the botanical richness. Cold shaker, rapid shaking to tame dilution. Orange zest for aroma. Serves two. A brunch punch with a dart of herbal intrigue and bright acid. Best served cold but avoid overdilution—watch the ice melt carefully."
 metaDescription: "Twisted Corpse Reviver cocktail mixes herbal Chartreuse, elderflower liqueur, and fresh lemon for a tart, bright experience. Great for brunch."
