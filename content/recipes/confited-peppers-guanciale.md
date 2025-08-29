@@ -1,5 +1,5 @@
 ---
-title:Perfect Sides "Confited Peppers with Guanciale"
+title: "Confited Peppers with Guanciale"
 slug: "confited-peppers-guanciale"
 description: "Peppers slowly cooked till deeply caramelized, joined by crisped guanciale replacing pancetta for nuanced pork fat flavor. Fresh tarragon and chives introduced instead of parsley for herbal lift. Olive oil gently blistering as peppers soften. Method focuses on controlling heat to avoid bitter burnt edges yet coax max sweetness. Listen for subtle sizzle shifts, watch color deepen from bright red to molten ruby. Drain excess fat but keep just enough for coating. Salt and freshly cracked black pepper finish. Serve warm or just shy of room temperature. Ideal as a rustic spread or alongside crusty bread."
 metaDescription: "Confited Peppers with Guanciale; peppers caramelized, guanciale crisped. A rustic spread bursts with flavors. Perfect alongside crusty bread."
