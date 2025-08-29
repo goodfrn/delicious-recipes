@@ -1,5 +1,5 @@
 ---
-title:Hearty Mains "Souvlaki Brochettes Twist"
+title: "Souvlaki Brochettes Twist"
 slug: "souvlaki-brochettes-twist"
 description: "Chicken cubes marinated in a vibrant mix of olive oil, orange juice, fresh thyme, and garlic, skewered and grilled over high heat until edges crisp up and juices seal in. The marinade includes a touch of smoked paprika and chili flakes for a subtle smoky heat. Served with charred pita, herbed rice, and a cooling cucumber-yogurt sauce. Dairy and gluten free with flexible meat options like pork loin or turkey breast."
 metaDescription: "Souvlaki Brochettes Twist features chicken marinated in orange juice, grilled perfectly with charred pita and herbed rice. Flavorful and gluten free."
