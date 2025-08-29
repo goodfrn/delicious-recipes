@@ -1,5 +1,5 @@
 ---
-title:Hearty Mains "Ricotta Spinach Calzones"
+title: "Ricotta Spinach Calzones"
 slug: "ricotta-spinach-calzones"
 description: "Hand-shaped calzones stuffed with a creamy blend of ricotta, mozzarella, and feta, fresh spinach, and scallions. The dough is portioned, rolled thin, then crimped tight to trap the hot cheese filling. Baked at high heat until golden brown with hints of caramelized spots. Ideal for vegetarian mains. Avoid soggy bottoms by proper dough thickness and egg wash seal. Variations include substituting mozzarella with provolone and adding nutmeg to the cheese mix."
 metaDescription: "Ricotta Spinach Calzones with creamy filling, golden crust. A vegetarian delight that's satisfyingly cheesy with a burst of flavor in every bite."
