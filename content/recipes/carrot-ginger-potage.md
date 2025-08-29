@@ -1,5 +1,5 @@
 ---
-title:Comfort Bowls "Carrot Ginger Potage"
+title: "Carrot Ginger Potage"
 slug: "carrot-ginger-potage"
 description: "A creamy carrot soup without cream or butter. Uses vegetable broth and fresh ginger for a warming twist. Cook until carrots are fork-tender, then purée until smooth. Season well, tasting as you go. Easy to swap ingredients and adapt for allergies. The ginger adds a subtle heat and brightness, balancing the sweetness of the carrots."
 metaDescription: "Carrot Ginger Potage brings warm flavors and textures, a creamy soup sans dairy. Perfect for winter nights, embrace healthy comfort in every spoonful."
