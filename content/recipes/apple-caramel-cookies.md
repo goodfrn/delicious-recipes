@@ -1,5 +1,5 @@
 ---
-title:Sweet Treats "Apple Caramel Cookies Twist"
+title: "Apple Caramel Cookies Twist"
 slug: "apple-caramel-cookies"
 description: "Soft cookies with a tart apple filling and salted caramel topping. Uses a mix of spelt and all-purpose flour for texture. Replaces Ambrosia apples with Granny Smith for brightness. Adds nutmeg to the filling for warmth. Caramel swapped with dulce de leche infused with sea salt flakes. The apple filling thickened with arrowroot instead of cornstarch. Cook until apples soften but retain bite. Cookies baked till edges just turn golden, centers remain tender. Let caramel cool slightly before spreading to avoid melting. Perfect balance of sweet, tart, and salty."
 metaDescription: "Apple Caramel Cookies Twist combines soft cookies with tart apple filling; salted caramel topping, unique blend of flours for texture."
