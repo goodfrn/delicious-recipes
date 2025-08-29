@@ -1,5 +1,5 @@
 ---
-title:Flavor Boosters "American-Style Mayo Twist"
+title: "American-Style Mayo Twist"
 slug: "mayo-twist"
 description: "A mayo variant for fries, shrimp, hot pot. Uses altered tomato paste and harissa replaced by smoked paprika and lemon zest, slight quantity shifts. Emphasis on texture and aroma cues, quick whip method. Allergen-free, vegan, gluten and dairy-free."
 metaDescription: "American-Style Mayo Twist offers a vegan mayo perfect for fries, shrimp and more; texture, aroma and flavor shine through precision."
