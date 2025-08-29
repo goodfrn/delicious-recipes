@@ -1,5 +1,5 @@
 ---
-title:Noodle Dishes "Rosemary Pink Sauce"
+title: "Rosemary Pink Sauce"
 slug: "rosemary-pink-sauce"
 description: "A creamy tomato-based sauce infused with rosemary and thyme, finished with pecorino instead of parmesan. Uses olive oil instead of butter for a lighter touch, and adds a pinch of chili flakes for subtle heat. Cook garlic and herbs low and slow, extract flavors fully before combining with tomato puree and cream. Simmer gently till sauce blisters and thickens with reddish sheen. Serve with fresh pasta or gnocchi. Salt and black pepper finish it off. No gluten, nuts, or eggs in recipe. Simple ingredients build layers of aroma and texture."
 metaDescription: "Rosemary Pink Sauce recipe combines creamy textures, aromatic herbs, and tangy tomato for a versatile dish that elevates any pasta meal."
