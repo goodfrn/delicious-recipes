@@ -1,5 +1,5 @@
 ---
-title:Comfort Bowls "Twisted Colcannon Mash"
+title: "Twisted Colcannon Mash"
 slug: "twisted-colcannon-mash"
 description: "A rustic Irish-inspired mash that swaps Savoy cabbage for kale and butter for olive oil. Starchy Yukon Gold potatoes play well with a touch of crème fraîche and almond milk for richness. Onion slivers sautéed with garlic add aromatic depth. Technique focuses on texture: chunky with smooth finish. Controlled simmering and careful liquid adjustments keep it saucy but not soupy. Ideal for 5 servings. Gluten, nut, and egg-free options noted. Salt and pepper to taste. A kitchen-savvy take with substitution tips and timing tricks baked into each step."
 metaDescription: "Twisted Colcannon Mash combines Yukon Gold potatoes and kale for a rustic Irish-inspired dish. Rich, creamy flavor with a unique twist, sans butter."
