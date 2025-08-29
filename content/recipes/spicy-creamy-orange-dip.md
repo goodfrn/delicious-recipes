@@ -1,5 +1,5 @@
 ---
-title:Dairy Delights "Spicy Creamy Orange Dip"
+title: "Spicy Creamy Orange Dip"
 slug: "spicy-creamy-orange-dip"
 description: "A savory dip blending cream cheese, Greek yogurt, and a tangy orange hot sauce base. Smoky paprika replaces chili powder for a mellow heat profile. Lime juice adds brightness. Balanced spices with cayenne and a touch of garlic powder. Perfect for veggie trays or chips. Refrigerate briefly to meld flavors. Versatile. Dairy-forward texture with smooth but slightly thick consistency. Quick to whip, no cooking required."
 metaDescription: "Spicy Creamy Orange Dip combines cream cheese and Greek yogurt for a zesty snack. Perfect for chips and veggie trays."
