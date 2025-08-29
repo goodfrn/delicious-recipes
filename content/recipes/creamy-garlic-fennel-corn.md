@@ -1,5 +1,5 @@
 ---
-title:Perfect Sides "Creamy Garlic Fennel Corn"
+title: "Creamy Garlic Fennel Corn"
 slug: "creamy-garlic-fennel-corn"
 description: "Corn simmered gently in a rich garlic-fennel cream, accented with ground aniseed and zesty lemon. Soft garlic melds with tender fennel pieces forming a velvety sauce. Corn cooks just tender in salted water, then brightened with lemon and spiced with Korean chili flakes or smoked paprika. A fresh fennel frond garnish cuts through richness. Grainy textures meet smooth silkiness. A deceptively simple technique turns humble ingredients savory and layered. Works vegetarian, gluten-free, and nut-free. Swap fennel for celery root or leek if unavailable. Cream can be reduced fat but not skim. Timing shifts slightly with corn freshness."
 metaDescription: "Creamy Garlic Fennel Corn combines rich garlic cream with fresh corn in a savory, textured dish bursting with flavors and aromas."
