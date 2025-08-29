@@ -1,5 +1,5 @@
 ---
-title:Comfort Bowls "Grilled Halloumi Chickpea Salad"
+title: "Grilled Halloumi Chickpea Salad"
 slug: "grilled-halloumi-chickpea-salad"
 description: "Asparagus quickly sautéed till just tender, tossed with chickpeas and diced summer squash, dressed in tangy Dijon-mayo-citrus mix. Thick halloumi slices charred to crusty edges sealing creamy interior. Fresh torn mint swaps basil adding cooling punch; zucchini replaces courgette enhancing texture. Garlic in oil softens under high heat releasing aroma but doesn’t brown to avoid bitterness. Key to balance is warm salad meeting hot grilled cheese—textures contrast, flavors snap. Uses chickpeas drained but not dried out, coating them lightly keeps flavor punch. Quick prep, fast cook, total about 35 minutes, serves 4 eager bowls. No nuts, gluten-free, vegetarian."
 metaDescription: "Grilled Halloumi Chickpea Salad offers vibrant textures and flavors for a quick, nutritious summer meal that’s gluten-free and vegetarian."
