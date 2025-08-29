@@ -1,5 +1,5 @@
 ---
-title:Starters & Nibbles "Sticky Pork Meatballs Basil Apple"
+title: "Sticky Pork Meatballs Basil Apple"
 slug: "sticky-pork-meatballs"
 description: "Pork meatballs glazed with a thick, sweet-savory lacquer using low sodium soy, honey, and sake. Fresh green apple adds crisp contrast with basil's herbal punch. Breadcrumbs swapped for crushed rice crackers for texture variation. Sambal oelek swapped out for a splash of grated ginger for warmth without heat. Mirin replaced by sake, cassonade lowered. Timing adjusted. Cook meatballs until springy but cooked through, toss in syrupy glaze, skewer alternating basil, meat, apple. Clear layers of flavor, tactile contrast, and glossy finish. Technique focuses on visual cues and texture over rigid timing. Practical notes included for substitutions, moisture control, and plating finesse."
 metaDescription: "Sticky Pork Meatballs Basil Apple bring sweet-savory glaze, bright basil, crisp apple—balance of flavors and textures with practical cooking tips."
