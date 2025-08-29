@@ -1,5 +1,5 @@
 ---
-title:Fresh Catch "Grilled Shrimp Coconut Romaine"
+title: "Grilled Shrimp Coconut Romaine"
 slug: "grilled-shrimp-coconut-salad"
 description: "Grilled shrimp marinated briefly in a balanced mix of lime and a touch of honey for gentle sweetness. Crisp romaine leaves halved and dressed in a creamy coconut milk vinaigrette brightened with ginger and lime juice. Mango swapped for ripe papaya offering sweetness and a subtly different texture. Sprouts changed to thinly sliced snap peas for crunch and mild flavor. Onion soaking in cold water with rice vinegar instead of lemon to mellow sharpness. Grilling shrimp over high heat gives that sizzle and smoky aroma; key is watching their color change to opaque with pink highlights. Mixing wet and dry ingredients separately before tossing saves texture and flavor integrity."
 metaDescription: "Grilled Shrimp Coconut Romaine combines smoky grilled shrimp with fresh romaine and a rich coconut vinaigrette for a vibrant meal bursting with flavors."
