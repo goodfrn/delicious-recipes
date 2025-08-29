@@ -1,5 +1,5 @@
 ---
-title:Hearty Mains "Frittata Crispy Onion"
+title: "Frittata Crispy Onion"
 slug: "frittata-crispy-onion"
 description: "Oven-finished egg dish loaded with caramelized onions and crushed chips. Uses Greek yogurt instead of sour cream, swaps chives for fresh parsley. Onions cooked until deeply golden and sweet, eggs soak up the crunch and moisture, baked just till set. Caramelization brings a rich aroma, chips add unexpected texture. A satisfying vegetarian main, gluten-free, nut-free, with a bright herb finish. Timing hinges on visual cues—golden edges and a slightly puffed center signal doneness. Simple ingredients; technique-focused, relying on tactile doneness rather than the clock alone."
 metaDescription: "Frittata Crispy Onion is a savory egg dish with crispy potato chips, caramelized onions, and a rich Greek yogurt finish. A must-try vegetarian delight."
