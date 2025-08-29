@@ -1,5 +1,5 @@
 ---
-title:Sweet Treats "Cherry Cheese Pockets"
+title: "Cherry Cheese Pockets"
 slug: "cherry-cheese-pockets"
 description: "Semi-flaky pastry pockets filled with a tart cherry and cream cheese mixture. The filling is thickened with potato starch instead of cornstarch, and mascarpone replaces quark for a richer texture. The pastry lattice top vents steam for a crispy finish. Uses frozen cherries and tangy preserves. Baking times and steps slightly adjusted to optimize filling set and crust color. Ideal for quick dessert or snack. No nuts, naturally gluten-free pastry possible with store-bought dough alternatives."
 metaDescription: "Cherry Cheese Pockets are flaky pastries filled with rich mascarpone and tart cherries. A unique treat with perfect appeal."
