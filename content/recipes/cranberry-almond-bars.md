@@ -1,5 +1,5 @@
 ---
-title: "Cranberry Almond Bars Refined"
+title: "Cranberry Almond Bars Refined" 
 slug: "cranberry-almond-bars"
 description: "Bars with a nutty crumb base and tart cranberry topping. Modified quantities with less sugar in the topping and flour swapped. Honey replaces part of the sugar, adding depth. Walnuts instead of almonds for texture variation. Pressed cranberry layer releases a hint of zesty tartness when baked. The base is chilled before baking to hold its shape, avoiding soggy crusts. Bake until amber edges and bubbly bubbling, not overcooked or wet in center. Cut neat bars once cool, stored at room temperature, absorb ambient moisture—expect slight softening over time. Visual cues and aromas guide doneness more than timers."
 metaDescription: "Cranberry Almond Bars Refined offer tart cranberry flavor combined with nutty walnuts. A perfect snack, balancing sweet and tart beautifully."
