@@ -1,5 +1,5 @@
 ---
-title:Comfort Bowls "Pea Ravioli Broth"
+title: "Pea Ravioli Broth"
 slug: "pea-ravioli-broth"
 description: "A rustic soup featuring soft ravioli cooked separately to maintain texture. Onion sweated in oil until translucent releases sugars for depth. Deglazed with optional brandy adds subtle warmth; broth brightened with honey balances richness. Frozen peas introduced late keep their snap and fresh color. Salt and pepper adjusted at the end depending on broth strength. Garnished with drizzle of peppery olive oil. A quick, comforting bowl that respects ingredient integrity and timing to avoid mushy pasta or dull broth."
 metaDescription: "Pea Ravioli Broth brings comfort in every bowl; vibrant flavors and textures shine through. Homemade goodness in 45 minutes."
