@@ -1,0 +1,98 @@
+---
+title: "Caramelized Bread Pudding with Spiced Rum Sauce"
+slug: "caramelized-bread-pudding"
+description: "Custardy bread soaked in a rich blend of cream and orange blossom water, sweetened with maple syrup and lightly spiced with nutmeg. Dry apricots swapped for raisins add a subtle chew and brightness. Fluffy meringue dusted with powdered sugar crowns the pudding, browned under the broiler just right. A thickened rum sauce enriched with bourbon and a hint of ginger complements the dish. Timing guided by texture and color not clock. Adapt flour from bread crusts if needed; no waste approach for stale loaf. Conservation tip included for meringue leftovers. Classic French technique meets rustic flair."
+metaDescription: "Caramelized Bread Pudding with Spiced Rum Sauce; a custardy delight with rich cream, maple syrup, and warm spices. A must-try dessert."
+ogDescription: "Indulge in Caramelized Bread Pudding with Spiced Rum Sauce; custardy, rich, and topped with fluffy meringue. Perfect for dessert lovers."
+focusKeyphrase: "Caramelized Bread Pudding"
+date: 2025-09-24
+draft: false
+image: caramelized-bread-pudding.png
+author: "Kate"
+prepTime: PT30M
+cookTime: PT50M
+totalTime: PT1H20M
+recipeYield: "8 servings"
+categories: ["Sweet Treats"]
+tags:
+- "dessert"
+- "pudding"
+- "bread"
+- "rum"
+- "meringue"
+keywords:
+- "custard dessert"
+- "apricot pudding"
+- "French-Canadian dessert"
+breadcrumb: ["Home", "Recipes", "Sweet Treats"]
+nutrition: 
+ calories: "360"
+ fatContent: "13g"
+ carbohydrateContent: "50g"
+ proteinContent: "7g"
+ingredients:
+- "=== Pudding ==="
+- "200 ml (7/8 cup) heavy cream 35%"
+- "90 ml (3/8 cup) whole milk"
+- "45 ml (3 tbsp) maple syrup"
+- "5 ml (1 tsp) orange blossom water"
+- "130 g (2/3 cup) brown sugar packed"
+- "4 large eggs"
+- "1 pinch ground nutmeg"
+- "200 g (4 cups) stale bread cubes without crust"
+- "40 g (1/4 cup) dried apricots chopped"
+- ""
+- "=== Meringue ==="
+- "5 egg whites"
+- "50 g (1/2 cup) powdered sugar"
+- ""
+- "=== Rum Sauce ==="
+- "20 ml (1 1/3 tbsp) cornstarch"
+- "25 ml (1 2/3 tbsp) water"
+- "90 ml (3/8 cup) maple syrup"
+- "60 ml (1/4 cup) bourbon or dark rum"
+- "3 ml (1/2 tsp) grated fresh ginger"
+instructions:
+- "=== Pudding ==="
+- "1. Middle rack, preheat oven to 175 ºC. Bread must be dry but not rock hard. If too fresh, toast lightly first to dry; crusts trimmed to avoid toughness."
+- "2. Whisk cream, milk, syrup, orange blossom water, brown sugar, eggs, and nutmeg until smooth. Pour over bread cubes and chopped apricots; stir gently but thoroughly so every cube soaked. Rest at room temp 8-12 minutes. Bread should feel heavy, custardy but not mush."
+- "3. Transfer to a buttered deep baking dish, about 2 liters capacity. Press down lightly to submerge cubes but avoid mashed texture."
+- "4. Bake 35 minutes until custard sets; testing done by slight jiggle center and a lightly browned top. It will feel tender but stable. Remove; turn oven to broil."
+- ""
+- "=== Meringue ==="
+- "5. In clean, dry bowl beat egg whites to soft peaks. Gradually add sugar, beating until stiff, glossy peaks form. Avoid overbeating; it dries out and cracks."
+- "6. Immediately spread or pipe meringue atop warm pudding, sealing edges to lock moisture."
+- "7. Place under broiler 1-2 minutes, watching closely. Golden spots appear first. Pull when meringue develops bubbly sheen and faint caramel color. Overbake = rubbery shell."
+- ""
+- "=== Rum Sauce ==="
+- "8. Mix cornstarch and water in small bowl until dissolved."
+- "9. In saucepan, bring syrup, bourbon, and grated ginger to low boil, stirring occasionally."
+- "10. Slowly whisk in cornstarch slurry while simmering. Sauce thickens quickly; once it coats spoon (nappe stage), remove from heat."
+- ""
+- "=== Serving ==="
+- "11. Using wooden spoon handle, break small hole in meringue center. Spoon half the warm sauce inside."
+- "12. Serve pudding hot with remaining sauce on side for drizzling. Optionally garnish with toasted nuts or candied ginger."
+- ""
+- "=== Tips and Troubleshooting ==="
+- "If bread overly soggy, increase baking time by 5-7 minutes, cover loosely with foil to prevent browning early. For drying meringue leftovers, bake at 90 ºC for 20 minutes, then cool to crisp for snacks."
+- "Substitute bourbon with aged rum for deeper flavor; orange blossom water can be replaced with 5 ml vanilla extract but expect less floral aroma."
+- "Too thin rum sauce (rare on modern stovetops)—add extra cornstarch in tiny increments, reheating gently. Sauce grainy? Strain before use."
+- "Use day-old baguette for best texture; softer sandwich bread may yield mushier pudding."
+- "Watch broiler constantly; meringue can burn in under a minute."
+- "Leftover pudding reheats best wrapped in foil in low oven; avoid microwave to keep meringue texture."
+introduction: "Bread pudding loosens up the stubborn stale loaf better than most. Soft custard pockets marry chewy apricot chunks; the dual fat of cream and milk hits right. Maple syrup sweetens without cloying, orange blossom adds unexpected floral lift. Brown sugar's caramel notes sneak in, nutmeg whispers warm spice. Aim for custard firmness, not rock solid. The meringue — fluff that browns fast, sealing heat and texture. Rum sauce with a fresh ginger kick, thick enough to coat but not glue. Kitchen smells bloom, sounds hum. Baking timed on sight, not clock. Learn the signs — a wet wobble, golden peaks. Technique forged through trial; meringue’s fickle but mastery comes with practice. Substitute flavors, know the tweaks — avoid sogginess, save leftovers. Simple but nuanced dessert."
+ingredientsNote: "Bread quality makes or breaks; avoid soft white sandwich bread unless dried well. Stale crusty bread or baguette preferred—crumbs soak liquid without disintegrating. Trimming crust from bread reduces toughness in pudding but keep some for texture. Maple syrup is main sweetener; feel free swapping up to 25% with honey or agave depending on desired intensity. Orange blossom water replaced with vanilla extract if unavailable but note flavor shifts. Brown sugar provides moistness and caramel depth, white sugar can be used but flavor flattens. Apricots introduce tartness, raisins can replace if preferred. Egg whites must be fresh and at room temperature for stable meringue. Powdered sugar essential to smooth meringue; granulated sugar dissolves poorly. Bourbon or dark rum can be used interchangeably; ginger adds warmth to sauce but omit for milder palate. Cornstarch slurry thickens sauce quickly but avoid lumps by slow incorporation."
+instructionsNote: "Preheat oven fully before starting to ensure even cooking. Soaking bread at room temp critical; too long leads to mush, too short means dry pockets—texture through gentle pressing with fingers. Baking long enough allows custard proteins to coagulate but beware overbaking; pudding should wobble slightly in center, not look firm as concrete. Broiler step for meringue needs vigilance—shifting rack if uneven browning occurs. Meringue thickness should fully cover pudding but not excessively thick to avoid sogginess underneath. Whisk egg whites in clean bowl—no oil contamination or whites won’t aerate properly. Gradual sugar addition stabilizes foam. Rum sauce thickened to nappe stage; stir constantly to avoid scorching. Warm sauce to pour gently into puckered meringue opening to allow steam escape without deflating dome."
+tips:
+- "Old bread? Ditch the fresh. Day-old baguette or crusty bread works best. Dried out bread soaks up liquid, avoids mushy mess. Keep crust trim for some texture."
+- "Meringue tricky—watch that bowl. Ensure no fat or yolk in whites. Gradual sugar adds stability. Beating too long? Overdo it, meringue cracks. Aim for soft, shiny peaks."
+- "Rum sauce—thick too thin? Stir in cornstarch slowly. Low boil, not too hard. Add more to fix it's runny. Make sure constant stirring; don’t burn the bottom."
+- "Broiler step needs constant eyes; one minute can ruin that meringue. Golden spots mean close, but not quite done. Pull when bubbly sheen appears."
+- "Storage hassle? Want leftovers? Wrap pudding in foil, keep in low oven. Avoid the microwave. Dry out meringue? Bake remnants at 90 ºC for crispy snack."
+faq:
+- "q: Bread too soggy? a: Increase bake time by 5-7 minutes. Use foil for browning issues. Watch closely."
+- "q: Meringue not holding? a: Did you whip whites properly? Check for fat or water. Gradual sugar helps stabilization."
+- "q: Sauce too thin? a: Add cornstarch gradually, whisk as it simmers. Rethink heat to avoid burning, stir often."
+- "q: Best storage method? a: Cooler in fridge or preserve in foil. Meringue doesn't microwave well; reuse it after baking."
+
+---
