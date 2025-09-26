@@ -1,0 +1,97 @@
+---
+title: "Spaghetti Squash Asian Pork Stir-Fry"
+slug: "spaghetti-squash-pork-stir-fry"
+description: "Roasted spaghetti squash shredded and tossed with olive oil and toasted sesame, topped with a quick pork stir-fry. The pork slices sear until caramelized; bell pepper and scallions sizzle alongside ginger and garlic. The sauce thickens to a glossy coating with hoisin, soy, rice vinegar, and chicken stock, slightly modified with fish sauce and mirin for depth. A hint of chili paste warms the dish without overpowering. Serve over fragrant strands of squash, garnished with reserved scallion greens for crunch. Balanced fat, umami, and sweetness — all visible cues and textures guide the timing and success. Simple swap ingredients stand ready if pantry is sparse or allergies strike."
+metaDescription: "Spaghetti Squash Asian Pork Stir-Fry offers layers of flavor with tender pork and roasted squash, perfect for a satisfying meal that’s a twist on stir-fry."
+ogDescription: "Savor the flavors of Spaghetti Squash Asian Pork Stir-Fry, a unique dish featuring juicy pork and roasted spaghetti squash for a fulfilling meal."
+focusKeyphrase: "Spaghetti Squash Asian Pork Stir-Fry"
+date: 2025-09-26
+draft: false
+image: spaghetti-squash-pork-stir-fry.png
+author: "Kate"
+prepTime: PT25M
+cookTime: PT1H15M
+totalTime: PT1H40M
+recipeYield: "4 servings"
+categories: ["Hearty Mains"]
+tags:
+- "Asian cuisine"
+- "healthy meals"
+- "weeknight dinner"
+keywords:
+- "pork stir-fry"
+- "roasted squash"
+- "quick dinner recipe"
+breadcrumb: ["Home", "Recipes", "Hearty Mains"]
+nutrition: 
+ calories: "310"
+ fatContent: "14g"
+ carbohydrateContent: "25g"
+ proteinContent: "22g"
+ingredients:
+- "=== Squash ==="
+- "1 medium spaghetti squash about 1.0 kg (2.2 lb)"
+- "25 ml (1 ½ tbsp) olive oil"
+- "Toasted sesame oil as needed"
+- "Salt and black pepper"
+- "=== Sauce ==="
+- "120 ml (½ cup) chicken broth or vegetable broth"
+- "25 ml (1 ½ tbsp) hoisin sauce"
+- "25 ml (1 ½ tbsp) rice vinegar"
+- "25 ml (1 ½ tbsp) soy sauce or tamari for gluten-free"
+- "10 ml (2 tsp) cornstarch or arrowroot powder"
+- "10 ml (2 tsp) mirin (substitute with dry sherry or extra rice vinegar)"
+- "5 ml (1 tsp) fish sauce (optional but adds umami)"
+- "=== Stir-Fry ==="
+- "400 g (14 oz) pork tenderloin, thinly sliced against grain"
+- "5 ml (1 tsp) toasted sesame oil"
+- "1 medium yellow or orange bell pepper, seeded & sliced into strips (replace red pepper)"
+- "5 scallions, thinly sliced; keep 2 green tops separate for garnish"
+- "2 cloves garlic, minced"
+- "15 ml (1 tbsp) finely grated fresh ginger"
+- "3 ml (½ tsp) chili garlic sauce or sambal oelek (adjust heat level)"
+instructions:
+- "=== Squash ==="
+- "Preheat oven to 200 °C (390 °F); position rack halfway. Line a baking sheet with parchment."
+- "Slice squash lengthwise; scoop out seeds with a sturdy spoon. Season cut sides with salt and pepper."
+- "Place cut side down on sheet. Roast for 40-50 minutes until flesh blisters and a knife slides in easily."
+- "Cool slightly. Scrape flesh with a fork, creating thin noodle-like strands. Toss immediately with olive oil and a few drops toasted sesame oil, season lightly with salt and pepper. Keep warm."
+- "=== Sauce ==="
+- "In a bowl, whisk chicken broth, hoisin, rice vinegar, soy sauce, cornstarch, mirin, and fish sauce until smooth. Set aside."
+- "=== Stir-Fry ==="
+- "Heat wok or large skillet over medium-high. Add half the olive oil and half the toasted sesame oil."
+- "Add half the pork slices in one layer; season with salt and pepper. Let pork sear without moving for 1-2 minutes until edges start caramelizing, then flip, cook another 1-2 minutes until just cooked through. Remove and rest on plate. Repeat with remaining pork."
+- "In same wok, add a splash more oil if dry. Toss in bell pepper and most of the scallion whites. Stir-fry until vibrant and slightly softened, about 3 minutes."
+- "Add garlic, ginger, and chili sauce; stir constantly until fragrant - 30 seconds to 1 minute. Avoid burning garlic - lowers flavor drastically."
+- "Return pork to pan; stir everything together."
+- "Pour sauce over; bring to boil, then reduce heat to low."
+- "Let sauce bubble, stirring occasionally until it thickens and coats meat and vegetables, about 2-3 minutes. Should look glossy and clingy, not watery."
+- "Taste for salt and balance; add tiny splash of water or vinegar if too thick or intense."
+- "=== Finish ==="
+- "Nestle sautéed pork mixture onto squash strands on warm plates."
+- "Scatter reserved scallion greens on top for freshness and crunch."
+- "Serve immediately. Knife cuts through pork cleanly, squash strands retain slight bite."
+- "=== Tips & Substitutions ==="
+- "If no pork tenderloin, use shoulder or loin but slice thin for even cooking."
+- "No hoisin? Mix soy with a little honey and miso paste."
+- "Extra heat means more chili paste, or add fresh sliced bird’s eye chilies."
+- "If no wok, use a large heavy skillet for better searing."
+- "Squash can be done ahead, gently reheat with oil before serving."
+- "Store leftovers separately; sauces thicken as they cool - reheat with splash broth."
+- "To save time, microwave the squash halves cut side down for 8-10 minutes, then finish in oven 15-20 minutes to add roasted flavor."
+introduction: "You want savory pork slices with a quick crust, snappy peppers, and aromatics screaming ginger and garlic. The squash isn’t just a side but a bed of delicate noodles, light, slightly sweet, roasted to soften but shouldn’t melt to mush. Watch for that glossy sheen in the sauce — sign the starch kicked in, thick enough to cling, not puddle. Scallions reserved for a fresh, sharp hit at finish; crucial. Managing heat, timing, and layering here isn't fancy- it's the way to avoid dry pork, bitter garlic, soggy squash. Expect caramelization sounds, aromatic bursts, and a scatter of fresh crunch to close. Mild chili cuts through sweetness, keep balanced. Simple swaps like fish sauce and mirin kick flavor depth when you lack certain bottles."
+ingredientsNote: "Adjust the squash size based on availability but note the cooking time will scale. Roasted over microwaved if rushed, but never steamed. Olive oil carries the roasted squash richness; sesame adds toastiness, use cautiously to avoid bitterness. Sauce ingredients are flexible; hoisin can be swapped for a combo of soy and a touch of honey or miso to replicate its sweetness and umami. Fish sauce optional but recommend; an ingredient store-bought alternatives often lack. Ginger and garlic balance heat and aromatics, always fresh for pungency. Avoid dried powders here. Pork tenderloin ensures tenderness and cooks quickly; thicker cuts need longer and risk dry edges. Bell peppers add color and sweetness, any color but red or orange preferred over green to avoid bitterness. Scallions are key for texture contrast—both white and green parts used strategically."
+instructionsNote: "Roast squash cut-side down to maximize steam and caramelization on the skin side - ensures strands come out moist without drying. Use a sharp knife and sturdy spoon to remove seeds cleanly, avoids fibrous mess. When searing pork, let it sit undisturbed to brown properly; flipping too soon steals that crust. Stir-fry aromatics quickly at high heat to keep garlic and ginger from burning — burnt garlic tastes acrid and ruins the dish. Sauce thickens fast once added; keep stirring and watch the texture, pulling off heat prevents it from getting gluey. Resting cooked pork off heat retains juiciness. Combining hot pork with cooling squash just before service keeps noodles from getting mushy. Garnish last-second or avoid sogginess. Timing and layering flavors is key - do not overcrowd pan at any stage for proper sear and stir-fry. Serve immediately for best texture contrast."
+tips:
+- "For the squash, medium size works. Cooking time varies. Too big, too long. Squash should have a slight bounce when pressed. Right balance — fork on flesh shows readiness."
+- "Pork tenderloin must be thin; slice against the grain for tenderness. Sear properly, no overcrowding. Gives that nice brown caramelization. Let edges brown without fussing."
+- "Sauce consistency is key. Thick but not gloppy. Stir and watch; glossy is good. If it's too thick, splash in some broth or water. Testing flavor balance? Always adjust!"
+- "Want to skip oven squash? Microwave halves cut-side down 8-10 min, finish in oven if you need that roasted flavor. Makes the process faster without losing taste."
+- "Using scallions that are fresh—key for crunch. Save some green bits for the finish. Timing is essential. Last-minute garnish prevents sogginess in textures."
+faq:
+- "q: Can I use chicken instead of pork? a: Yes, boneless thighs or breasts work well. Slice thin. Same cooking process. Sear then stir-fry."
+- "q: What if my sauce is too salty? a: Add a tiny bit of sugar to balance. Vinegar adds brightness too. Bringing it down happens quickly with the right touch."
+- "q: How to store leftovers? a: Keep squash and pork separately. Sauces thicken when cooled. Reheat gently, adding a broth splash to loosen it up again."
+- "q: Any swaps for ingredients? a: Hoisin can swap with soy and honey. For bell peppers, use what’s available—other colors add sweetness but avoid bitterness."
+
+---
