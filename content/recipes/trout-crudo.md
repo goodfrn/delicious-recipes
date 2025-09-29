@@ -1,0 +1,96 @@
+---
+title: "Trout Crudo with Cranberry and Puffed Rice"
+slug: "trout-crudo"
+description: "A minimalist crudo using trout cured briefly in salt and brown sugar. Cranberries blaze in a sharp cider vinegar vinegar emulsion sweetened with maple syrup. Puffed wild rice adds crunch and smoky nutty notes. Thin slices of cucumber and radish bring crispness and freshness. Basil leaves for a fresh herbal touch. Creamy tang from sour cream mingles with a grainy mustard dressing. Techniques focus on razor-thin slicing, proper curing rinse, and safe hot oil handling to puff rice quickly. Balance textures: silky fish, crispy puffed grains, creamy dressing, crunchy vegetables. A dish for cool evenings or light starters, gluten, dairy, egg free adaptable."
+metaDescription: "Trout Crudo with Cranberry and Puffed Rice features cured trout, tangy cranberries, and crunchy textures for a contemporary Canadian dish."
+ogDescription: "Experience Trout Crudo with Cranberry and Puffed Rice; vibrant flavors, crisp textures on a plate, perfect for light starters or cool evenings."
+focusKeyphrase: "Trout Crudo"
+date: 2025-09-29
+draft: false
+image: trout-crudo.png
+author: "Kate"
+prepTime: PT27M
+cookTime: PT13M
+totalTime: PT40M
+recipeYield: "4 servings"
+categories: ["Starters & Nibbles"]
+tags:
+- "trout"
+- "crudo"
+- "puffed rice"
+- "cranberry"
+- "contemporary"
+- "appetizer"
+keywords:
+- "Trout Recipe"
+- "Crispy Fish Dish"
+- "Contemporary Canadian Cuisine"
+breadcrumb: ["Home", "Recipes", "Starters & Nibbles"]
+nutrition: 
+ calories: "270"
+ fatContent: "18g"
+ carbohydrateContent: "15g"
+ proteinContent: "14g"
+ingredients:
+- "=== Cure Mix ==="
+- "20 ml brown sugar (1 1/3 tbsp)"
+- "22 ml kosher salt (1 1/2 tbsp)"
+- "290 g boneless skinless trout fillet or Arctic char (about 1 filet)"
+- "=== Cranberry Dressing ==="
+- "40 ml cider vinegar (2 2/3 tbsp)"
+- "20 g chopped fresh or thawed cranberries (3 tbsp)"
+- "25 ml grapeseed oil or light olive oil (1 2/3 tbsp)"
+- "20 ml maple syrup (1 1/3 tbsp)"
+- "=== Puffed Rice ==="
+- "60 ml vegetable oil (1/4 cup plus 2 tbsp)"
+- "35 g wild rice (2 1/3 tbsp)"
+- "=== Garnish and Creamy Dressing ==="
+- "60 ml sour cream or crème fraîche"
+- "20 ml grainy mustard (1 1/3 tbsp)"
+- "1 Lebanese cucumber thinly sliced with mandoline"
+- "1 radish sliced thin"
+- "6 fresh cranberries sliced into rounds"
+- "Fresh basil leaves"
+instructions:
+- "=== Puffed Rice Preparation ==="
+- "Start heating oil in a heavy pan at medium-high until it hits about 200°C (use a candy thermometer or test with a small rice kernel; if it sizzles violently, ready)."
+- "Add wild rice carefully, stir constantly – popping should start immediately, noises crackling, little explosions. Remove rice quickly with a slotted spoon into a fine mesh strainer placed over a heatproof bowl."
+- "Drain thoroughly, spread on paper towel-lined tray to cool. Salt lightly while warm; keep crispness."
+- "=== Cure the Fish ==="
+- "Mix brown sugar and salt in bowl thoroughly."
+- "Lay trout fillet flesh side down in shallow glass container; spread cure mix evenly over top side."
+- "Cover tightly with plastic wrap; refrigerate for 50-65 minutes. Look for firmer feel, slightly opaque edges developing."
+- "Remove fish, rinse under cold water briskly to remove cure; pat dry completely with paper towels. Moisture prevents clean slicing."
+- "On a cold cutting board (chill board or place fish on a tray briefly in freezer), slice fish very thinly against the grain at about 30° angle. Thinness crucial for texture; use a long, sharp sashimi knife if available."
+- "Place slices on chilled plates; cover loosely and refrigerate if assembling later, up to 18 hours max to keep freshness."
+- "=== Cranberry Dressing ==="
+- "Bring cider vinegar and chopped cranberries to a gentle boil in small saucepan. Bubbles rise quickly; softer sound signals cooked cranberries."
+- "Pour mixture through fine sieve set over bowl, press lightly with spatula, discard solids or compost."
+- "Let vinegar syrup cool uncovered to room temp, then chill for 25-35 minutes until cold."
+- "Whisk oil and maple syrup into chilled vinegar slowly to form a balanced dressing; adjust sweetness if cranberries are tart."
+- "=== Creamy Mustard Dressing ==="
+- "Combine sour cream and grainy mustard; mix until smooth. Transfer to piping bag or prepare to spoon artistically."
+- "=== Assemble ==="
+- "Arrange thin fish slices centrally on chilled shallow bowls or dishes."
+- "Drizzle dressing evenly over the fish, just enough to coat surfaces without pooling."
+- "Pipe or spoon mustard cream decoratively in small dollops or dots."
+- "Top with puffed rice clusters for crunch and contrasting texture."
+- "Decorate around with cucumber and radish slices, add sliced cranberries and fresh basil leaves for sporadic color and aromatic lift."
+- "Serve immediately to preserve textural integrity; puffed rice will soften if waiting too long."
+- "Leftover puffed rice stores in airtight container at room temperature for up to one week—perfect to boost salads or soups."
+introduction: "Cured trout, cranberries sharp as winter air, rice crackling hot from the wok. A dance of textures — velvet fish and popping rice, tart dressing that wakes the palate. No fluff here, just clean lines and crisp contrasts. Cure the fish just right; too little and it’s flabby, too long and you choke salt. Cranberries simmer briefly, release their tang and color. Rice needs heat, patience, and watchfulness, a split second misstep and you burn it or get greasy blotches. Familiar steps but subtle twists like switching grapeseed for olive oil, grainy mustard replacing Dijon. Get your knives razor sharp. Cold plates help hold shape. Crisp radish and cucumber freshen, basil kicks depth. Simple, bold. Every texture counts."
+ingredientsNote: "Brown sugar and salt proportions adjusted to cure trout a little less aggressively, preserving moisture. Trout subs Arctic char or any firm white fish but adjust cure time. Grapeseed oil preferred for a cleaner taste and higher smoke point in puffing rice; olive oil works but may add bitterness if overheated. Grainy mustard swapped in adds rustic depth more than smooth Dijon. Sour cream can be replaced with lactose-free crème fraîche or thick coconut yogurt for dairy avoidance. Fresh cranberries can be frozen but thaw fully before usage for better texture. Wild rice chosen for nuttiness and popping ability; plain white rice will puff but less flavor. Mandoline slicing ensures thin, uniform rounds—no step to shortcut. Basil adds fresh herbal aroma; tarragon or chervil could be used for variation. Small tweaks in quantities won't break balance but avoid reducing oil when puffing rice—it must reach full temperature to pop effectively."
+instructionsNote: "Start by puffing the rice — essential to do this first and cool it so it stays crispy at plating time. Use a thermometer if you're unsure; oil not hot enough means soggy rice, too hot and it smokes and burns fast. Keep a close eye and stir constantly. When fish cures, salt draws moisture out, firms texture, and imparts flavor fundamentally controlling bite and mouthfeel. Rinse step crucial—skip it and fish is too salty. Cutting fish thin needs a steady hand and sharp blade; dull knives tear fibers ruining appearance and texture. Vinegar and cranberries simmer to extract sharp tartness and color, straining removes pulp, leaving pure tang. Cool dressing completely before whisking oil and syrup to prevent separation. Garnish assembled rapidly to keep elements fresh and crunchy, otherwise cream softens surface and rice soggy. Reserve some puffed rice for later use; a great time saver in next meals. Plates cold to avoid fish warming, which compromises texture. Piping mustard cream offers control and aesthetics, but spooning works fine with care. Practice knife angle—about 30 degrees—helps produce thin slices without mush or broken edges."
+tips:
+- "Check oil temp – 200°C. Cold rice pops better, hot enough prevents sogginess. Sizzle when adding; stir constantly to ensure even popping."
+- "Cure trout with a 1:1 mix of sugar and salt; adjust for other fish if needed. Use Arctic char as a good substitute; same techniques apply."
+- "Slice fish thinly against the grain. Chill board helps; keep knife sharp to avoid tearing; look for uniformity in cuts for presentation."
+- "Wild rice is key; nutty flavor and perfect puffing. If unavailable, plain white rice will puff, but flavor may remain mild. Check results."
+- "Mustard cream can be piped or spooned; design is up to you. Keep piping tip clean. Ensure sour cream is at room temp for easy mixing."
+faq:
+- "q: How to know if curry is done? a: Firmness; use finger press. Look for slight flakes around edges. Color should deepen visibly."
+- "q: What to do if the fish is too salty? a: Rinse under cold water. Pat dry thoroughly. Can cut pieces smaller if needed."
+- "q: How can I store leftover puffed rice? a: Airtight container at room temp works. It'll stay crisp for one week. Great for salads too."
+- "q: Any alternative for sour cream? a: Lactose-free options available. Crème fraîche can substitute. Coconut yogurt works too for dairy-free."
+
+---
