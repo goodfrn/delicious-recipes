@@ -24,7 +24,7 @@
   {{ end }}
   
   {{/* ---------- CSS via Hugo Pipes (BLOQUANT – Fix CLS) ---------- */}}
-  {{ $css := resources.Get "css/main.css" }}
+  {{ $css := resources.Get "css/style.compiled.css" | resources.ExecuteAsTemplate "main.processed.css" . }}
   {{ if hugo.IsProduction }}
     {{ $css = $css | resources.Fingerprint "sha512" }}
     <link rel="stylesheet"
