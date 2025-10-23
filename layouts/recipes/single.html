@@ -317,8 +317,8 @@
             </div>
             <div class="space-y-4 md:space-y-6">
               {{ range . }}
-                {{ if strings.Contains . "q:" }}
-                  {{ $parts := split . "a:" }}
+                {{ if or (strings.Contains . "q:") (strings.Contains . "\"q:") }}
+                  {{ $parts := split (replaceRE """|""" "\"" .) "a:" }}
                   {{ $question := index $parts 0 | replaceRE "q:\\s*" "" | trim " " }}
                   {{ $answer := index $parts 1 | trim " " }}
                   
