@@ -7,7 +7,7 @@ ogDescription: "Delight in Cucumber Red Pepper Gazpacho, a refreshing chilled so
 focusKeyphrase: "Cucumber Red Pepper Gazpacho"
 date: 2025-08-11
 draft: false
-image: cucumber-red-pepper-gazpacho.png
+image: cucumber-red-pepper-gazpacho.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT0M

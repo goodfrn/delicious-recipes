@@ -7,7 +7,7 @@ ogDescription: "Roast chicken with cider and savory apples. Aromatic dish, perfe
 focusKeyphrase: "Rosy Cider Chicken"
 date: 2025-08-13
 draft: false
-image: rosy-cider-chicken.png
+image: rosy-cider-chicken.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT1H35M

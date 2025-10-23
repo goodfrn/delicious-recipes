@@ -7,7 +7,7 @@ ogDescription: "Enjoy Apple Pecan Loaf with Maple Glaze. Tart apples and crunchy
 focusKeyphrase: "Apple Pecan Loaf"
 date: 2025-07-28
 draft: false
-image: apple-pecan-loaf.png
+image: apple-pecan-loaf.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H

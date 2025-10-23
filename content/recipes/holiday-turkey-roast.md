@@ -7,7 +7,7 @@ ogDescription: "Juicy Holiday Turkey Roast; brined then stuffed. Savory fruit-po
 focusKeyphrase: "Holiday Turkey Roast"
 date: 2025-09-24
 draft: false
-image: holiday-turkey-roast.png
+image: holiday-turkey-roast.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H35M

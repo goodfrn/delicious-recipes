@@ -7,7 +7,7 @@ ogDescription: "Oven Chicken Fajitas Twist makes simple, bold flavors pop. Crisp
 focusKeyphrase: "Oven Chicken Fajitas"
 date: 2025-09-26
 draft: false
-image: oven-chicken-fajitas-twist.png
+image: oven-chicken-fajitas-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT30M

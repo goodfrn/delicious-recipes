@@ -7,7 +7,7 @@ ogDescription: "Crispy Fava Chickpea Falafels served with zesty tahini sauce. A 
 focusKeyphrase: "Fava Chickpea Falafels"
 date: 2025-08-18
 draft: false
-image: fava-chickpea-falafels.png
+image: fava-chickpea-falafels.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Rustic one-pot basil chicken skillet with juicy thighs, creamy o
 focusKeyphrase: "One-Pot Basil Chicken Skillet"
 date: 2025-10-21
 draft: false
-image: one-pot-basil-chicken.png
+image: one-pot-basil-chicken.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

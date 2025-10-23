@@ -7,7 +7,7 @@ ogDescription: "Experience Olive Oil Potato Mash, a creamy, rustic blend of swee
 focusKeyphrase: "Olive Oil Potato Mash"
 date: 2025-08-12
 draft: false
-image: olive-oil-potato-mash.png
+image: olive-oil-potato-mash.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

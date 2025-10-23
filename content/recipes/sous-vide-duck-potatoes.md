@@ -7,7 +7,7 @@ ogDescription: "Sous Vide Duck with Roasted Potatoes features tender duck, crisp
 focusKeyphrase: "Sous Vide Duck"
 date: 2025-08-04
 draft: false
-image: sous-vide-duck-potatoes.png
+image: sous-vide-duck-potatoes.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT2H15M

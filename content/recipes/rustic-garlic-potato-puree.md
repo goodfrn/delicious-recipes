@@ -7,7 +7,7 @@ ogDescription: "Rustic Garlic Potato Purée combines Yukon Gold and sweet potato
 focusKeyphrase: "Rustic Garlic Potato Purée"
 date: 2025-08-17
 draft: false
-image: rustic-garlic-potato-puree.png
+image: rustic-garlic-potato-puree.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

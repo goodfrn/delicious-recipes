@@ -7,7 +7,7 @@ ogDescription: "Discover a smoky Chicken Pasta Salad Caesar Twist. Creamy dressi
 focusKeyphrase: "Chicken Pasta Salad Caesar Twist"
 date: 2025-09-29
 draft: false
-image: chicken-pasta-salad-caesar.png
+image: chicken-pasta-salad-caesar.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

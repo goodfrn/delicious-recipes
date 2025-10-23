@@ -7,7 +7,7 @@ ogDescription: "Colorful grilled pepper zucchini salad with a tangy yogurt base.
 focusKeyphrase: "Grilled Pepper Zucchini Salad"
 date: 2025-08-14
 draft: false
-image: grilled-pepper-zucchini-salad.png
+image: grilled-pepper-zucchini-salad.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT27M

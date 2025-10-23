@@ -7,7 +7,7 @@ ogDescription: "Indulge in Cheesy Macaroni Bake. A comforting dish with a modern
 focusKeyphrase: "Cheesy Macaroni Bake"
 date: 2025-07-25
 draft: false
-image: cheesy-macaroni-bake.png
+image: cheesy-macaroni-bake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

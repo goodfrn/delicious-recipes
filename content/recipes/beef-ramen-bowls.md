@@ -7,7 +7,7 @@ ogDescription: "Try Beef Ramen Bowls with Eggplant & King Oyster Mushrooms. Spic
 focusKeyphrase: "Beef Ramen Bowls"
 date: 2025-08-03
 draft: false
-image: beef-ramen-bowls.png
+image: beef-ramen-bowls.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

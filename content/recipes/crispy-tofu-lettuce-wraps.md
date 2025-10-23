@@ -7,7 +7,7 @@ ogDescription: "Try these Crispy Tofu Lettuce Wraps for a flavor-packed vegan me
 focusKeyphrase: "Crispy Tofu Lettuce Wraps"
 date: 2025-08-09
 draft: false
-image: crispy-tofu-lettuce-wraps.png
+image: crispy-tofu-lettuce-wraps.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT25M

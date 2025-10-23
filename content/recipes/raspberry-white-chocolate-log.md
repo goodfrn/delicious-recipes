@@ -7,7 +7,7 @@ ogDescription: "Indulge in the Raspberry White Chocolate Log, a stunning dessert
 focusKeyphrase: "Raspberry White Chocolate Log"
 date: 2025-08-14
 draft: false
-image: raspberry-white-chocolate-log.png
+image: raspberry-white-chocolate-log.jpg
 author: "Kate"
 prepTime: PT1H40M
 cookTime: PT20M

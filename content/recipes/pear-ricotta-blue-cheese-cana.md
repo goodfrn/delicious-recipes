@@ -7,7 +7,7 @@ ogDescription: "Explore Pear Ricotta Blue Cheese Canapés - crisp baguette, crea
 focusKeyphrase: "Pear Ricotta Blue Cheese Canapés"
 date: 2025-08-13
 draft: false
-image: pear-ricotta-blue-cheese-cana.png
+image: pear-ricotta-blue-cheese-cana.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

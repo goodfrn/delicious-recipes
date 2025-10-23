@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chocolate Cherry Bread Pudding with cranberries and b
 focusKeyphrase: "Chocolate Cherry Bread Pudding"
 date: 2025-09-24
 draft: false
-image: chocolate-cherry-bread-pudding.png
+image: chocolate-cherry-bread-pudding.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT50M

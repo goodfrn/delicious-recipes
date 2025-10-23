@@ -7,7 +7,7 @@ ogDescription: "Spicy Chicken Tomato Corn Soup is filled with shredded chicken, 
 focusKeyphrase: "Spicy Chicken Tomato Corn Soup"
 date: 2025-07-26
 draft: false
-image: spicy-chicken-tomato-soup.png
+image: spicy-chicken-tomato-soup.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT45M

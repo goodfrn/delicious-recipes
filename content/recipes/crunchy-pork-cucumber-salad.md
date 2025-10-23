@@ -7,7 +7,7 @@ ogDescription: "Crispy rice meets spiced pork in a refreshing salad. Dive into l
 focusKeyphrase: "Crunchy Pork Cucumber Rice Salad"
 date: 2025-09-25
 draft: false
-image: crunchy-pork-cucumber-salad.png
+image: crunchy-pork-cucumber-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

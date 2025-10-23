@@ -7,7 +7,7 @@ ogDescription: "Enjoy Pan-Seared Mackerel with Celery Root Mash, a dish that bri
 focusKeyphrase: "Pan-Seared Mackerel"
 date: 2025-07-26
 draft: false
-image: pan-seared-mackerel.png
+image: pan-seared-mackerel.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

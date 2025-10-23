@@ -7,7 +7,7 @@ ogDescription: "Savor Quinoa Pork Meatball Soup with rich flavors, tender meatba
 focusKeyphrase: "Quinoa Pork Meatball Soup"
 date: 2025-09-27
 draft: false
-image: quinoa-pork-meatball-soup.png
+image: quinoa-pork-meatball-soup.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

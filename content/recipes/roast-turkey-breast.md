@@ -7,7 +7,7 @@ ogDescription: "Roast Turkey Breast with Apples and Squash offers a savory blend
 focusKeyphrase: "Roast Turkey Breast"
 date: 2025-09-23
 draft: false
-image: roast-turkey-breast.png
+image: roast-turkey-breast.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT1H15M

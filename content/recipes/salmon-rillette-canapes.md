@@ -7,7 +7,7 @@ ogDescription: "Salmon Rillette Canapés are a blend of smooth salmon and creme 
 focusKeyphrase: "Salmon Rillette Canapés"
 date: 2025-09-24
 draft: false
-image: salmon-rillette-canapes.png
+image: salmon-rillette-canapes.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

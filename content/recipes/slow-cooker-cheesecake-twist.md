@@ -7,7 +7,7 @@ ogDescription: "Experience the velvety Slow Cooker Cheesecake Twist with zesty l
 focusKeyphrase: "Slow Cooker Cheesecake"
 date: 2025-08-12
 draft: false
-image: slow-cooker-cheesecake-twist.png
+image: slow-cooker-cheesecake-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H20M

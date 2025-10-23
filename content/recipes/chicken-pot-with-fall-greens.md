@@ -7,7 +7,7 @@ ogDescription: "Enjoy a warm chicken pot with fall greens. Chicken breasts, root
 focusKeyphrase: "chicken pot"
 date: 2025-07-28
 draft: false
-image: chicken-pot-with-fall-greens.png
+image: chicken-pot-with-fall-greens.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

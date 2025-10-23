@@ -7,7 +7,7 @@ ogDescription: "Delicious Mediterranean Tofu Veg Stack. Layers of grilled tofu, 
 focusKeyphrase: "Mediterranean Tofu Veg Stack"
 date: 2025-07-30
 draft: false
-image: mediterranean-tofu-veg-stack.png
+image: mediterranean-tofu-veg-stack.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

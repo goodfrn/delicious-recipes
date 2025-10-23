@@ -7,7 +7,7 @@ ogDescription: "Trail Mix Remix is a robust blend of nuts and fruits, a perfect 
 focusKeyphrase: "Trail Mix Remix"
 date: 2025-08-20
 draft: false
-image: trail-mix-remix.png
+image: trail-mix-remix.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

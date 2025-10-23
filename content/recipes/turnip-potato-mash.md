@@ -7,7 +7,7 @@ ogDescription: "Rustic turnip and potato mash with subtle smokiness. An unexpect
 focusKeyphrase: "Turnip-Potato Mash Twist"
 date: 2025-09-28
 draft: false
-image: turnip-potato-mash.png
+image: turnip-potato-mash.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Hard-boiled eggs filled with a creamy crab mixture. Dill and lem
 focusKeyphrase: "Crab Tarragon Stuffed Eggs"
 date: 2025-08-03
 draft: false
-image: crab-tarragon-stuffed-eggs.png
+image: crab-tarragon-stuffed-eggs.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

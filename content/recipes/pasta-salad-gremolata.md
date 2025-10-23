@@ -7,7 +7,7 @@ ogDescription: "Enjoy a refreshing Pasta Salad with Zesty Gremolata featuring ci
 focusKeyphrase: "Pasta Salad with Zesty Gremolata"
 date: 2025-07-26
 draft: false
-image: pasta-salad-gremolata.png
+image: pasta-salad-gremolata.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

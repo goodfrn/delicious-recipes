@@ -7,7 +7,7 @@ ogDescription: "Experience the smoky sweetness of Charred Red Onion Skewers. Per
 focusKeyphrase: "Charred Red Onion Skewers"
 date: 2025-08-29
 draft: false
-image: charred-red-onion-skewers.png
+image: charred-red-onion-skewers.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT12M

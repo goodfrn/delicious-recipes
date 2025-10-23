@@ -7,7 +7,7 @@ ogDescription: "Try out gluten-free gnocchi made with sweet potatoes and topped 
 focusKeyphrase: "gluten-free gnocchi"
 date: 2025-08-08
 draft: false
-image: gluten-free-gnocchi-sage-butter.png
+image: gluten-free-gnocchi-sage-butter.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT25M

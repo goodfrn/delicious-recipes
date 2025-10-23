@@ -7,7 +7,7 @@ ogDescription: "Creamy Garlic Citrus Emulsion; great with veggies, sandwiches. U
 focusKeyphrase: "Garlic Citrus Emulsion"
 date: 2025-09-27
 draft: false
-image: garlic-citrus-emulsion.png
+image: garlic-citrus-emulsion.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

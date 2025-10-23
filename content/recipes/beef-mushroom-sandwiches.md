@@ -7,7 +7,7 @@ ogDescription: "Experience a hearty Beef Mushroom Sandwich with Quick Pickled Sl
 focusKeyphrase: "beef mushroom sandwiches"
 date: 2025-08-05
 draft: false
-image: beef-mushroom-sandwiches.png
+image: beef-mushroom-sandwiches.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT17M

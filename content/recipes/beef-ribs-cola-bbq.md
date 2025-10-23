@@ -7,7 +7,7 @@ ogDescription: "Savor Beef Ribs Cola BBQ—cola-braised, grilled to caramelized 
 focusKeyphrase: "Beef Ribs Cola BBQ"
 date: 2025-08-14
 draft: false
-image: beef-ribs-cola-bbq.png
+image: beef-ribs-cola-bbq.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT3H20M

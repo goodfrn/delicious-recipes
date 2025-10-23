@@ -7,7 +7,7 @@ ogDescription: "Explore Barley Cauliflower Sweet Potato Salad for a nutritious b
 focusKeyphrase: "Barley Cauliflower Sweet Potato Salad"
 date: 2025-09-28
 draft: false
-image: barley-cauliflower-salad.png
+image: barley-cauliflower-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT45M

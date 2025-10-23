@@ -7,7 +7,7 @@ ogDescription: "Discover Tofu Kale Broth; spicy, aromatic vegetarian delight wit
 focusKeyphrase: "Tofu Kale Broth"
 date: 2025-09-27
 draft: false
-image: tofu-kale-broth.png
+image: tofu-kale-broth.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

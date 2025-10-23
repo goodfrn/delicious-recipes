@@ -7,7 +7,7 @@ ogDescription: "Discover how to make Gluten-Free Corn Crepes with almond milk an
 focusKeyphrase: "Gluten-Free Corn Crepes"
 date: 2025-08-03
 draft: false
-image: gluten-free-corn-crepes.png
+image: gluten-free-corn-crepes.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT12M

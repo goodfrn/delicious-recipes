@@ -7,7 +7,7 @@ ogDescription: "Bake Homemade Burger Buns at home. Coconut milk, honey, and oliv
 focusKeyphrase: "homemade burger buns"
 date: 2025-09-01
 draft: false
-image: homemade-burger-buns.png
+image: homemade-burger-buns.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT18M

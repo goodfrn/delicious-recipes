@@ -7,7 +7,7 @@ ogDescription: "Enjoy a warm Shrimp Spinach Lasagna with rich flavors and perfec
 focusKeyphrase: "Shrimp Spinach Lasagna"
 date: 2025-09-21
 draft: false
-image: shrimp-spinach-lasagna.png
+image: shrimp-spinach-lasagna.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Experience a fresh twist on Niçoise Salad with smoked mackerel 
 focusKeyphrase: "Niçoise Salad"
 date: 2025-09-24
 draft: false
-image: rustic-nicoise-salad.png
+image: rustic-nicoise-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

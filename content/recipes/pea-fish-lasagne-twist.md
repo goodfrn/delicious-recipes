@@ -7,7 +7,7 @@ ogDescription: "Delve into Pea Fish Lasagne Twist with layers of sweet peas, ten
 focusKeyphrase: "Pea Fish Lasagne Twist"
 date: 2025-08-11
 draft: false
-image: pea-fish-lasagne-twist.png
+image: pea-fish-lasagne-twist.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT50M

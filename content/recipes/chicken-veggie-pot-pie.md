@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chicken Veggie Pot Pie, a comforting mix of chicken a
 focusKeyphrase: "Chicken Veggie Pot Pie"
 date: 2025-07-30
 draft: false
-image: chicken-veggie-pot-pie.png
+image: chicken-veggie-pot-pie.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

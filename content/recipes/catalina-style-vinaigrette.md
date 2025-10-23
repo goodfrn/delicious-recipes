@@ -7,7 +7,7 @@ ogDescription: "Try Catalina-Style Vinaigrette for bright, tangy flavors. Whisk 
 focusKeyphrase: "Catalina-Style Vinaigrette"
 date: 2025-09-01
 draft: false
-image: catalina-style-vinaigrette.png
+image: catalina-style-vinaigrette.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT0M

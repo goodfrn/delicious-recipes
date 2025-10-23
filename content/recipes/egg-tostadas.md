@@ -7,7 +7,7 @@ ogDescription: "Delve into Egg Tostadas with Black Beans. A delicious combo of t
 focusKeyphrase: "Egg Tostadas"
 date: 2025-07-27
 draft: false
-image: egg-tostadas.png
+image: egg-tostadas.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

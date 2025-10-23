@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Coconut Nutmeg Latte Twist. Experience a creamy, aromati
 focusKeyphrase: "Coconut Nutmeg Latte Twist"
 date: 2025-07-28
 draft: false
-image: coconut-nutmeg-latte.png
+image: coconut-nutmeg-latte.jpg
 author: "Kate"
 prepTime: PT4M
 cookTime: PT6M

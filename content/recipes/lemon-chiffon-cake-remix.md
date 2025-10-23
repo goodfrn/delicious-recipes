@@ -7,7 +7,7 @@ ogDescription: "Lemon Chiffon Cake Remix combining airy chiffon sponge with crea
 focusKeyphrase: "Lemon Chiffon Cake Remix"
 date: 2025-08-09
 draft: false
-image: lemon-chiffon-cake-remix.png
+image: lemon-chiffon-cake-remix.jpg
 author: "Kate"
 prepTime: PT1H20M
 cookTime: PT50M

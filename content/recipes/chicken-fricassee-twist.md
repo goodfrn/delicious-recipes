@@ -7,7 +7,7 @@ ogDescription: "Delve into a Chicken Fricassee Twist that's hearty, creamy and p
 focusKeyphrase: "Chicken Fricassee Twist"
 date: 2025-07-27
 draft: false
-image: chicken-fricassee-twist.png
+image: chicken-fricassee-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

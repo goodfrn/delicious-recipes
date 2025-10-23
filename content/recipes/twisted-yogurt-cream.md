@@ -7,7 +7,7 @@ ogDescription: "Enjoy Twisted Yogurt Cream made with goat yogurt and brightened 
 focusKeyphrase: "Twisted Yogurt Cream"
 date: 2025-07-30
 draft: false
-image: twisted-yogurt-cream.png
+image: twisted-yogurt-cream.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT7H

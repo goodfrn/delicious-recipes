@@ -7,7 +7,7 @@ ogDescription: "Experience Twisted Griot du Agrikol, a deep-flavored Haitian por
 focusKeyphrase: "Haitian pork stew"
 date: 2025-08-13
 draft: false
-image: twisted-griot.png
+image: twisted-griot.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT2H10M

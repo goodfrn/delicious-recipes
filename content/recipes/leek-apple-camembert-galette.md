@@ -7,7 +7,7 @@ ogDescription: "Enjoy the savory-sweet combo of leeks, apples, and Reblochon che
 focusKeyphrase: "Leek Apple Camembert Galette"
 date: 2025-08-29
 draft: false
-image: leek-apple-camembert-galette.png
+image: leek-apple-camembert-galette.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Coco-Choco Brownies Remix has coconut filling with bittersweet g
 focusKeyphrase: "Coco-Choco Brownies"
 date: 2025-08-05
 draft: false
-image: coco-choco-brownies-remix.png
+image: coco-choco-brownies-remix.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT32M

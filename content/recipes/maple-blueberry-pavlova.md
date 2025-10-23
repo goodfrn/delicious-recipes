@@ -7,7 +7,7 @@ ogDescription: "Indulge in Maple Blueberry Pavlova, a layered dessert with merin
 focusKeyphrase: "Maple Blueberry Pavlova"
 date: 2025-08-17
 draft: false
-image: maple-blueberry-pavlova.png
+image: maple-blueberry-pavlova.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT2H15M

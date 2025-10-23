@@ -7,7 +7,7 @@ ogDescription: "Roast turkey seasoned with onion soup mix. A flavorful and juicy
 focusKeyphrase: "Onion Soup Turkey Roast"
 date: 2025-09-28
 draft: false
-image: onion-soup-turkey-roast.png
+image: onion-soup-turkey-roast.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT2H15M

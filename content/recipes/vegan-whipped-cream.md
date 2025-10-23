@@ -7,7 +7,7 @@ ogDescription: "Discover the Vegan Whipped Cream Twist. A delightful dairy-free 
 focusKeyphrase: "Vegan whipped cream"
 date: 2025-07-30
 draft: false
-image: vegan-whipped-cream.png
+image: vegan-whipped-cream.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

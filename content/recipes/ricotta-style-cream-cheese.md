@@ -7,7 +7,7 @@ ogDescription: "Craft Ricotta Style Cream Cheese at home using heavy cream, whol
 focusKeyphrase: "Ricotta Style Cream Cheese"
 date: 2025-08-02
 draft: false
-image: ricotta-style-cream-cheese.png
+image: ricotta-style-cream-cheese.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT28M

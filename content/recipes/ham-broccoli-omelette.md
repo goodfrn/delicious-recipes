@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Ham Broccoli Omelette Twist a quick protein
 focusKeyphrase: "Ham Broccoli Omelette"
 date: 2025-07-29
 draft: false
-image: ham-broccoli-omelette.png
+image: ham-broccoli-omelette.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT6M

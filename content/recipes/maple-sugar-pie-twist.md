@@ -7,7 +7,7 @@ ogDescription: "Rich maple custard pie, flaky crust with coconut oil for tropica
 focusKeyphrase: "Maple Sugar Pie"
 date: 2025-08-08
 draft: false
-image: maple-sugar-pie-twist.png
+image: maple-sugar-pie-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT30M

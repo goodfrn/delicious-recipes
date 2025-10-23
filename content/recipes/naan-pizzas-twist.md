@@ -7,7 +7,7 @@ ogDescription: "Enjoy Quick Naan Pizzas with tangy sauce, rich toppings. A fast 
 focusKeyphrase: "Quick Naan Pizzas"
 date: 2025-07-26
 draft: false
-image: naan-pizzas-twist.png
+image: naan-pizzas-twist.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT15M

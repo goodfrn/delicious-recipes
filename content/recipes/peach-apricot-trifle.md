@@ -7,7 +7,7 @@ ogDescription: "Indulge in Peach Apricot Trifle Twist with creamy layers and fru
 focusKeyphrase: "Peach Apricot Trifle"
 date: 2025-08-12
 draft: false
-image: peach-apricot-trifle.png
+image: peach-apricot-trifle.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Soft Dulce de Leche Sandwiches—rich, flavorful cook
 focusKeyphrase: "Dulce de Leche Sandwiches"
 date: 2025-08-09
 draft: false
-image: soft-dulce-de-leche-sandwiches.png
+image: soft-dulce-de-leche-sandwiches.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Warm up with Beef Barley Pressure Soup, a comforting dish packed
 focusKeyphrase: "Beef Barley Pressure Soup"
 date: 2025-08-02
 draft: false
-image: beef-barley-soup.png
+image: beef-barley-soup.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT30M

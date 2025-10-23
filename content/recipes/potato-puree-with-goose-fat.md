@@ -7,7 +7,7 @@ ogDescription: "Creamy Potato Purée with unique goose fat twist; perfect for ro
 focusKeyphrase: "Potato Purée"
 date: 2025-08-05
 draft: false
-image: potato-puree-with-goose-fat.png
+image: potato-puree-with-goose-fat.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT30M

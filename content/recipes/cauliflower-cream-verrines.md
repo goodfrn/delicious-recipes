@@ -7,7 +7,7 @@ ogDescription: "Cauliflower Cream Verrines, a silky soup with crunchy Brussels a
 focusKeyphrase: "Cauliflower Cream Verrines"
 date: 2025-08-05
 draft: false
-image: cauliflower-cream-verrines.png
+image: cauliflower-cream-verrines.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

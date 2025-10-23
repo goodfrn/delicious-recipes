@@ -7,7 +7,7 @@ ogDescription: "Discover Couscous with Apricots Veggie; a hearty vegan dish show
 focusKeyphrase: "Couscous with Apricots Veggie"
 date: 2025-08-13
 draft: false
-image: couscous-with-apricots.png
+image: couscous-with-apricots.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

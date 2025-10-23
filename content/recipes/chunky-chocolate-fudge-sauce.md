@@ -7,7 +7,7 @@ ogDescription: "Explore Chunky Chocolate Fudge Sauce packed with coconut cream, 
 focusKeyphrase: "Chunky Chocolate Fudge Sauce"
 date: 2025-08-06
 draft: false
-image: chunky-chocolate-fudge-sauce.png
+image: chunky-chocolate-fudge-sauce.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT8M

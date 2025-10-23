@@ -7,7 +7,7 @@ ogDescription: "Crunchy Smoky Spiced Nuts coated in egg whites for even seasonin
 focusKeyphrase: "Smoky Spiced Nuts"
 date: 2025-10-04
 draft: false
-image: smoky-spiced-nuts.png
+image: smoky-spiced-nuts.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT50M

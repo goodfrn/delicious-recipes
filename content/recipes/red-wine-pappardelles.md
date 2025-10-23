@@ -7,7 +7,7 @@ ogDescription: "Savor the rich, layered flavors of Red Wine Pappardelles with Me
 focusKeyphrase: "Red Wine Pappardelles"
 date: 2025-09-12
 draft: false
-image: red-wine-pappardelles.png
+image: red-wine-pappardelles.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H35M

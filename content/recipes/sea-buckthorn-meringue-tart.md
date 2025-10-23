@@ -7,7 +7,7 @@ ogDescription: "A Sea Buckthorn Meringue Tart with a tangy filling and toasted m
 focusKeyphrase: "Sea Buckthorn Meringue Tart"
 date: 2025-08-07
 draft: false
-image: sea-buckthorn-meringue-tart.png
+image: sea-buckthorn-meringue-tart.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT25M

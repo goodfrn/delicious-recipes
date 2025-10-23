@@ -7,7 +7,7 @@ ogDescription: "Savory Crepes Burritos filled with smoky chorizo, caramelized on
 focusKeyphrase: "Savory Crepes Burritos"
 date: 2025-08-16
 draft: false
-image: savory-crepes-burritos.png
+image: savory-crepes-burritos.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

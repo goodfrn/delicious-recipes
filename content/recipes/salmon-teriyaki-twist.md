@@ -7,7 +7,7 @@ ogDescription: "Enjoy Salmon Teriyaki Twist, seared fish with sticky glaze and c
 focusKeyphrase: "Salmon Teriyaki Twist"
 date: 2025-08-18
 draft: false
-image: salmon-teriyaki-twist.png
+image: salmon-teriyaki-twist.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

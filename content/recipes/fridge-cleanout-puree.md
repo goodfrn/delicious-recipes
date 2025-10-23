@@ -7,7 +7,7 @@ ogDescription: "Fridge Cleanout Puree brings together random veggies for a cream
 focusKeyphrase: "Fridge Cleanout Puree"
 date: 2025-07-20
 draft: false
-image: fridge-cleanout-puree.png
+image: fridge-cleanout-puree.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

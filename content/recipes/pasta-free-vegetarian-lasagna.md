@@ -7,7 +7,7 @@ ogDescription: "Discover a unique lasagna made without pasta, using fresh veggie
 focusKeyphrase: "Vegetarian Lasagna"
 date: 2025-08-02
 draft: false
-image: pasta-free-vegetarian-lasagna.png
+image: pasta-free-vegetarian-lasagna.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT3H50M

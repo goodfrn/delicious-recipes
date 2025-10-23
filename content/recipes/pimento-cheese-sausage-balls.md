@@ -7,7 +7,7 @@ ogDescription: "Savor spicy Pimento Cheese Sausage Balls Twist that packs textur
 focusKeyphrase: "Pimento Cheese Sausage Balls"
 date: 2025-10-07
 draft: false
-image: pimento-cheese-sausage-balls.png
+image: pimento-cheese-sausage-balls.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT18M

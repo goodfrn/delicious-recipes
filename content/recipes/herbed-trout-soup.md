@@ -7,7 +7,7 @@ ogDescription: "Savor the taste of Herbed Trout Soup with fresh herbs and trout.
 focusKeyphrase: "Herbed Trout Soup"
 date: 2025-09-23
 draft: false
-image: herbed-trout-soup.png
+image: herbed-trout-soup.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

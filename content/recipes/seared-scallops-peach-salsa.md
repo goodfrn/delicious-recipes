@@ -7,7 +7,7 @@ ogDescription: "Delight in Seared Scallops with Peach Salsa. Fresh and vibrant. 
 focusKeyphrase: "Seared Scallops with Peach Salsa"
 date: 2025-07-21
 draft: false
-image: seared-scallops-peach-salsa.png
+image: seared-scallops-peach-salsa.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT0M

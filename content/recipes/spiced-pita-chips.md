@@ -7,7 +7,7 @@ ogDescription: "Try Spiced Pita Chips with Smoky Twist for a crunchy, flavorful 
 focusKeyphrase: "Spiced Pita Chips"
 date: 2025-09-29
 draft: false
-image: spiced-pita-chips.png
+image: spiced-pita-chips.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT15M

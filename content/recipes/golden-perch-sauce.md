@@ -7,7 +7,7 @@ ogDescription: "Savor Golden Perch with Caramelized Onion Mushroom Sauce. This d
 focusKeyphrase: "Golden Perch"
 date: 2025-09-23
 draft: false
-image: golden-perch-sauce.png
+image: golden-perch-sauce.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT35M

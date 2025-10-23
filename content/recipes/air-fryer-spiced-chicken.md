@@ -7,7 +7,7 @@ ogDescription: "Try Air Fryer Spiced Chicken Breast, tossed in creamy mayo and s
 focusKeyphrase: "Air Fryer Spiced Chicken Breast"
 date: 2025-08-06
 draft: false
-image: air-fryer-spiced-chicken.png
+image: air-fryer-spiced-chicken.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

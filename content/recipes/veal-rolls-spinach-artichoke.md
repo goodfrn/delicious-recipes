@@ -7,7 +7,7 @@ ogDescription: "Explore veal rolls filled with spinach and artichokes, seared to
 focusKeyphrase: "veal rolls recipe"
 date: 2025-08-07
 draft: false
-image: veal-rolls-spinach-artichoke.png
+image: veal-rolls-spinach-artichoke.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT22M

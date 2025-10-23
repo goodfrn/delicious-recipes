@@ -7,7 +7,7 @@ ogDescription: "Explore Silken Tofu Caprese Twist - a vibrant, plant-centric dis
 focusKeyphrase: "Silken Tofu Caprese Twist"
 date: 2025-08-17
 draft: false
-image: silken-tofu-caprese.png
+image: silken-tofu-caprese.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Savor Buttermilk Chive Potato Mash; creamy with richness, herbac
 focusKeyphrase: "Buttermilk Chive Potato Mash"
 date: 2025-08-09
 draft: false
-image: buttermilk-chive-potato-mash.png
+image: buttermilk-chive-potato-mash.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT20M

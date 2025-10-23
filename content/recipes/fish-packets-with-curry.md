@@ -7,7 +7,7 @@ ogDescription: "Grilled foil packets of fish and veggies with curry dressing; fl
 focusKeyphrase: "Fish Packets with Curry Dressing"
 date: 2025-09-29
 draft: false
-image: fish-packets-with-curry.png
+image: fish-packets-with-curry.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

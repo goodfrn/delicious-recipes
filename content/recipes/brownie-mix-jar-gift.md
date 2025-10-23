@@ -7,7 +7,7 @@ ogDescription: "Surprise friends with a layered Brownie Mix Jar Gift. Coconut su
 focusKeyphrase: "Brownie Mix Jar Gift"
 date: 2025-07-28
 draft: false
-image: brownie-mix-jar-gift.png
+image: brownie-mix-jar-gift.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

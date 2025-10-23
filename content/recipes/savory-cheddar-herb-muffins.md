@@ -7,7 +7,7 @@ ogDescription: "Cheesy, herb-infused mini muffins made with cornbread mix. Quick
 focusKeyphrase: "Savory Cheddar Herb Muffins"
 date: 2025-10-17
 draft: false
-image: savory-cheddar-herb-muffins.png
+image: savory-cheddar-herb-muffins.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT18M

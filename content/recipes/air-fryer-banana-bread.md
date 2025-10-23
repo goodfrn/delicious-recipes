@@ -7,7 +7,7 @@ ogDescription: "Enjoy Air Fryer Walnut Banana Bread made with ripe bananas and G
 focusKeyphrase: "Air Fryer Banana Bread"
 date: 2025-10-17
 draft: false
-image: air-fryer-banana-bread.png
+image: air-fryer-banana-bread.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in this No-Bake Oreo Cheesecake Twist; creamy filling wi
 focusKeyphrase: "No-Bake Oreo Cheesecake"
 date: 2025-10-21
 draft: false
-image: no-bake-oreo-cheesecake.png
+image: no-bake-oreo-cheesecake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

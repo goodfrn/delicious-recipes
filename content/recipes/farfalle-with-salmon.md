@@ -7,7 +7,7 @@ ogDescription: "Savor Farfalle with Salmon and Veggies, a colorful dish with fre
 focusKeyphrase: "Farfalle with Salmon and Veggies"
 date: 2025-08-11
 draft: false
-image: farfalle-with-salmon.png
+image: farfalle-with-salmon.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT25M

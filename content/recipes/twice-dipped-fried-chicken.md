@@ -7,7 +7,7 @@ ogDescription: "Twice-Dipped Fried Chicken brings crispy perfection. Golden, fla
 focusKeyphrase: "Twice-Dipped Fried Chicken"
 date: 2025-08-14
 draft: false
-image: twice-dipped-fried-chicken.png
+image: twice-dipped-fried-chicken.jpg
 author: "Kate"
 prepTime: PT13H
 cookTime: PT32M

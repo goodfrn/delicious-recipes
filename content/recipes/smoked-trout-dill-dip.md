@@ -7,7 +7,7 @@ ogDescription: "Enjoy a flavorful Smoked Trout Dill Dip that combines creamy Gre
 focusKeyphrase: "Smoked Trout Dill Dip"
 date: 2025-07-23
 draft: false
-image: smoked-trout-dill-dip.png
+image: smoked-trout-dill-dip.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

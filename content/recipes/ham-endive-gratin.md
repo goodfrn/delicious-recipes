@@ -7,7 +7,7 @@ ogDescription: "Indulge in Ham Endive Gratin Twist. Tender endives wrapped in tu
 focusKeyphrase: "Ham Endive Gratin Twist"
 date: 2025-07-24
 draft: false
-image: ham-endive-gratin.png
+image: ham-endive-gratin.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

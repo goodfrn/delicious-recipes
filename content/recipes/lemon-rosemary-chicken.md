@@ -7,7 +7,7 @@ ogDescription: "Enjoy Lemon Rosemary Chicken simmered in white wine and herbs, t
 focusKeyphrase: "Lemon Rosemary Chicken"
 date: 2025-08-15
 draft: false
-image: lemon-rosemary-chicken.png
+image: lemon-rosemary-chicken.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Sip on this vibrant Pink Raspberry Grapefruitade. Tart grapefrui
 focusKeyphrase: "Pink Raspberry Grapefruitade"
 date: 2025-08-15
 draft: false
-image: pink-raspberry-grapefruitade.png
+image: pink-raspberry-grapefruitade.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

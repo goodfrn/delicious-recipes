@@ -7,7 +7,7 @@ ogDescription: "Discover how to make Peach-Orange Schnapps; a refreshing, fruity
 focusKeyphrase: "Peach-Orange Schnapps"
 date: 2025-09-27
 draft: false
-image: peach-orange-schnapps.png
+image: peach-orange-schnapps.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

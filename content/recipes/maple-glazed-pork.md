@@ -7,7 +7,7 @@ ogDescription: "Try Maple-Glazed Pork Medallions, a flavorful yet straightforwar
 focusKeyphrase: "Maple-Glazed Pork Medallions"
 date: 2025-09-26
 draft: false
-image: maple-glazed-pork.png
+image: maple-glazed-pork.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT22M

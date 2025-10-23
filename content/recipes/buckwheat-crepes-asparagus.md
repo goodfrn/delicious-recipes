@@ -7,7 +7,7 @@ ogDescription: "Buckwheat Crepes with Asparagus - rustic vegetarian dish with go
 focusKeyphrase: "buckwheat crepes"
 date: 2025-07-21
 draft: false
-image: buckwheat-crepes-asparagus.png
+image: buckwheat-crepes-asparagus.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT27M

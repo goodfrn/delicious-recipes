@@ -7,7 +7,7 @@ ogDescription: "Elevate your moussaka game with this remix. Roasted eggplants, s
 focusKeyphrase: "Eggplant Moussaka"
 date: 2025-08-03
 draft: false
-image: eggplant-moussaka-remix.png
+image: eggplant-moussaka-remix.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT55M

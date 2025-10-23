@@ -7,7 +7,7 @@ ogDescription: "Discover Zesty Coriander Sauce. A bold blend of herbs. Ideal for
 focusKeyphrase: "Zesty Coriander Sauce"
 date: 2025-07-29
 draft: false
-image: zesty-coriander-sauce.png
+image: zesty-coriander-sauce.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Kale Celery Waldorf Salad bursts with fresh flavor and texture; 
 focusKeyphrase: "Kale Celery Waldorf Salad"
 date: 2025-08-03
 draft: false
-image: kale-celery-waldorf-salad.png
+image: kale-celery-waldorf-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT5M

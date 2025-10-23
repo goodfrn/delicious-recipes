@@ -7,7 +7,7 @@ ogDescription: "Enjoy a rustic dish with tender pork and sweet Medjool dates slo
 focusKeyphrase: "Braised Pork with Dates"
 date: 2025-07-26
 draft: false
-image: braised-pork-with-dates.png
+image: braised-pork-with-dates.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT8H30M

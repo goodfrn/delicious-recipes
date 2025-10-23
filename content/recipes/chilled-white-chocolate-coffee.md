@@ -7,7 +7,7 @@ ogDescription: "A frozen blend of coffee and white chocolate; creamy sips with a
 focusKeyphrase: "Chilled White Chocolate Coffee"
 date: 2025-08-15
 draft: false
-image: chilled-white-chocolate-coffee.png
+image: chilled-white-chocolate-coffee.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

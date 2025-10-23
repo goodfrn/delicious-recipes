@@ -7,7 +7,7 @@ ogDescription: "Enjoy Pork Chops and Lemon-Rosemary Fries, a mouthwatering dish 
 focusKeyphrase: "Pork Chops"
 date: 2025-07-26
 draft: false
-image: pork-chops-lemon-fries.png
+image: pork-chops-lemon-fries.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT38M

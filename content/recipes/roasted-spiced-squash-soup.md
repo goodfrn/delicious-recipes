@@ -7,7 +7,7 @@ ogDescription: "Try Roasted Spiced Squash Soup; hearty, roasted flavors combined
 focusKeyphrase: "Roasted Spiced Squash Soup"
 date: 2025-08-02
 draft: false
-image: roasted-spiced-squash-soup.png
+image: roasted-spiced-squash-soup.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

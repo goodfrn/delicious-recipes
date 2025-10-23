@@ -7,7 +7,7 @@ ogDescription: "Five vinaigrettes transformed. Unique ingredients meet tried met
 focusKeyphrase: "rustic vinaigrettes"
 date: 2025-08-12
 draft: false
-image: rustic-vinaigrettes-mixup.png
+image: rustic-vinaigrettes-mixup.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT8M

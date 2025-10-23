@@ -7,7 +7,7 @@ ogDescription: "Spicy Stuffed Fire Rockets, jalapeños, tangy goat cheese and cr
 focusKeyphrase: "Stuffed Fire Rockets"
 date: 2025-07-25
 draft: false
-image: stuffed-fire-rockets.png
+image: stuffed-fire-rockets.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT30M

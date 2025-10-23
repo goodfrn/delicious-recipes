@@ -7,7 +7,7 @@ ogDescription: "Indulge in layers of chocolate pudding, caramelized bananas, whi
 focusKeyphrase: "Chocolate Banana Pudding Remix"
 date: 2025-09-29
 draft: false
-image: chocolate-banana-pudding-remix.png
+image: chocolate-banana-pudding-remix.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT25M

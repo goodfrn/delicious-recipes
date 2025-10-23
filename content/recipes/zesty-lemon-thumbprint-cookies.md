@@ -7,7 +7,7 @@ ogDescription: "Discover Zesty Lemon Thumbprint Cookies—a delightful treat fil
 focusKeyphrase: "Zesty Lemon Thumbprint Cookies"
 date: 2025-10-07
 draft: false
-image: zesty-lemon-thumbprint-cookies.png
+image: zesty-lemon-thumbprint-cookies.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT12M

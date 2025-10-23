@@ -7,7 +7,7 @@ ogDescription: "Roasted Parsnip Onion Soup combines earthy flavors and rich text
 focusKeyphrase: "Roasted Parsnip Onion Soup"
 date: 2025-08-19
 draft: false
-image: roasted-parsnip-onion-soup.png
+image: roasted-parsnip-onion-soup.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT55M

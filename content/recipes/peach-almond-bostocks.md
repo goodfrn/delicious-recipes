@@ -7,7 +7,7 @@ ogDescription: "Indulge in Peach Almond Bostocks. Toasted brioche layered with a
 focusKeyphrase: "Peach Almond Bostocks"
 date: 2025-08-07
 draft: false
-image: peach-almond-bostocks.png
+image: peach-almond-bostocks.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT18M

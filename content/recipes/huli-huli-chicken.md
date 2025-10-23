@@ -7,7 +7,7 @@ ogDescription: "Try Huli Huli Chicken Twist, marinated in pineapple and turmeric
 focusKeyphrase: "Huli Huli Chicken"
 date: 2025-10-13
 draft: false
-image: huli-huli-chicken.png
+image: huli-huli-chicken.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT20M

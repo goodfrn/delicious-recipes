@@ -7,7 +7,7 @@ ogDescription: "Experience Curried Lobster Coconut, where tender lobster chunks 
 focusKeyphrase: "Curried Lobster Coconut"
 date: 2025-08-03
 draft: false
-image: curried-lobster-coconut.png
+image: curried-lobster-coconut.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

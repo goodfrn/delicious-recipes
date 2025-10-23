@@ -7,7 +7,7 @@ ogDescription: "Try Mom’s Cucumber Ketchup Remix. A tangy, chunky ketchup alte
 focusKeyphrase: "Cucumber ketchup"
 date: 2025-08-15
 draft: false
-image: moms-cucumber-ketchup.png
+image: moms-cucumber-ketchup.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

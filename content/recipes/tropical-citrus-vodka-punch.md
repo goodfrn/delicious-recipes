@@ -7,7 +7,7 @@ ogDescription: "Experience a refreshing Tropical Citrus Vodka Punch. Bursting wi
 focusKeyphrase: "Tropical Citrus Vodka Punch"
 date: 2025-08-06
 draft: false
-image: tropical-citrus-vodka-punch.png
+image: tropical-citrus-vodka-punch.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Caramelized Peaches Maple Chantilly; peaches, whipped
 focusKeyphrase: "Caramelized Peaches Maple Chantilly"
 date: 2025-08-07
 draft: false
-image: caramelized-peaches-maple-chantilly.png
+image: caramelized-peaches-maple-chantilly.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

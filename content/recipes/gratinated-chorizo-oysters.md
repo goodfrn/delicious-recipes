@@ -7,7 +7,7 @@ ogDescription: "Bite into Gratinated Chorizo Oysters; briny oysters topped with 
 focusKeyphrase: "Gratinated Chorizo Oysters"
 date: 2025-08-04
 draft: false
-image: gratinated-chorizo-oysters.png
+image: gratinated-chorizo-oysters.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT15M

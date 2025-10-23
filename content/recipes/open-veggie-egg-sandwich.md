@@ -7,7 +7,7 @@ ogDescription: "Roasted veggies, soft-boiled eggs, and aioli on ciabatta. The Op
 focusKeyphrase: "Open Veggie Egg Sandwich"
 date: 2025-07-27
 draft: false
-image: open-veggie-egg-sandwich.png
+image: open-veggie-egg-sandwich.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Caramelized Bread Pudding with Spiced Rum Sauce; cust
 focusKeyphrase: "Caramelized Bread Pudding"
 date: 2025-09-24
 draft: false
-image: caramelized-bread-pudding.png
+image: caramelized-bread-pudding.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT50M

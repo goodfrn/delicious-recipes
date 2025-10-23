@@ -7,7 +7,7 @@ ogDescription: "Indulge in Maple Tart with Whipped Cream. Flaky crust, creamy fi
 focusKeyphrase: "Maple Tart"
 date: 2025-07-24
 draft: false
-image: maple-tart.png
+image: maple-tart.jpg
 author: "Kate"
 prepTime: PT1H10M
 cookTime: PT55M

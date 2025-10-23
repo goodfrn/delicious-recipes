@@ -7,7 +7,7 @@ ogDescription: "Roasted Red Pepper & Sun-Dried Tomato Dip. A flavorful blend of 
 focusKeyphrase: "Roasted Red Pepper & Sun-Dried Tomato Dip"
 date: 2025-09-28
 draft: false
-image: roasted-red-pepper-dip.png
+image: roasted-red-pepper-dip.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Vegetable-rich Cauliflower Couscous Stew with spices, chickpeas,
 focusKeyphrase: "Cauliflower Couscous Stew"
 date: 2025-07-21
 draft: false
-image: cauliflower-couscous-stew.png
+image: cauliflower-couscous-stew.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT17M

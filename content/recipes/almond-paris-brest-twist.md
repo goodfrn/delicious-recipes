@@ -7,7 +7,7 @@ ogDescription: "Indulge in Almond Paris-Brest Twist: A delightful choux pastry w
 focusKeyphrase: "Almond Paris-Brest Twist"
 date: 2025-08-16
 draft: false
-image: almond-paris-brest-twist.png
+image: almond-paris-brest-twist.jpg
 author: "Kate"
 prepTime: PT1H30M
 cookTime: PT1H10M

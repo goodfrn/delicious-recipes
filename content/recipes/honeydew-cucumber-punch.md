@@ -7,7 +7,7 @@ ogDescription: "Chill out with Honeydew Cucumber Punch Remix. A burst of flavors
 focusKeyphrase: "Honeydew Cucumber Punch"
 date: 2025-09-26
 draft: false
-image: honeydew-cucumber-punch.png
+image: honeydew-cucumber-punch.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

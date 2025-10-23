@@ -7,7 +7,7 @@ ogDescription: "Savor the Roast Lamb Leg with Buckwheat Honey. A unique twist wi
 focusKeyphrase: "Roast Lamb Leg"
 date: 2025-08-18
 draft: false
-image: roast-lamb-buckwheat-honey.png
+image: roast-lamb-buckwheat-honey.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Experience rich layers of flavor in Potato Leek Corn Soup, a com
 focusKeyphrase: "Potato Leek Corn Soup"
 date: 2025-09-30
 draft: false
-image: potato-leek-corn-soup.png
+image: potato-leek-corn-soup.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT40M

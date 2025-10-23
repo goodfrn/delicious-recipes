@@ -7,7 +7,7 @@ ogDescription: "Indulge in Almond Spiced Hot Chocolate with creamy textures and 
 focusKeyphrase: "Almond Spiced Hot Chocolate"
 date: 2025-08-14
 draft: false
-image: almond-spiced-hot-chocolate.png
+image: almond-spiced-hot-chocolate.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT9M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Spiced Pistachio Latte with roasted nuts and warm spices
 focusKeyphrase: "Spiced Pistachio Latte"
 date: 2025-08-09
 draft: false
-image: spiced-pistachio-latte.png
+image: spiced-pistachio-latte.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT8M

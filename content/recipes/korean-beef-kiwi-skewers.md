@@ -7,7 +7,7 @@ ogDescription: "Sizzle meets freshness in Korean Beef Kiwi Skewers; quick to mak
 focusKeyphrase: "Korean Beef Kiwi Skewers"
 date: 2025-09-27
 draft: false
-image: korean-beef-kiwi-skewers.png
+image: korean-beef-kiwi-skewers.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT7M

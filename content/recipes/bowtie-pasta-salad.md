@@ -7,7 +7,7 @@ ogDescription: "Bowtie Pasta Salad with Apples and Feta, a colorful mix of flavo
 focusKeyphrase: "Bowtie Pasta Salad"
 date: 2025-08-15
 draft: false
-image: bowtie-pasta-salad.png
+image: bowtie-pasta-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

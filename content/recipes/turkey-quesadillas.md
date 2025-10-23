@@ -7,7 +7,7 @@ ogDescription: "Savor Turkey Quesadillas with zesty avocado salsa. Crunchy torti
 focusKeyphrase: "Turkey Quesadillas"
 date: 2025-09-12
 draft: false
-image: turkey-quesadillas.png
+image: turkey-quesadillas.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT18M

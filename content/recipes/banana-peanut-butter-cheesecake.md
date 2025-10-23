@@ -7,7 +7,7 @@ ogDescription: "Indulge in this creamy Banana Peanut Butter Cheesecake. A deligh
 focusKeyphrase: "Banana Peanut Butter Cheesecake"
 date: 2025-07-25
 draft: false
-image: banana-peanut-butter-cheesecake.png
+image: banana-peanut-butter-cheesecake.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT1H25M

@@ -7,7 +7,7 @@ ogDescription: "Try these Rice Tuna Tomato Croquettes for a crispy snack or ligh
 focusKeyphrase: "Rice Tuna Tomato Croquettes"
 date: 2025-07-21
 draft: false
-image: rice-tuna-croquettes.png
+image: rice-tuna-croquettes.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT40M

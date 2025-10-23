@@ -7,7 +7,7 @@ ogDescription: "Moist, unique Hummingbird Cake Twist with mango, carrot, spices.
 focusKeyphrase: "Hummingbird Cake Twist"
 date: 2025-08-06
 draft: false
-image: hummingbird-cake-twist.png
+image: hummingbird-cake-twist.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT1H

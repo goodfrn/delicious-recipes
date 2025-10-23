@@ -7,7 +7,7 @@ ogDescription: "Indulge in Cherry Cheese Pockets, a delightful treat with a cris
 focusKeyphrase: "Cherry Cheese Pockets"
 date: 2025-08-28
 draft: false
-image: cherry-cheese-pockets.png
+image: cherry-cheese-pockets.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Irresistible Salted Caramel White Chocolate Cookies. Browned cho
 focusKeyphrase: "Salted Caramel White Chocolate Cookies"
 date: 2025-09-04
 draft: false
-image: salted-caramel-white-chocolate-cookies.png
+image: salted-caramel-white-chocolate-cookies.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT35M

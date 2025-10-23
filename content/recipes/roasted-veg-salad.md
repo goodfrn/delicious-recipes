@@ -7,7 +7,7 @@ ogDescription: "Enjoy Roasted Veg and Sunflower Salad featuring roasted veggies,
 focusKeyphrase: "Roasted Veg and Sunflower Salad"
 date: 2025-08-03
 draft: false
-image: roasted-veg-salad.png
+image: roasted-veg-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

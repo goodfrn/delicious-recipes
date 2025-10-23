@@ -7,7 +7,7 @@ ogDescription: "Revitalize with Grapefruit Mint Tonic, a mix of fresh grapefruit
 focusKeyphrase: "Grapefruit Mint Tonic"
 date: 2025-08-08
 draft: false
-image: grapefruit-mint-tonic.png
+image: grapefruit-mint-tonic.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

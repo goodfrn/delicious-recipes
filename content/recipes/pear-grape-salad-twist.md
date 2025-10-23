@@ -7,7 +7,7 @@ ogDescription: "Revamp your fruit salad with Pear Grape Salad Twist. A quick sal
 focusKeyphrase: "Pear Grape Salad"
 date: 2025-08-05
 draft: false
-image: pear-grape-salad-twist.png
+image: pear-grape-salad-twist.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

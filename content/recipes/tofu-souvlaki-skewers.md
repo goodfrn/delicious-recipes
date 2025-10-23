@@ -7,7 +7,7 @@ ogDescription: "Grilled tofu skewers bursting with citrus, served with tangy yog
 focusKeyphrase: "Tofu Souvlaki Skewers"
 date: 2025-08-01
 draft: false
-image: tofu-souvlaki-skewers.png
+image: tofu-souvlaki-skewers.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

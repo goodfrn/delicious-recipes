@@ -7,7 +7,7 @@ ogDescription: "Enjoy Sweet Potato Chicken Pie featuring tender chicken, sweet p
 focusKeyphrase: "Sweet Potato Chicken Pie"
 date: 2025-07-28
 draft: false
-image: sweet-potato-chicken-pie.png
+image: sweet-potato-chicken-pie.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT45M

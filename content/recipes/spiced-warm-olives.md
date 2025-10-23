@@ -7,7 +7,7 @@ ogDescription: "Spiced Warm Olives. Savory mix with anise and grilled lemon. Per
 focusKeyphrase: "Spiced Warm Olives"
 date: 2025-07-25
 draft: false
-image: spiced-warm-olives.png
+image: spiced-warm-olives.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT9M

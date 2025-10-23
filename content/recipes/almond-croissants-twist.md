@@ -7,7 +7,7 @@ ogDescription: "Experience Almond Croissants Twist. A unique take on classic cro
 focusKeyphrase: "Almond Croissants Twist"
 date: 2025-07-23
 draft: false
-image: almond-croissants-twist.png
+image: almond-croissants-twist.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT30M

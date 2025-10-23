@@ -7,7 +7,7 @@ ogDescription: "A refreshing Cactus Salad served in crispy tortilla bowls. Perfe
 focusKeyphrase: "Cactus Salad"
 date: 2025-07-28
 draft: false
-image: cactus-salad-tortilla-bowls.png
+image: cactus-salad-tortilla-bowls.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

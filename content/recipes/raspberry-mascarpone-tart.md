@@ -7,7 +7,7 @@ ogDescription: "Raspberry Mascarpone Tart Twist: Elegant tart with fresh raspber
 focusKeyphrase: "Raspberry Mascarpone Tart Twist"
 date: 2025-08-07
 draft: false
-image: raspberry-mascarpone-tart.png
+image: raspberry-mascarpone-tart.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT35M

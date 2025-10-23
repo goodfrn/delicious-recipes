@@ -7,7 +7,7 @@ ogDescription: "Bright, flavorful, and crunchy, this Grilled Pepper Peach Shrimp
 focusKeyphrase: "Grilled Pepper Peach Shrimp Salad"
 date: 2025-08-06
 draft: false
-image: grilled-pepper-peach-shrimp.png
+image: grilled-pepper-peach-shrimp.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT25M

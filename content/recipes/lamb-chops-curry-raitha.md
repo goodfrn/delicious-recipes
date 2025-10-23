@@ -7,7 +7,7 @@ ogDescription: "Discover the harmony of grilled lamb chops and refreshing melon 
 focusKeyphrase: "Lamb Chops with Curry and Melon Raitha"
 date: 2025-07-21
 draft: false
-image: lamb-chops-curry-raitha.png
+image: lamb-chops-curry-raitha.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT8M

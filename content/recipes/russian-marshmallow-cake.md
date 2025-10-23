@@ -7,7 +7,7 @@ ogDescription: "Indulge in the unique Russian Marshmallow Cake with a delicate s
 focusKeyphrase: "Russian Marshmallow Cake"
 date: 2025-07-29
 draft: false
-image: russian-marshmallow-cake.png
+image: russian-marshmallow-cake.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT20M

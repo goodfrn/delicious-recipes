@@ -7,7 +7,7 @@ ogDescription: "Discover Rustic Tropézienne Brioche, a rich, aromatic treat ble
 focusKeyphrase: "Rustic Tropézienne Brioche"
 date: 2025-08-15
 draft: false
-image: rustic-tropezienne-brioche.png
+image: rustic-tropezienne-brioche.jpg
 author: "Kate"
 prepTime: PT55M
 cookTime: PT35M

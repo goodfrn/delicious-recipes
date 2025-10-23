@@ -7,7 +7,7 @@ ogDescription: "Twisted Margarita mixes smoky mezcal with fresh lime and bitter 
 focusKeyphrase: "Twisted Margarita"
 date: 2025-09-29
 draft: false
-image: twisted-margarita.png
+image: twisted-margarita.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

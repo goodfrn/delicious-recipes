@@ -7,7 +7,7 @@ ogDescription: "Discover Spicy Grilled Lemon Pepper Wings; zesty flavors with he
 focusKeyphrase: "Spicy Grilled Lemon Pepper Wings"
 date: 2025-07-20
 draft: false
-image: spicy-grilled-lemon-pepper-wings.png
+image: spicy-grilled-lemon-pepper-wings.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT55M

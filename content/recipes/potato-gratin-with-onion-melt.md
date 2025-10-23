@@ -7,7 +7,7 @@ ogDescription: "Discover a new take on potato gratin with our flavorful blend of
 focusKeyphrase: "Potato Gratin with Onion Melt"
 date: 2025-07-27
 draft: false
-image: potato-gratin-with-onion-melt.png
+image: potato-gratin-with-onion-melt.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "A unique Honey Bourbon Glaze that blends sweetness and smoke. Id
 focusKeyphrase: "Honey Bourbon Glaze"
 date: 2025-07-29
 draft: false
-image: honey-bourbon-glaze.png
+image: honey-bourbon-glaze.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT20M

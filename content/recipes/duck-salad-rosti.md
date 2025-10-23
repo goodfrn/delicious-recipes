@@ -7,7 +7,7 @@ ogDescription: "Indulge in Duck Salad Rösti, a perfect combination of crispy po
 focusKeyphrase: "Duck Salad Rösti"
 date: 2025-07-24
 draft: false
-image: duck-salad-rosti.png
+image: duck-salad-rosti.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT22M

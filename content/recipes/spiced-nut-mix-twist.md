@@ -7,7 +7,7 @@ ogDescription: "Spiced Nut Mix Twist offers a bold blend of roasted nuts coated 
 focusKeyphrase: "spiced nut mix"
 date: 2025-09-29
 draft: false
-image: spiced-nut-mix-twist.png
+image: spiced-nut-mix-twist.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT28M

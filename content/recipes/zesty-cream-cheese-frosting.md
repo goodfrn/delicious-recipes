@@ -7,7 +7,7 @@ ogDescription: "Cream Cheese Frosting with zest. Tangy and rich, it holds its sh
 focusKeyphrase: "cream cheese frosting"
 date: 2025-10-16
 draft: false
-image: zesty-cream-cheese-frosting.png
+image: zesty-cream-cheese-frosting.jpg
 author: "Kate"
 prepTime: PT2M
 cookTime: PT4M

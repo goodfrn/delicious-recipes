@@ -7,7 +7,7 @@ ogDescription: "Creamy Soft Scramble. Master the slow method for the ultimate sc
 focusKeyphrase: "creamy soft scramble"
 date: 2025-08-06
 draft: false
-image: creamy-soft-scramble.png
+image: creamy-soft-scramble.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT23M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Everyday Tossed Salad with fresh greens, crisp veggies, an
 focusKeyphrase: "Everyday Tossed Salad"
 date: 2025-10-21
 draft: false
-image: everyday-tossed-salad.png
+image: everyday-tossed-salad.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT0M

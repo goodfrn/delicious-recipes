@@ -7,7 +7,7 @@ ogDescription: "Sear duck right, pomegranate glaze coats perfectly. Nutty oil sw
 focusKeyphrase: "Duck with Pomegranate Glaze"
 date: 2025-08-01
 draft: false
-image: duck-with-pomegranate-glaze.png
+image: duck-with-pomegranate-glaze.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Savor Pork Rack Squash with Mushroom-Cranberry Sauce. Juicy pork
 focusKeyphrase: "Pork Rack Squash with Mushroom-Cranberry Sauce"
 date: 2025-07-27
 draft: false
-image: pork-rack-squash.png
+image: pork-rack-squash.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT1H50M

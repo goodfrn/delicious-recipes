@@ -7,7 +7,7 @@ ogDescription: "Savor One-Pan Tomato Gnocchi. A skillet dish with fresh tomatoes
 focusKeyphrase: "Tomato Gnocchi"
 date: 2025-09-26
 draft: false
-image: one-pan-tomato-gnocchi.png
+image: one-pan-tomato-gnocchi.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT35M

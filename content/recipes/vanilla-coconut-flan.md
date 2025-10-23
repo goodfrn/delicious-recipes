@@ -7,7 +7,7 @@ ogDescription: "Enjoy a unique twist on a classic dessert with Vanilla-Coconut F
 focusKeyphrase: "Vanilla-Coconut Flan"
 date: 2025-07-28
 draft: false
-image: vanilla-coconut-flan.png
+image: vanilla-coconut-flan.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Savor Caramelized Pork Ribs Greens – tender ribs, spicy glaze,
 focusKeyphrase: "Caramelized Pork Ribs"
 date: 2025-08-04
 draft: false
-image: caramelized-pork-ribs.png
+image: caramelized-pork-ribs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H35M

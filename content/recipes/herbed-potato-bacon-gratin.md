@@ -7,7 +7,7 @@ ogDescription: "Layered potato gratin with bacon, creamy coconut milk, and fresh
 focusKeyphrase: "Herbed Potato Bacon Gratin"
 date: 2025-07-25
 draft: false
-image: herbed-potato-bacon-gratin.png
+image: herbed-potato-bacon-gratin.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H55M

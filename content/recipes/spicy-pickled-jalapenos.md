@@ -7,7 +7,7 @@ ogDescription: "Quickly pickle jalapeños with apple cider vinegar. Smoky, herba
 focusKeyphrase: "Spicy Pickled Jalapeños"
 date: 2025-08-19
 draft: false
-image: spicy-pickled-jalapenos.png
+image: spicy-pickled-jalapenos.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT6M

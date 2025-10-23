@@ -7,7 +7,7 @@ ogDescription: "Savor Beef Stew with Prunes Slow Cooker. Hearty and flavorful. P
 focusKeyphrase: "Beef Stew with Prunes"
 date: 2025-07-24
 draft: false
-image: beef-stew-with-prunes.png
+image: beef-stew-with-prunes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT8H30M

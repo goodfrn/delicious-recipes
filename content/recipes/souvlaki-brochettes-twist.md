@@ -7,7 +7,7 @@ ogDescription: "Souvlaki Brochettes Twist—zesty chicken skewers, charred pita,
 focusKeyphrase: "Souvlaki Brochettes Twist"
 date: 2025-08-29
 draft: false
-image: souvlaki-brochettes-twist.png
+image: souvlaki-brochettes-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT20M

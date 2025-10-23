@@ -7,7 +7,7 @@ ogDescription: "Savor the robust flavors of Veal Roast with Peppers Sage Lemon. 
 focusKeyphrase: "Veal Roast"
 date: 2025-09-25
 draft: false
-image: veal-roast-with-peppers.png
+image: veal-roast-with-peppers.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

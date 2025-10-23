@@ -7,7 +7,7 @@ ogDescription: "Creamy Broccoli Cheese Soup Twist with gouda and fontina. A sati
 focusKeyphrase: "Broccoli Cheese Soup"
 date: 2025-10-17
 draft: false
-image: broccoli-cheese-soup.png
+image: broccoli-cheese-soup.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

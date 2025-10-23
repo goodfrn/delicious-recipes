@@ -7,7 +7,7 @@ ogDescription: "Jasmine Cherry Cocktails Reworked combines floral jasmine syrup,
 focusKeyphrase: "Jasmine Cherry Cocktails"
 date: 2025-08-13
 draft: false
-image: jasmine-cherry-cocktails.png
+image: jasmine-cherry-cocktails.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

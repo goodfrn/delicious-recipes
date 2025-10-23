@@ -7,7 +7,7 @@ ogDescription: "Enjoy Skillet Cake Berry Melt. Fresh berries, sponge biscuits, a
 focusKeyphrase: "Skillet Cake Berry Melt"
 date: 2025-09-18
 draft: false
-image: skillet-cake-berry-melt.png
+image: skillet-cake-berry-melt.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT35M

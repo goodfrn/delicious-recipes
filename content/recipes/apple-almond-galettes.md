@@ -7,7 +7,7 @@ ogDescription: "Crunchy galettes with apples and almonds, a versatile snack or d
 focusKeyphrase: "Apple Almond Galettes"
 date: 2025-08-05
 draft: false
-image: apple-almond-galettes.png
+image: apple-almond-galettes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

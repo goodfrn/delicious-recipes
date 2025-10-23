@@ -7,7 +7,7 @@ ogDescription: "Experience Trout Crudo with Cranberry and Puffed Rice; vibrant f
 focusKeyphrase: "Trout Crudo"
 date: 2025-09-29
 draft: false
-image: trout-crudo.png
+image: trout-crudo.jpg
 author: "Kate"
 prepTime: PT27M
 cookTime: PT13M

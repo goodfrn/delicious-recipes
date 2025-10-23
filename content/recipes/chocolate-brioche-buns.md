@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chocolate Brioche Buns—a rich, buttery treat with m
 focusKeyphrase: "Chocolate Brioche Buns"
 date: 2025-08-08
 draft: false
-image: chocolate-brioche-buns.png
+image: chocolate-brioche-buns.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT28M

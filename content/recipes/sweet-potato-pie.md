@@ -7,7 +7,7 @@ ogDescription: "Enjoy Sweet Potato Pie Twist with a deliciously creamy filling m
 focusKeyphrase: "Sweet Potato Pie Twist"
 date: 2025-10-16
 draft: false
-image: sweet-potato-pie.png
+image: sweet-potato-pie.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT55M

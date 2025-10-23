@@ -7,7 +7,7 @@ ogDescription: "Enjoy a hearty Roast Beef Ribeye with Madeira Sauce, complemente
 focusKeyphrase: "Roast Beef Ribeye"
 date: 2025-08-10
 draft: false
-image: roast-beef-ribeye.png
+image: roast-beef-ribeye.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT3H10M

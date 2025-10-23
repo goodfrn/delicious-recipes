@@ -7,7 +7,7 @@ ogDescription: "Enjoy a warm bowl of Shrimp Corn Chowder, a comforting blend of 
 focusKeyphrase: "Shrimp Corn Chowder"
 date: 2025-08-17
 draft: false
-image: shrimp-corn-chowder.png
+image: shrimp-corn-chowder.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chunky Chocolate Pecan Brownies. Fudgy bites topped w
 focusKeyphrase: "Chunky Chocolate Pecan Brownies"
 date: 2025-09-18
 draft: false
-image: chunky-chocolate-pecan-brownies.png
+image: chunky-chocolate-pecan-brownies.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT35M

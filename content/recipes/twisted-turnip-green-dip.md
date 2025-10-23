@@ -7,7 +7,7 @@ ogDescription: "Dive into Twisted Turnip Green Dip. Smoky flavors and creamy tex
 focusKeyphrase: "Turnip Green Dip"
 date: 2025-10-08
 draft: false
-image: twisted-turnip-green-dip.png
+image: twisted-turnip-green-dip.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT30M

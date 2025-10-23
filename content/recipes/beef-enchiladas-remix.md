@@ -7,7 +7,7 @@ ogDescription: "Elevate eat-in nights. Beef Enchiladas Remix is layered with smo
 focusKeyphrase: "Beef Enchiladas Remix"
 date: 2025-08-16
 draft: false
-image: beef-enchiladas-remix.png
+image: beef-enchiladas-remix.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT27M

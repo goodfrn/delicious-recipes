@@ -7,7 +7,7 @@ ogDescription: "Brown Sugar Blondies with Creamy Swirl. Caramel-infused flavor, 
 focusKeyphrase: "Brown Sugar Blondies"
 date: 2025-08-08
 draft: false
-image: brown-sugar-blondies.png
+image: brown-sugar-blondies.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT34M

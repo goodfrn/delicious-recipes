@@ -7,7 +7,7 @@ ogDescription: "Sesame Bagels with Molasses Twist. Chewy, earthy flavor, classic
 focusKeyphrase: "sesame bagels"
 date: 2025-08-12
 draft: false
-image: sesame-bagels-molasses.png
+image: sesame-bagels-molasses.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

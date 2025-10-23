@@ -7,7 +7,7 @@ ogDescription: "Quick Pickled Bean Sprouts for a light, tangy side dish. Fresh b
 focusKeyphrase: "Quick Pickled Bean Sprouts"
 date: 2025-07-21
 draft: false
-image: quick-pickled-bean-sprouts.png
+image: quick-pickled-bean-sprouts.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT5M

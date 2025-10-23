@@ -7,7 +7,7 @@ ogDescription: "Dive into rich flavors with Thai Chicken Shrimp Soup. Creamy coc
 focusKeyphrase: "Thai Chicken Shrimp Soup"
 date: 2025-09-11
 draft: false
-image: thai-chicken-shrimp-soup.png
+image: thai-chicken-shrimp-soup.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT35M

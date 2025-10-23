@@ -7,7 +7,7 @@ ogDescription: "Brighten your day with this Citrus Fruit Medley. Fresh fruits mi
 focusKeyphrase: "Citrus Fruit Medley"
 date: 2025-10-07
 draft: false
-image: citrus-fruit-medley.png
+image: citrus-fruit-medley.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Smoked Mackerel Veggie Tabouleh, a fresh and smoky Mediter
 focusKeyphrase: "Smoked Mackerel Veggie Tabouleh"
 date: 2025-07-25
 draft: false
-image: smoked-mackerel-veggie-tabouleh.png
+image: smoked-mackerel-veggie-tabouleh.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT7M

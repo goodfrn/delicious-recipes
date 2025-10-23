@@ -7,7 +7,7 @@ ogDescription: "Enjoy Pork Lettuce Wraps Twist that combines seared pork and shi
 focusKeyphrase: "Pork Lettuce Wraps"
 date: 2025-08-02
 draft: false
-image: pork-lettuce-wraps.png
+image: pork-lettuce-wraps.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

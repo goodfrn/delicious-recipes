@@ -7,7 +7,7 @@ ogDescription: "Bright, tangy Korean-Style Quick Pickled Veggies add crunch and 
 focusKeyphrase: "Korean-Style Quick Pickled Veggies"
 date: 2025-08-09
 draft: false
-image: korean-style-pickled-veggies.png
+image: korean-style-pickled-veggies.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT2M

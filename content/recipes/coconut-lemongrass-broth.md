@@ -7,7 +7,7 @@ ogDescription: "Fragrant Coconut Lemongrass Broth made with chicken broth and co
 focusKeyphrase: "Coconut Lemongrass Broth"
 date: 2025-09-26
 draft: false
-image: coconut-lemongrass-broth.png
+image: coconut-lemongrass-broth.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

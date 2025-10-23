@@ -7,7 +7,7 @@ ogDescription: "Crispy Shrimp Cheese Pupusas filled with shrimp, garlic, and che
 focusKeyphrase: "Shrimp Cheese Pupusas"
 date: 2025-08-04
 draft: false
-image: shrimp-cheese-pupusas.png
+image: shrimp-cheese-pupusas.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT35M

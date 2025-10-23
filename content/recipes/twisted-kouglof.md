@@ -7,7 +7,7 @@ ogDescription: "Twisted Kouglof, a rustic yeast bread enriched with yogurt, rum-
 focusKeyphrase: "Twisted Kouglof"
 date: 2025-08-02
 draft: false
-image: twisted-kouglof.png
+image: twisted-kouglof.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

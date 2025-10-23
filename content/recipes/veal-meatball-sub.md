@@ -7,7 +7,7 @@ ogDescription: "Savor the Veal Meatball Sub Twist. Caramelized shallots, hearty 
 focusKeyphrase: "Veal Meatball Sub Twist"
 date: 2025-08-01
 draft: false
-image: veal-meatball-sub.png
+image: veal-meatball-sub.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

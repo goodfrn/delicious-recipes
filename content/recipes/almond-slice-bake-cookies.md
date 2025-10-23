@@ -7,7 +7,7 @@ ogDescription: "Almond Slice and Bake Cookies; a fun, vibrant twist on classic c
 focusKeyphrase: "Almond Slice and Bake Cookies"
 date: 2025-10-20
 draft: false
-image: almond-slice-bake-cookies.png
+image: almond-slice-bake-cookies.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT15M

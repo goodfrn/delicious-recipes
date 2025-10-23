@@ -7,7 +7,7 @@ ogDescription: "Savor the simple goodness of Buttered Carrots with Thyme. Tender
 focusKeyphrase: "Buttered Carrots with Thyme"
 date: 2025-07-28
 draft: false
-image: buttered-carrots-thyme.png
+image: buttered-carrots-thyme.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT12M

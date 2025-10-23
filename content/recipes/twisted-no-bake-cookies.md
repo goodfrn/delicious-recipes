@@ -7,7 +7,7 @@ ogDescription: "No cooking required. Quick melted butter and nutty richness crea
 focusKeyphrase: "Twisted No Bake Cookies"
 date: 2025-10-08
 draft: false
-image: twisted-no-bake-cookies.png
+image: twisted-no-bake-cookies.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT7M

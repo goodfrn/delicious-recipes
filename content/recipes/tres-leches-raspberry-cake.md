@@ -7,7 +7,7 @@ ogDescription: "Discover a light and fluffy Tres Leches Raspberry Cake Twist, so
 focusKeyphrase: "Tres Leches Raspberry Cake"
 date: 2025-08-05
 draft: false
-image: tres-leches-raspberry-cake.png
+image: tres-leches-raspberry-cake.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT35M

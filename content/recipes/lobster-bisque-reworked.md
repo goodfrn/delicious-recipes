@@ -7,7 +7,7 @@ ogDescription: "Elevate your soup game with this Lobster Bisque Reworked. Smoky 
 focusKeyphrase: "lobster bisque"
 date: 2025-10-16
 draft: false
-image: lobster-bisque-reworked.png
+image: lobster-bisque-reworked.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT28M

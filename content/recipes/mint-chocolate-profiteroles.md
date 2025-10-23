@@ -7,7 +7,7 @@ ogDescription: "Indulge in Mint Chocolate Profiteroles filled with mint cream an
 focusKeyphrase: "Mint Chocolate Profiteroles"
 date: 2025-08-10
 draft: false
-image: mint-chocolate-profiteroles.png
+image: mint-chocolate-profiteroles.jpg
 author: "Kate"
 prepTime: PT1H20M
 cookTime: PT50M

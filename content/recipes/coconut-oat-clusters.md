@@ -7,7 +7,7 @@ ogDescription: "Crunchy Coconut Oat Clusters use aquafaba, coconut oil, and mapl
 focusKeyphrase: "Coconut Oat Clusters"
 date: 2025-09-27
 draft: false
-image: coconut-oat-clusters.png
+image: coconut-oat-clusters.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Explore Oysters with Citrus Mignonette. Fresh, tangy; a refreshi
 focusKeyphrase: "Oysters with Citrus Mignonette"
 date: 2025-09-17
 draft: false
-image: oysters-citrus-mignonette.png
+image: oysters-citrus-mignonette.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

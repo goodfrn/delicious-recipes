@@ -7,7 +7,7 @@ ogDescription: "Indulge in Roasted Tomato Soup with Croissant Croutons featuring
 focusKeyphrase: "Roasted Tomato Soup"
 date: 2025-08-14
 draft: false
-image: roasted-tomato-soup.png
+image: roasted-tomato-soup.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H10M

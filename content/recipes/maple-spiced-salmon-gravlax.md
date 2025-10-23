@@ -7,7 +7,7 @@ ogDescription: "Enjoy Maple-Spiced Salmon Gravlax with silky cured salmon and ze
 focusKeyphrase: "Maple-Spiced Salmon Gravlax"
 date: 2025-08-12
 draft: false
-image: maple-spiced-salmon-gravlax.png
+image: maple-spiced-salmon-gravlax.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20H

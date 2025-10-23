@@ -7,7 +7,7 @@ ogDescription: "Enjoy Sardines in Spicy Tomato for a rustic meal. Fresh herbs, s
 focusKeyphrase: "Sardines in Spicy Tomato"
 date: 2025-07-21
 draft: false
-image: sardines-in-spicy-tomato.png
+image: sardines-in-spicy-tomato.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT30M

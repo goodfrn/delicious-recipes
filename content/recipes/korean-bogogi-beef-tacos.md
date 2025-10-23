@@ -7,7 +7,7 @@ ogDescription: "Savor Korean Bogogi Beef Tacos with grilled flank steak, spicy c
 focusKeyphrase: "Korean Bogogi Beef Tacos"
 date: 2025-10-17
 draft: false
-image: korean-bogogi-beef-tacos.png
+image: korean-bogogi-beef-tacos.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

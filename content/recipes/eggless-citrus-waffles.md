@@ -7,7 +7,7 @@ ogDescription: "Delicious Eggless Citrus Waffles using plant-based ingredients. 
 focusKeyphrase: "Eggless Citrus Waffles"
 date: 2025-07-29
 draft: false
-image: eggless-citrus-waffles.png
+image: eggless-citrus-waffles.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

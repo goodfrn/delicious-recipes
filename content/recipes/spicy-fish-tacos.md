@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spicy Fish Tacos Twist; vibrant fish, lime, jalapeño. A q
 focusKeyphrase: "Spicy Fish Tacos"
 date: 2025-09-23
 draft: false
-image: spicy-fish-tacos.png
+image: spicy-fish-tacos.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

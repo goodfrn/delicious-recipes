@@ -7,7 +7,7 @@ ogDescription: "Sheet pan shrimp fried rice; enjoy easy crispy rice loaded with 
 focusKeyphrase: "Shrimp Fried Rice"
 date: 2025-08-10
 draft: false
-image: shrimp-fried-rice.png
+image: shrimp-fried-rice.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

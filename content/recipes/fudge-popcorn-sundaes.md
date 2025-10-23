@@ -7,7 +7,7 @@ ogDescription: "Enjoy Fudge Popcorn Sundaes; rich fudge sauce atop creamy coconu
 focusKeyphrase: "Fudge Popcorn Sundaes"
 date: 2025-08-10
 draft: false
-image: fudge-popcorn-sundaes.png
+image: fudge-popcorn-sundaes.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT7M

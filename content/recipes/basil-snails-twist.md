@@ -7,7 +7,7 @@ ogDescription: "Savory Basil Snails Twist with unique flavors. Sautéed escargot
 focusKeyphrase: "Basil Snails"
 date: 2025-09-24
 draft: false
-image: basil-snails-twist.png
+image: basil-snails-twist.jpg
 author: "Kate"
 prepTime: PT14M
 cookTime: PT13M

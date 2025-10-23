@@ -7,7 +7,7 @@ ogDescription: "Savor a Warm Blue Cheese Salad with toast, pears, and greens in 
 focusKeyphrase: "Warm Blue Cheese Salad"
 date: 2025-08-18
 draft: false
-image: warm-blue-cheese-salad.png
+image: warm-blue-cheese-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT4M

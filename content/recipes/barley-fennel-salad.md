@@ -7,7 +7,7 @@ ogDescription: "Fresh Barley Fennel Tomato Salad balances sweet and tangy with a
 focusKeyphrase: "Barley Fennel Tomato Salad"
 date: 2025-09-29
 draft: false
-image: barley-fennel-salad.png
+image: barley-fennel-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

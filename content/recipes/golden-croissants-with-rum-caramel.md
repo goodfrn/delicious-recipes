@@ -7,7 +7,7 @@ ogDescription: "Indulge in Golden Croissants with Rum Caramel. Crisp, buttery cr
 focusKeyphrase: "Golden Croissants with Rum Caramel"
 date: 2025-07-30
 draft: false
-image: golden-croissants-with-rum-caramel.png
+image: golden-croissants-with-rum-caramel.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT18M

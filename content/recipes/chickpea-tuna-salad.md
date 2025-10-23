@@ -7,7 +7,7 @@ ogDescription: "Discover Chickpea Tuna Salad Twist, a hearty, robust salad with 
 focusKeyphrase: "Chickpea Tuna Salad"
 date: 2025-08-05
 draft: false
-image: chickpea-tuna-salad.png
+image: chickpea-tuna-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Savor Veal Stew Sweet Potatoes, tender veal, sweet potatoes, and
 focusKeyphrase: "Veal Stew Sweet Potatoes"
 date: 2025-08-01
 draft: false
-image: veal-stew-sweet-potatoes.png
+image: veal-stew-sweet-potatoes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT7H15M

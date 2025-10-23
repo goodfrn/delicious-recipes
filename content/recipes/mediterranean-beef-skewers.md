@@ -7,7 +7,7 @@ ogDescription: "Try Mediterranean Beef Skewers for a smoky, flavorful dish with 
 focusKeyphrase: "Mediterranean Beef Skewers"
 date: 2025-09-25
 draft: false
-image: mediterranean-beef-skewers.png
+image: mediterranean-beef-skewers.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Beef Zucchini Meatballs Tahini, featuring roasted meatball
 focusKeyphrase: "Beef Zucchini Meatballs"
 date: 2025-07-30
 draft: false
-image: beef-zucchini-meatballs.png
+image: beef-zucchini-meatballs.jpg
 author: "Kate"
 prepTime: PT16M
 cookTime: PT38M

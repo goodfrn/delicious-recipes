@@ -7,7 +7,7 @@ ogDescription: "Green Bean Tot Casserole a comforting blend of crispy tater tots
 focusKeyphrase: "Green Bean Tot Casserole"
 date: 2025-10-08
 draft: false
-image: green-bean-tot-casserole.png
+image: green-bean-tot-casserole.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT45M

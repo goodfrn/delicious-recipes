@@ -7,7 +7,7 @@ ogDescription: "Enjoy a robust bowl of Dual Meat Chili Pressure Cooked, packed w
 focusKeyphrase: "Dual Meat Chili"
 date: 2025-08-17
 draft: false
-image: dual-meat-chili.png
+image: dual-meat-chili.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT40M

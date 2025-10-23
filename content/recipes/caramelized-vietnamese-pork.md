@@ -7,7 +7,7 @@ ogDescription: "Cook tender caramelized pork with rich flavors. Sweet glaze, gin
 focusKeyphrase: "Caramelized Vietnamese Pork"
 date: 2025-07-27
 draft: false
-image: caramelized-vietnamese-pork.png
+image: caramelized-vietnamese-pork.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT38M

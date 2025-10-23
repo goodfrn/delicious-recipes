@@ -7,7 +7,7 @@ ogDescription: "Quick Beef Stroganoff Pressure Cooker with tender sirloin and cr
 focusKeyphrase: "beef stroganoff pressure cooker"
 date: 2025-07-24
 draft: false
-image: beef-stroganoff-pressure-cooker.png
+image: beef-stroganoff-pressure-cooker.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

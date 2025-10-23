@@ -7,7 +7,7 @@ ogDescription: "Crunchy tortilla bowls filled with spiced beef, fresh veggies, a
 focusKeyphrase: "Spiced Beef Tortilla Salad"
 date: 2025-08-02
 draft: false
-image: spiced-beef-tortilla-salad.png
+image: spiced-beef-tortilla-salad.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

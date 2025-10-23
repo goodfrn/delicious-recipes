@@ -7,7 +7,7 @@ ogDescription: "Enjoy a hearty port of seitan stew with leeks, carrots, and pear
 focusKeyphrase: "Red Wine Seitan Stew"
 date: 2025-07-21
 draft: false
-image: red-wine-seitan-stew.png
+image: red-wine-seitan-stew.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H20M

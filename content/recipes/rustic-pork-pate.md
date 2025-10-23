@@ -7,7 +7,7 @@ ogDescription: "Savor Rustic Pork Pâté featuring roasted celery root, ginger, 
 focusKeyphrase: "Rustic Pork Pâté"
 date: 2025-09-28
 draft: false
-image: rustic-pork-pate.png
+image: rustic-pork-pate.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT1H10M

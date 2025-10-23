@@ -7,7 +7,7 @@ ogDescription: "Spiced Tempeh Apple Salad features pan-seared tempeh with apple,
 focusKeyphrase: "Spiced Tempeh Apple Salad"
 date: 2025-09-16
 draft: false
-image: spiced-tempeh-apple-salad.png
+image: spiced-tempeh-apple-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT6M

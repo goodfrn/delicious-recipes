@@ -7,7 +7,7 @@ ogDescription: "Blend creamy mango and pear into a quick shake with yogurt and m
 focusKeyphrase: "Twist Fruit Shake"
 date: 2025-08-04
 draft: false
-image: twist-fruit-shake.png
+image: twist-fruit-shake.jpg
 author: "Kate"
 prepTime: PT4M
 cookTime: PT0M

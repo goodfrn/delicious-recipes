@@ -7,7 +7,7 @@ ogDescription: "Elevate your salad game with Beet and Feta Salad featuring roast
 focusKeyphrase: "Beet and Feta Salad"
 date: 2025-09-24
 draft: false
-image: beet-feta-salad.png
+image: beet-feta-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT50M

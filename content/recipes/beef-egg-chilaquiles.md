@@ -7,7 +7,7 @@ ogDescription: "Indulge in Beef Egg Chilaquiles Remix. Seared steak, fried eggs,
 focusKeyphrase: "Beef Egg Chilaquiles Remix"
 date: 2025-08-03
 draft: false
-image: beef-egg-chilaquiles.png
+image: beef-egg-chilaquiles.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

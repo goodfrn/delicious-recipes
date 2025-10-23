@@ -7,7 +7,7 @@ ogDescription: "Savor Grilled Shrimp Coconut Romaine with marinated shrimp, crun
 focusKeyphrase: "grilled shrimp salad"
 date: 2025-08-29
 draft: false
-image: grilled-shrimp-coconut-salad.png
+image: grilled-shrimp-coconut-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT7M

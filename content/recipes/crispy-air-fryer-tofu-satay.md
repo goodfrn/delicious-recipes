@@ -7,7 +7,7 @@ ogDescription: "Enjoy Crispy Air Fryer Tofu Satay with creamy almond butter sauc
 focusKeyphrase: "Crispy Air Fryer Tofu Satay"
 date: 2025-08-08
 draft: false
-image: crispy-air-fryer-tofu-satay.png
+image: crispy-air-fryer-tofu-satay.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

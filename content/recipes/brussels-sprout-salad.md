@@ -7,7 +7,7 @@ ogDescription: "Discover a fresh twist on salad with Brussels sprouts, pear, blu
 focusKeyphrase: "Brussels Sprout Salad"
 date: 2025-07-25
 draft: false
-image: brussels-sprout-salad.png
+image: brussels-sprout-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Try this Twisted Negroni. Mezcal for smoky flavor. Aperol for li
 focusKeyphrase: "Twisted Negroni"
 date: 2025-07-20
 draft: false
-image: twisted-negroni.png
+image: twisted-negroni.jpg
 author: "Kate"
 prepTime: PT5M
 cookTime: PT0M

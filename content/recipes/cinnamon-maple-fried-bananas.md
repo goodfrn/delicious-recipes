@@ -7,7 +7,7 @@ ogDescription: "Savor Cinnamon Maple Fried Bananas. Fry ripe bananas in butter, 
 focusKeyphrase: "Cinnamon Maple Fried Bananas"
 date: 2025-10-16
 draft: false
-image: cinnamon-maple-fried-bananas.png
+image: cinnamon-maple-fried-bananas.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT12M

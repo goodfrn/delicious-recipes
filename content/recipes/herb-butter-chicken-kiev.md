@@ -7,7 +7,7 @@ ogDescription: "Indulge in Herb Butter Chicken Kiev - crispy outside, gooey insi
 focusKeyphrase: "Herb Butter Chicken Kiev"
 date: 2025-08-17
 draft: false
-image: herb-butter-chicken-kiev.png
+image: herb-butter-chicken-kiev.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

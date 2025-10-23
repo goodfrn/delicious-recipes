@@ -7,7 +7,7 @@ ogDescription: "Make American-Style Double Burgers with thin patties, tangy sauc
 focusKeyphrase: "American-Style Double Burgers"
 date: 2025-07-25
 draft: false
-image: american-style-double-burgers.png
+image: american-style-double-burgers.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Discover the Pork Smash Burgers Twist. Crunchy cheese crisps, sm
 focusKeyphrase: "Pork Smash Burgers"
 date: 2025-07-23
 draft: false
-image: pork-smash-burgers.png
+image: pork-smash-burgers.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT6M

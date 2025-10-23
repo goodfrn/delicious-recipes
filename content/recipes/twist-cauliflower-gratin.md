@@ -7,7 +7,7 @@ ogDescription: "Twist Cauliflower Gratin blends creamy béchamel with Greek yogu
 focusKeyphrase: "Twist Cauliflower Gratin"
 date: 2025-08-13
 draft: false
-image: twist-cauliflower-gratin.png
+image: twist-cauliflower-gratin.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT45M

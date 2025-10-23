@@ -7,7 +7,7 @@ ogDescription: "Creamy Shrimp Pasta, quick and flavorful. Garlic, lemon, shrimp,
 focusKeyphrase: "Creamy Shrimp Pasta"
 date: 2025-10-06
 draft: false
-image: creamy-shrimp-pasta.png
+image: creamy-shrimp-pasta.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Mango Chicken Boudreault Style; juicy chick
 focusKeyphrase: "Mango Chicken Boudreault Style"
 date: 2025-08-13
 draft: false
-image: mango-chicken-boudreault-style.png
+image: mango-chicken-boudreault-style.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

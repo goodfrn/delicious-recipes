@@ -7,7 +7,7 @@ ogDescription: "Savor Chicken Liver Mousse Terrine layered with cranberry jelly 
 focusKeyphrase: "Chicken Liver Mousse Terrine"
 date: 2025-09-29
 draft: false
-image: chicken-liver-mousse.png
+image: chicken-liver-mousse.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

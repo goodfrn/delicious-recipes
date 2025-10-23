@@ -7,7 +7,7 @@ ogDescription: "Caramelized pears meld with savory pork tenderloin; sweet, tangy
 focusKeyphrase: "Pork Filet with Caramelized Pears"
 date: 2025-08-16
 draft: false
-image: pork-filet-caramelized-pears.png
+image: pork-filet-caramelized-pears.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

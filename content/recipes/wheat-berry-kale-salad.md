@@ -7,7 +7,7 @@ ogDescription: "Hearty Wheat Berry Kale Salad with Greek Yogurt Dressing packs t
 focusKeyphrase: "Wheat Berry Kale Salad"
 date: 2025-08-11
 draft: false
-image: wheat-berry-kale-salad.png
+image: wheat-berry-kale-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H5M

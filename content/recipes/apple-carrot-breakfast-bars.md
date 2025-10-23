@@ -7,7 +7,7 @@ ogDescription: "Grab these Apple Carrot Breakfast Bars. Full of fiber, crunchy w
 focusKeyphrase: "Apple Carrot Breakfast Bars"
 date: 2025-08-03
 draft: false
-image: apple-carrot-breakfast-bars.png
+image: apple-carrot-breakfast-bars.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT30M

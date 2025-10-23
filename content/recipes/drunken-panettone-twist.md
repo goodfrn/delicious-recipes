@@ -7,7 +7,7 @@ ogDescription: "An Italian treat reimagined with limoncello, mango, and coconut 
 focusKeyphrase: "Drunken Panettone Twist"
 date: 2025-08-08
 draft: false
-image: drunken-panettone-twist.png
+image: drunken-panettone-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

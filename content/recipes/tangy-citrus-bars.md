@@ -7,7 +7,7 @@ ogDescription: "Bright and zesty Tangy Citrus Bars with an almond crust and a yo
 focusKeyphrase: "Tangy Citrus Bars"
 date: 2025-10-05
 draft: false
-image: tangy-citrus-bars.png
+image: tangy-citrus-bars.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

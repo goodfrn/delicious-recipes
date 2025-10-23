@@ -7,7 +7,7 @@ ogDescription: "Dive into Miso Chocolate Pancakes served with spiced pears. A un
 focusKeyphrase: "Miso Chocolate Pancakes"
 date: 2025-08-04
 draft: false
-image: miso-chocolate-pancakes.png
+image: miso-chocolate-pancakes.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT45M

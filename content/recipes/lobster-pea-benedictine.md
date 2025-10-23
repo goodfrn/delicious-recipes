@@ -7,7 +7,7 @@ ogDescription: "Indulge in Lobster Pea Benedictine, a seafood delight with lobst
 focusKeyphrase: "Lobster Pea Benedictine"
 date: 2025-07-27
 draft: false
-image: lobster-pea-benedictine.png
+image: lobster-pea-benedictine.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT25M

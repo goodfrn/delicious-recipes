@@ -7,7 +7,7 @@ ogDescription: "Indulge in Four-Quarter Fruit Loaf, a rich treat, soaked in Gran
 focusKeyphrase: "Four-Quarter Fruit Loaf"
 date: 2025-09-28
 draft: false
-image: four-quarter-fruit-loaf.png
+image: four-quarter-fruit-loaf.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

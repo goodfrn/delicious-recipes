@@ -7,7 +7,7 @@ ogDescription: "Crab Mango Stuffed Mushrooms offer savory crab, sweet mango in p
 focusKeyphrase: "Crab Mango Stuffed Mushrooms"
 date: 2025-08-01
 draft: false
-image: crab-mango-stuffed-mushrooms.png
+image: crab-mango-stuffed-mushrooms.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT7M

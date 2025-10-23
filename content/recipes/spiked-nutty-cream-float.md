@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Spiked Nutty Cream Float with cream soda, bourbon, and s
 focusKeyphrase: "Spiked Nutty Cream Float"
 date: 2025-10-21
 draft: false
-image: spiked-nutty-cream-float.png
+image: spiked-nutty-cream-float.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Silken Tofu Peanut Bowls; a blend of vermicelli salad, cru
 focusKeyphrase: "Silken Tofu Peanut Bowls"
 date: 2025-08-11
 draft: false
-image: silken-tofu-peanut-bowls.png
+image: silken-tofu-peanut-bowls.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT4M

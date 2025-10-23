@@ -7,7 +7,7 @@ ogDescription: "Duck Spring Rolls loaded with confit duck, fresh veggies, and a 
 focusKeyphrase: "Duck Spring Rolls"
 date: 2025-09-28
 draft: false
-image: duck-spring-rolls.png
+image: duck-spring-rolls.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Try Legume Apple Cranberry Salad packed with crunch and flavor, 
 focusKeyphrase: "Legume Apple Cranberry Salad"
 date: 2025-08-14
 draft: false
-image: legume-apple-cranberry-salad.png
+image: legume-apple-cranberry-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

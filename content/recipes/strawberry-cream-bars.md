@@ -7,7 +7,7 @@ ogDescription: "Enjoy layers of rich crust, cream cheese filling, and macerated 
 focusKeyphrase: "Strawberry Cream Bars"
 date: 2025-10-03
 draft: false
-image: strawberry-cream-bars.png
+image: strawberry-cream-bars.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT15M

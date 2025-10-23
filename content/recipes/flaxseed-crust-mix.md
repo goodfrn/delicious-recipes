@@ -7,7 +7,7 @@ ogDescription: "Whip up Flaxseed Crust Mix for a crunchy, flavorful coating on f
 focusKeyphrase: "Flaxseed Crust Mix"
 date: 2025-08-23
 draft: false
-image: flaxseed-crust-mix.png
+image: flaxseed-crust-mix.jpg
 author: "Kate"
 prepTime: PT8M
 cookTime: PT5M

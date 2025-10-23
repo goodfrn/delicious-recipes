@@ -7,7 +7,7 @@ ogDescription: "Classic Cheesecake Remix layers zesty cream cheese filling over 
 focusKeyphrase: "cheesecake recipe"
 date: 2025-08-08
 draft: false
-image: classic-cheesecake-remix.png
+image: classic-cheesecake-remix.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT1H55M

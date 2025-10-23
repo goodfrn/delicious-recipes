@@ -7,7 +7,7 @@ ogDescription: "Savor Mini Chicken Caesar Skewers. Chicken and bacon layered on 
 focusKeyphrase: "Mini Chicken Caesar Skewers"
 date: 2025-09-29
 draft: false
-image: mini-chicken-caesar-skewers.png
+image: mini-chicken-caesar-skewers.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

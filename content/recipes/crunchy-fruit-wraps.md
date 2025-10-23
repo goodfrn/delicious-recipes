@@ -7,7 +7,7 @@ ogDescription: "Savor Crunchy Fruit Wraps with chewy flatbread, crunchy cereal, 
 focusKeyphrase: "Crunchy Fruit Wraps"
 date: 2025-09-27
 draft: false
-image: crunchy-fruit-wraps.png
+image: crunchy-fruit-wraps.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT0M

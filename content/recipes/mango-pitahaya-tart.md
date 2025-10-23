@@ -7,7 +7,7 @@ ogDescription: "Indulge in the Mango Pitahaya Tart with a flaky crust, smooth cr
 focusKeyphrase: "Mango Pitahaya Tart"
 date: 2025-08-03
 draft: false
-image: mango-pitahaya-tart.png
+image: mango-pitahaya-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT20M

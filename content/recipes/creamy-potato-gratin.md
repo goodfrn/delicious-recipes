@@ -7,7 +7,7 @@ ogDescription: "Indulge in Creamy Potato Gratin — layers of tender potatoes, g
 focusKeyphrase: "Creamy Potato Gratin"
 date: 2025-08-11
 draft: false
-image: creamy-potato-gratin.png
+image: creamy-potato-gratin.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H20M

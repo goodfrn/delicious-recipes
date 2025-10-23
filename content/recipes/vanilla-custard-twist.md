@@ -7,7 +7,7 @@ ogDescription: "Elevate your dessert with Vanilla Custard using cornstarch, eggs
 focusKeyphrase: "Vanilla Custard"
 date: 2025-08-12
 draft: false
-image: vanilla-custard-twist.png
+image: vanilla-custard-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT12M

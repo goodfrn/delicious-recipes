@@ -7,7 +7,7 @@ ogDescription: "Delve into the Twisted Apple Tart. Reduced sugar and butter, uni
 focusKeyphrase: "Twisted Apple Tart"
 date: 2025-07-27
 draft: false
-image: twisted-apple-tart.png
+image: twisted-apple-tart.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT40M

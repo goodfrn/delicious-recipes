@@ -7,7 +7,7 @@ ogDescription: "Lentil Veggie Salad Twist features hearty lentils, herbs, and a 
 focusKeyphrase: "Lentil Veggie Salad"
 date: 2025-07-29
 draft: false
-image: lentil-veggie-salad.png
+image: lentil-veggie-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT50M

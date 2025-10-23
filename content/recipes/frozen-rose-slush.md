@@ -7,7 +7,7 @@ ogDescription: "Enjoy this icy Frozen Rosé Slush made with raspberries and basi
 focusKeyphrase: "Frozen Rosé Slush"
 date: 2025-07-27
 draft: false
-image: frozen-rose-slush.png
+image: frozen-rose-slush.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

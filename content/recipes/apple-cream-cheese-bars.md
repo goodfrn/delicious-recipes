@@ -7,7 +7,7 @@ ogDescription: "Layered Apple Cream Cheese Bars with crunchy shortbread and crea
 focusKeyphrase: "Apple Cream Cheese Bars"
 date: 2025-10-03
 draft: false
-image: apple-cream-cheese-bars.png
+image: apple-cream-cheese-bars.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H5M

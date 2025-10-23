@@ -7,7 +7,7 @@ ogDescription: "Scallop Shrimp Paprika Ravioli; crispy seafood ravioli with papr
 focusKeyphrase: "Scallop Shrimp Paprika Ravioli"
 date: 2025-09-03
 draft: false
-image: scallop-shrimp-ravioli.png
+image: scallop-shrimp-ravioli.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT10M

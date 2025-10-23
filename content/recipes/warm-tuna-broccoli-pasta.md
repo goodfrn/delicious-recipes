@@ -7,7 +7,7 @@ ogDescription: "Warm Tuna Broccoli Pasta a vibrant dish combining fresh ingredie
 focusKeyphrase: "Warm Tuna Broccoli Pasta"
 date: 2025-08-12
 draft: false
-image: warm-tuna-broccoli-pasta.png
+image: warm-tuna-broccoli-pasta.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT18M

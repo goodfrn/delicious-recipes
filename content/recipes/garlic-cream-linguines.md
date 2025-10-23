@@ -7,7 +7,7 @@ ogDescription: "Enjoy a tasty Garlic Cream Linguines Twist with unique Romanesco
 focusKeyphrase: "Garlic Cream Linguines Twist"
 date: 2025-09-18
 draft: false
-image: garlic-cream-linguines.png
+image: garlic-cream-linguines.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Sesame Pork Meatballs with refreshing cucumber salad. A twist on
 focusKeyphrase: "Sesame Pork Meatballs"
 date: 2025-09-29
 draft: false
-image: sesame-pork-meatballs.png
+image: sesame-pork-meatballs.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT30M

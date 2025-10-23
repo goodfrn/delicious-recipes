@@ -7,7 +7,7 @@ ogDescription: "Rustic Tomato Basil Pici combines hand-rolled spelt and semolina
 focusKeyphrase: "Rustic Tomato Basil Pici"
 date: 2025-08-03
 draft: false
-image: rustic-tomato-basil-pici.png
+image: rustic-tomato-basil-pici.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT7M

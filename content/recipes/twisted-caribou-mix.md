@@ -7,7 +7,7 @@ ogDescription: "Warm up with Twisted Caribou Mix—aged rum, pear brandy, and ap
 focusKeyphrase: "Twisted Caribou Mix"
 date: 2025-08-16
 draft: false
-image: twisted-caribou-mix.png
+image: twisted-caribou-mix.jpg
 author: "Kate"
 prepTime: PT5M
 cookTime: PT7M

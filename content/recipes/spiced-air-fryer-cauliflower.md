@@ -7,7 +7,7 @@ ogDescription: "Discover how to make Spiced Air Fryer Cauliflower with rich flav
 focusKeyphrase: "air fryer cauliflower"
 date: 2025-10-11
 draft: false
-image: spiced-air-fryer-cauliflower.png
+image: spiced-air-fryer-cauliflower.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT17M

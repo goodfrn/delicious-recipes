@@ -7,7 +7,7 @@ ogDescription: "Cold Spelt Salad with Salmon Avocado; enjoy a balance of flavors
 focusKeyphrase: "Cold Spelt Salad"
 date: 2025-08-05
 draft: false
-image: cold-spelt-salad.png
+image: cold-spelt-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

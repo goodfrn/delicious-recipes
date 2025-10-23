@@ -7,7 +7,7 @@ ogDescription: "Golden Turmeric Rice shines with jasmine rice, coconut oil, warm
 focusKeyphrase: "Golden Turmeric Rice"
 date: 2025-09-24
 draft: false
-image: golden-turmeric-rice.png
+image: golden-turmeric-rice.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

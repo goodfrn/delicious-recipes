@@ -7,7 +7,7 @@ ogDescription: "Enjoy a delicious Curried Tofu Stir-fry, featuring crispy tofu, 
 focusKeyphrase: "Curried Tofu Stir-fry"
 date: 2025-07-27
 draft: false
-image: curried-tofu-stir-fry.png
+image: curried-tofu-stir-fry.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT22M

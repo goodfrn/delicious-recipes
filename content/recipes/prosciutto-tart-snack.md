@@ -7,7 +7,7 @@ ogDescription: "Taste the crunch of fresh walnut topping and layers of creamy ch
 focusKeyphrase: "Prosciutto Tart Snack"
 date: 2025-09-28
 draft: false
-image: prosciutto-tart-snack.png
+image: prosciutto-tart-snack.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

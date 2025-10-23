@@ -7,7 +7,7 @@ ogDescription: "Enjoy the vibrant Fruity Rum Slush, a frozen cocktail mixing tro
 focusKeyphrase: "Fruity Rum Slush"
 date: 2025-07-21
 draft: false
-image: fruity-rum-slush.png
+image: fruity-rum-slush.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

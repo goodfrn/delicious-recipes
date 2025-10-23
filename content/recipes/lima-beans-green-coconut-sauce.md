@@ -7,7 +7,7 @@ ogDescription: "Savor Lima Beans Green Coconut Sauce; vibrant, nutritious, and a
 focusKeyphrase: "Lima Beans Green Coconut Sauce"
 date: 2025-08-19
 draft: false
-image: lima-beans-green-coconut-sauce.png
+image: lima-beans-green-coconut-sauce.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

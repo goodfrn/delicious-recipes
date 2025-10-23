@@ -7,7 +7,7 @@ ogDescription: "A unique Orange Chiffon Cake Twist using rice flour, fresh citru
 focusKeyphrase: "Orange Chiffon Cake"
 date: 2025-09-26
 draft: false
-image: orange-chiffon-cake.png
+image: orange-chiffon-cake.jpg
 author: "Kate"
 prepTime: PT55M
 cookTime: PT35M

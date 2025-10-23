@@ -7,7 +7,7 @@ ogDescription: "Indulge in Quinoa Quinotto with Peas and Shiitakes, a creamy and
 focusKeyphrase: "Quinoa Quinotto"
 date: 2025-08-12
 draft: false
-image: quinoa-quinotto.png
+image: quinoa-quinotto.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

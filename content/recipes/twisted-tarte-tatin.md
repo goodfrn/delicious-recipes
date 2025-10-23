@@ -7,7 +7,7 @@ ogDescription: "Twisted Tarte Tatin features glossy, caramelized pears under a f
 focusKeyphrase: "Twisted Tarte Tatin"
 date: 2025-09-27
 draft: false
-image: twisted-tarte-tatin.png
+image: twisted-tarte-tatin.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT55M

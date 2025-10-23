@@ -7,7 +7,7 @@ ogDescription: "Experience a twist on classic oyster soup with leeks and shiitak
 focusKeyphrase: "Gratin Oyster Soup"
 date: 2025-07-25
 draft: false
-image: gratin-oyster-soup-twist.png
+image: gratin-oyster-soup-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

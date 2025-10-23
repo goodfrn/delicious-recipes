@@ -7,7 +7,7 @@ ogDescription: "A quick and tasty Strawberry Crumble Air Fryer recipe, perfect f
 focusKeyphrase: "Strawberry Crumble Air Fryer"
 date: 2025-09-28
 draft: false
-image: strawberry-crumble-air-fryer.png
+image: strawberry-crumble-air-fryer.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT22M

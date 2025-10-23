@@ -7,7 +7,7 @@ ogDescription: "Green Apple Celery Salad offers a fresh crunch and a punchy vina
 focusKeyphrase: "Green Apple Celery Salad"
 date: 2025-08-15
 draft: false
-image: green-apple-celery-salad.png
+image: green-apple-celery-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

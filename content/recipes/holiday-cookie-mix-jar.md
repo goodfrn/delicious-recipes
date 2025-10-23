@@ -7,7 +7,7 @@ ogDescription: "Holiday Cookie Mix Jar with layers of dry ingredients. Great for
 focusKeyphrase: "Holiday Cookie Mix Jar"
 date: 2025-10-02
 draft: false
-image: holiday-cookie-mix-jar.png
+image: holiday-cookie-mix-jar.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT13M

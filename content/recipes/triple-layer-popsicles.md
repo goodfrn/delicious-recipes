@@ -7,7 +7,7 @@ ogDescription: "Enjoy vibrant Triple Layer Popsicles with gelatin or sports drin
 focusKeyphrase: "Triple Layer Popsicles"
 date: 2025-07-29
 draft: false
-image: triple-layer-popsicles.png
+image: triple-layer-popsicles.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Banana Cranberry Bran Muffins are a treat loaded with oats and h
 focusKeyphrase: "Banana Cranberry Bran Muffins"
 date: 2025-08-19
 draft: false
-image: banana-cranberry-bran-muffins.png
+image: banana-cranberry-bran-muffins.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

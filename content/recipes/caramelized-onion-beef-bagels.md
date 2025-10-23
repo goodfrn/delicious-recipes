@@ -7,7 +7,7 @@ ogDescription: "Savor Caramelized Onion Beef Bagels with creamy cheese, grilled 
 focusKeyphrase: "Caramelized Onion Beef Bagels"
 date: 2025-08-18
 draft: false
-image: caramelized-onion-beef-bagels.png
+image: caramelized-onion-beef-bagels.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT18M

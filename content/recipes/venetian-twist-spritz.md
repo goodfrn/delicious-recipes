@@ -7,7 +7,7 @@ ogDescription: "Discover Venetian Twist Spritz, an Italian-inspired cocktail wit
 focusKeyphrase: "Venetian Twist Spritz recipe"
 date: 2025-09-10
 draft: false
-image: venetian-twist-spritz.png
+image: venetian-twist-spritz.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT0M

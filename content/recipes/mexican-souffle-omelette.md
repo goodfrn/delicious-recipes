@@ -7,7 +7,7 @@ ogDescription: "Mexican Soufflé Omelette; airy with chipotle heat; layered with
 focusKeyphrase: "Mexican Soufflé Omelette"
 date: 2025-08-19
 draft: false
-image: mexican-souffle-omelette.png
+image: mexican-souffle-omelette.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT30M

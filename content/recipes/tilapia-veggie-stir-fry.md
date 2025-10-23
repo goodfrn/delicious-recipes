@@ -7,7 +7,7 @@ ogDescription: "Quick stir-fry with tilapia and colorful veggies. Fresh lime zes
 focusKeyphrase: "Tilapia & Veggie Stir-Fry"
 date: 2025-08-11
 draft: false
-image: tilapia-veggie-stir-fry.png
+image: tilapia-veggie-stir-fry.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT20M

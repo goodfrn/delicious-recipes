@@ -7,7 +7,7 @@ ogDescription: "Hearty fish broth with crispy potatoes, fresh fish fillets, and 
 focusKeyphrase: "Rustic Bouillabaisse"
 date: 2025-08-19
 draft: false
-image: rustic-bouillabaisse.png
+image: rustic-bouillabaisse.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H25M

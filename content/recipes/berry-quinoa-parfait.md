@@ -7,7 +7,7 @@ ogDescription: "Berry Quinoa Parfait Remix delivers a vibrant mix of grains, yog
 focusKeyphrase: "Berry Quinoa Parfait"
 date: 2025-10-17
 draft: false
-image: berry-quinoa-parfait.png
+image: berry-quinoa-parfait.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT6M

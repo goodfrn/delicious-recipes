@@ -7,7 +7,7 @@ ogDescription: "Mango Yogurt Mousse Cake; airy, fruity dessert with rich crust, 
 focusKeyphrase: "Mango Yogurt Mousse Cake"
 date: 2025-08-09
 draft: false
-image: mango-yogurt-mousse-cake.png
+image: mango-yogurt-mousse-cake.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT12M

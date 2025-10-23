@@ -7,7 +7,7 @@ ogDescription: "Bright and refreshing Couscous Fruit Salad Remix with juicy mang
 focusKeyphrase: "Couscous Fruit Salad"
 date: 2025-08-06
 draft: false
-image: couscous-fruit-salad.png
+image: couscous-fruit-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

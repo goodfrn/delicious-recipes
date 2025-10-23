@@ -7,7 +7,7 @@ ogDescription: "Grilled Loaded Stuffed Potatoes filled with pancetta and creamy 
 focusKeyphrase: "Loaded Stuffed Potatoes"
 date: 2025-09-27
 draft: false
-image: loaded-stuffed-potatoes.png
+image: loaded-stuffed-potatoes.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT1H5M

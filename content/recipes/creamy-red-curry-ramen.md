@@ -7,7 +7,7 @@ ogDescription: "Discover the layers of flavor in Creamy Red Curry Ramen, featuri
 focusKeyphrase: "Creamy Red Curry Ramen"
 date: 2025-07-25
 draft: false
-image: creamy-red-curry-ramen.png
+image: creamy-red-curry-ramen.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

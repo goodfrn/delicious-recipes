@@ -7,7 +7,7 @@ ogDescription: "Try Twisted Peppers Mix with roasted bell peppers, capers, and s
 focusKeyphrase: "Twisted Peppers Mix"
 date: 2025-07-29
 draft: false
-image: twisted-peppers-mix.png
+image: twisted-peppers-mix.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT20M

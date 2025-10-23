@@ -7,7 +7,7 @@ ogDescription: "Savor Caramelized Banana Sesame Crunch. Quick, tart lemon, crunc
 focusKeyphrase: "Caramelized Banana Sesame Crunch"
 date: 2025-09-25
 draft: false
-image: caramelized-banana-crunch.png
+image: caramelized-banana-crunch.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT4M

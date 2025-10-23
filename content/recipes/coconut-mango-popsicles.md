@@ -7,7 +7,7 @@ ogDescription: "Coconut Mango Popsicles, a refreshing fruit-based treat. Easy to
 focusKeyphrase: "Coconut Mango Popsicles"
 date: 2025-07-22
 draft: false
-image: coconut-mango-popsicles.png
+image: coconut-mango-popsicles.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Tomato White Bean Pasta Twist - a hearty dish with short p
 focusKeyphrase: "Tomato White Bean Pasta"
 date: 2025-08-18
 draft: false
-image: tomato-white-bean-pasta.png
+image: tomato-white-bean-pasta.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT16M

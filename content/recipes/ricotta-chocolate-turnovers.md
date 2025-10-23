@@ -7,7 +7,7 @@ ogDescription: "Discover Ricotta Chocolate Sicilian Turnovers. Crispy, rich, and
 focusKeyphrase: "Sicilian turnovers"
 date: 2025-08-02
 draft: false
-image: ricotta-chocolate-turnovers.png
+image: ricotta-chocolate-turnovers.jpg
 author: "Kate"
 prepTime: PT1H
 cookTime: PT15M

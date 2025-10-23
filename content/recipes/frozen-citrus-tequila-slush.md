@@ -7,7 +7,7 @@ ogDescription: "Chilly, vibrant tequila slush with lime and grapefruit; a crisp,
 focusKeyphrase: "Frozen Citrus Tequila Slush"
 date: 2025-09-08
 draft: false
-image: frozen-citrus-tequila-slush.png
+image: frozen-citrus-tequila-slush.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

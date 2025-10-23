@@ -7,7 +7,7 @@ ogDescription: "Gingerbread Cookie Remix; spiced, soft inside, crisp edges. Uniq
 focusKeyphrase: "gingerbread cookie remix"
 date: 2025-10-20
 draft: false
-image: gingerbread-cookie-remix.png
+image: gingerbread-cookie-remix.jpg
 author: "Kate"
 prepTime: PT65M
 cookTime: PT9M

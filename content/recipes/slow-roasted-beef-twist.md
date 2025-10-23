@@ -7,7 +7,7 @@ ogDescription: "Indulge in Slow-Roasted Beef Twist with crispy edges and tender 
 focusKeyphrase: "Slow-Roasted Beef Twist"
 date: 2025-08-01
 draft: false
-image: slow-roasted-beef-twist.png
+image: slow-roasted-beef-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT2H20M

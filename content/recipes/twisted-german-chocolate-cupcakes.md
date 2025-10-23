@@ -7,7 +7,7 @@ ogDescription: "Twisted German Chocolate Cupcakes with coconut pecan filling and
 focusKeyphrase: "Twisted German Chocolate Cupcakes"
 date: 2025-10-16
 draft: false
-image: twisted-german-chocolate-cupcakes.png
+image: twisted-german-chocolate-cupcakes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Spiced Beet Cake with Orange Zest, a moist loaf cake 
 focusKeyphrase: "Spiced Beet Cake"
 date: 2025-08-17
 draft: false
-image: spiced-beet-cake.png
+image: spiced-beet-cake.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H05M

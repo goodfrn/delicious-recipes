@@ -7,7 +7,7 @@ ogDescription: "Crisp Spiced Chickpea Patties with warm spices. Serve on lettuce
 focusKeyphrase: "Spiced Chickpea Patties"
 date: 2025-08-12
 draft: false
-image: spiced-chickpea-patties.png
+image: spiced-chickpea-patties.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

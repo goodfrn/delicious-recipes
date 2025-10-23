@@ -7,7 +7,7 @@ ogDescription: "Indulge in Crunchy Panettone Brioche—a fusion of French and It
 focusKeyphrase: "Crunchy Panettone Brioche"
 date: 2025-08-14
 draft: false
-image: crunchy-panettone-brioche.png
+image: crunchy-panettone-brioche.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT30M

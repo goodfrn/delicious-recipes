@@ -7,7 +7,7 @@ ogDescription: "Indulge in Childhood Meatballs featuring beef, wild rice, and re
 focusKeyphrase: "Childhood Meatballs"
 date: 2025-07-24
 draft: false
-image: childhood-meatballs.png
+image: childhood-meatballs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H5M

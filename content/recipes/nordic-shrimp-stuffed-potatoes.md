@@ -7,7 +7,7 @@ ogDescription: "Roasted potatoes, creamy shrimp filling, goat cheese zing. Explo
 focusKeyphrase: "Shrimp Stuffed Potatoes"
 date: 2025-09-29
 draft: false
-image: nordic-shrimp-stuffed-potatoes.png
+image: nordic-shrimp-stuffed-potatoes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

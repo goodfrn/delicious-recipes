@@ -7,7 +7,7 @@ ogDescription: "Experience the vibrant flavors of Smoky Red Bean Tacos, packed w
 focusKeyphrase: "Smoky Red Bean Tacos"
 date: 2025-07-27
 draft: false
-image: smoky-red-bean-tacos.png
+image: smoky-red-bean-tacos.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT3H10M

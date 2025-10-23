@@ -7,7 +7,7 @@ ogDescription: "Discover Stuffed Zucchini Blossoms with creamy summer vegetable 
 focusKeyphrase: "Stuffed Zucchini Blossoms"
 date: 2025-08-28
 draft: false
-image: stuffed-zucchini-blossoms.png
+image: stuffed-zucchini-blossoms.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT25M

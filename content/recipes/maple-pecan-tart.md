@@ -7,7 +7,7 @@ ogDescription: "Indulge in the Maple Pecan Tart with nutty bites and a rich, aro
 focusKeyphrase: "Maple Pecan Tart"
 date: 2025-08-18
 draft: false
-image: maple-pecan-tart.png
+image: maple-pecan-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H5M

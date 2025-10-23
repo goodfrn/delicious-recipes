@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chorizo Cream Cheese Dip with creamy cheese topped wi
 focusKeyphrase: "Chorizo Cream Cheese Dip"
 date: 2025-08-19
 draft: false
-image: chorizo-cream-cheese-dip.png
+image: chorizo-cream-cheese-dip.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Confited Peppers with Guanciale; sweet peppers, crisp guanciale.
 focusKeyphrase: "Confited Peppers with Guanciale"
 date: 2025-08-29
 draft: false
-image: confited-peppers-guanciale.png
+image: confited-peppers-guanciale.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Build with gingerbread that’s sweetened with honey and flavore
 focusKeyphrase: "Gingerbread House Cookies"
 date: 2025-09-05
 draft: false
-image: gingerbread-house-cookies.png
+image: gingerbread-house-cookies.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT12M

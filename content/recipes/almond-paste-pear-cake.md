@@ -7,7 +7,7 @@ ogDescription: "Indulge in Almond Paste Pear Cake, a dessert layered with poache
 focusKeyphrase: "Almond Paste Pear Cake"
 date: 2025-08-05
 draft: false
-image: almond-paste-pear-cake.png
+image: almond-paste-pear-cake.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H20M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Panettone French Toast Twist, a flavorful fusion of r
 focusKeyphrase: "Panettone French Toast Twist"
 date: 2025-08-09
 draft: false
-image: panettone-french-toast.png
+image: panettone-french-toast.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT22M

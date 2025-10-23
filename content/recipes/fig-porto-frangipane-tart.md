@@ -7,7 +7,7 @@ ogDescription: "Indulge in Fig Porto Frangipane Tart with a buttery crust, almon
 focusKeyphrase: "Fig Porto Frangipane Tart"
 date: 2025-09-30
 draft: false
-image: fig-porto-frangipane-tart.png
+image: fig-porto-frangipane-tart.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT40M

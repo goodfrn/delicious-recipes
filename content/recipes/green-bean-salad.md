@@ -7,7 +7,7 @@ ogDescription: "Bright Green Bean Salad with Cherry Tomatoes and Red Wine Dressi
 focusKeyphrase: "green bean salad"
 date: 2025-08-15
 draft: false
-image: green-bean-salad.png
+image: green-bean-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT8M

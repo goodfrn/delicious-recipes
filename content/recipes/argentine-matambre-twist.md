@@ -7,7 +7,7 @@ ogDescription: "Grill the Argentine Matambre Twist for a deeply flavored beef ex
 focusKeyphrase: "Argentine Matambre Twist"
 date: 2025-08-14
 draft: false
-image: argentine-matambre-twist.png
+image: argentine-matambre-twist.jpg
 author: "Kate"
 prepTime: PT300M
 cookTime: PT10M

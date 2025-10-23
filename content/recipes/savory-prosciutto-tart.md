@@ -7,7 +7,7 @@ ogDescription: "Savory Prosciutto Tart combines rich flavors with textures: cris
 focusKeyphrase: "Savory Prosciutto Tart"
 date: 2025-08-04
 draft: false
-image: savory-prosciutto-tart.png
+image: savory-prosciutto-tart.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT25M

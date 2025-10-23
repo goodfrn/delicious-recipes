@@ -7,7 +7,7 @@ ogDescription: "Enjoy the rustic warmth of Country Cabbage Soup Twist; tender ca
 focusKeyphrase: "Country Cabbage Soup"
 date: 2025-09-24
 draft: false
-image: country-cabbage-soup-twist.png
+image: country-cabbage-soup-twist.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

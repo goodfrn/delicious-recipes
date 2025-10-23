@@ -7,7 +7,7 @@ ogDescription: "Try Vanilla Buttercream Twist. Sweet, rich frosting infused with
 focusKeyphrase: "Vanilla Buttercream Twist"
 date: 2025-07-27
 draft: false
-image: vanilla-buttercream-twist.png
+image: vanilla-buttercream-twist.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Explore Boeuf braisé aux deux céleris revisité; robust beef a
 focusKeyphrase: "Boeuf braisé aux deux céleris"
 date: 2025-08-08
 draft: false
-image: braised-beef-celery-root.png
+image: braised-beef-celery-root.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT2H10M

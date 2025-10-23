@@ -7,7 +7,7 @@ ogDescription: "Enjoy Sesame Rosemary Roasted Veggies with acorn squash, golden 
 focusKeyphrase: "Sesame Rosemary Roasted Veggies"
 date: 2025-08-07
 draft: false
-image: sesame-rosemary-roasted-veggies.png
+image: sesame-rosemary-roasted-veggies.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

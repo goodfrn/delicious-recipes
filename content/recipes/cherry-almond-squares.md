@@ -7,7 +7,7 @@ ogDescription: "Indulge in Cherry Almond Squares with almond cream, juicy cherri
 focusKeyphrase: "Cherry Almond Squares"
 date: 2025-08-10
 draft: false
-image: cherry-almond-squares.png
+image: cherry-almond-squares.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H5M

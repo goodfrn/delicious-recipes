@@ -7,7 +7,7 @@ ogDescription: "Enjoy rich herbed noodles paired with savory beef ragout in Coun
 focusKeyphrase: "Country Spag It Up"
 date: 2025-10-05
 draft: false
-image: country-spag-it-up.png
+image: country-spag-it-up.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT35M

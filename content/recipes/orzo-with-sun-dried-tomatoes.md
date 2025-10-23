@@ -7,7 +7,7 @@ ogDescription: "Savor orzo with sun-dried tomatoes, a vibrant Mediterranean side
 focusKeyphrase: "orzo with sun-dried tomatoes"
 date: 2025-08-18
 draft: false
-image: orzo-with-sun-dried-tomatoes.png
+image: orzo-with-sun-dried-tomatoes.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

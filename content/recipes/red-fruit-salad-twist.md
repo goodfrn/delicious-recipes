@@ -7,7 +7,7 @@ ogDescription: "Experience Red Fruit Salad Twist with spiced syrup. Quick prep, 
 focusKeyphrase: "Red Fruit Salad Tutorial"
 date: 2025-08-19
 draft: false
-image: red-fruit-salad-twist.png
+image: red-fruit-salad-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT4M

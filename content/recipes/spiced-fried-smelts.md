@@ -7,7 +7,7 @@ ogDescription: "Crispy Spiced Fried Smelts with Shallots provide a satisfying cr
 focusKeyphrase: "Spiced Fried Smelts"
 date: 2025-09-29
 draft: false
-image: spiced-fried-smelts.png
+image: spiced-fried-smelts.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

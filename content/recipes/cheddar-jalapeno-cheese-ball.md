@@ -7,7 +7,7 @@ ogDescription: "A tasty Cheddar Jalapeño Cheese Ball packed with crunch and spi
 focusKeyphrase: "Cheddar Jalapeño Cheese Ball"
 date: 2025-08-10
 draft: false
-image: cheddar-jalapeno-cheese-ball.png
+image: cheddar-jalapeno-cheese-ball.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT7M

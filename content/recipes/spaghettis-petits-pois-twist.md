@@ -7,7 +7,7 @@ ogDescription: "Indulge in spaghettis petits pois basilic twist. Creamy yogurt, 
 focusKeyphrase: "spaghettis petits pois basilic twist"
 date: 2025-09-27
 draft: false
-image: spaghettis-petits-pois-twist.png
+image: spaghettis-petits-pois-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

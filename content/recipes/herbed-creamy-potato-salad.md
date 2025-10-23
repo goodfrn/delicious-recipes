@@ -7,7 +7,7 @@ ogDescription: "Creamy dressing coats tender potatoes and fresh herbs in Herbed 
 focusKeyphrase: "Herbed Creamy Potato Salad"
 date: 2025-08-08
 draft: false
-image: herbed-creamy-potato-salad.png
+image: herbed-creamy-potato-salad.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT25M

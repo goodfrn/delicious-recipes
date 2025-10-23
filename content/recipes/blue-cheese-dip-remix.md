@@ -7,7 +7,7 @@ ogDescription: "Tangy Blue Cheese Dip Remix — creamy, rich taste. Perfect for 
 focusKeyphrase: "Blue Cheese Dip Remix"
 date: 2025-08-15
 draft: false
-image: blue-cheese-dip-remix.png
+image: blue-cheese-dip-remix.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

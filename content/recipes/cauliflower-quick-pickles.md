@@ -7,7 +7,7 @@ ogDescription: "Crunchy cauliflower florets in a sharp brine bring a unique twis
 focusKeyphrase: "Cauliflower Quick Pickles"
 date: 2025-08-09
 draft: false
-image: cauliflower-quick-pickles.png
+image: cauliflower-quick-pickles.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

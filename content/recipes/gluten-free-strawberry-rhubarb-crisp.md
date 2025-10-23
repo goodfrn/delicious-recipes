@@ -7,7 +7,7 @@ ogDescription: "Savor this Gluten-Free Strawberry Rhubarb Crisp made with tapioc
 focusKeyphrase: "Gluten-Free Strawberry Rhubarb Crisp"
 date: 2025-08-03
 draft: false
-image: gluten-free-strawberry-rhubarb-crisp.png
+image: gluten-free-strawberry-rhubarb-crisp.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT50M

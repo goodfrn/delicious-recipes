@@ -7,7 +7,7 @@ ogDescription: "Roasted eggplant meatballs simmered in spiced tomato sauce, serv
 focusKeyphrase: "Eggplant Meatball Spaghetti"
 date: 2025-08-05
 draft: false
-image: eggplant-meatball-spaghetti.png
+image: eggplant-meatball-spaghetti.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT35M

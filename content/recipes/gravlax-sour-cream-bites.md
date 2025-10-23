@@ -7,7 +7,7 @@ ogDescription: "Gravlax Sour Cream Bites; quick, cold appetizers; creamy tartlet
 focusKeyphrase: "Gravlax Sour Cream Bites"
 date: 2025-08-03
 draft: false
-image: gravlax-sour-cream-bites.png
+image: gravlax-sour-cream-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

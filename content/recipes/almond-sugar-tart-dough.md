@@ -7,7 +7,7 @@ ogDescription: "Almond Sugar Tart Dough creates a tender crust with brown sugar 
 focusKeyphrase: "Almond Sugar Tart Dough"
 date: 2025-08-11
 draft: false
-image: almond-sugar-tart-dough.png
+image: almond-sugar-tart-dough.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT15M

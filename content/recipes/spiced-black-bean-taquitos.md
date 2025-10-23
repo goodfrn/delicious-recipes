@@ -7,7 +7,7 @@ ogDescription: "Crispy Spiced Black Bean Taquitos with spicy filling and creamy 
 focusKeyphrase: "Spiced Black Bean Taquitos"
 date: 2025-07-22
 draft: false
-image: spiced-black-bean-taquitos.png
+image: spiced-black-bean-taquitos.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT16M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy a festive batch of Peppermint Candy Cookies. Minty, crunch
 focusKeyphrase: "Peppermint Candy Cookies"
 date: 2025-10-16
 draft: false
-image: peppermint-candy-cookies.png
+image: peppermint-candy-cookies.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT14M

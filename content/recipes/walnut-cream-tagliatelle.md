@@ -7,7 +7,7 @@ ogDescription: "Discover Walnut Cream Tagliatelle Remix; creamy, nutty, and tang
 focusKeyphrase: "Walnut Cream Tagliatelle"
 date: 2025-08-15
 draft: false
-image: walnut-cream-tagliatelle.png
+image: walnut-cream-tagliatelle.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

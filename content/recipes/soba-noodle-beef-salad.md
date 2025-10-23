@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Soba Noodle Beef Salad Air Fryer. This dish combines bee
 focusKeyphrase: "Soba Noodle Beef Salad Air Fryer"
 date: 2025-07-21
 draft: false
-image: soba-noodle-beef-salad.png
+image: soba-noodle-beef-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

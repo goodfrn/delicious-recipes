@@ -7,7 +7,7 @@ ogDescription: "Stuffed Cabbage Three Cheeses layers creamy cheeses with robust 
 focusKeyphrase: "stuffed cabbage"
 date: 2025-08-10
 draft: false
-image: stuffed-cabbage-three-cheeses.png
+image: stuffed-cabbage-three-cheeses.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H30M

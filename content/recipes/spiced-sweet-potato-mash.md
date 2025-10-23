@@ -7,7 +7,7 @@ ogDescription: "Warm and creamy Spiced Sweet Potato Mash. Easy to make, flavorfu
 focusKeyphrase: "Spiced Sweet Potato Mash"
 date: 2025-07-26
 draft: false
-image: spiced-sweet-potato-mash.png
+image: spiced-sweet-potato-mash.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT1H25M

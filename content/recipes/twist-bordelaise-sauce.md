@@ -7,7 +7,7 @@ ogDescription: "Twist Bordelaise Sauce features rich red wine and marrow. Perfec
 focusKeyphrase: "Twist Bordelaise Sauce"
 date: 2025-09-26
 draft: false
-image: twist-bordelaise-sauce.png
+image: twist-bordelaise-sauce.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

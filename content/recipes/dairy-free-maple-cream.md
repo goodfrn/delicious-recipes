@@ -7,7 +7,7 @@ ogDescription: "Vegan Maple Cream Candy made with oat cream and sweet potato off
 focusKeyphrase: "Dairy-Free Maple Cream Candy"
 date: 2025-08-17
 draft: false
-image: dairy-free-maple-cream.png
+image: dairy-free-maple-cream.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

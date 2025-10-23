@@ -7,7 +7,7 @@ ogDescription: "Create a Sablé Tart Crust with Lemon Zest. Crisp yet tender, pe
 focusKeyphrase: "Sablé Tart Crust"
 date: 2025-08-08
 draft: false
-image: sable-tart-crust.png
+image: sable-tart-crust.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Flank Steak Cobb Salad with Avocado Dressing offers bright flavo
 focusKeyphrase: "Flank Steak Cobb Salad"
 date: 2025-10-06
 draft: false
-image: flank-steak-cobb-salad.png
+image: flank-steak-cobb-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

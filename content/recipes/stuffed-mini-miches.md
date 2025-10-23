@@ -7,7 +7,7 @@ ogDescription: "Enjoy Stuffed Mini Miches with Twin Dips, small rustic breads lo
 focusKeyphrase: "Stuffed Mini Miches"
 date: 2025-08-13
 draft: false
-image: stuffed-mini-miches.png
+image: stuffed-mini-miches.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT55M

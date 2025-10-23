@@ -7,7 +7,7 @@ ogDescription: "Feed your baby a nourishing White Bean Puree, made from simple i
 focusKeyphrase: "White Bean Puree"
 date: 2025-08-05
 draft: false
-image: white-bean-puree.png
+image: white-bean-puree.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT9M

@@ -7,7 +7,7 @@ ogDescription: "Craft your own Homemade Rustic Pizza Dough. Chewy crust, earthy 
 focusKeyphrase: "Homemade Rustic Pizza Dough"
 date: 2025-08-02
 draft: false
-image: homemade-rustic-pizza-dough.png
+image: homemade-rustic-pizza-dough.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

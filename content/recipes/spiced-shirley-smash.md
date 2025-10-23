@@ -7,7 +7,7 @@ ogDescription: "Discover the Spiced Shirley Smash. A fun twist with pomegranate 
 focusKeyphrase: "Spiced Shirley Smash"
 date: 2025-07-29
 draft: false
-image: spiced-shirley-smash.png
+image: spiced-shirley-smash.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

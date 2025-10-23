@@ -7,7 +7,7 @@ ogDescription: "Indulge in a creamy Chicken Fettuccine Alfredo Twist featuring t
 focusKeyphrase: "Chicken Fettuccine Alfredo Twist"
 date: 2025-10-16
 draft: false
-image: chicken-fettuccine-alfredo.png
+image: chicken-fettuccine-alfredo.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT28M

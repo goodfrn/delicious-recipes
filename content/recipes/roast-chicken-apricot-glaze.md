@@ -7,7 +7,7 @@ ogDescription: "Whole chicken with a sweet apricot glaze; perfect for family din
 focusKeyphrase: "Roast Chicken with Apricot Glaze"
 date: 2025-08-10
 draft: false
-image: roast-chicken-apricot-glaze.png
+image: roast-chicken-apricot-glaze.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H20M

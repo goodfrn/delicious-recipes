@@ -7,7 +7,7 @@ ogDescription: "Indulge in Vanilla Bean Frozen Custard, creamy with hints of bou
 focusKeyphrase: "Vanilla Bean Frozen Custard"
 date: 2025-08-18
 draft: false
-image: vanilla-bean-frozen-custard.png
+image: vanilla-bean-frozen-custard.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

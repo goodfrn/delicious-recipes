@@ -7,7 +7,7 @@ ogDescription: "Bake Soft Chocolate Chip Cookies with a mix of flours, browned b
 focusKeyphrase: "soft chocolate chip cookies"
 date: 2025-08-19
 draft: false
-image: soft-chocolate-chip-cookies.png
+image: soft-chocolate-chip-cookies.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

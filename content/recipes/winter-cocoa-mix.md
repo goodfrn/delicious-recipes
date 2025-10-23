@@ -7,7 +7,7 @@ ogDescription: "Enjoy Winter Cocoa Mix with cocoa nibs and white chocolate chunk
 focusKeyphrase: "Winter Cocoa Mix"
 date: 2025-07-20
 draft: false
-image: winter-cocoa-mix.png
+image: winter-cocoa-mix.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

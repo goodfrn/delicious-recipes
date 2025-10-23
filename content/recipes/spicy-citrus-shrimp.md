@@ -7,7 +7,7 @@ ogDescription: "Try Spicy Citrus Shrimp. A bold appetizer with tangy marinade an
 focusKeyphrase: "Spicy Citrus Shrimp"
 date: 2025-07-23
 draft: false
-image: spicy-citrus-shrimp.png
+image: spicy-citrus-shrimp.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

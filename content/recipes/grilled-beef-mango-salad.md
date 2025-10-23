@@ -7,7 +7,7 @@ ogDescription: "Grilled Beef Mango Salad features juicy beef, ripe mango, and he
 focusKeyphrase: "Grilled Beef Mango Salad"
 date: 2025-08-12
 draft: false
-image: grilled-beef-mango-salad.png
+image: grilled-beef-mango-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy a refreshing Cherry Citrus Slush with creamy sorbet. Cherr
 focusKeyphrase: "Cherry Citrus Slush"
 date: 2025-07-26
 draft: false
-image: cherry-citrus-slush.png
+image: cherry-citrus-slush.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

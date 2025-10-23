@@ -7,7 +7,7 @@ ogDescription: "Indulge in Egg Salmon Fish Roe Sandwiches featuring soft and har
 focusKeyphrase: "Egg Salmon Fish Roe Sandwiches"
 date: 2025-07-27
 draft: false
-image: egg-salmon-sandwiches.png
+image: egg-salmon-sandwiches.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

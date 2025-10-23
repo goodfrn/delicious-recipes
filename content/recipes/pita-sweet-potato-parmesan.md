@@ -7,7 +7,7 @@ ogDescription: "Experience bold flavors in Pita Sweet Potato Parmesan. Roasted s
 focusKeyphrase: "Pita Sweet Potato Parmesan"
 date: 2025-08-03
 draft: false
-image: pita-sweet-potato-parmesan.png
+image: pita-sweet-potato-parmesan.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT35M

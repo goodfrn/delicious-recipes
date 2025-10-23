@@ -7,7 +7,7 @@ ogDescription: "Savor the rich, wine-braised beef shoulder roast that brings cla
 focusKeyphrase: "Braised Beef Red Wine"
 date: 2025-09-24
 draft: false
-image: braised-beef-red-wine.png
+image: braised-beef-red-wine.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT4H

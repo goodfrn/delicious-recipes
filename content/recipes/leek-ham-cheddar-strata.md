@@ -7,7 +7,7 @@ ogDescription: "Try this hearty Leek Ham Cheddar Strata. Layers of crusty bread,
 focusKeyphrase: "Leek Ham Cheddar Strata"
 date: 2025-08-10
 draft: false
-image: leek-ham-cheddar-strata.png
+image: leek-ham-cheddar-strata.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT40M

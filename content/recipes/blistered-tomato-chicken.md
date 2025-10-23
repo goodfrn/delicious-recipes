@@ -7,7 +7,7 @@ ogDescription: "Quick skillet method for Blistered Tomato Chicken Caprese. Juicy
 focusKeyphrase: "blistered tomato chicken caprese"
 date: 2025-10-20
 draft: false
-image: blistered-tomato-chicken.png
+image: blistered-tomato-chicken.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT9M

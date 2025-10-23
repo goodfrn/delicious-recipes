@@ -7,7 +7,7 @@ ogDescription: "Citrus Syrup Remix features reduced sugar, bright flavors, and r
 focusKeyphrase: "Citrus Syrup Remix"
 date: 2025-08-16
 draft: false
-image: citrus-syrup-remix.png
+image: citrus-syrup-remix.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

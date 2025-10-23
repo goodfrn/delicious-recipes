@@ -7,7 +7,7 @@ ogDescription: "Quick and easy Microwave Basmati Rice with vegetable broth. Rins
 focusKeyphrase: "Microwave Basmati Rice"
 date: 2025-08-02
 draft: false
-image: microwave-basmati-rice.png
+image: microwave-basmati-rice.jpg
 author: "Kate"
 prepTime: PT5M
 cookTime: PT17M

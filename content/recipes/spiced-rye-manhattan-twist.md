@@ -7,7 +7,7 @@ ogDescription: "Try the Spiced Rye Manhattan Twist with rye whiskey and a touch 
 focusKeyphrase: "Spiced Rye Manhattan Twist"
 date: 2025-08-09
 draft: false
-image: spiced-rye-manhattan-twist.png
+image: spiced-rye-manhattan-twist.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Yellow Split Pea Soup with Cheese Dumplings feel cozy with smoky
 focusKeyphrase: "yellow split pea soup"
 date: 2025-09-27
 draft: false
-image: yellow-split-pea-soup.png
+image: yellow-split-pea-soup.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT2H10M

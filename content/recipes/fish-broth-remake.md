@@ -7,7 +7,7 @@ ogDescription: "Fish broth remake with white fish and mussels. A simple, fragran
 focusKeyphrase: "fish broth"
 date: 2025-07-24
 draft: false
-image: fish-broth-remake.png
+image: fish-broth-remake.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

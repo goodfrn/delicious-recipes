@@ -7,7 +7,7 @@ ogDescription: "Explore Papillote Trio Onions—three onion types slow-cooked in
 focusKeyphrase: "Papillote Trio Onions"
 date: 2025-09-02
 draft: false
-image: papillote-trio-onions.png
+image: papillote-trio-onions.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT50M

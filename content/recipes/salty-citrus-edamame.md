@@ -7,7 +7,7 @@ ogDescription: "Get ready for Salty Citrus Edamame. Crisp edamame pods with zest
 focusKeyphrase: "Salty Citrus Edamame"
 date: 2025-07-24
 draft: false
-image: salty-citrus-edamame.png
+image: salty-citrus-edamame.jpg
 author: "Kate"
 prepTime: PT5M
 cookTime: PT5M

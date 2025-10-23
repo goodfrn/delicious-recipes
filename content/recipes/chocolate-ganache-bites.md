@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chocolate Ganache Bites; flavorful, crispy outside, w
 focusKeyphrase: "Chocolate Ganache Bites"
 date: 2025-08-17
 draft: false
-image: chocolate-ganache-bites.png
+image: chocolate-ganache-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

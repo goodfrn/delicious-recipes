@@ -7,7 +7,7 @@ ogDescription: "Enjoy warm Honey Butter Rolls. Rich, soft, buttery. Yeast activa
 focusKeyphrase: "Honey Butter Rolls"
 date: 2025-10-21
 draft: false
-image: honey-butter-rolls.png
+image: honey-butter-rolls.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT17M

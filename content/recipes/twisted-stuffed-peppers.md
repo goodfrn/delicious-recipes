@@ -7,7 +7,7 @@ ogDescription: "Hearty Twisted Stuffed Peppers with a beef-rice mix and cheesy t
 focusKeyphrase: "Twisted Stuffed Peppers"
 date: 2025-10-05
 draft: false
-image: twisted-stuffed-peppers.png
+image: twisted-stuffed-peppers.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

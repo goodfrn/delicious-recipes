@@ -7,7 +7,7 @@ ogDescription: "Experience the rich flavors of Chicken Chorizo Paella with chick
 focusKeyphrase: "Chicken Chorizo Paella"
 date: 2025-07-24
 draft: false
-image: chicken-chorizo-paella.png
+image: chicken-chorizo-paella.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

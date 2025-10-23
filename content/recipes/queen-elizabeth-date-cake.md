@@ -7,7 +7,7 @@ ogDescription: "Dense date cake with bold flavors and a pecan crunch. An innovat
 focusKeyphrase: "Queen Elizabeth Date Cake Remix"
 date: 2025-08-09
 draft: false
-image: queen-elizabeth-date-cake.png
+image: queen-elizabeth-date-cake.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT50M

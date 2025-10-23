@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Lobster Asparagus Salad with grilled asparagus, roasted 
 focusKeyphrase: "Lobster Asparagus Salad"
 date: 2025-08-18
 draft: false
-image: lobster-asparagus-salad.png
+image: lobster-asparagus-salad.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Dense and chewy. Altered Peanut Cookies with oat flour, almond b
 focusKeyphrase: "Altered Peanut Cookies"
 date: 2025-09-25
 draft: false
-image: altered-peanut-cookies.png
+image: altered-peanut-cookies.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Rich lamb ragout with linguines that draws on deep flavors from 
 focusKeyphrase: "Linguines Lamb Ragout"
 date: 2025-08-16
 draft: false
-image: linguine-lamb-ragout.png
+image: linguine-lamb-ragout.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

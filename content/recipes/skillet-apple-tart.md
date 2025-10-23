@@ -7,7 +7,7 @@ ogDescription: "Discover the rich flavors of Skillet Apple Tart with spiced appl
 focusKeyphrase: "Skillet Apple Tart"
 date: 2025-07-29
 draft: false
-image: skillet-apple-tart.png
+image: skillet-apple-tart.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

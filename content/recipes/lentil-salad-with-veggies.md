@@ -7,7 +7,7 @@ ogDescription: "Discover a vibrant Lentil Salad with Veggies. This gluten-free d
 focusKeyphrase: "Lentil Salad with Veggies"
 date: 2025-07-22
 draft: false
-image: lentil-salad-with-veggies.png
+image: lentil-salad-with-veggies.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT50M

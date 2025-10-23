@@ -7,7 +7,7 @@ ogDescription: "Savor Swiss Chard & Orzo Soup with guanciale and shiitake mushro
 focusKeyphrase: "Swiss Chard & Orzo Soup"
 date: 2025-08-05
 draft: false
-image: swiss-chard-orzo-soup.png
+image: swiss-chard-orzo-soup.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

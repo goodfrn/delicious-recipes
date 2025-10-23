@@ -7,7 +7,7 @@ ogDescription: "Deliciously crispy French shallots. Coated in semolina, fried in
 focusKeyphrase: "Crispy French Shallots"
 date: 2025-07-21
 draft: false
-image: crispy-french-shallots.png
+image: crispy-french-shallots.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT11M

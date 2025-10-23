@@ -7,7 +7,7 @@ ogDescription: "Nutty Almond Vinaigrette Sauce, creamy yet light. Ideal drizzle 
 focusKeyphrase: "Almond Vinaigrette Sauce"
 date: 2025-07-28
 draft: false
-image: almond-vinaigrette-sauce.png
+image: almond-vinaigrette-sauce.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT17M

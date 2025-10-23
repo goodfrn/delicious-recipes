@@ -7,7 +7,7 @@ ogDescription: "Indulge in Cheesy Mac Bacon Crunch, a creamy pasta dish with spi
 focusKeyphrase: "Cheesy Mac Bacon Crunch"
 date: 2025-07-23
 draft: false
-image: cheesy-mac-bacon-crunch.png
+image: cheesy-mac-bacon-crunch.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT18M

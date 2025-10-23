@@ -7,7 +7,7 @@ ogDescription: "Roasted Pumpkin Purée is a versatile vegan base. Discover deep,
 focusKeyphrase: "Roasted Pumpkin Purée"
 date: 2025-08-14
 draft: false
-image: roasted-pumpkin-puree.png
+image: roasted-pumpkin-puree.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT55M

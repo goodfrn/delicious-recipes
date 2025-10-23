@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Spaghetti Squash Asian Pork Stir-Fry, a uni
 focusKeyphrase: "Spaghetti Squash Asian Pork Stir-Fry"
 date: 2025-09-26
 draft: false
-image: spaghetti-squash-pork-stir-fry.png
+image: spaghetti-squash-pork-stir-fry.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H15M

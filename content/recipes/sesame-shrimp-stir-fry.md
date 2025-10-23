@@ -7,7 +7,7 @@ ogDescription: "Quick and vibrant Sesame Shrimp Stir-Fry with juicy shrimp and c
 focusKeyphrase: "Sesame Shrimp Stir-Fry"
 date: 2025-08-06
 draft: false
-image: sesame-shrimp-stir-fry.png
+image: sesame-shrimp-stir-fry.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

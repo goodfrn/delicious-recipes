@@ -7,7 +7,7 @@ ogDescription: "Enjoy the warmth of Sweet Potato Cobbler Remix with spiced sweet
 focusKeyphrase: "Sweet Potato Cobbler Remix"
 date: 2025-10-13
 draft: false
-image: sweet-potato-cobbler-remix.png
+image: sweet-potato-cobbler-remix.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

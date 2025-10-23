@@ -7,7 +7,7 @@ ogDescription: "Smoky Chicken Tamales deliver rich textures. Tender masa, firm c
 focusKeyphrase: "Smoky Chicken Tamales"
 date: 2025-09-25
 draft: false
-image: smoky-chicken-tamales.png
+image: smoky-chicken-tamales.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

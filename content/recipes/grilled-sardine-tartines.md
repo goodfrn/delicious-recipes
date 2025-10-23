@@ -7,7 +7,7 @@ ogDescription: "Grilled Sardine Tartines combines smoked mackerel on toasted bre
 focusKeyphrase: "Grilled Sardine Tartines"
 date: 2025-07-28
 draft: false
-image: grilled-sardine-tartines.png
+image: grilled-sardine-tartines.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT13M

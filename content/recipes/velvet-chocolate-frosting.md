@@ -7,7 +7,7 @@ ogDescription: "Indulge in Velvet Chocolate Frosting. Less sugar, cream cheese t
 focusKeyphrase: "Velvet Chocolate Frosting"
 date: 2025-08-06
 draft: false
-image: velvet-chocolate-frosting.png
+image: velvet-chocolate-frosting.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT8M

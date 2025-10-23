@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spiced Honey Sausage Bites. Savory slices with fennel and 
 focusKeyphrase: "Spiced Honey Sausage Bites"
 date: 2025-07-29
 draft: false
-image: spiced-honey-sausage-bites.png
+image: spiced-honey-sausage-bites.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

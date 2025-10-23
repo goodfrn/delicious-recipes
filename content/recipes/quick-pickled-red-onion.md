@@ -7,7 +7,7 @@ ogDescription: "Elevate dishes with Quick Pickled Red Onion Pomegranate. Vibrant
 focusKeyphrase: "Quick Pickled Red Onion Pomegranate"
 date: 2025-08-07
 draft: false
-image: quick-pickled-red-onion.png
+image: quick-pickled-red-onion.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

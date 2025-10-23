@@ -7,7 +7,7 @@ ogDescription: "Enjoy Healthy Blueberry Apple Crisp with crunchy oats and juicy 
 focusKeyphrase: "Healthy Blueberry Apple Crisp"
 date: 2025-09-23
 draft: false
-image: healthy-blueberry-apple-crisp.png
+image: healthy-blueberry-apple-crisp.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT55M

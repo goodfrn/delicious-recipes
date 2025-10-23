@@ -7,7 +7,7 @@ ogDescription: "Indulge in white pizza with zucchini, smoked trout, shrimp and c
 focusKeyphrase: "white pizza"
 date: 2025-08-03
 draft: false
-image: white-pizza-zucchini-trout.png
+image: white-pizza-zucchini-trout.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT14M

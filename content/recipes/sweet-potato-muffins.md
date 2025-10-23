@@ -7,7 +7,7 @@ ogDescription: "Start your day with Sweet Potato Breakfast Muffins, packed with 
 focusKeyphrase: "Sweet Potato Breakfast Muffins"
 date: 2025-09-27
 draft: false
-image: sweet-potato-muffins.png
+image: sweet-potato-muffins.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT28M

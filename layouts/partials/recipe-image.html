@@ -1,0 +1,25 @@
+{{/* Usage: 
+  Cards (défaut) : {{ partial "recipe-image.html" (dict "image" .Params.image "title" .Title) }}
+  Single (vertical) : {{ partial "recipe-image.html" (dict "image" .Params.image "title" .Title "variant" "single") }}
+  Eager : ajouter "loading" "eager" "fetchpriority" "high"
+*/}}
+{{ $img := resources.Get (printf "images/%s" .image) }}
+{{ if $img }}
+  {{ $variant := .variant | default "card" }}
+  {{ $webp := "" }}
+  
+  {{ if eq $variant "single" }}
+    {{ $webp = $img.Fill "600x900 q75 webp" }}
+  {{ else }}
+    {{ $webp = $img.Fill "600x400 q75 webp" }}
+  {{ end }}
+  
+  {{ $loading := .loading | default "lazy" }}
+  {{ $fetchpriority := .fetchpriority | default "" }}
+  
+  <img src="{{ $webp.RelPermalink }}" 
+       alt="{{ .title }}" 
+       class="w-full h-full object-cover"
+       loading="{{ $loading }}"
+       {{ if $fetchpriority }}fetchpriority="{{ $fetchpriority }}"{{ end }}>
+{{ end }}

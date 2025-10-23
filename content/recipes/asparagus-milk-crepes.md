@@ -7,7 +7,7 @@ ogDescription: "Try these Asparagus Milk Crepes for a delightful savory twist. A
 focusKeyphrase: "Asparagus Milk Crepes"
 date: 2025-09-23
 draft: false
-image: asparagus-milk-crepes.png
+image: asparagus-milk-crepes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT50M

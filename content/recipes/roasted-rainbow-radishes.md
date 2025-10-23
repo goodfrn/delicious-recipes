@@ -7,7 +7,7 @@ ogDescription: "Experience Roasted Rainbow Radishes Whipped Ricotta—tender rad
 focusKeyphrase: "Roasted Rainbow Radishes Whipped Ricotta"
 date: 2025-09-28
 draft: false
-image: roasted-rainbow-radishes.png
+image: roasted-rainbow-radishes.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

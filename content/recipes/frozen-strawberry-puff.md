@@ -7,7 +7,7 @@ ogDescription: "Deliciously frozen treat of layered puff pastry with creamy fill
 focusKeyphrase: "Frozen Strawberry Puff Pastry"
 date: 2025-07-21
 draft: false
-image: frozen-strawberry-puff.png
+image: frozen-strawberry-puff.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT18M

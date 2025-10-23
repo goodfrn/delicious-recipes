@@ -7,7 +7,7 @@ ogDescription: "Indulge in Mini Ganache Tangerine Tarts, vibrant and creamy. Per
 focusKeyphrase: "Mini Ganache Tangerine Tarts"
 date: 2025-08-15
 draft: false
-image: mini-ganache-tangerine-tarts.png
+image: mini-ganache-tangerine-tarts.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT40M

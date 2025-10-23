@@ -7,7 +7,7 @@ ogDescription: "Experience the rustic flavors of Wild Mushroom Risotto Twist, hi
 focusKeyphrase: "Wild Mushroom Risotto"
 date: 2025-08-02
 draft: false
-image: wild-mushroom-risotto.png
+image: wild-mushroom-risotto.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Grapefruit Ginger Syrup Twist offers a zesty kick of ginger in a
 focusKeyphrase: "grapefruit ginger syrup"
 date: 2025-08-20
 draft: false
-image: grapefruit-ginger-syrup.png
+image: grapefruit-ginger-syrup.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT7M

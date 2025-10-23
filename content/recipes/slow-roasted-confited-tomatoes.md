@@ -7,7 +7,7 @@ ogDescription: "Turn ordinary canned tomatoes into rich, confited bites. A low a
 focusKeyphrase: "Slow-Roasted Confited Tomatoes"
 date: 2025-09-27
 draft: false
-image: slow-roasted-confited-tomatoes.png
+image: slow-roasted-confited-tomatoes.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H10M

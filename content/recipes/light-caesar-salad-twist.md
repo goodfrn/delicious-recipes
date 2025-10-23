@@ -7,7 +7,7 @@ ogDescription: "Enjoy a refreshing Light Caesar Salad Twist with turkey bacon, c
 focusKeyphrase: "Light Caesar Salad Twist"
 date: 2025-07-23
 draft: false
-image: light-caesar-salad-twist.png
+image: light-caesar-salad-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

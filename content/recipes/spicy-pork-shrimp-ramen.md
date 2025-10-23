@@ -7,7 +7,7 @@ ogDescription: "Delicious Spicy Pork Shrimp Ramen, rich flavors, with tender noo
 focusKeyphrase: "Spicy Pork Shrimp Ramen"
 date: 2025-07-20
 draft: false
-image: spicy-pork-shrimp-ramen.png
+image: spicy-pork-shrimp-ramen.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

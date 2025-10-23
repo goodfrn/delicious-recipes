@@ -7,7 +7,7 @@ ogDescription: "Experience the aroma of fresh herbs and the rich taste of cherry
 focusKeyphrase: "cherry tomato focaccia"
 date: 2025-08-06
 draft: false
-image: cherry-tomato-focaccia.png
+image: cherry-tomato-focaccia.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Savor Grilled NY Steaks with Brown Butter Cream; a unique twist 
 focusKeyphrase: "Grilled NY Steaks"
 date: 2025-09-27
 draft: false
-image: grilled-ny-steaks.png
+image: grilled-ny-steaks.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT7M

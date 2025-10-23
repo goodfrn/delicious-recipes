@@ -7,7 +7,7 @@ ogDescription: "Enjoy a twist on classic shish taouk chicken with garlic aioli a
 focusKeyphrase: "Shish Taouk Chicken"
 date: 2025-07-28
 draft: false
-image: shish-taouk-chicken-twist.png
+image: shish-taouk-chicken-twist.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

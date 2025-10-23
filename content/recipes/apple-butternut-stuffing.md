@@ -7,7 +7,7 @@ ogDescription: "Discover a delicious Apple & Butternut Stuffing. A comforting mi
 focusKeyphrase: "Apple Butternut Stuffing"
 date: 2025-07-20
 draft: false
-image: apple-butternut-stuffing.png
+image: apple-butternut-stuffing.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H25M

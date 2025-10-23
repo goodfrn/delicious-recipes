@@ -7,7 +7,7 @@ ogDescription: "Experience shrimp dim sum with tender dumplings and a crunchy fi
 focusKeyphrase: "Shrimp Dim Sum"
 date: 2025-08-05
 draft: false
-image: shrimp-dim-sum.png
+image: shrimp-dim-sum.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT7M

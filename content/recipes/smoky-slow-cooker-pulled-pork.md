@@ -7,7 +7,7 @@ ogDescription: "Flavorful Smoky Slow Cooker Pulled Pork with spices and a thick 
 focusKeyphrase: "Smoky Slow Cooker Pulled Pork"
 date: 2025-08-05
 draft: false
-image: smoky-slow-cooker-pulled-pork.png
+image: smoky-slow-cooker-pulled-pork.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT7H

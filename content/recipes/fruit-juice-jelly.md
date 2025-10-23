@@ -7,7 +7,7 @@ ogDescription: "Fruit Juice Jelly Twist offers a unique twist on jellies. Using 
 focusKeyphrase: "Fruit Juice Jelly Twist"
 date: 2025-09-27
 draft: false
-image: fruit-juice-jelly.png
+image: fruit-juice-jelly.jpg
 author: "Kate"
 prepTime: PT8M
 cookTime: PT11M

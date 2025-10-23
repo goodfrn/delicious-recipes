@@ -7,7 +7,7 @@ ogDescription: "Try Spicy Roasted Cauliflower Twist. A crispy, flavorful veggie 
 focusKeyphrase: "Spicy Roasted Cauliflower"
 date: 2025-10-06
 draft: false
-image: spicy-roasted-cauliflower.png
+image: spicy-roasted-cauliflower.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT22M

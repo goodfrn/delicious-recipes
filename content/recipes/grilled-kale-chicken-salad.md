@@ -7,7 +7,7 @@ ogDescription: "Grilled Kale Chicken Salad with charred chicken, crisp radishes,
 focusKeyphrase: "Grilled Kale Chicken Salad"
 date: 2025-08-13
 draft: false
-image: grilled-kale-chicken-salad.png
+image: grilled-kale-chicken-salad.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT20M

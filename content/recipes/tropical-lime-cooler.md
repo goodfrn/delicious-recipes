@@ -7,7 +7,7 @@ ogDescription: "Chill with Tropical Lime Cooler. Lime, coconut water, honey deli
 focusKeyphrase: "Tropical Lime Cooler"
 date: 2025-08-13
 draft: false
-image: tropical-lime-cooler.png
+image: tropical-lime-cooler.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Crispy Spiced Onion Bhaji - Crunchy outside, tender inside. Grea
 focusKeyphrase: "spiced onion bhaji"
 date: 2025-08-19
 draft: false
-image: spiced-onion-bhaji.png
+image: spiced-onion-bhaji.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT18M

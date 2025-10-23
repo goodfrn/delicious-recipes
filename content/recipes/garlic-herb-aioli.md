@@ -7,7 +7,7 @@ ogDescription: "Garlic Herb Aioli made with aquafaba, fresh herbs. A versatile d
 focusKeyphrase: "Garlic Herb Aioli"
 date: 2025-08-19
 draft: false
-image: garlic-herb-aioli.png
+image: garlic-herb-aioli.jpg
 author: "Kate"
 prepTime: PT8M
 cookTime: PT7M

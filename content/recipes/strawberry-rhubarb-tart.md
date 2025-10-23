@@ -7,7 +7,7 @@ ogDescription: "Indulge in Strawberry Rhubarb Tart, a classic treat with flaky c
 focusKeyphrase: "Strawberry Rhubarb Tart"
 date: 2025-08-17
 draft: false
-image: strawberry-rhubarb-tart.png
+image: strawberry-rhubarb-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

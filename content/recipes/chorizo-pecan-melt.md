@@ -7,7 +7,7 @@ ogDescription: "Chorizo Pecan Melt combines spicy harissa, gooey gouda, crunchy 
 focusKeyphrase: "Chorizo Pecan Melt"
 date: 2025-07-28
 draft: false
-image: chorizo-pecan-melt.png
+image: chorizo-pecan-melt.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Icy Calijo Maple Twist blends apple brandy, pineapple, and yuzu 
 focusKeyphrase: "Icy Calijo Maple Twist"
 date: 2025-08-18
 draft: false
-image: icy-calijo-maple-twist.png
+image: icy-calijo-maple-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Bite into warm Flourless Pumpkin Muffin Bites. Chocolate, pepita
 focusKeyphrase: "Flourless Pumpkin Muffin Bites"
 date: 2025-10-04
 draft: false
-image: flourless-pumpkin-muffin-bites.png
+image: flourless-pumpkin-muffin-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

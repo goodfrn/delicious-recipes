@@ -7,7 +7,7 @@ ogDescription: "Sautéed Onions and Spicy Sausage: caramelized onions meet crisp
 focusKeyphrase: "Sautéed Onions and Spicy Sausage"
 date: 2025-08-06
 draft: false
-image: sauteed-onions-sausage.png
+image: sauteed-onions-sausage.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

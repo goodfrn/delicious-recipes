@@ -7,7 +7,7 @@ ogDescription: "Enjoy Billets with Berries and Coconut; a layered sponge cake fe
 focusKeyphrase: "Billets with Berries and Coconut"
 date: 2025-08-17
 draft: false
-image: billets-with-berries.png
+image: billets-with-berries.jpg
 author: "Kate"
 prepTime: PT75M
 cookTime: PT20M

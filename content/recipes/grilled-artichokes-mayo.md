@@ -7,7 +7,7 @@ ogDescription: "Savor smoky, charred artichokes paired with creamy avocado mayon
 focusKeyphrase: "Grilled Artichokes"
 date: 2025-09-24
 draft: false
-image: grilled-artichokes-mayo.png
+image: grilled-artichokes-mayo.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

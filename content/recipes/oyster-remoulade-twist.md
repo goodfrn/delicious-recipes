@@ -7,7 +7,7 @@ ogDescription: "Indulge in Oyster Remoulade Twist. Cold oysters dressed with cre
 focusKeyphrase: "Oyster Remoulade"
 date: 2025-08-18
 draft: false
-image: oyster-remoulade-twist.png
+image: oyster-remoulade-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

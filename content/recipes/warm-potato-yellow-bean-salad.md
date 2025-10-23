@@ -7,7 +7,7 @@ ogDescription: "A rustic Warm Potato Yellow Bean Salad with grilled veggies and 
 focusKeyphrase: "Warm Potato Yellow Bean Salad"
 date: 2025-08-01
 draft: false
-image: warm-potato-yellow-bean-salad.png
+image: warm-potato-yellow-bean-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT25M

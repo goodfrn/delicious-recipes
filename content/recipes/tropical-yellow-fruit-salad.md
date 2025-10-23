@@ -7,7 +7,7 @@ ogDescription: "Bright tropical fruit salad features papaya, mango, and dragon f
 focusKeyphrase: "Tropical Yellow Fruit Salad"
 date: 2025-09-26
 draft: false
-image: tropical-yellow-fruit-salad.png
+image: tropical-yellow-fruit-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT3M

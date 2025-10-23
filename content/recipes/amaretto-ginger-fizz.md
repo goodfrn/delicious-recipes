@@ -7,7 +7,7 @@ ogDescription: "Enjoy the amaretto ginger fizz with zesty lime and ginger ale. P
 focusKeyphrase: "Amaretto Ginger Fizz"
 date: 2025-08-06
 draft: false
-image: amaretto-ginger-fizz.png
+image: amaretto-ginger-fizz.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

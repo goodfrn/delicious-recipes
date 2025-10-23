@@ -7,7 +7,7 @@ ogDescription: "Quinoa Peach Tarragon Salad blends sweet mango and fresh tarrago
 focusKeyphrase: "Quinoa Peach Tarragon Salad"
 date: 2025-08-04
 draft: false
-image: quinoa-peach-tarragon-salad.png
+image: quinoa-peach-tarragon-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

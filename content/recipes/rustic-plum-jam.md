@@ -7,7 +7,7 @@ ogDescription: "Homemade Rustic Plum Jam with ripe plums, ginger, and no refined
 focusKeyphrase: "Rustic Plum Jam"
 date: 2025-09-28
 draft: false
-image: rustic-plum-jam.png
+image: rustic-plum-jam.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

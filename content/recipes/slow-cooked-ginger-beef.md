@@ -7,7 +7,7 @@ ogDescription: "Savor the rich flavors of Slow-Cooked Ginger Beef Broccoli. Tend
 focusKeyphrase: "Slow-Cooked Ginger Beef Broccoli"
 date: 2025-10-14
 draft: false
-image: slow-cooked-ginger-beef.png
+image: slow-cooked-ginger-beef.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT3H15M

@@ -7,7 +7,7 @@ ogDescription: "Try Shrimp Mango Cocktail - a twist on the classic with shrimp i
 focusKeyphrase: "Shrimp Mango Cocktail"
 date: 2025-08-16
 draft: false
-image: shrimp-mango-cocktail.png
+image: shrimp-mango-cocktail.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Chocolate Biscuit Logs, a fun twist on a classic French sw
 focusKeyphrase: "Chocolate Biscuit Logs"
 date: 2025-09-24
 draft: false
-image: chocolate-biscuit-logs.png
+image: chocolate-biscuit-logs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT5M

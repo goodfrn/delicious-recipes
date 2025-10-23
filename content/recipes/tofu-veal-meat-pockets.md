@@ -7,7 +7,7 @@ ogDescription: "Tofu-Veal Meat Pockets BBQ—savory, moist muffins featuring tof
 focusKeyphrase: "Tofu-Veal Meat Pockets"
 date: 2025-08-09
 draft: false
-image: tofu-veal-meat-pockets.png
+image: tofu-veal-meat-pockets.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT38M

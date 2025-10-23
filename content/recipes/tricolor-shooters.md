@@ -7,7 +7,7 @@ ogDescription: "Layered shooters in red, white, blue colors. Perfect for gatheri
 focusKeyphrase: "Tricolor Shooters Twist"
 date: 2025-08-17
 draft: false
-image: tricolor-shooters.png
+image: tricolor-shooters.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT6M

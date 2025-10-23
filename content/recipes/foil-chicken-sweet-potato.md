@@ -7,7 +7,7 @@ ogDescription: "Grill Foil Chicken Sweet Potato Packets with juicy chicken, swee
 focusKeyphrase: "Foil Chicken Sweet Potato Packets"
 date: 2025-10-17
 draft: false
-image: foil-chicken-sweet-potato.png
+image: foil-chicken-sweet-potato.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT25M

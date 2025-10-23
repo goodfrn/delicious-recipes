@@ -7,7 +7,7 @@ ogDescription: "Discover Oven-Baked Feta Medley with sweet red peppers, zucchini
 focusKeyphrase: "Oven-Baked Feta Medley"
 date: 2025-07-28
 draft: false
-image: oven-baked-feta-medley.png
+image: oven-baked-feta-medley.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Discover Twisted Fortune Crisps, a playful treat! Light, crispy,
 focusKeyphrase: "Twisted Fortune Crisps recipe"
 date: 2025-07-21
 draft: false
-image: twisted-fortune-crisps.png
+image: twisted-fortune-crisps.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

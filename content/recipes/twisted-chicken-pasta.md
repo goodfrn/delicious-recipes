@@ -7,7 +7,7 @@ ogDescription: "Explore Twisted Chicken Pasta with parsnips and green beans. A c
 focusKeyphrase: "Twisted Chicken Pasta"
 date: 2025-07-21
 draft: false
-image: twisted-chicken-pasta.png
+image: twisted-chicken-pasta.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT22M

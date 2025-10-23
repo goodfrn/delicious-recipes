@@ -7,7 +7,7 @@ ogDescription: "Enjoy a zesty Grapefruit Ginger Tonic; refreshing drink with rub
 focusKeyphrase: "Grapefruit Ginger Tonic"
 date: 2025-08-03
 draft: false
-image: grapefruit-ginger-tonic.png
+image: grapefruit-ginger-tonic.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

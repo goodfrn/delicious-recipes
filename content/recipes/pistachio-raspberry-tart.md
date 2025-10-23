@@ -7,7 +7,7 @@ ogDescription: "Experience a gluten-free Pistachio Raspberry Tart; fresh raspber
 focusKeyphrase: "Pistachio Raspberry Tart"
 date: 2025-09-28
 draft: false
-image: pistachio-raspberry-tart.png
+image: pistachio-raspberry-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT20M

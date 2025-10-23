@@ -7,7 +7,7 @@ ogDescription: "Discover a unique Leek and Celery Vinaigrette Salad, balancing t
 focusKeyphrase: "Leek and Celery Salad"
 date: 2025-08-19
 draft: false
-image: leek-celery-salad.png
+image: leek-celery-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

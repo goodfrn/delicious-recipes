@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Crispy Hazelnut Roll made with rice cereal, almond butte
 focusKeyphrase: "Crispy Hazelnut Roll"
 date: 2025-08-14
 draft: false
-image: crispy-hazelnut-roll.png
+image: crispy-hazelnut-roll.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT7M

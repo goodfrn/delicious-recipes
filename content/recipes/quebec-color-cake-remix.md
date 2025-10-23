@@ -7,7 +7,7 @@ ogDescription: "Discover the Québec Color Cake Remix with its layered flavor pr
 focusKeyphrase: "Québec Color Cake Remix"
 date: 2025-08-02
 draft: false
-image: quebec-color-cake-remix.png
+image: quebec-color-cake-remix.jpg
 author: "Kate"
 prepTime: PT1H20M
 cookTime: PT1H10M

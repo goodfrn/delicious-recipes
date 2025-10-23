@@ -7,7 +7,7 @@ ogDescription: "Enjoy Lavender Wild Blueberry Ice Cream with its floral aroma an
 focusKeyphrase: "Lavender Wild Blueberry Ice Cream"
 date: 2025-08-19
 draft: false
-image: lavender-blueberry-ice-cream.png
+image: lavender-blueberry-ice-cream.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

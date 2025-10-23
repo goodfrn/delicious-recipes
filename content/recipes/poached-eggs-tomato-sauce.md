@@ -7,7 +7,7 @@ ogDescription: "Enjoy poached eggs nestled in a rich tomato sauce, enhanced with
 focusKeyphrase: "Poached Eggs Indian Tomato Sauce"
 date: 2025-09-24
 draft: false
-image: poached-eggs-tomato-sauce.png
+image: poached-eggs-tomato-sauce.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT45M

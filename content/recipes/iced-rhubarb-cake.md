@@ -7,7 +7,7 @@ ogDescription: "Enjoy a chilled Iced Rhubarb Cake. Tangy rhubarb, creamy mascarp
 focusKeyphrase: "Iced Rhubarb Cake"
 date: 2025-07-29
 draft: false
-image: iced-rhubarb-cake.png
+image: iced-rhubarb-cake.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

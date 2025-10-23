@@ -7,7 +7,7 @@ ogDescription: "Vanilla Skillet Cake, nutty aroma from almond extract. Simple ba
 focusKeyphrase: "Vanilla Skillet Cake"
 date: 2025-08-19
 draft: false
-image: vanilla-skillet-cake.png
+image: vanilla-skillet-cake.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT35M

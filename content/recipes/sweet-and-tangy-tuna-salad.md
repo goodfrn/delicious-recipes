@@ -7,7 +7,7 @@ ogDescription: "Enjoy the bold flavors of Sweet and Tangy Tuna Salad with seared
 focusKeyphrase: "Sweet and Tangy Tuna Salad"
 date: 2025-08-18
 draft: false
-image: sweet-and-tangy-tuna-salad.png
+image: sweet-and-tangy-tuna-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

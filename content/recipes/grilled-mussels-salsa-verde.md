@@ -7,7 +7,7 @@ ogDescription: "Savor grilled mussels tossed in a vibrant salsa verde. Fresh her
 focusKeyphrase: "grilled mussels"
 date: 2025-07-29
 draft: false
-image: grilled-mussels-salsa-verde.png
+image: grilled-mussels-salsa-verde.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT7M

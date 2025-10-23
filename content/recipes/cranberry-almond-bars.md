@@ -7,7 +7,7 @@ ogDescription: "Indulge in these Cranberry Almond Bars Refined. Tart cranberries
 focusKeyphrase: "Cranberry Almond Bars Refined"
 date: 2025-08-29
 draft: false
-image: cranberry-almond-bars.png
+image: cranberry-almond-bars.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT40M

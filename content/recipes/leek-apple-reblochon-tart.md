@@ -7,7 +7,7 @@ ogDescription: "Leek Apple Camembert Tart: A tempting stack of leeks, apples, an
 focusKeyphrase: "Leek Apple Camembert Tart"
 date: 2025-08-11
 draft: false
-image: leek-apple-reblochon-tart.png
+image: leek-apple-reblochon-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT45M

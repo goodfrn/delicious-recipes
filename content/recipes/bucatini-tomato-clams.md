@@ -7,7 +7,7 @@ ogDescription: "Savor Bucatini Tomato Clams Twist; a delightful seafood pasta th
 focusKeyphrase: "Bucatini Tomato Clams Twist"
 date: 2025-09-28
 draft: false
-image: bucatini-tomato-clams.png
+image: bucatini-tomato-clams.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

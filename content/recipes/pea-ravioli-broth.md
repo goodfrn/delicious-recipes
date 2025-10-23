@@ -7,7 +7,7 @@ ogDescription: "Savor the rich comfort of Pea Ravioli Broth. It marries tender r
 focusKeyphrase: "Pea Ravioli Broth"
 date: 2025-08-28
 draft: false
-image: pea-ravioli-broth.png
+image: pea-ravioli-broth.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

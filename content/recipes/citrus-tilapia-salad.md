@@ -7,7 +7,7 @@ ogDescription: "Citrus Tilapia Salad blends pan-seared fish with a tangy glaze a
 focusKeyphrase: "Citrus Tilapia Salad"
 date: 2025-08-04
 draft: false
-image: citrus-tilapia-salad.png
+image: citrus-tilapia-salad.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT22M

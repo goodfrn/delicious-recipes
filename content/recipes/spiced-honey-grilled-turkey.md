@@ -7,7 +7,7 @@ ogDescription: "Sizzle and taste spiced honey grilled turkey. Features smoky pap
 focusKeyphrase: "Spiced Honey Grilled Turkey"
 date: 2025-10-05
 draft: false
-image: spiced-honey-grilled-turkey.png
+image: spiced-honey-grilled-turkey.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT20M

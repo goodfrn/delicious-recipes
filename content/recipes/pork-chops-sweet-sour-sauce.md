@@ -7,7 +7,7 @@ ogDescription: "Savory Pork Chops Sweet-Sour Sauce recipe. Sizzling pork, tangy 
 focusKeyphrase: "Pork Chops Sweet-Sour Sauce"
 date: 2025-09-30
 draft: false
-image: pork-chops-sweet-sour-sauce.png
+image: pork-chops-sweet-sour-sauce.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

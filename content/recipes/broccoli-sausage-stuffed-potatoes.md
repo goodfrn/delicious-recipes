@@ -7,7 +7,7 @@ ogDescription: "Indulge in Broccoli Sausage Stuffed Potatoes. Hearty, savory, an
 focusKeyphrase: "Broccoli Sausage Stuffed Potatoes"
 date: 2025-08-14
 draft: false
-image: broccoli-sausage-stuffed-potatoes.png
+image: broccoli-sausage-stuffed-potatoes.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT20M

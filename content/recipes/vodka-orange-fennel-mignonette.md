@@ -7,7 +7,7 @@ ogDescription: "Vodka Orange Fennel Mignonette brings a unique twist. Citrusy, f
 focusKeyphrase: "Vodka Orange Fennel Mignonette"
 date: 2025-07-21
 draft: false
-image: vodka-orange-fennel-mignonette.png
+image: vodka-orange-fennel-mignonette.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

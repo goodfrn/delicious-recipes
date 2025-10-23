@@ -7,7 +7,7 @@ ogDescription: "Fresh, vibrant Sweet Potato Broccoli Salad with crunchy veggies,
 focusKeyphrase: "Sweet Potato Broccoli Salad"
 date: 2025-08-16
 draft: false
-image: sweet-potato-broccoli-salad.png
+image: sweet-potato-broccoli-salad.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT35M

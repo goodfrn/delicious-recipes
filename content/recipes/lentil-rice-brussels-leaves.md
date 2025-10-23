@@ -7,7 +7,7 @@ ogDescription: "Savor Lentil Rice with Roasted Brussels Leaves. Wholesome dish p
 focusKeyphrase: "Lentil Rice"
 date: 2025-09-25
 draft: false
-image: lentil-rice-brussels-leaves.png
+image: lentil-rice-brussels-leaves.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT40M

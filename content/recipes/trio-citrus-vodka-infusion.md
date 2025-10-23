@@ -7,7 +7,7 @@ ogDescription: "Infuse vodka with citrus zest and juice for a refreshing cocktai
 focusKeyphrase: "citrus vodka infusion"
 date: 2025-08-05
 draft: false
-image: trio-citrus-vodka-infusion.png
+image: trio-citrus-vodka-infusion.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

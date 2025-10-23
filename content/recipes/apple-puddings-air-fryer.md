@@ -7,7 +7,7 @@ ogDescription: "Savor Apple Puddings Air Fryer; stewed gala apples under a golde
 focusKeyphrase: "Apple Puddings Air Fryer"
 date: 2025-08-04
 draft: false
-image: apple-puddings-air-fryer.png
+image: apple-puddings-air-fryer.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

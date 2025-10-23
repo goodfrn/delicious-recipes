@@ -7,7 +7,7 @@ ogDescription: "Indulge in Stuffed Veal Balls with Gruyere made from ground veal
 focusKeyphrase: "Stuffed Veal Balls"
 date: 2025-09-29
 draft: false
-image: stuffed-veal-balls.png
+image: stuffed-veal-balls.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H05M

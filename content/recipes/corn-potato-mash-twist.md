@@ -7,7 +7,7 @@ ogDescription: "Discover Corn Potato Mash Twist with Yukon Golds, sweet corn, an
 focusKeyphrase: "Corn Potato Mash Twist"
 date: 2025-08-07
 draft: false
-image: corn-potato-mash-twist.png
+image: corn-potato-mash-twist.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

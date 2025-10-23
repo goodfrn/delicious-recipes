@@ -7,7 +7,7 @@ ogDescription: "Try Grilled Artichokes with Labneh Salad. A delightful, fresh Me
 focusKeyphrase: "grilled artichokes"
 date: 2025-07-25
 draft: false
-image: grilled-artichokes-labneh-salad.png
+image: grilled-artichokes-labneh-salad.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT5M

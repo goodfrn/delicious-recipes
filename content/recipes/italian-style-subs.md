@@ -7,7 +7,7 @@ ogDescription: "Delicious Italian-style subs filled with cured meats, provolone,
 focusKeyphrase: "Italian-style subs"
 date: 2025-07-23
 draft: false
-image: italian-style-subs.png
+image: italian-style-subs.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT0M

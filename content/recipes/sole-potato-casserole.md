@@ -7,7 +7,7 @@ ogDescription: "Discover Sole Potato Casserole layering fish, greens, and creamy
 focusKeyphrase: "Sole Potato Casserole"
 date: 2025-08-18
 draft: false
-image: sole-potato-casserole.png
+image: sole-potato-casserole.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H15M

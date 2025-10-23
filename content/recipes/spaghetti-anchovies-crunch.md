@@ -7,7 +7,7 @@ ogDescription: "Experience the crunch of spaghetti with anchovies, garlic, olive
 focusKeyphrase: "Spaghetti with Anchovies"
 date: 2025-08-09
 draft: false
-image: spaghetti-anchovies-crunch.png
+image: spaghetti-anchovies-crunch.jpg
 author: "Kate"
 prepTime: PT17M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Bake Pear Almond Muffins with Oats infused with fresh fruit and 
 focusKeyphrase: "Pear Almond Muffins"
 date: 2025-08-01
 draft: false
-image: pear-almond-muffins.png
+image: pear-almond-muffins.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT32M

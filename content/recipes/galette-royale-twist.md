@@ -7,7 +7,7 @@ ogDescription: "Explore the Galette Royale Twist, a reimagined classic with rich
 focusKeyphrase: "Galette Royale Twist"
 date: 2025-09-28
 draft: false
-image: galette-royale-twist.png
+image: galette-royale-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

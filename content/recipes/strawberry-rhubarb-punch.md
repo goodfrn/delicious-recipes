@@ -7,7 +7,7 @@ ogDescription: "Chill with Strawberry Rhubarb Rosé Punch—tart syrup, fresh fr
 focusKeyphrase: "Strawberry Rhubarb Rosé Punch"
 date: 2025-08-11
 draft: false
-image: strawberry-rhubarb-punch.png
+image: strawberry-rhubarb-punch.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT6M

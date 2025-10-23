@@ -7,7 +7,7 @@ ogDescription: "Try Salted Caramel Crispy Treats for a chewy, crunchy dessert. U
 focusKeyphrase: "Salted Caramel Crispy Treats"
 date: 2025-10-06
 draft: false
-image: salted-caramel-crispy-treats.png
+image: salted-caramel-crispy-treats.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Savor the layers in Hearty Cabbage Roll Bake - ground beef, tend
 focusKeyphrase: "Hearty Cabbage Roll Bake"
 date: 2025-10-05
 draft: false
-image: hearty-cabbage-roll-bake.png
+image: hearty-cabbage-roll-bake.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

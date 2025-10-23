@@ -7,7 +7,7 @@ ogDescription: "Try these quick Cinnamon-Spiced Goat Cheese Bites. Simple combin
 focusKeyphrase: "Cinnamon-Spiced Goat Cheese Bites"
 date: 2025-10-03
 draft: false
-image: cinnamon-spiced-goat-cheese.png
+image: cinnamon-spiced-goat-cheese.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Giant Veal Mushroom Shells with a rich filling and bu
 focusKeyphrase: "Giant Veal Mushroom Shells"
 date: 2025-08-16
 draft: false
-image: giant-veal-mushroom-shells.png
+image: giant-veal-mushroom-shells.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT55M

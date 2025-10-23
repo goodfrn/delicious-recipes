@@ -7,7 +7,7 @@ ogDescription: "Creamy Asparagus Basil Soup with toasted baguette croûtons. Del
 focusKeyphrase: "Asparagus Basil Cream Soup"
 date: 2025-07-29
 draft: false
-image: asparagus-basil-soup.png
+image: asparagus-basil-soup.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT25M

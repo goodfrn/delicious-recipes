@@ -7,7 +7,7 @@ ogDescription: "Try Celery Walnut Blue Soup, a savory blend of celery, apple, an
 focusKeyphrase: "Celery Walnut Blue Soup"
 date: 2025-08-16
 draft: false
-image: celery-walnut-blue-soup.png
+image: celery-walnut-blue-soup.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

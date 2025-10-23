@@ -7,7 +7,7 @@ ogDescription: "Dive into a savory Twisted Bloody Caesar. Clamato, vodka, and sm
 focusKeyphrase: "Twisted Bloody Caesar"
 date: 2025-07-30
 draft: false
-image: twisted-bloody-caesar.png
+image: twisted-bloody-caesar.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Experience Twisted Red Velvet Log, a delightful dessert featurin
 focusKeyphrase: "twisted red velvet log"
 date: 2025-07-21
 draft: false
-image: twisted-red-velvet-log.png
+image: twisted-red-velvet-log.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT25M

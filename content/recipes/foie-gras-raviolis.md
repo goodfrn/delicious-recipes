@@ -7,7 +7,7 @@ ogDescription: "Indulge in Foie Gras Raviolis Muscat, a unique twist with sweet 
 focusKeyphrase: "foie gras raviolis"
 date: 2025-09-27
 draft: false
-image: foie-gras-raviolis.png
+image: foie-gras-raviolis.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Spiced lamb and egg noodles unite for quick, hearty dinner. Expe
 focusKeyphrase: "Egg Noodles with Spiced Lamb"
 date: 2025-08-29
 draft: false
-image: egg-noodles-with-lamb.png
+image: egg-noodles-with-lamb.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT18M

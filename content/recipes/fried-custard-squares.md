@@ -7,7 +7,7 @@ ogDescription: "Discover how to make Fried Custard Squares; a delightful fusion 
 focusKeyphrase: "Fried Custard Squares"
 date: 2025-08-13
 draft: false
-image: fried-custard-squares.png
+image: fried-custard-squares.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

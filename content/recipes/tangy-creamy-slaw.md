@@ -7,7 +7,7 @@ ogDescription: "Crunchy slaw with cabbage, carrots, and a yogurt dressing, perfe
 focusKeyphrase: "Tangy Creamy Slaw"
 date: 2025-10-08
 draft: false
-image: tangy-creamy-slaw.png
+image: tangy-creamy-slaw.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

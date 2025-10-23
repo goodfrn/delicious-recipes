@@ -7,7 +7,7 @@ ogDescription: "Warm up with Spiced Hot Cranberry Punch. Tart cranberry juice me
 focusKeyphrase: "Spiced Hot Cranberry Punch"
 date: 2025-08-09
 draft: false
-image: spiced-hot-cranberry-punch.png
+image: spiced-hot-cranberry-punch.jpg
 author: "Kate"
 prepTime: PT5M
 cookTime: PT11M

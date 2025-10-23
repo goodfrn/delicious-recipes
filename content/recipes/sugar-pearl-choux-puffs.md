@@ -7,7 +7,7 @@ ogDescription: "Try these Sugar Pearled Choux Puffs. Light, crunchy, and allergy
 focusKeyphrase: "Sugar Pearled Choux Puffs"
 date: 2025-07-30
 draft: false
-image: sugar-pearl-choux-puffs.png
+image: sugar-pearl-choux-puffs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

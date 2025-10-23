@@ -7,7 +7,7 @@ ogDescription: "Experience the fusion of dark chocolate, almond meringue, and ca
 focusKeyphrase: "Chocolate Almond Caramel Crunch"
 date: 2025-07-21
 draft: false
-image: chocolate-almond-caramel-crunch.png
+image: chocolate-almond-caramel-crunch.jpg
 author: "Kate"
 prepTime: PT1H20M
 cookTime: PT2H30M

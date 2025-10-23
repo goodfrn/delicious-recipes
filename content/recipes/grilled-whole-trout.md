@@ -7,7 +7,7 @@ ogDescription: "Discover Grilled Whole Trout Twist - a citrusy, herby dish that'
 focusKeyphrase: "Grilled Whole Trout"
 date: 2025-07-25
 draft: false
-image: grilled-whole-trout.png
+image: grilled-whole-trout.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT20M

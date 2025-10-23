@@ -7,7 +7,7 @@ ogDescription: "Discover Coconut Tapioca with Berries; a creamy, dairy-free dess
 focusKeyphrase: "Coconut Tapioca"
 date: 2025-08-17
 draft: false
-image: coconut-tapioca-pudding.png
+image: coconut-tapioca-pudding.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Bold Spicy Chimichurri Twist. A chunky, herb sauce. Fresh flavor
 focusKeyphrase: "Spicy Chimichurri"
 date: 2025-07-27
 draft: false
-image: spicy-chimichurri-twist.png
+image: spicy-chimichurri-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

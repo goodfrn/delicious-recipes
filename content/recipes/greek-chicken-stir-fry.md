@@ -7,7 +7,7 @@ ogDescription: "A lively Greek Chicken Stir-fry Twist with sun-dried tomatoes, o
 focusKeyphrase: "Greek Chicken Stir-fry Twist"
 date: 2025-07-27
 draft: false
-image: greek-chicken-stir-fry.png
+image: greek-chicken-stir-fry.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT13M

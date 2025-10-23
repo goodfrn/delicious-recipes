@@ -7,7 +7,7 @@ ogDescription: "Salmon Pea Shell Pasta is a quick, satisfying dish featuring ten
 focusKeyphrase: "salmon pea shell pasta"
 date: 2025-08-12
 draft: false
-image: salmon-pea-shell-pasta.png
+image: salmon-pea-shell-pasta.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

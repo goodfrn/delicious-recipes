@@ -7,7 +7,7 @@ ogDescription: "Roasted butternut squash gnocchi with crisp guanciale and earthy
 focusKeyphrase: "Butternut Gnocchi"
 date: 2025-08-13
 draft: false
-image: butternut-gnocchi-chanterelles.png
+image: butternut-gnocchi-chanterelles.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H

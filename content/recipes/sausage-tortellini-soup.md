@@ -7,7 +7,7 @@ ogDescription: "Savor Sausage Tortellini Soup with rich broth and comforting hom
 focusKeyphrase: "Sausage Tortellini Soup"
 date: 2025-09-24
 draft: false
-image: sausage-tortellini-soup.png
+image: sausage-tortellini-soup.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT40M

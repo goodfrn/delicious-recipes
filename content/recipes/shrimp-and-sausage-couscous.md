@@ -7,7 +7,7 @@ ogDescription: "Try this Shrimp and Spiced Sausage Couscous. A blend of roasted 
 focusKeyphrase: "Shrimp and Spiced Sausage Couscous"
 date: 2025-07-21
 draft: false
-image: shrimp-and-sausage-couscous.png
+image: shrimp-and-sausage-couscous.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

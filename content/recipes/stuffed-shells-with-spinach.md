@@ -7,7 +7,7 @@ ogDescription: "Stuffed Shells with Spinach Ricotta - creamy filling, smoky sauc
 focusKeyphrase: "Stuffed Shells"
 date: 2025-08-02
 draft: false
-image: stuffed-shells-with-spinach.png
+image: stuffed-shells-with-spinach.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT1H

@@ -7,7 +7,7 @@ ogDescription: "Savor Berry Meringue Nests: Crisp meringues filled with fresh be
 focusKeyphrase: "Berry Meringue Nests"
 date: 2025-08-17
 draft: false
-image: berry-meringue-nests.png
+image: berry-meringue-nests.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT2H10M

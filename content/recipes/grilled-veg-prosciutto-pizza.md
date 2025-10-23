@@ -7,7 +7,7 @@ ogDescription: "Grilled Veg & Prosciutto Pizza. Charred crust with melty cheese,
 focusKeyphrase: "Grilled Veg & Prosciutto Pizza"
 date: 2025-09-29
 draft: false
-image: grilled-veg-prosciutto-pizza.png
+image: grilled-veg-prosciutto-pizza.jpg
 author: "Kate"
 prepTime: PT1H10M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy a vibrant Beet and Feta Tart. Roasted beets and creamy fet
 focusKeyphrase: "Beet and Feta Tart"
 date: 2025-07-20
 draft: false
-image: beet-feta-tart.png
+image: beet-feta-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H20M

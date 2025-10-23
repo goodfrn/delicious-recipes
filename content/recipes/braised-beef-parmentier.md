@@ -7,7 +7,7 @@ ogDescription: "Enjoy layers of tender braised beef and creamy potato mash toppe
 focusKeyphrase: "Braised Beef Parmentier"
 date: 2025-09-23
 draft: false
-image: braised-beef-parmentier.png
+image: braised-beef-parmentier.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT3H30M

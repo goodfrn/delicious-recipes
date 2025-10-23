@@ -7,7 +7,7 @@ ogDescription: "Savor a rich Twist White Chocolate Cheesecake, layered with crea
 focusKeyphrase: "Twist White Chocolate Cheesecake"
 date: 2025-10-14
 draft: false
-image: white-chocolate-cheesecake.png
+image: white-chocolate-cheesecake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H35M

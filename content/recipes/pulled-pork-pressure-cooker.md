@@ -7,7 +7,7 @@ ogDescription: "Quick Pulled Pork Pressure Cooker recipe with bold smoky and swe
 focusKeyphrase: "Pulled Pork Pressure Cooker"
 date: 2025-07-26
 draft: false
-image: pulled-pork-pressure-cooker.png
+image: pulled-pork-pressure-cooker.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT45M

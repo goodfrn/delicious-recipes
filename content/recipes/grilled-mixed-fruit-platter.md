@@ -7,7 +7,7 @@ ogDescription: "Smoky, sticky, aromatic grilled fruits. Elevate your fruit game 
 focusKeyphrase: "Grilled Mixed Fruit Platter"
 date: 2025-09-19
 draft: false
-image: grilled-mixed-fruit-platter.png
+image: grilled-mixed-fruit-platter.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT1H20M

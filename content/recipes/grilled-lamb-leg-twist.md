@@ -7,7 +7,7 @@ ogDescription: "Savor Grilled Lamb Leg Twist. Smoky, juicy, and full of flavor. 
 focusKeyphrase: "Grilled Lamb Leg"
 date: 2025-07-24
 draft: false
-image: grilled-lamb-leg-twist.png
+image: grilled-lamb-leg-twist.jpg
 author: "Kate"
 prepTime: PT5H
 cookTime: PT20M

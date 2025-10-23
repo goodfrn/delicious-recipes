@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Pecan Bok Choy Fish, featuring seared white
 focusKeyphrase: "Pecan Bok Choy Fish"
 date: 2025-08-10
 draft: false
-image: pecan-bok-choy-fish.png
+image: pecan-bok-choy-fish.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

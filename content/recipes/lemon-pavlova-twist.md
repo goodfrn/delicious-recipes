@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Lemon Pavlova Twist—a delightful interplay of crispy m
 focusKeyphrase: "Lemon Pavlova Twist"
 date: 2025-08-16
 draft: false
-image: lemon-pavlova-twist.png
+image: lemon-pavlova-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT4H20M

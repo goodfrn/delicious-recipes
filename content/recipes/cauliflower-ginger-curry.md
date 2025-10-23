@@ -7,7 +7,7 @@ ogDescription: "Indulge in the warmth of Cauliflower Ginger Curry Velouté. Crea
 focusKeyphrase: "Cauliflower Ginger Curry Velouté"
 date: 2025-08-13
 draft: false
-image: cauliflower-ginger-curry.png
+image: cauliflower-ginger-curry.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

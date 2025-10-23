@@ -7,7 +7,7 @@ ogDescription: "Crispy bacon, sweet apricots, and pecans fill pastry shells topp
 focusKeyphrase: "Bacon Date Blue Bites"
 date: 2025-08-18
 draft: false
-image: bacon-date-bites.png
+image: bacon-date-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT18M

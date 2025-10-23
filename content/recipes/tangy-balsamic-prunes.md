@@ -7,7 +7,7 @@ ogDescription: "Transform prunes with balsamic vinegar and ginger. A sweet-savor
 focusKeyphrase: "Tangy Balsamic Prunes"
 date: 2025-08-14
 draft: false
-image: tangy-balsamic-prunes.png
+image: tangy-balsamic-prunes.jpg
 author: "Kate"
 prepTime: PT5M
 cookTime: PT15M

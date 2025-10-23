@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chocolate Coffee Bites, a no-bake treat blending choc
 focusKeyphrase: "Chocolate Coffee Bites"
 date: 2025-07-28
 draft: false
-image: chocolate-coffee-bites.png
+image: chocolate-coffee-bites.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

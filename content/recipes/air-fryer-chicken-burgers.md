@@ -7,7 +7,7 @@ ogDescription: "Crunchy spicy chicken burgers with creamy dips and pickled onion
 focusKeyphrase: "Air Fryer Crispy Chicken Burgers"
 date: 2025-07-27
 draft: false
-image: air-fryer-chicken-burgers.png
+image: air-fryer-chicken-burgers.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT35M

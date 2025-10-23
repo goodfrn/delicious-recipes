@@ -7,7 +7,7 @@ ogDescription: "Savor Beef Tartines with Caramelized Leeks, combining seared bee
 focusKeyphrase: "Beef Tartines"
 date: 2025-08-08
 draft: false
-image: beef-tartines.png
+image: beef-tartines.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT55M

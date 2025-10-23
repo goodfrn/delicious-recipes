@@ -7,7 +7,7 @@ ogDescription: "Discover a twist on chicken pot pie. Flaky crust meets earthy sw
 focusKeyphrase: "Chicken Pot Pie"
 date: 2025-08-06
 draft: false
-image: chicken-pot-pie-twist.png
+image: chicken-pot-pie-twist.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT65M

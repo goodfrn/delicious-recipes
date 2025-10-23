@@ -7,7 +7,7 @@ ogDescription: "Dairy-free Cocoa Coconut Cookies. Chewy outside, melty chocolate
 focusKeyphrase: "Cocoa Coconut Cookies"
 date: 2025-08-06
 draft: false
-image: cocoa-coconut-cookies.png
+image: cocoa-coconut-cookies.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT15M

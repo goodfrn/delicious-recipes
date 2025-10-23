@@ -7,7 +7,7 @@ ogDescription: "A smoky, vibrant Tofu Veggie Fried Rice full of flavor and fresh
 focusKeyphrase: "Tofu Veggie Fried Rice"
 date: 2025-08-05
 draft: false
-image: tofu-veggie-fried-rice.png
+image: tofu-veggie-fried-rice.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT27M

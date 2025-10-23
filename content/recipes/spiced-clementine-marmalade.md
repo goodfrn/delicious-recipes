@@ -7,7 +7,7 @@ ogDescription: "Enjoy unique Spiced Clementine Marmalade made with fresh clement
 focusKeyphrase: "Spiced Clementine Marmalade"
 date: 2025-07-24
 draft: false
-image: spiced-clementine-marmalade.png
+image: spiced-clementine-marmalade.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H30M

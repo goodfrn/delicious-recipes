@@ -7,7 +7,7 @@ ogDescription: "Make Autocuiseur Apple Compote in just 27 minutes. A blend of ta
 focusKeyphrase: "Autocuiseur Apple Compote"
 date: 2025-08-08
 draft: false
-image: autocuiseur-apple-compote.png
+image: autocuiseur-apple-compote.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT7M

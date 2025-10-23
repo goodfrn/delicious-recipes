@@ -7,7 +7,7 @@ ogDescription: "Delicious Chorizo Breakfast Burrito with chorizo, creamy eggs, a
 focusKeyphrase: "Chorizo Breakfast Burrito"
 date: 2025-07-30
 draft: false
-image: chorizo-breakfast-burrito.png
+image: chorizo-breakfast-burrito.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT12M

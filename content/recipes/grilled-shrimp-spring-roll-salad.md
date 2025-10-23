@@ -7,7 +7,7 @@ ogDescription: "Savor the Grilled Shrimp Spring Roll Salad with charred shrimp, 
 focusKeyphrase: "Grilled Shrimp Spring Roll Salad"
 date: 2025-08-19
 draft: false
-image: grilled-shrimp-spring-roll-salad.png
+image: grilled-shrimp-spring-roll-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

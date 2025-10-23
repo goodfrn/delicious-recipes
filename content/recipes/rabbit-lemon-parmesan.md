@@ -7,7 +7,7 @@ ogDescription: "Savory Rabbit Lemon Parmesan with lemon zest and tarragon, perfe
 focusKeyphrase: "Rabbit Lemon Parmesan"
 date: 2025-07-21
 draft: false
-image: rabbit-lemon-parmesan.png
+image: rabbit-lemon-parmesan.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H35M

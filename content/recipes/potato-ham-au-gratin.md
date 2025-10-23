@@ -7,7 +7,7 @@ ogDescription: "Potato Ham Au Gratin with Yukon Gold potatoes, smoked Gouda; cre
 focusKeyphrase: "Potato Ham Au Gratin"
 date: 2025-08-16
 draft: false
-image: potato-ham-au-gratin.png
+image: potato-ham-au-gratin.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT55M

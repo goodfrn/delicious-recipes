@@ -7,7 +7,7 @@ ogDescription: "Try Strawberry Melon Tres Leches; a moist sponge soaked in a tri
 focusKeyphrase: "Strawberry Melon Tres Leches"
 date: 2025-08-18
 draft: false
-image: strawberry-melon-tres-leches.png
+image: strawberry-melon-tres-leches.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT28M

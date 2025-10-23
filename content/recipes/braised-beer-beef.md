@@ -7,7 +7,7 @@ ogDescription: "Savor Braised Beer Beef with Chorizo Twist, a comforting beef di
 focusKeyphrase: "Braised Beer Beef"
 date: 2025-07-27
 draft: false
-image: braised-beer-beef.png
+image: braised-beer-beef.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT3H15M

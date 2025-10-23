@@ -7,7 +7,7 @@ ogDescription: "Grilled asparagus meets smoky chorizo and fresh tomatoes. Quick 
 focusKeyphrase: "Warm Asparagus Chorizo Salad"
 date: 2025-08-16
 draft: false
-image: warm-asparagus-chorizo-salad.png
+image: warm-asparagus-chorizo-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

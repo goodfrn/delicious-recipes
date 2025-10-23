@@ -7,7 +7,7 @@ ogDescription: "Pork Filets Apple-Onion Stuffed; tender pork with caramelized sh
 focusKeyphrase: "Pork Filets Apple-Onion Stuffed"
 date: 2025-08-05
 draft: false
-image: pork-filets-apple-onion-stuffed.png
+image: pork-filets-apple-onion-stuffed.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Savor a unique Triple Chocolate Log with layered mousses and ric
 focusKeyphrase: "Triple Chocolate Log"
 date: 2025-07-27
 draft: false
-image: triple-chocolate-log.png
+image: triple-chocolate-log.jpg
 author: "Kate"
 prepTime: PT1H25M
 cookTime: PT40M

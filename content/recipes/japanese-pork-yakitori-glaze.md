@@ -7,7 +7,7 @@ ogDescription: "Sticky and flavorful, this Japanese Pork Yakitori Glaze offers a
 focusKeyphrase: "Japanese Pork Yakitori Glaze"
 date: 2025-09-01
 draft: false
-image: japanese-pork-yakitori-glaze.png
+image: japanese-pork-yakitori-glaze.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT12M

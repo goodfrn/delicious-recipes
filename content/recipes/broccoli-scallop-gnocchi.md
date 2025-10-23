@@ -7,7 +7,7 @@ ogDescription: "Enjoy Broccoli Scallop Gnocchi, a delicious dish blending scallo
 focusKeyphrase: "Broccoli Scallop Gnocchi"
 date: 2025-07-28
 draft: false
-image: broccoli-scallop-gnocchi.png
+image: broccoli-scallop-gnocchi.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

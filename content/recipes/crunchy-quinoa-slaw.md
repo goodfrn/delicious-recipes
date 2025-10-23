@@ -7,7 +7,7 @@ ogDescription: "Nutty quinoa and crisp veggies create an exciting texture in Cru
 focusKeyphrase: "Crunchy Quinoa Slaw"
 date: 2025-08-20
 draft: false
-image: crunchy-quinoa-slaw.png
+image: crunchy-quinoa-slaw.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

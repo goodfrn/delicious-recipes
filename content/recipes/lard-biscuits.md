@@ -7,7 +7,7 @@ ogDescription: "Try Lard Biscuits Upgrade for a flaky, nutty biscuit. Whole whea
 focusKeyphrase: "Lard Biscuits Upgrade"
 date: 2025-10-21
 draft: false
-image: lard-biscuits.png
+image: lard-biscuits.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

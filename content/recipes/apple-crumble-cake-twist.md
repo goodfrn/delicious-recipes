@@ -7,7 +7,7 @@ ogDescription: "Enjoy Apple Crumble Cake Twist—a layered dessert with tart app
 focusKeyphrase: "Apple Crumble Cake"
 date: 2025-08-11
 draft: false
-image: apple-crumble-cake-twist.png
+image: apple-crumble-cake-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT55M

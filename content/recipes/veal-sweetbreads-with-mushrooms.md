@@ -7,7 +7,7 @@ ogDescription: "Discover Veal Sweetbreads with Mushrooms, a dish with crispy pas
 focusKeyphrase: "Veal Sweetbreads"
 date: 2025-08-09
 draft: false
-image: veal-sweetbreads-with-mushrooms.png
+image: veal-sweetbreads-with-mushrooms.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT25M

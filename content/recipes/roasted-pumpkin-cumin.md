@@ -7,7 +7,7 @@ ogDescription: "Roasted Pumpkin with Cumin and Pepitas offers a unique twist on 
 focusKeyphrase: "Roasted Pumpkin"
 date: 2025-08-17
 draft: false
-image: roasted-pumpkin-cumin.png
+image: roasted-pumpkin-cumin.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

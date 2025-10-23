@@ -7,7 +7,7 @@ ogDescription: "Make Basic Vegan Pizza Dough. A straightforward mix of pantry st
 focusKeyphrase: "Vegan Pizza Dough"
 date: 2025-07-24
 draft: false
-image: basic-vegan-pizza-dough.png
+image: basic-vegan-pizza-dough.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

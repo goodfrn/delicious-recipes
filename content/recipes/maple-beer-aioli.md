@@ -7,7 +7,7 @@ ogDescription: "Maple Beer Aioli uses garlic aioli, amber ale, and maple syrup f
 focusKeyphrase: "Maple Beer Aioli"
 date: 2025-08-10
 draft: false
-image: maple-beer-aioli.png
+image: maple-beer-aioli.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Sizzle your leftovers into Fondue Chinoise Stir-Fry. Quick meal,
 focusKeyphrase: "Fondue Chinoise Stir-Fry"
 date: 2025-09-28
 draft: false
-image: fondue-chinoise-stir-fry.png
+image: fondue-chinoise-stir-fry.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

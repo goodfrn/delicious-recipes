@@ -7,7 +7,7 @@ ogDescription: "Quick garlic sautéed zucchini medley, vibrant side full of flav
 focusKeyphrase: "Garlic Sautéed Zucchini Medley"
 date: 2025-08-29
 draft: false
-image: garlic-sauteed-zucchini.png
+image: garlic-sauteed-zucchini.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT9M

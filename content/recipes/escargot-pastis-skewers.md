@@ -7,7 +7,7 @@ ogDescription: "Try Escargot Pastis Skewers. Unique, flavorful bites of grilled 
 focusKeyphrase: "Escargot Pastis Skewers"
 date: 2025-07-27
 draft: false
-image: escargot-pastis-skewers.png
+image: escargot-pastis-skewers.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT20M

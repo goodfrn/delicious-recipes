@@ -7,7 +7,7 @@ ogDescription: "Enjoy Grilled Veal with Beet Avocado Salad tender veal paired wi
 focusKeyphrase: "Grilled Veal recipe"
 date: 2025-07-21
 draft: false
-image: grilled-veal-beet-salad.png
+image: grilled-veal-beet-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT7M

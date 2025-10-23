@@ -7,7 +7,7 @@ ogDescription: "Golden Mango Boost is a vibrant smoothie packed with ginger, tur
 focusKeyphrase: "Golden Mango Boost"
 date: 2025-08-01
 draft: false
-image: golden-mango-boost.png
+image: golden-mango-boost.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

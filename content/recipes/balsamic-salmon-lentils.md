@@ -7,7 +7,7 @@ ogDescription: "Savor Balsamic Salmon with Lentils—pan-seared salmon glazed wi
 focusKeyphrase: "Balsamic Salmon with Lentils"
 date: 2025-08-16
 draft: false
-image: balsamic-salmon-lentils.png
+image: balsamic-salmon-lentils.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

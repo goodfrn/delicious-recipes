@@ -7,7 +7,7 @@ ogDescription: "Discover Freezer Pecan Cookies. Nutty, sweet, tart bursts. Prep 
 focusKeyphrase: "Freezer Pecan Cookies"
 date: 2025-08-13
 draft: false
-image: freezer-pecan-cookies.png
+image: freezer-pecan-cookies.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT15M

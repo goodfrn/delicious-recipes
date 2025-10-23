@@ -7,7 +7,7 @@ ogDescription: "Bright tart Raspberry Lemonade Twist with fresh fruit; a refresh
 focusKeyphrase: "Raspberry Lemonade Twist"
 date: 2025-09-29
 draft: false
-image: raspberry-lemonade-twist.png
+image: raspberry-lemonade-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Explore the robust Mustard Maple Vinaigrette that combines cream
 focusKeyphrase: "Mustard Maple Vinaigrette"
 date: 2025-08-14
 draft: false
-image: mustard-maple-vinaigrette.png
+image: mustard-maple-vinaigrette.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

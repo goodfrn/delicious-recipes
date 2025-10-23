@@ -7,7 +7,7 @@ ogDescription: "Tangy Cream Cheese Frosting; light cream replaces butter and lem
 focusKeyphrase: "cream cheese frosting"
 date: 2025-10-07
 draft: false
-image: tangy-cream-cheese-frosting.png
+image: tangy-cream-cheese-frosting.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

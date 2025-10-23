@@ -7,7 +7,7 @@ ogDescription: "Whip up Barley Salad with Fennel & Cherry Tomatoes. Chewy barley
 focusKeyphrase: "Barley Salad"
 date: 2025-08-18
 draft: false
-image: barley-salad-fennel-tomatoes.png
+image: barley-salad-fennel-tomatoes.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

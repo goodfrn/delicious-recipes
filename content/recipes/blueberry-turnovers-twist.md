@@ -7,7 +7,7 @@ ogDescription: "Experience Blueberry Turnovers Twist. Flaky, filled with blueber
 focusKeyphrase: "Blueberry Turnovers Twist"
 date: 2025-07-30
 draft: false
-image: blueberry-turnovers-twist.png
+image: blueberry-turnovers-twist.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT22M

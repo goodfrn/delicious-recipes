@@ -7,7 +7,7 @@ ogDescription: "Maple Butter Layer Cake featuring vanilla cake, rich maple butte
 focusKeyphrase: "Maple Butter Layer Cake"
 date: 2025-08-19
 draft: false
-image: maple-butter-layer-cake.png
+image: maple-butter-layer-cake.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT25M

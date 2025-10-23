@@ -7,7 +7,7 @@ ogDescription: "Mushroom Onion Marinade brings pearl onions, earthy mushrooms to
 focusKeyphrase: "Mushroom Onion Marinade"
 date: 2025-09-28
 draft: false
-image: mushroom-onion-marinade.png
+image: mushroom-onion-marinade.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

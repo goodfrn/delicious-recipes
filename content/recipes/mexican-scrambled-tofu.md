@@ -7,7 +7,7 @@ ogDescription: "Enjoy a smoky Mexican Scrambled Tofu Twist with crumbled tofu, f
 focusKeyphrase: "Mexican Scrambled Tofu"
 date: 2025-08-11
 draft: false
-image: mexican-scrambled-tofu.png
+image: mexican-scrambled-tofu.jpg
 author: "Kate"
 prepTime: PT17M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Dive into Coconut Tres Leches Poke Cake—a tropical twist that 
 focusKeyphrase: "Coconut Tres Leches Poke Cake"
 date: 2025-10-08
 draft: false
-image: coconut-tres-leches-cake.png
+image: coconut-tres-leches-cake.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

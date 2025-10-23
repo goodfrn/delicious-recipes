@@ -7,7 +7,7 @@ ogDescription: "Indulge in Caramelized Cauliflower Gnocchi. A blend of textures,
 focusKeyphrase: "Caramelized Cauliflower Gnocchi"
 date: 2025-08-10
 draft: false
-image: caramelized-cauliflower-gnocchi.png
+image: caramelized-cauliflower-gnocchi.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

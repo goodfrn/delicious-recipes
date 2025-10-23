@@ -7,7 +7,7 @@ ogDescription: "Maple Marshmallow Chocolate Bars. Oat crust, fluffy marshmallow,
 focusKeyphrase: "Maple Marshmallow Chocolate Bars"
 date: 2025-09-27
 draft: false
-image: maple-marshmallow-bars.png
+image: maple-marshmallow-bars.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in this vegan Cashew-Miso Tofu Dip with radishes. Creamy
 focusKeyphrase: "Cashew-Miso Tofu Dip"
 date: 2025-07-21
 draft: false
-image: cashew-miso-tofu-dip.png
+image: cashew-miso-tofu-dip.jpg
 author: "Kate"
 prepTime: PT16M
 cookTime: PT25M

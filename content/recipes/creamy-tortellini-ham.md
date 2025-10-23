@@ -7,7 +7,7 @@ ogDescription: "Creamy Tortellini Ham delivers rich flavors with smoky ham and f
 focusKeyphrase: "Creamy Tortellini Ham"
 date: 2025-10-16
 draft: false
-image: creamy-tortellini-ham.png
+image: creamy-tortellini-ham.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT18M

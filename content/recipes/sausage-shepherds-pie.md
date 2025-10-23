@@ -7,7 +7,7 @@ ogDescription: "Enjoy Sausage Shepherds Pie with layers of sausage, vegetables, 
 focusKeyphrase: "Sausage Shepherds Pie"
 date: 2025-08-14
 draft: false
-image: sausage-shepherds-pie.png
+image: sausage-shepherds-pie.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT55M

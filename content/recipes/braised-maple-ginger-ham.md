@@ -7,7 +7,7 @@ ogDescription: "Discover Braised Maple Ginger Ham. Slow-cooked, sweet, spicy fla
 focusKeyphrase: "Braised Maple Ginger Ham"
 date: 2025-07-26
 draft: false
-image: braised-maple-ginger-ham.png
+image: braised-maple-ginger-ham.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

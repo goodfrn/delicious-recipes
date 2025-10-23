@@ -7,7 +7,7 @@ ogDescription: "Crunchy roasted roots; aroma of thyme, caramelized carrots, and 
 focusKeyphrase: "Roasted Root Medley"
 date: 2025-09-01
 draft: false
-image: roasted-root-medley.png
+image: roasted-root-medley.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT40M

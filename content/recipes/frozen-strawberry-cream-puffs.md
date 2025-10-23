@@ -7,7 +7,7 @@ ogDescription: "Enjoy Frozen Strawberry Cream Puff Pastry with layers of flaky p
 focusKeyphrase: "Frozen Strawberry Cream Puff Pastry"
 date: 2025-09-01
 draft: false
-image: frozen-strawberry-cream-puffs.png
+image: frozen-strawberry-cream-puffs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT22M

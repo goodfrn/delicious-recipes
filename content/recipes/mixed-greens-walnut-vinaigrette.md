@@ -7,7 +7,7 @@ ogDescription: "Experience the uplifting taste of Mixed Greens Walnut Vinaigrett
 focusKeyphrase: "Mixed Greens Walnut Vinaigrette"
 date: 2025-08-01
 draft: false
-image: mixed-greens-walnut-vinaigrette.png
+image: mixed-greens-walnut-vinaigrette.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT1M

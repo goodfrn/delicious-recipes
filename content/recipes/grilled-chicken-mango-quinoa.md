@@ -7,7 +7,7 @@ ogDescription: "Bright flavors come alive in a Grilled Chicken Mango Quinoa Sala
 focusKeyphrase: "Grilled Chicken Mango Quinoa Salad"
 date: 2025-08-13
 draft: false
-image: grilled-chicken-mango-quinoa.png
+image: grilled-chicken-mango-quinoa.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT20M

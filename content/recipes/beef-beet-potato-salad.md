@@ -7,7 +7,7 @@ ogDescription: "A blend of grilled sirloin, earthy beets, roasted potatoes toppe
 focusKeyphrase: "Beef Beet Potato Salad"
 date: 2025-07-21
 draft: false
-image: beef-beet-potato-salad.png
+image: beef-beet-potato-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

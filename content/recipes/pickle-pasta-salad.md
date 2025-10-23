@@ -7,7 +7,7 @@ ogDescription: "Delve into Pickle Pasta Salad Remix with sharp cheddar, crunchy 
 focusKeyphrase: "Pickle Pasta Salad Remix"
 date: 2025-10-04
 draft: false
-image: pickle-pasta-salad.png
+image: pickle-pasta-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Twisted Cornbread Classic. A sensory mix of textures and flavors
 focusKeyphrase: "Twisted Cornbread Classic"
 date: 2025-08-19
 draft: false
-image: twisted-cornbread.png
+image: twisted-cornbread.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT35M

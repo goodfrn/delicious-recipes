@@ -7,7 +7,7 @@ ogDescription: "Delve into Twisted Spätzles. This twist on traditional noodles 
 focusKeyphrase: "Twisted Spätzles recipe"
 date: 2025-07-27
 draft: false
-image: twisted-spatzles.png
+image: twisted-spatzles.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

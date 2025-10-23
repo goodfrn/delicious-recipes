@@ -7,7 +7,7 @@ ogDescription: "Flavorful Grilled Tempeh Coconut Carrot Salad. Creamy coconut dr
 focusKeyphrase: "Grilled Tempeh Coconut Carrot Salad"
 date: 2025-07-27
 draft: false
-image: grilled-tempeh-salad.png
+image: grilled-tempeh-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

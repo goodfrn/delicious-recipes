@@ -7,7 +7,7 @@ ogDescription: "Crunchy Tofu Rolls packed with spiced tofu, fresh herbs, and qui
 focusKeyphrase: "Crunchy Tofu Rolls"
 date: 2025-08-02
 draft: false
-image: crunchy-tofu-rolls.png
+image: crunchy-tofu-rolls.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT20M

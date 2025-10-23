@@ -7,7 +7,7 @@ ogDescription: "Dive into Orange-Dill Maltese Sauce, a creamy emulsion that bala
 focusKeyphrase: "Orange-Dill Maltese Sauce"
 date: 2025-08-01
 draft: false
-image: orange-dill-maltese-sauce.png
+image: orange-dill-maltese-sauce.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT7M

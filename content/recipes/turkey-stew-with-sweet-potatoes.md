@@ -7,7 +7,7 @@ ogDescription: "Savory Turkey Stew with Sweet Potatoes and Peppers delivers warm
 focusKeyphrase: "Turkey Stew"
 date: 2025-09-28
 draft: false
-image: turkey-stew-with-sweet-potatoes.png
+image: turkey-stew-with-sweet-potatoes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT50M

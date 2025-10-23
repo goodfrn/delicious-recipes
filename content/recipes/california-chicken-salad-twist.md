@@ -7,7 +7,7 @@ ogDescription: "Brighten your plate with California Chicken Salad Twist. Crisp g
 focusKeyphrase: "California Chicken Salad"
 date: 2025-08-18
 draft: false
-image: california-chicken-salad-twist.png
+image: california-chicken-salad-twist.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

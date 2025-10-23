@@ -7,7 +7,7 @@ ogDescription: "Experience the crunch of buckwheat crust, tender pears, and rich
 focusKeyphrase: "Pear Caramel Cake"
 date: 2025-08-07
 draft: false
-image: pear-caramel-cake.png
+image: pear-caramel-cake.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT40M

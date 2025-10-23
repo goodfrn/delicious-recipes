@@ -7,7 +7,7 @@ ogDescription: "Enjoy tender sous vide turkey breast wrapped in crispy pancetta.
 focusKeyphrase: "Sous Vide Turkey Bacon Roll"
 date: 2025-08-12
 draft: false
-image: sous-vide-turkey-bacon-roll.png
+image: sous-vide-turkey-bacon-roll.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT3H10M

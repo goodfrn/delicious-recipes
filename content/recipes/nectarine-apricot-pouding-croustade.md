@@ -7,7 +7,7 @@ ogDescription: "Nectarine Apricot Pouding-Croustade; indulge in a warm fruit des
 focusKeyphrase: "Nectarine Apricot Pouding-Croustade"
 date: 2025-08-07
 draft: false
-image: nectarine-apricot-pouding-croustade.png
+image: nectarine-apricot-pouding-croustade.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

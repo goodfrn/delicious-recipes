@@ -7,7 +7,7 @@ ogDescription: "Discover this Cabbage Chorizo Slaw Remix. Crunchy cabbage, spicy
 focusKeyphrase: "Cabbage Chorizo Slaw Remix"
 date: 2025-07-29
 draft: false
-image: cabbage-chorizo-slaw.png
+image: cabbage-chorizo-slaw.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT0M

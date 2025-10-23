@@ -7,7 +7,7 @@ ogDescription: "Rustic Mexican Beef Pie - A savory blend of ground beef, spices,
 focusKeyphrase: "Rustic Mexican Beef Pie"
 date: 2025-08-08
 draft: false
-image: rustic-mexican-beef-pie.png
+image: rustic-mexican-beef-pie.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H10M

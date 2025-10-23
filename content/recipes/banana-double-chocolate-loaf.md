@@ -7,7 +7,7 @@ ogDescription: "Indulge in the rich flavors of Banana Double Chocolate Loaf. Per
 focusKeyphrase: "Banana Double Chocolate Loaf"
 date: 2025-08-15
 draft: false
-image: banana-double-chocolate-loaf.png
+image: banana-double-chocolate-loaf.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

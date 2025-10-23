@@ -7,7 +7,7 @@ ogDescription: "Delicious Savory Mushroom Mix combines cremini and shiitake mush
 focusKeyphrase: "Savory Mushroom Mix"
 date: 2025-07-24
 draft: false
-image: savory-mushroom-mix.png
+image: savory-mushroom-mix.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT9M

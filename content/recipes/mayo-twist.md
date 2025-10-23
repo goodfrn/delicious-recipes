@@ -7,7 +7,7 @@ ogDescription: "Make American-Style Mayo Twist; a quick whip mayo to elevate fri
 focusKeyphrase: "American-Style Mayo Twist"
 date: 2025-08-28
 draft: false
-image: mayo-twist.png
+image: mayo-twist.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

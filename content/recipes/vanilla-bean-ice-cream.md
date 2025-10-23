@@ -7,7 +7,7 @@ ogDescription: "Indulge in creamy Vanilla Bean Ice Cream Twist, made with real v
 focusKeyphrase: "Vanilla Bean Ice Cream"
 date: 2025-09-23
 draft: false
-image: vanilla-bean-ice-cream.png
+image: vanilla-bean-ice-cream.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT22M

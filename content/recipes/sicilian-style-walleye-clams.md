@@ -7,7 +7,7 @@ ogDescription: "Savor Sicilian Style Walleye Clams with seared walleye, steamed 
 focusKeyphrase: "Sicilian Style Walleye Clams"
 date: 2025-08-08
 draft: false
-image: sicilian-style-walleye-clams.png
+image: sicilian-style-walleye-clams.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT35M

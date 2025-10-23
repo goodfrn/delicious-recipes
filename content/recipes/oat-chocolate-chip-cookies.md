@@ -7,7 +7,7 @@ ogDescription: "Try these Oat Chocolate Chip Air Fryer Cookies. Quick, easy, and
 focusKeyphrase: "Oat Chocolate Chip Air Fryer Cookies"
 date: 2025-07-29
 draft: false
-image: oat-chocolate-chip-cookies.png
+image: oat-chocolate-chip-cookies.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT8M

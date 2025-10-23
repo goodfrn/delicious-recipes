@@ -7,7 +7,7 @@ ogDescription: "Savor Loaded Twice-Baked Potato Bake with creamy mash and crispy
 focusKeyphrase: "Loaded Twice-Baked Potato Bake"
 date: 2025-10-11
 draft: false
-image: loaded-twice-baked-potatoes.png
+image: loaded-twice-baked-potatoes.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Turkey Roast Stuffed Pear Cranberry, a succulent turk
 focusKeyphrase: "Turkey Roast Stuffed Pear Cranberry"
 date: 2025-07-24
 draft: false
-image: turkey-roast-stuffed-pear-cranberry.png
+image: turkey-roast-stuffed-pear-cranberry.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT2H10M

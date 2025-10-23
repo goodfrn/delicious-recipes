@@ -7,7 +7,7 @@ ogDescription: "Experience the rich aroma of Upside-Down Cinnamon Brioche with l
 focusKeyphrase: "Upside-Down Cinnamon Brioche"
 date: 2025-08-08
 draft: false
-image: upside-down-cinnamon-brioche.png
+image: upside-down-cinnamon-brioche.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT35M

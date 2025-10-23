@@ -7,7 +7,7 @@ ogDescription: "Indulge in Baked Caramelized Apples Twist, a layered dessert wit
 focusKeyphrase: "baked caramelized apples"
 date: 2025-08-10
 draft: false
-image: baked-caramelized-apples.png
+image: baked-caramelized-apples.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Elevate your fondue experience with these three revamped Vietnam
 focusKeyphrase: "Vietnamese fondue sauces"
 date: 2025-08-04
 draft: false
-image: vietnamese-fondue-sauces.png
+image: vietnamese-fondue-sauces.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

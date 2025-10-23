@@ -7,7 +7,7 @@ ogDescription: "Savor Tex-Mex Meatloaf Twist, a rich blend of beef, peppers, and
 focusKeyphrase: "Tex-Mex Meatloaf"
 date: 2025-10-17
 draft: false
-image: tex-mex-meatloaf.png
+image: tex-mex-meatloaf.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H30M

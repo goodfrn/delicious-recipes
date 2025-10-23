@@ -7,7 +7,7 @@ ogDescription: "Dill Scallops with Pickled Cucumber: Experience vibrant herbs an
 focusKeyphrase: "Dill Scallops with Pickled Cucumber"
 date: 2025-08-18
 draft: false
-image: dill-scallops-pickled-cucumber.png
+image: dill-scallops-pickled-cucumber.jpg
 author: "Kate"
 prepTime: PT65M
 cookTime: PT5M

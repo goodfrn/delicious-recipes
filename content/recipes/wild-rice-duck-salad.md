@@ -7,7 +7,7 @@ ogDescription: "Discover Wild Rice Duck Salad; a blend of flavors and textures w
 focusKeyphrase: "Wild Rice Duck Salad"
 date: 2025-09-29
 draft: false
-image: wild-rice-duck-salad.png
+image: wild-rice-duck-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT45M

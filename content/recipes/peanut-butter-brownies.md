@@ -7,7 +7,7 @@ ogDescription: "Savor the decadence of Peanut Butter Swirl Brownies. A delicious
 focusKeyphrase: "Peanut Butter Swirl Brownies"
 date: 2025-07-21
 draft: false
-image: peanut-butter-brownies.png
+image: peanut-butter-brownies.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT55M

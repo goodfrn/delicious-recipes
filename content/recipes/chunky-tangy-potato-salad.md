@@ -7,7 +7,7 @@ ogDescription: "Chunky Tangy Potato Salad with bold flavors, creamy texture, per
 focusKeyphrase: "Chunky Tangy Potato Salad"
 date: 2025-10-14
 draft: false
-image: chunky-tangy-potato-salad.png
+image: chunky-tangy-potato-salad.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT12M

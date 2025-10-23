@@ -7,7 +7,7 @@ ogDescription: "Green Veggie Salad with Roasted Shallots brings crunch, flavor, 
 focusKeyphrase: "Green Veggie Salad"
 date: 2025-08-10
 draft: false
-image: green-veggie-salad.png
+image: green-veggie-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

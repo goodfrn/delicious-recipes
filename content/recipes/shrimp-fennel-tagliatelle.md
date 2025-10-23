@@ -7,7 +7,7 @@ ogDescription: "Shrimp Fennel Tagliatelle combines shrimp with aromatic fennel w
 focusKeyphrase: "shrimp fennel tagliatelle"
 date: 2025-09-14
 draft: false
-image: shrimp-fennel-tagliatelle.png
+image: shrimp-fennel-tagliatelle.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT40M

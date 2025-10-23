@@ -7,7 +7,7 @@ ogDescription: "Enjoy the Spiced Pita Niçoise Salad with smoky pita crisps and 
 focusKeyphrase: "Spiced Pita Niçoise Salad"
 date: 2025-08-02
 draft: false
-image: spiced-pita-salad.png
+image: spiced-pita-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

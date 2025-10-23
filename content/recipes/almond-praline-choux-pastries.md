@@ -7,7 +7,7 @@ ogDescription: "Choux pastries topped with praline craquelin and filled with alm
 focusKeyphrase: "Almond Praline Choux Pastries"
 date: 2025-09-29
 draft: false
-image: almond-praline-choux-pastries.png
+image: almond-praline-choux-pastries.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT30M

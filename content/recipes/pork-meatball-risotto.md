@@ -7,7 +7,7 @@ ogDescription: "Indulge in Pork Meatball Sweet Pea Risotto creamy, hearty, and p
 focusKeyphrase: "Pork Meatball Sweet Pea Risotto"
 date: 2025-09-29
 draft: false
-image: pork-meatball-risotto.png
+image: pork-meatball-risotto.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT30M

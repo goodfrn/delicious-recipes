@@ -7,7 +7,7 @@ ogDescription: "Indulge in an Upside-Down Apple Tart with Salted Caramel Drizzle
 focusKeyphrase: "Upside-Down Apple Tart"
 date: 2025-07-21
 draft: false
-image: upside-down-apple-tart.png
+image: upside-down-apple-tart.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

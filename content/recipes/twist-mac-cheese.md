@@ -7,7 +7,7 @@ ogDescription: "Dive into Twist Mac & Cheese—bold flavors, sharp cheeses, and 
 focusKeyphrase: "Twist Mac & Cheese"
 date: 2025-08-17
 draft: false
-image: twist-mac-cheese.png
+image: twist-mac-cheese.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Delight in grilled pineapple and twisted donuts with a spiced ru
 focusKeyphrase: "Grilled Pineapple and Donuts"
 date: 2025-07-21
 draft: false
-image: grilled-pineapple-donuts.png
+image: grilled-pineapple-donuts.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Crispy outside, gooey inside. Triple Cheese Parmesan Fondue Bite
 focusKeyphrase: "Triple Cheese Parmesan Fondue Bites"
 date: 2025-09-30
 draft: false
-image: triple-cheese-fondue-bites.png
+image: triple-cheese-fondue-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

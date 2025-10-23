@@ -7,7 +7,7 @@ ogDescription: "Jamie’s Iceberg Caesar Salad Remix offers crispy romaine, crun
 focusKeyphrase: "Iceberg Caesar Salad Remix"
 date: 2025-08-19
 draft: false
-image: iceberg-caesar-salad.png
+image: iceberg-caesar-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT12M

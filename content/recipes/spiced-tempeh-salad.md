@@ -7,7 +7,7 @@ ogDescription: "Enjoy the Spiced Tempeh Apple Salad, a fresh mix of mesclun gree
 focusKeyphrase: "Spiced Tempeh Apple Salad"
 date: 2025-08-14
 draft: false
-image: spiced-tempeh-salad.png
+image: spiced-tempeh-salad.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT25M

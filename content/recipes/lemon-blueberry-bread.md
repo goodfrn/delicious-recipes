@@ -7,7 +7,7 @@ ogDescription: "Savor tangy Lemon Blueberry Quick Bread. Buttermilk and brown su
 focusKeyphrase: "Lemon Blueberry Quick Bread"
 date: 2025-10-04
 draft: false
-image: lemon-blueberry-bread.png
+image: lemon-blueberry-bread.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT48M

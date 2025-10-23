@@ -7,7 +7,7 @@ ogDescription: "A unique roast turkey with apple glaze; dry brined, flavorful, a
 focusKeyphrase: "Roast Turkey Apple Glaze"
 date: 2025-09-28
 draft: false
-image: roast-turkey-apple-glaze.png
+image: roast-turkey-apple-glaze.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT3H15M

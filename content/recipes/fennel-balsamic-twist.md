@@ -7,7 +7,7 @@ ogDescription: "Discover Fennel Balsamic Twist—a simple yet striking mix of re
 focusKeyphrase: "Fennel Balsamic Twist"
 date: 2025-09-25
 draft: false
-image: fennel-balsamic-twist.png
+image: fennel-balsamic-twist.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

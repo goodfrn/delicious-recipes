@@ -7,7 +7,7 @@ ogDescription: "Grill up some Garlic Roasted Veg Trio for a smoky, herb-infused 
 focusKeyphrase: "Garlic Roasted Veg Trio"
 date: 2025-09-24
 draft: false
-image: garlic-roasted-veg-trio.png
+image: garlic-roasted-veg-trio.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Discover Poached Raisins Twist, a versatile treat. Grapes simmer
 focusKeyphrase: "poached raisins"
 date: 2025-08-08
 draft: false
-image: poached-raisins-twist.png
+image: poached-raisins-twist.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT22M

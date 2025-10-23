@@ -7,7 +7,7 @@ ogDescription: "This Birthday Confetti Cake shines with colorful sprinkles. Fluf
 focusKeyphrase: "Birthday Confetti Cake"
 date: 2025-07-29
 draft: false
-image: birthday-confetti-cake.png
+image: birthday-confetti-cake.jpg
 author: "Kate"
 prepTime: PT80M
 cookTime: PT45M

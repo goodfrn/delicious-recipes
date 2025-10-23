@@ -7,7 +7,7 @@ ogDescription: "Elevate your pasta with Quail Ricotta Ravioli Citrus, featuring 
 focusKeyphrase: "Quail Ricotta Ravioli Citrus"
 date: 2025-08-15
 draft: false
-image: quail-ricotta-ravioli.png
+image: quail-ricotta-ravioli.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT40M

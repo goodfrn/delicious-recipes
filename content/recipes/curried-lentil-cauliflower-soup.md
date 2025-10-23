@@ -7,7 +7,7 @@ ogDescription: "Savor a warm Curried Lentil Cauliflower Shrimp Soup. Spicy, comf
 focusKeyphrase: "Curried Lentil Cauliflower Shrimp Soup"
 date: 2025-07-28
 draft: false
-image: curried-lentil-cauliflower-soup.png
+image: curried-lentil-cauliflower-soup.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT33M

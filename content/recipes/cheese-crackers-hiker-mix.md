@@ -7,7 +7,7 @@ ogDescription: "Savory Cheese Crackers topped with triple crème and a hiker mix
 focusKeyphrase: "Cheese Crackers with Hiker Mix"
 date: 2025-08-10
 draft: false
-image: cheese-crackers-hiker-mix.png
+image: cheese-crackers-hiker-mix.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT8M

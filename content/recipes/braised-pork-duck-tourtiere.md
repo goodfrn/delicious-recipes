@@ -7,7 +7,7 @@ ogDescription: "Experience Braised Pork Duck Tourtière, a comforting pie with s
 focusKeyphrase: "Braised Pork Duck Tourtière"
 date: 2025-08-05
 draft: false
-image: braised-pork-duck-tourtiere.png
+image: braised-pork-duck-tourtiere.jpg
 author: "Kate"
 prepTime: PT1H15M
 cookTime: PT1H35M

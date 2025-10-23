@@ -7,7 +7,7 @@ ogDescription: "Enjoy a refreshing Cucumber Basil Martini featuring muddled cucu
 focusKeyphrase: "Cucumber Basil Martini"
 date: 2025-07-23
 draft: false
-image: cucumber-basil-martini.png
+image: cucumber-basil-martini.jpg
 author: "Kate"
 prepTime: PT17M
 cookTime: PT0M

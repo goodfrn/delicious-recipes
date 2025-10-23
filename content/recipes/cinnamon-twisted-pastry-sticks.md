@@ -7,7 +7,7 @@ ogDescription: "Try Cinnamon Twisted Pastry Sticks; crunchy, spicy, and delightf
 focusKeyphrase: "Cinnamon Twisted Pastry Sticks"
 date: 2025-08-15
 draft: false
-image: cinnamon-twisted-pastry-sticks.png
+image: cinnamon-twisted-pastry-sticks.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT11M

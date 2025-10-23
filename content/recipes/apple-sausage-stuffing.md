@@ -7,7 +7,7 @@ ogDescription: "Apple Sausage Stuffing combines bacon, apples, and sausage in a 
 focusKeyphrase: "Apple Sausage Stuffing"
 date: 2025-09-29
 draft: false
-image: apple-sausage-stuffing.png
+image: apple-sausage-stuffing.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT43M

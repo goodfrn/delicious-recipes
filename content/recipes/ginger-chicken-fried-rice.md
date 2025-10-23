@@ -7,7 +7,7 @@ ogDescription: "Forget plain rice; Ginger Chicken Fried Rice brings a nutty kick
 focusKeyphrase: "Ginger Chicken Fried Rice"
 date: 2025-09-25
 draft: false
-image: ginger-chicken-fried-rice.png
+image: ginger-chicken-fried-rice.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT22M

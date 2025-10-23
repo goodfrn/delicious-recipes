@@ -7,7 +7,7 @@ ogDescription: "Indulge in Veal Stew Espelette Twist. A hearty, flavorful dish f
 focusKeyphrase: "Veal Stew Espelette Twist"
 date: 2025-07-26
 draft: false
-image: veal-stew-espelette-twist.png
+image: veal-stew-espelette-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT65M

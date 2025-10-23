@@ -7,7 +7,7 @@ ogDescription: "Savor Turkey Chilaquiles Twist; crunchy chips covered in turkey,
 focusKeyphrase: "Turkey Chilaquiles"
 date: 2025-08-17
 draft: false
-image: turkey-chilaquiles-twist.png
+image: turkey-chilaquiles-twist.jpg
 author: "Kate"
 prepTime: PT55M
 cookTime: PT1H25M

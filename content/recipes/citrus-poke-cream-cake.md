@@ -7,7 +7,7 @@ ogDescription: "Bright, flavorful Citrus Poke Cream Cake layers memories of sunn
 focusKeyphrase: "Citrus Poke Cream Cake"
 date: 2025-10-05
 draft: false
-image: citrus-poke-cream-cake.png
+image: citrus-poke-cream-cake.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT28M

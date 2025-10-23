@@ -7,7 +7,7 @@ ogDescription: "Indulge in Silky Chocolate Cream Pie with creamy filling made fr
 focusKeyphrase: "Chocolate Cream Pie"
 date: 2025-10-21
 draft: false
-image: silky-chocolate-cream-pie.png
+image: silky-chocolate-cream-pie.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

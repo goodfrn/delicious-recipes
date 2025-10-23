@@ -7,7 +7,7 @@ ogDescription: "Try the Alsatian Flambé Tart Twist - a savory tart with caramel
 focusKeyphrase: "Alsatian Flambé Tart Twist"
 date: 2025-09-05
 draft: false
-image: alsatian-flambe-tart.png
+image: alsatian-flambe-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

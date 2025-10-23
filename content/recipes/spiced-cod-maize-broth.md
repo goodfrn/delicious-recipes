@@ -7,7 +7,7 @@ ogDescription: "A spicy broth with cod, coconut milk, and sweet corn; quick cook
 focusKeyphrase: "Spiced Cod Maize Broth"
 date: 2025-08-13
 draft: false
-image: spiced-cod-maize-broth.png
+image: spiced-cod-maize-broth.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

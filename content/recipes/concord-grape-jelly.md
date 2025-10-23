@@ -7,7 +7,7 @@ ogDescription: "Craft Concord Grape Jelly with lime juice & honey. A unique twis
 focusKeyphrase: "Concord grape jelly"
 date: 2025-08-14
 draft: false
-image: concord-grape-jelly.png
+image: concord-grape-jelly.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Savory Honey-Glazed Turkey Meatballs with Apples offer a unique 
 focusKeyphrase: "Honey-Glazed Turkey Meatballs"
 date: 2025-08-10
 draft: false
-image: honey-glazed-turkey-meatballs.png
+image: honey-glazed-turkey-meatballs.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT45M

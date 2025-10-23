@@ -7,7 +7,7 @@ ogDescription: "Heirloom tomatoes with herbed pasta, sweet onions, and a burst o
 focusKeyphrase: "stuffed heirloom tomatoes"
 date: 2025-10-13
 draft: false
-image: stuffed-heirloom-tomatoes.png
+image: stuffed-heirloom-tomatoes.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

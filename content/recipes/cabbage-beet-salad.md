@@ -7,7 +7,7 @@ ogDescription: "Discover the Cabbage Beet Pomegranate Salad Twist. A vibrant mix
 focusKeyphrase: "Cabbage Beet Pomegranate Salad"
 date: 2025-07-25
 draft: false
-image: cabbage-beet-salad.png
+image: cabbage-beet-salad.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

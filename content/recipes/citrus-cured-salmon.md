@@ -7,7 +7,7 @@ ogDescription: "Indulge in Citrus Cured Salmon Twist. A light, zesty appetizer t
 focusKeyphrase: "citrus cured salmon"
 date: 2025-07-27
 draft: false
-image: citrus-cured-salmon.png
+image: citrus-cured-salmon.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

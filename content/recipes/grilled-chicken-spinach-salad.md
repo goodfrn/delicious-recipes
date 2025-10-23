@@ -7,7 +7,7 @@ ogDescription: "Enjoy this Grilled Chicken Spinach Salad featuring smoky chicken
 focusKeyphrase: "Grilled Chicken Spinach Salad"
 date: 2025-07-25
 draft: false
-image: grilled-chicken-spinach-salad.png
+image: grilled-chicken-spinach-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

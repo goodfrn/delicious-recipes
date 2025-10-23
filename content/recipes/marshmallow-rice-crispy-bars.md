@@ -7,7 +7,7 @@ ogDescription: "A twist on the classic Rice Crispy bars. Puffed quinoa, coconut 
 focusKeyphrase: "Marshmallow Rice Crispy Bars"
 date: 2025-08-15
 draft: false
-image: marshmallow-rice-crispy-bars.png
+image: marshmallow-rice-crispy-bars.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "A wonderfully baked Plum Apple Flax Crisp that combines sweet ap
 focusKeyphrase: "Plum Apple Flax Crisp"
 date: 2025-07-30
 draft: false
-image: plum-apple-flax-crisp.png
+image: plum-apple-flax-crisp.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT45M

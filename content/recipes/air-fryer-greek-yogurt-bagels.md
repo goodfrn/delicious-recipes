@@ -7,7 +7,7 @@ ogDescription: "Try Air Fryer Greek Yogurt Bagels for a quick and easy bagel rec
 focusKeyphrase: "Greek yogurt bagels"
 date: 2025-08-13
 draft: false
-image: air-fryer-greek-yogurt-bagels.png
+image: air-fryer-greek-yogurt-bagels.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Explore Basic Crepes Remix, a twist on classic French crepes, fe
 focusKeyphrase: "Basic Crepes Remix"
 date: 2025-08-03
 draft: false
-image: basic-crepes-remix.png
+image: basic-crepes-remix.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT13M

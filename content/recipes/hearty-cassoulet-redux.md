@@ -7,7 +7,7 @@ ogDescription: "Hearty Cassoulet Redux blends tender beans and rich meats; a Fre
 focusKeyphrase: "Hearty Cassoulet Redux"
 date: 2025-10-01
 draft: false
-image: hearty-cassoulet-redux.png
+image: hearty-cassoulet-redux.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT4H15M

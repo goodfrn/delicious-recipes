@@ -7,7 +7,7 @@ ogDescription: "Nut-free delicious baklava with toasted pumpkin and sesame seeds
 focusKeyphrase: "Honey Nut-Free Baklava"
 date: 2025-07-26
 draft: false
-image: honey-nut-free-baklava.png
+image: honey-nut-free-baklava.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Savor Cauliflower Ham Egg Gratin, a rich blend of textures and f
 focusKeyphrase: "Cauliflower Ham Egg Gratin"
 date: 2025-08-07
 draft: false
-image: cauliflower-ham-egg-gratin.png
+image: cauliflower-ham-egg-gratin.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

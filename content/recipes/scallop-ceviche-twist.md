@@ -7,7 +7,7 @@ ogDescription: "Exciting Scallop Ceviche Twist; enjoy fresh scallops with smoky 
 focusKeyphrase: "Scallop Ceviche"
 date: 2025-08-17
 draft: false
-image: scallop-ceviche-twist.png
+image: scallop-ceviche-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

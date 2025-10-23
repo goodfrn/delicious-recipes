@@ -7,7 +7,7 @@ ogDescription: "Enjoy flavorful Apple Potato Rösti. Crisp potatoes with sweet a
 focusKeyphrase: "Apple Potato Rösti"
 date: 2025-07-20
 draft: false
-image: apple-potato-rosti.png
+image: apple-potato-rosti.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT30M

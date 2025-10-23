@@ -7,7 +7,7 @@ ogDescription: "Try Indian Spiced Chicken Drumsticks with coconut milk, lime, an
 focusKeyphrase: "Indian Spiced Chicken Drumsticks"
 date: 2025-09-28
 draft: false
-image: indian-spiced-chicken.png
+image: indian-spiced-chicken.jpg
 author: "Kate"
 prepTime: PT17M
 cookTime: PT18M

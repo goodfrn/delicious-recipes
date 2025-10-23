@@ -7,7 +7,7 @@ ogDescription: "Tex-Mex Pork Ribs Remixed - tender, sticky, smoky ribs that deli
 focusKeyphrase: "pork ribs"
 date: 2025-08-09
 draft: false
-image: tex-mex-pork-ribs.png
+image: tex-mex-pork-ribs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT3H45M

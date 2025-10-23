@@ -7,7 +7,7 @@ ogDescription: "Savor grilled swordfish and spaghetti squash in a vibrant tomato
 focusKeyphrase: "Grilled Swordfish Spaghetti Squash"
 date: 2025-09-30
 draft: false
-image: grilled-swordfish-spaghetti-squash.png
+image: grilled-swordfish-spaghetti-squash.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H

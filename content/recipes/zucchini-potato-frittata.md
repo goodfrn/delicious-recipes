@@ -7,7 +7,7 @@ ogDescription: "Experience the rustic flavors of Zucchini Potato Frittata, a sav
 focusKeyphrase: "Zucchini Potato Frittata"
 date: 2025-08-12
 draft: false
-image: zucchini-potato-frittata.png
+image: zucchini-potato-frittata.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

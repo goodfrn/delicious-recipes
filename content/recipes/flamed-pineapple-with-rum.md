@@ -7,7 +7,7 @@ ogDescription: "Sear fresh pineapple in caramelized maple syrup and rum. A quick
 focusKeyphrase: "Flamed Pineapple with Rum"
 date: 2025-09-25
 draft: false
-image: flamed-pineapple-with-rum.png
+image: flamed-pineapple-with-rum.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

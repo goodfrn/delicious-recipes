@@ -7,7 +7,7 @@ ogDescription: "Enjoy Beef Gnocchi with Rosemary—a fusion of textures and flav
 focusKeyphrase: "Beef Gnocchi"
 date: 2025-08-15
 draft: false
-image: beef-gnocchi-rosemary.png
+image: beef-gnocchi-rosemary.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

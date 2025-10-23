@@ -7,7 +7,7 @@ ogDescription: "Handmade Rustic Pici pasta from Tuscany, thick and perfect for h
 focusKeyphrase: "Rustic Homemade Pici"
 date: 2025-08-04
 draft: false
-image: rustic-homemade-pici.png
+image: rustic-homemade-pici.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT7M

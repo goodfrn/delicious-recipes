@@ -7,7 +7,7 @@ ogDescription: "Enjoy the Santa Fe Salad Remix—a layered Southwestern salad wi
 focusKeyphrase: "Santa Fe Salad Remix"
 date: 2025-09-18
 draft: false
-image: santa-fe-salad-remix.png
+image: santa-fe-salad-remix.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT5M

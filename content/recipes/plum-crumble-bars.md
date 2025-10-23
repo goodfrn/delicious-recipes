@@ -7,7 +7,7 @@ ogDescription: "Enjoy Plum Crumble Bars featuring a rustic blend of oats and plu
 focusKeyphrase: "Plum Crumble Bars"
 date: 2025-07-23
 draft: false
-image: plum-crumble-bars.png
+image: plum-crumble-bars.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

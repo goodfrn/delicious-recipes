@@ -7,7 +7,7 @@ ogDescription: "Discover a simple, bold Chunky Tomato Sauce Twist. Packed with g
 focusKeyphrase: "Chunky Tomato Sauce"
 date: 2025-07-29
 draft: false
-image: chunky-tomato-sauce.png
+image: chunky-tomato-sauce.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT40M

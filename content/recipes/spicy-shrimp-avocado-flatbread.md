@@ -7,7 +7,7 @@ ogDescription: "Making Spicy Shrimp Avocado Flatbread with cottage cheese, shrim
 focusKeyphrase: "Spicy Shrimp Avocado Flatbread"
 date: 2025-07-23
 draft: false
-image: spicy-shrimp-avocado-flatbread.png
+image: spicy-shrimp-avocado-flatbread.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

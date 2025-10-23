@@ -7,7 +7,7 @@ ogDescription: "Craft your own Spiced Hot Cocoa Mix. Control sweetness and richn
 focusKeyphrase: "Spiced Hot Cocoa Mix"
 date: 2025-08-09
 draft: false
-image: spiced-hot-cocoa-mix.png
+image: spiced-hot-cocoa-mix.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

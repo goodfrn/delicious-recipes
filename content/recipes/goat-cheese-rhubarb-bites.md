@@ -7,7 +7,7 @@ ogDescription: "Taste the tangy rhubarb compote paired with whipped goat cheese.
 focusKeyphrase: "Goat Cheese Rhubarb Bites"
 date: 2025-09-27
 draft: false
-image: goat-cheese-rhubarb-bites.png
+image: goat-cheese-rhubarb-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

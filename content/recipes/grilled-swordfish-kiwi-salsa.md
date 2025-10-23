@@ -7,7 +7,7 @@ ogDescription: "Explore Grilled Swordfish Kiwi Salsa, where sweet kiwi meets smo
 focusKeyphrase: "Grilled Swordfish Kiwi Salsa"
 date: 2025-08-12
 draft: false
-image: grilled-swordfish-kiwi-salsa.png
+image: grilled-swordfish-kiwi-salsa.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT7M

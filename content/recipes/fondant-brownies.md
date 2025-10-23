@@ -7,7 +7,7 @@ ogDescription: "Indulge in Fondant Brownies Dulce de Leche; dark chocolate, crea
 focusKeyphrase: "Fondant Brownies"
 date: 2025-09-29
 draft: false
-image: fondant-brownies.png
+image: fondant-brownies.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT17M

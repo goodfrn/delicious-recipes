@@ -7,7 +7,7 @@ ogDescription: "Sticky Pork Meatballs Basil Apple with ginger warmth, fresh basi
 focusKeyphrase: "Sticky Pork Meatballs"
 date: 2025-08-28
 draft: false
-image: sticky-pork-meatballs.png
+image: sticky-pork-meatballs.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT10M

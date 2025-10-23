@@ -7,7 +7,7 @@ ogDescription: "Savory Red Wine Mushroom Sauce with earthy mushrooms, red wine r
 focusKeyphrase: "Red Wine Mushroom Sauce"
 date: 2025-10-16
 draft: false
-image: red-wine-mushroom-sauce.png
+image: red-wine-mushroom-sauce.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT28M

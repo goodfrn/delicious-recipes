@@ -7,7 +7,7 @@ ogDescription: "Discover Cod Orange Fennel Leek a vibrant dish with tender veggi
 focusKeyphrase: "Cod Orange Fennel Leek"
 date: 2025-08-12
 draft: false
-image: cod-orange-fennel-leek.png
+image: cod-orange-fennel-leek.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

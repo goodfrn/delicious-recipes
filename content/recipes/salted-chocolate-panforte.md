@@ -7,7 +7,7 @@ ogDescription: "Discover the intense flavors of Salted Chocolate Panforte, a nut
 focusKeyphrase: "Salted Chocolate Panforte"
 date: 2025-08-11
 draft: false
-image: salted-chocolate-panforte.png
+image: salted-chocolate-panforte.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT40M

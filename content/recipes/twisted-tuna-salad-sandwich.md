@@ -7,7 +7,7 @@ ogDescription: "Chunky tuna salad meets crispy grilled sourdough. A tuna sandwic
 focusKeyphrase: "Tuna Salad Sandwich"
 date: 2025-10-11
 draft: false
-image: twisted-tuna-salad-sandwich.png
+image: twisted-tuna-salad-sandwich.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT3M

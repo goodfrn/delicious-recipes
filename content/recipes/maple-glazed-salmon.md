@@ -7,7 +7,7 @@ ogDescription: "Enjoy Maple-Glazed Salmon paired with a hearty bean salad; balan
 focusKeyphrase: "Maple-Glazed Salmon"
 date: 2025-09-28
 draft: false
-image: maple-glazed-salmon.png
+image: maple-glazed-salmon.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

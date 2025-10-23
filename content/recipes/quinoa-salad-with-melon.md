@@ -7,7 +7,7 @@ ogDescription: "Enjoy Quinoa Salad with Melon and Beets, a vibrant vegetarian op
 focusKeyphrase: "Quinoa Salad"
 date: 2025-07-20
 draft: false
-image: quinoa-salad-with-melon.png
+image: quinoa-salad-with-melon.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

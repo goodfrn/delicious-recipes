@@ -7,7 +7,7 @@ ogDescription: "Delicious Smoked Salmon Pinwheel Rolls. Flavorful and light, ide
 focusKeyphrase: "Smoked Salmon Pinwheel Rolls"
 date: 2025-07-24
 draft: false
-image: smoked-salmon-pinwheel.png
+image: smoked-salmon-pinwheel.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Discover Leeks with Smoked Mussels a unique seafood starter with
 focusKeyphrase: "leeks with smoked mussels"
 date: 2025-07-24
 draft: false
-image: leeks-with-smoked-mussels.png
+image: leeks-with-smoked-mussels.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

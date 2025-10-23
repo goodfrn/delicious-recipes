@@ -7,7 +7,7 @@ ogDescription: "Cashew Chicken Stir-Fry Remix combines marinated chicken and col
 focusKeyphrase: "Cashew Chicken Stir-Fry Remix"
 date: 2025-10-05
 draft: false
-image: cashew-chicken-stir-fry.png
+image: cashew-chicken-stir-fry.jpg
 author: "Kate"
 prepTime: PT55M
 cookTime: PT18M

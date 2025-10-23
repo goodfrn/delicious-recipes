@@ -7,7 +7,7 @@ ogDescription: "Make our tangy Parmesan Herb Vinaigrette with pecorino, fresh he
 focusKeyphrase: "Parmesan Herb Vinaigrette"
 date: 2025-09-23
 draft: false
-image: parmesan-herb-vinaigrette.png
+image: parmesan-herb-vinaigrette.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

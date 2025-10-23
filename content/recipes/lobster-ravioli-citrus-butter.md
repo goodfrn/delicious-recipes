@@ -7,7 +7,7 @@ ogDescription: "Indulge in Lobster Ravioli with Citrus Butter. A beautiful dish 
 focusKeyphrase: "lobster ravioli"
 date: 2025-08-03
 draft: false
-image: lobster-ravioli-citrus-butter.png
+image: lobster-ravioli-citrus-butter.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

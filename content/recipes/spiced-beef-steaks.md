@@ -7,7 +7,7 @@ ogDescription: "Savor Spiced Beef Steaks with Asian and American flavors. Quick 
 focusKeyphrase: "Spiced Beef Steaks"
 date: 2025-07-23
 draft: false
-image: spiced-beef-steaks.png
+image: spiced-beef-steaks.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

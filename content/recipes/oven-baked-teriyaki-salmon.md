@@ -7,7 +7,7 @@ ogDescription: "Enjoy Oven-Baked Teriyaki Salmon, crispy skin, savory glaze for 
 focusKeyphrase: "teriyaki salmon"
 date: 2025-08-18
 draft: false
-image: oven-baked-teriyaki-salmon.png
+image: oven-baked-teriyaki-salmon.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

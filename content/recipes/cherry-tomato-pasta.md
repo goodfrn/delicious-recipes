@@ -7,7 +7,7 @@ ogDescription: "Explore Cherry Tomato Pasta Gremolata—a dish bursting with vib
 focusKeyphrase: "Cherry Tomato Pasta Gremolata"
 date: 2025-08-06
 draft: false
-image: cherry-tomato-pasta.png
+image: cherry-tomato-pasta.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT20M

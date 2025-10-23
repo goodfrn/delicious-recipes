@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Slow-Cooked Beef Ribs with creamy smashed p
 focusKeyphrase: "Slow-Cooked Beef Ribs"
 date: 2025-07-29
 draft: false
-image: slow-cooked-beef-ribs.png
+image: slow-cooked-beef-ribs.jpg
 author: "Kate"
 prepTime: PT1H15M
 cookTime: PT5H45M

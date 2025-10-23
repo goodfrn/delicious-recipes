@@ -7,7 +7,7 @@ ogDescription: "Warm, nutty aroma fills the kitchen with Brown Butter Snickerdoo
 focusKeyphrase: "Brown Butter Snickerdoodle Skillet"
 date: 2025-10-05
 draft: false
-image: brown-butter-snickerdoodle.png
+image: brown-butter-snickerdoodle.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT28M

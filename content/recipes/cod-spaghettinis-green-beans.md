@@ -7,7 +7,7 @@ ogDescription: "Experience Cod Spaghettinis Green Beans, a Mediterranean delight
 focusKeyphrase: "Cod Spaghettinis Green Beans"
 date: 2025-07-23
 draft: false
-image: cod-spaghettinis-green-beans.png
+image: cod-spaghettinis-green-beans.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

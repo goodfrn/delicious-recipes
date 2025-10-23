@@ -7,7 +7,7 @@ ogDescription: "Hearty Leek Squash Rigatoni Gratin; roasted autumn veggies and c
 focusKeyphrase: "Leek Squash Rigatoni Gratin"
 date: 2025-08-11
 draft: false
-image: leek-squash-rigatoni.png
+image: leek-squash-rigatoni.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H

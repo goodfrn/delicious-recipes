@@ -7,7 +7,7 @@ ogDescription: "Onion Goat Cheese Salad offers a sharp and creamy contrast. Idea
 focusKeyphrase: "Onion Goat Cheese Salad"
 date: 2025-08-07
 draft: false
-image: onion-goat-cheese-salad.png
+image: onion-goat-cheese-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT7M

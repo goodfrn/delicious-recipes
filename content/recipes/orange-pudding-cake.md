@@ -7,7 +7,7 @@ ogDescription: "Discover the Orange Pudding Cake Twist: moist, burst of citrus, 
 focusKeyphrase: "Orange Pudding Cake"
 date: 2025-10-14
 draft: false
-image: orange-pudding-cake.png
+image: orange-pudding-cake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

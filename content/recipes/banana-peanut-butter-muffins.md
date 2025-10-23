@@ -7,7 +7,7 @@ ogDescription: "Try our Banana Peanut Butter Muffins. Moist, nutty, topped with 
 focusKeyphrase: "Banana Peanut Butter Muffins"
 date: 2025-07-29
 draft: false
-image: banana-peanut-butter-muffins.png
+image: banana-peanut-butter-muffins.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

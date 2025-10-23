@@ -7,7 +7,7 @@ ogDescription: "Indulge in White Chocolate Pistachio Blondies. Creamy, nutty, an
 focusKeyphrase: "white chocolate blondies"
 date: 2025-08-14
 draft: false
-image: white-chocolate-blondies.png
+image: white-chocolate-blondies.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

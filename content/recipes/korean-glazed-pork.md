@@ -7,7 +7,7 @@ ogDescription: "Korean Glazed Pork Shoulder boasts bold flavors, tender meat, an
 focusKeyphrase: "Korean Glazed Pork Shoulder"
 date: 2025-08-12
 draft: false
-image: korean-glazed-pork.png
+image: korean-glazed-pork.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT4H40M

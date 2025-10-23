@@ -7,7 +7,7 @@ ogDescription: "Tomato-Grilled Braised Chicken is savory and creamy. Perfect pai
 focusKeyphrase: "braised chicken thighs"
 date: 2025-08-08
 draft: false
-image: tomato-grilled-braised-chicken.png
+image: tomato-grilled-braised-chicken.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

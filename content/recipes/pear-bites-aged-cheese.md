@@ -7,7 +7,7 @@ ogDescription: "Quick prep Pear Bites with Aged Cheese are a tasty contrast of f
 focusKeyphrase: "Pear Bites with Aged Cheese"
 date: 2025-09-29
 draft: false
-image: pear-bites-aged-cheese.png
+image: pear-bites-aged-cheese.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

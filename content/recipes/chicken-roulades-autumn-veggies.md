@@ -7,7 +7,7 @@ ogDescription: "Experience Chicken Roulades Autumn Veg—tender chicken filled w
 focusKeyphrase: "Chicken Roulades Autumn Veg"
 date: 2025-08-07
 draft: false
-image: chicken-roulades-autumn-veggies.png
+image: chicken-roulades-autumn-veggies.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT38M

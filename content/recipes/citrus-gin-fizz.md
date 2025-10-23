@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Citrus Gin Fizz Twist. A bright gin cocktail with fresh 
 focusKeyphrase: "Citrus Gin Fizz Twist"
 date: 2025-07-26
 draft: false
-image: citrus-gin-fizz.png
+image: citrus-gin-fizz.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

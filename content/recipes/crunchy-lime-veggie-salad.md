@@ -7,7 +7,7 @@ ogDescription: "Discover the Crunchy Lime Veggie Salad, a refreshing blend of ve
 focusKeyphrase: "Crunchy Lime Veggie Salad"
 date: 2025-07-24
 draft: false
-image: crunchy-lime-veggie-salad.png
+image: crunchy-lime-veggie-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

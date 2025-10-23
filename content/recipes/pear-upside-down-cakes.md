@@ -7,7 +7,7 @@ ogDescription: "Indulge in spiced caramel and tender almond cakes. Fresh pear up
 focusKeyphrase: "Pear Upside-down Cakes"
 date: 2025-08-10
 draft: false
-image: pear-upside-down-cakes.png
+image: pear-upside-down-cakes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT70M

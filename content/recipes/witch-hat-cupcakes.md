@@ -7,7 +7,7 @@ ogDescription: "Delight in Witch Hat Cupcakes, perfect for Halloween with chocol
 focusKeyphrase: "Witch Hat Cupcakes"
 date: 2025-07-27
 draft: false
-image: witch-hat-cupcakes.png
+image: witch-hat-cupcakes.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT18M

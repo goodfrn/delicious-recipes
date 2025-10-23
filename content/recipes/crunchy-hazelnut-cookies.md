@@ -7,7 +7,7 @@ ogDescription: "Crunchy Hazelnut Cookies; nutty and crumbly. Enjoy the unique wa
 focusKeyphrase: "Crunchy Hazelnut Cookies"
 date: 2025-08-19
 draft: false
-image: crunchy-hazelnut-cookies.png
+image: crunchy-hazelnut-cookies.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Try this Indian-Spiced Fish Curry. Warm, flavorful, dairy-free, 
 focusKeyphrase: "Indian-Spiced Fish Curry"
 date: 2025-07-21
 draft: false
-image: indian-spiced-fish-curry.png
+image: indian-spiced-fish-curry.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

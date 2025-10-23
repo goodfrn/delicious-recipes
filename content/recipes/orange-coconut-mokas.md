@@ -7,7 +7,7 @@ ogDescription: "Sweet and light Orange Coconut Mokas, perfect for any occasion w
 focusKeyphrase: "Orange Coconut Mokas"
 date: 2025-07-21
 draft: false
-image: orange-coconut-mokas.png
+image: orange-coconut-mokas.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Savor Chicken Sausage Brown Rice Bake, a hearty dish with tender
 focusKeyphrase: "Chicken Sausage Brown Rice Bake"
 date: 2025-09-25
 draft: false
-image: chicken-sausage-brown-rice-bake.png
+image: chicken-sausage-brown-rice-bake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H30M

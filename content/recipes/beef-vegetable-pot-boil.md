@@ -7,7 +7,7 @@ ogDescription: "Savor the deep flavors of this Beef Vegetable Pot Boil. Perfect 
 focusKeyphrase: "Beef Vegetable Pot Boil"
 date: 2025-07-23
 draft: false
-image: beef-vegetable-pot-boil.png
+image: beef-vegetable-pot-boil.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H20M

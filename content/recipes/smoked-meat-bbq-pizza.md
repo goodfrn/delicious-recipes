@@ -7,7 +7,7 @@ ogDescription: "Indulge in Smoked Meat BBQ Pizza, featuring smoky meat, tangy to
 focusKeyphrase: "Smoked Meat BBQ Pizza"
 date: 2025-08-16
 draft: false
-image: smoked-meat-bbq-pizza.png
+image: smoked-meat-bbq-pizza.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

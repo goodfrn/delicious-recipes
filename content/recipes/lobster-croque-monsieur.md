@@ -7,7 +7,7 @@ ogDescription: "Dive into Lobster Croque-Monsieur Twist, a seafood-rich dish lay
 focusKeyphrase: "Lobster Croque-Monsieur Twist"
 date: 2025-08-19
 draft: false
-image: lobster-croque-monsieur.png
+image: lobster-croque-monsieur.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

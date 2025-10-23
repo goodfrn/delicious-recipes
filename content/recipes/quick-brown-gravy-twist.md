@@ -7,7 +7,7 @@ ogDescription: "Quick Brown Gravy Twist: elevate dishes with umami-rich sauce us
 focusKeyphrase: "Quick Brown Gravy Twist"
 date: 2025-08-09
 draft: false
-image: quick-brown-gravy-twist.png
+image: quick-brown-gravy-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT20M

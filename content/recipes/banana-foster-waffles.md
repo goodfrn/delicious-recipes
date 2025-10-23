@@ -7,7 +7,7 @@ ogDescription: "Experience Banana Foster Waffles with crispy edges, tender crumb
 focusKeyphrase: "Banana Foster Waffles"
 date: 2025-08-12
 draft: false
-image: banana-foster-waffles.png
+image: banana-foster-waffles.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

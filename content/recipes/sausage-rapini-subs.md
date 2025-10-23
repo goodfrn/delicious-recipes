@@ -7,7 +7,7 @@ ogDescription: "Sausage Rapini Subs packed with spicy chorizo, sautéed onions, 
 focusKeyphrase: "Sausage Rapini Subs"
 date: 2025-09-25
 draft: false
-image: sausage-rapini-subs.png
+image: sausage-rapini-subs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

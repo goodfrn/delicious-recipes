@@ -7,7 +7,7 @@ ogDescription: "Enjoy the light richness of Mascarpone White Chocolate Cream mad
 focusKeyphrase: "Mascarpone White Chocolate Cream"
 date: 2025-07-25
 draft: false
-image: mascarpone-white-chocolate-cream.png
+image: mascarpone-white-chocolate-cream.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

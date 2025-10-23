@@ -7,7 +7,7 @@ ogDescription: "Try this Cheddar Toast with Caramelized Onions & Tomato, where s
 focusKeyphrase: "Cheddar Toast"
 date: 2025-08-15
 draft: false
-image: cheddar-toast-spinach-gouda.png
+image: cheddar-toast-spinach-gouda.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT22M

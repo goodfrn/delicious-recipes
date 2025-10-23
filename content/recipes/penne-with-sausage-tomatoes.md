@@ -7,7 +7,7 @@ ogDescription: "Enjoy Penne with Italian Sausage and Tomatoes. Juicy sausage, sw
 focusKeyphrase: "Penne with Italian Sausage and Tomatoes"
 date: 2025-07-27
 draft: false
-image: penne-with-sausage-tomatoes.png
+image: penne-with-sausage-tomatoes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spiced Pork Meatball Stew a hearty dish that simmers pork 
 focusKeyphrase: "spiced pork stew"
 date: 2025-07-23
 draft: false
-image: spiced-pork-meatball-stew.png
+image: spiced-pork-meatball-stew.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT3H10M

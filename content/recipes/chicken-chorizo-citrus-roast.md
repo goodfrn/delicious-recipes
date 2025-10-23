@@ -7,7 +7,7 @@ ogDescription: "Roasted chicken with citrus, smoked sausage, and tender vegetabl
 focusKeyphrase: "Chicken Chorizo Citrus Roast"
 date: 2025-09-28
 draft: false
-image: chicken-chorizo-citrus-roast.png
+image: chicken-chorizo-citrus-roast.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT1H20M

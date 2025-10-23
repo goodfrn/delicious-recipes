@@ -7,7 +7,7 @@ ogDescription: "Sour cream and chocolate chunks create rich, gooey double chocol
 focusKeyphrase: "Double Chocolate Pancakes"
 date: 2025-09-23
 draft: false
-image: double-chocolate-pancakes.png
+image: double-chocolate-pancakes.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

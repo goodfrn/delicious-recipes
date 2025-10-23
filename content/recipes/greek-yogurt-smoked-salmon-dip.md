@@ -7,7 +7,7 @@ ogDescription: "Creamy Greek Yogurt Smoked Salmon Dip with pickled shallots and 
 focusKeyphrase: "Greek Yogurt Smoked Salmon Dip"
 date: 2025-07-26
 draft: false
-image: greek-yogurt-smoked-salmon-dip.png
+image: greek-yogurt-smoked-salmon-dip.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

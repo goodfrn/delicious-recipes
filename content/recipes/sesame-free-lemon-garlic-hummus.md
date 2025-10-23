@@ -7,7 +7,7 @@ ogDescription: "Try this Sesame-free Lemon Garlic Hummus. Creamy, zesty, and fla
 focusKeyphrase: "Lemon Garlic Hummus"
 date: 2025-08-19
 draft: false
-image: sesame-free-lemon-garlic-hummus.png
+image: sesame-free-lemon-garlic-hummus.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

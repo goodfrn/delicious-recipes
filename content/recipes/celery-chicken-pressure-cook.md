@@ -7,7 +7,7 @@ ogDescription: "Explore a French-inspired Celery Chicken recipe! Tender thighs, 
 focusKeyphrase: "Celery Chicken Pressure Cook"
 date: 2025-08-12
 draft: false
-image: celery-chicken-pressure-cook.png
+image: celery-chicken-pressure-cook.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT35M

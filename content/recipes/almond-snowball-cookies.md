@@ -7,7 +7,7 @@ ogDescription: "Crispy Almond Snowball Cookies with a fine dust of powdered suga
 focusKeyphrase: "Almond Snowball Cookies"
 date: 2025-09-27
 draft: false
-image: almond-snowball-cookies.png
+image: almond-snowball-cookies.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT20M

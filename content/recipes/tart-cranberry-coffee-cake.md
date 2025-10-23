@@ -7,7 +7,7 @@ ogDescription: "Enjoy tart cherry coffee cake with a crunchy streusel top. Perfe
 focusKeyphrase: "Tart Cranberry Coffee Cake"
 date: 2025-10-08
 draft: false
-image: tart-cranberry-coffee-cake.png
+image: tart-cranberry-coffee-cake.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

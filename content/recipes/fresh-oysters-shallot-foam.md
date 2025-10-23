@@ -7,7 +7,7 @@ ogDescription: "Elevate your seafood game with Fresh Oysters and Shallot Foam. B
 focusKeyphrase: "Fresh Oysters with Shallot Foam"
 date: 2025-08-17
 draft: false
-image: fresh-oysters-shallot-foam.png
+image: fresh-oysters-shallot-foam.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT10M

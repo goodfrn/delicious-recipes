@@ -7,7 +7,7 @@ ogDescription: "Discover a hearty Oatmeal Date Bowl full of steel-cut oats, drie
 focusKeyphrase: "Oatmeal Date Bowl"
 date: 2025-07-24
 draft: false
-image: oatmeal-date-bowl.png
+image: oatmeal-date-bowl.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

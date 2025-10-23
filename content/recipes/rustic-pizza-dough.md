@@ -7,7 +7,7 @@ ogDescription: "Craft Rustic Pizza Dough with a chewy bite and subtle tang; appl
 focusKeyphrase: "Rustic Pizza Dough"
 date: 2025-09-27
 draft: false
-image: rustic-pizza-dough.png
+image: rustic-pizza-dough.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

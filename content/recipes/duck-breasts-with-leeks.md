@@ -7,7 +7,7 @@ ogDescription: "Enjoy Duck Breasts paired with leeks and roasted onions. A rich 
 focusKeyphrase: "Duck Breasts Recipe"
 date: 2025-07-21
 draft: false
-image: duck-breasts-with-leeks.png
+image: duck-breasts-with-leeks.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Savory Chicken Pesto Macaroni with chicken strips, burrata, and 
 focusKeyphrase: "Chicken Pesto Macaroni"
 date: 2025-08-04
 draft: false
-image: chicken-pesto-macaroni.png
+image: chicken-pesto-macaroni.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

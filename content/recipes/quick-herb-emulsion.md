@@ -7,7 +7,7 @@ ogDescription: "Elevate your meals with Quick Herb Emulsion made from garlic, ar
 focusKeyphrase: "Quick Herb Emulsion"
 date: 2025-08-02
 draft: false
-image: quick-herb-emulsion.png
+image: quick-herb-emulsion.jpg
 author: "Kate"
 prepTime: PT17M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy Kale Chips Trio with smoky and umami flavors. Perfect fo
 focusKeyphrase: "Kale Chips"
 date: 2025-09-28
 draft: false
-image: kale-chips-trio.png
+image: kale-chips-trio.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT28M

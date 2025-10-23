@@ -7,7 +7,7 @@ ogDescription: "Enjoy a vibrant Clementine Passion Fruit Salad with clementines,
 focusKeyphrase: "Clementine Passion Fruit Salad"
 date: 2025-07-23
 draft: false
-image: clementine-passion-fruit-salad.png
+image: clementine-passion-fruit-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

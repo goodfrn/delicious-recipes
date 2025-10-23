@@ -7,7 +7,7 @@ ogDescription: "Indulge in Lower Fat Cheesecake with a crispy almond crust. A ba
 focusKeyphrase: "Lower Fat Cheesecake"
 date: 2025-09-25
 draft: false
-image: lower-fat-cheesecake.png
+image: lower-fat-cheesecake.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT1H45M

@@ -7,7 +7,7 @@ ogDescription: "Try Twisted Colcannon Mash - a rich Irish-inspired dish with Yuk
 focusKeyphrase: "Twisted Colcannon Mash"
 date: 2025-08-28
 draft: false
-image: twisted-colcannon-mash.png
+image: twisted-colcannon-mash.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

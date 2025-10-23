@@ -7,7 +7,7 @@ ogDescription: "Yogurt Fruit Squares recipe with oats, digestive biscuits, and a
 focusKeyphrase: "Yogurt Fruit Squares"
 date: 2025-09-13
 draft: false
-image: yogurt-fruit-squares.png
+image: yogurt-fruit-squares.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in White Chocolate Blueberry Cake layered with ripe blue
 focusKeyphrase: "White Chocolate Blueberry Cake"
 date: 2025-09-26
 draft: false
-image: white-chocolate-blueberry-cake.png
+image: white-chocolate-blueberry-cake.jpg
 author: "Kate"
 prepTime: PT1H30M
 cookTime: PT1H30M

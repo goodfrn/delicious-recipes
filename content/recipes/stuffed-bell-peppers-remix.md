@@ -7,7 +7,7 @@ ogDescription: "Stuffed Bell Peppers Remix; a savory blend of pork sausage and q
 focusKeyphrase: "Stuffed Bell Peppers Remix"
 date: 2025-08-06
 draft: false
-image: stuffed-bell-peppers-remix.png
+image: stuffed-bell-peppers-remix.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT50M

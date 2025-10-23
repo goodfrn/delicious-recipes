@@ -7,7 +7,7 @@ ogDescription: "Savor the comforting Spiced Apple Ham Pot Pie, loaded with ham a
 focusKeyphrase: "Spiced Apple Ham Pot Pie"
 date: 2025-07-26
 draft: false
-image: spiced-apple-ham-pot-pie.png
+image: spiced-apple-ham-pot-pie.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT55M

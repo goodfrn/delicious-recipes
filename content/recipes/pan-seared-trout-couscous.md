@@ -7,7 +7,7 @@ ogDescription: "Pan-Seared Trout with Spiced Vegetable Couscous features crispy 
 focusKeyphrase: "Pan-Seared Trout"
 date: 2025-09-30
 draft: false
-image: pan-seared-trout-couscous.png
+image: pan-seared-trout-couscous.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

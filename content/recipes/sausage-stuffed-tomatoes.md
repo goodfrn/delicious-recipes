@@ -7,7 +7,7 @@ ogDescription: "Sausage-Stuffed Roasted Tomatoes. Flavorful, hearty. A perfect b
 focusKeyphrase: "Sausage-Stuffed Roasted Tomatoes"
 date: 2025-07-23
 draft: false
-image: sausage-stuffed-tomatoes.png
+image: sausage-stuffed-tomatoes.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT23M

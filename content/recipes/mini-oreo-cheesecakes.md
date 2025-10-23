@@ -7,7 +7,7 @@ ogDescription: "Mini Oreo Cheesecakes Twist brings a creamy and crunchy treat th
 focusKeyphrase: "Mini Oreo Cheesecakes"
 date: 2025-10-17
 draft: false
-image: mini-oreo-cheesecakes.png
+image: mini-oreo-cheesecakes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT25M

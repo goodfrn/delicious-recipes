@@ -7,7 +7,7 @@ ogDescription: "Indulge in Candied Rhubarb Twist, a unique sweet and tangy treat
 focusKeyphrase: "candied rhubarb twist"
 date: 2025-07-21
 draft: false
-image: candied-rhubarb-twist.png
+image: candied-rhubarb-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT40M

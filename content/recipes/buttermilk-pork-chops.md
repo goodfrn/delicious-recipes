@@ -7,7 +7,7 @@ ogDescription: "Savory Buttermilk Pork Chops marinated with unique spices. Charr
 focusKeyphrase: "Buttermilk Pork Chops"
 date: 2025-08-06
 draft: false
-image: buttermilk-pork-chops.png
+image: buttermilk-pork-chops.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Lamb-Stuffed Eggplants Twist; a savory blend of veal, fres
 focusKeyphrase: "Lamb-Stuffed Eggplants"
 date: 2025-08-16
 draft: false
-image: lamb-stuffed-eggplants.png
+image: lamb-stuffed-eggplants.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT20M

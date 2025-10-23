@@ -7,7 +7,7 @@ ogDescription: "Enjoy a fresh Coriander-Ginger Chutney; raw herbs, punchy flavor
 focusKeyphrase: "Coriander-Ginger Chutney"
 date: 2025-08-13
 draft: false
-image: coriander-ginger-chutney.png
+image: coriander-ginger-chutney.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

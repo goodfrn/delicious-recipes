@@ -7,7 +7,7 @@ ogDescription: "Creamy Green Goddess Dressing made with avocado and Greek yogurt
 focusKeyphrase: "Avocado Yogurt Green Goddess Dressing"
 date: 2025-08-08
 draft: false
-image: avocado-yogurt-dressing.png
+image: avocado-yogurt-dressing.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

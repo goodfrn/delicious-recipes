@@ -7,7 +7,7 @@ ogDescription: "Savor Turkey Mushroom Quesadillas with melted cheese, savory tur
 focusKeyphrase: "Turkey Mushroom Quesadillas"
 date: 2025-08-13
 draft: false
-image: turkey-mushroom-quesadillas.png
+image: turkey-mushroom-quesadillas.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

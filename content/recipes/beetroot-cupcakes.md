@@ -7,7 +7,7 @@ ogDescription: "Explore Beetroot Cupcakes with rich Mascarpone Cream. Unique tex
 focusKeyphrase: "Beetroot Cupcakes"
 date: 2025-07-26
 draft: false
-image: beetroot-cupcakes.png
+image: beetroot-cupcakes.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT25M

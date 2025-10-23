@@ -7,7 +7,7 @@ ogDescription: "Creamy Marsala Chicken Pasta combines turkey, mushrooms, and pas
 focusKeyphrase: "Creamy Marsala Chicken Pasta"
 date: 2025-10-07
 draft: false
-image: creamy-marsala-chicken-pasta.png
+image: creamy-marsala-chicken-pasta.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT22M

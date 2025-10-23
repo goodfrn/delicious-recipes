@@ -7,7 +7,7 @@ ogDescription: "Sip a fragrant Apple Chamomile Cocktail. Tart apple juice meets 
 focusKeyphrase: "Apple Chamomile Cocktail"
 date: 2025-08-07
 draft: false
-image: apple-chamomile-cocktail.png
+image: apple-chamomile-cocktail.jpg
 author: "Kate"
 prepTime: PT8M
 cookTime: PT5M

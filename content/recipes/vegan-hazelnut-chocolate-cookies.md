@@ -7,7 +7,7 @@ ogDescription: "Indulge in Vegan Hazelnut Chocolate Cookies; crunchy on the outs
 focusKeyphrase: "Vegan Hazelnut Chocolate Cookies"
 date: 2025-08-17
 draft: false
-image: vegan-hazelnut-chocolate-cookies.png
+image: vegan-hazelnut-chocolate-cookies.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT12M

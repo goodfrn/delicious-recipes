@@ -7,7 +7,7 @@ ogDescription: "Rustic Strawberry Foldover Tart with a flaky crust, luscious str
 focusKeyphrase: "Strawberry Foldover Tart"
 date: 2025-08-08
 draft: false
-image: strawberry-foldover-tart.png
+image: strawberry-foldover-tart.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT35M

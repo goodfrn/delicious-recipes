@@ -7,7 +7,7 @@ ogDescription: "Grilled Ricotta Toasts with Slow-Roasted Cherry Tomatoes. Rustic
 focusKeyphrase: "Grilled Ricotta Toasts"
 date: 2025-08-08
 draft: false
-image: grilled-ricotta-toasts.png
+image: grilled-ricotta-toasts.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H10M

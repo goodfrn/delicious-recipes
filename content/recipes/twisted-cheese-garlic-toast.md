@@ -7,7 +7,7 @@ ogDescription: "Indulge in Twisted Cheese Garlic Toast—crispy, cheesy, and del
 focusKeyphrase: "Twisted Cheese Garlic Toast"
 date: 2025-10-13
 draft: false
-image: twisted-cheese-garlic-toast.png
+image: twisted-cheese-garlic-toast.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT12M

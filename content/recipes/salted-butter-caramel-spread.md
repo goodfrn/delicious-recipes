@@ -7,7 +7,7 @@ ogDescription: "Indulge in an easy Salted Butter Caramel Spread. Make at home an
 focusKeyphrase: "Salted Butter Caramel Spread"
 date: 2025-08-04
 draft: false
-image: salted-butter-caramel-spread.png
+image: salted-butter-caramel-spread.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT20M

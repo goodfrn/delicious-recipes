@@ -7,7 +7,7 @@ ogDescription: "Crisp, textured buttermilk cornstarch waffles. Classic with a nu
 focusKeyphrase: "Buttermilk Cornstarch Waffles"
 date: 2025-08-12
 draft: false
-image: buttermilk-cornstarch-waffles.png
+image: buttermilk-cornstarch-waffles.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT18M

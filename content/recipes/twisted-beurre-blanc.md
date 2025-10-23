@@ -7,7 +7,7 @@ ogDescription: "Experience Twisted Beurre Blanc sauce. Roasted shallots and cool
 focusKeyphrase: "beurre blanc sauce"
 date: 2025-08-05
 draft: false
-image: twisted-beurre-blanc.png
+image: twisted-beurre-blanc.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT20M

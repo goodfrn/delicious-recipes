@@ -7,7 +7,7 @@ ogDescription: "Pasta Salad with Pesto Burrata is a colorful, herb-rich salad, p
 focusKeyphrase: "Pasta Salad with Pesto Burrata"
 date: 2025-08-13
 draft: false
-image: pasta-salad-with-pesto.png
+image: pasta-salad-with-pesto.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

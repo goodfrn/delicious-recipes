@@ -7,7 +7,7 @@ ogDescription: "Indulge in Milk Chocolate Panna Cotta with agar-agar for texture
 focusKeyphrase: "Milk Chocolate Panna Cotta"
 date: 2025-08-09
 draft: false
-image: milk-chocolate-panna-cotta.png
+image: milk-chocolate-panna-cotta.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

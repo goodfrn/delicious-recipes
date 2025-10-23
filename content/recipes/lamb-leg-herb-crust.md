@@ -7,7 +7,7 @@ ogDescription: "Discover the Lamb Leg with Herb Crust and Rosemary Jus, featurin
 focusKeyphrase: "Lamb Leg with Herb Crust"
 date: 2025-08-11
 draft: false
-image: lamb-leg-herb-crust.png
+image: lamb-leg-herb-crust.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Experience the delight of Pistachio Raspberry Mousse Tart with a
 focusKeyphrase: "Pistachio Raspberry Mousse Tart"
 date: 2025-08-14
 draft: false
-image: pistachio-raspberry-mousse.png
+image: pistachio-raspberry-mousse.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

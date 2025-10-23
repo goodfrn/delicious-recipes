@@ -7,7 +7,7 @@ ogDescription: "Spiced Mexican Tofu Scramble delivers robust flavors and texture
 focusKeyphrase: "Spiced Mexican Tofu Scramble"
 date: 2025-08-07
 draft: false
-image: spiced-mexican-tofu-scramble.png
+image: spiced-mexican-tofu-scramble.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

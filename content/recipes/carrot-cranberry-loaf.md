@@ -7,7 +7,7 @@ ogDescription: "Savor Carrot Cranberry Loaf with warm maple, spelt flour, and dr
 focusKeyphrase: "Carrot Cranberry Loaf"
 date: 2025-08-16
 draft: false
-image: carrot-cranberry-loaf.png
+image: carrot-cranberry-loaf.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

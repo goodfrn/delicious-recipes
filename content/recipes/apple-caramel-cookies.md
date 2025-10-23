@@ -7,7 +7,7 @@ ogDescription: "Indulge in Apple Caramel Cookies Twist; soft cookies with tart a
 focusKeyphrase: "Apple Caramel Cookies Twist"
 date: 2025-08-29
 draft: false
-image: apple-caramel-cookies.png
+image: apple-caramel-cookies.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT45M

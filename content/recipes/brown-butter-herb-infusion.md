@@ -7,7 +7,7 @@ ogDescription: "Transform butter with Brown Butter Herb Infusion. A savory metho
 focusKeyphrase: "Brown Butter Herb Infusion"
 date: 2025-08-11
 draft: false
-image: brown-butter-herb-infusion.png
+image: brown-butter-herb-infusion.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT10M

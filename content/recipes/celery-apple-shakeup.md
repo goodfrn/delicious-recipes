@@ -7,7 +7,7 @@ ogDescription: "Enjoy a creamy Celery Apple Shakeup with cucumber, tahini; refre
 focusKeyphrase: "Celery Apple Shakeup"
 date: 2025-09-30
 draft: false
-image: celery-apple-shakeup.png
+image: celery-apple-shakeup.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

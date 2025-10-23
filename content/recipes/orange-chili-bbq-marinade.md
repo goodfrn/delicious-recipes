@@ -7,7 +7,7 @@ ogDescription: "Spice up your BBQ with this Orange Chili marinade. Tangy and smo
 focusKeyphrase: "Orange Chili BBQ Marinade"
 date: 2025-07-25
 draft: false
-image: orange-chili-bbq-marinade.png
+image: orange-chili-bbq-marinade.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Cheesy Veggie Legume Loaf is a hearty vegetarian dish packed wit
 focusKeyphrase: "Cheesy Veggie Legume Loaf"
 date: 2025-09-26
 draft: false
-image: cheesy-veggie-legume-loaf.png
+image: cheesy-veggie-legume-loaf.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Savor layers of cherry, raspberry, and cream in this tart trifle
 focusKeyphrase: "Cherry Raspberry Tart Trifle"
 date: 2025-08-03
 draft: false
-image: cherry-raspberry-trifle.png
+image: cherry-raspberry-trifle.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT18M

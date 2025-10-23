@@ -7,7 +7,7 @@ ogDescription: "Quick, juicy BBQ ribs thanks to the pressure cooker. Glazed with
 focusKeyphrase: "Pressure Cooker BBQ Ribs"
 date: 2025-09-29
 draft: false
-image: bbq-ribs-pressure-cooker.png
+image: bbq-ribs-pressure-cooker.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

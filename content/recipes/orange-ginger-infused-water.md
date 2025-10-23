@@ -7,7 +7,7 @@ ogDescription: "Zesty Orange Ginger Infused Water, cold-brewed for refreshing hy
 focusKeyphrase: "Orange Ginger Infused Water"
 date: 2025-08-16
 draft: false
-image: orange-ginger-infused-water.png
+image: orange-ginger-infused-water.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT0M

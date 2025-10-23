@@ -7,7 +7,7 @@ ogDescription: "Transform your dishes with Caribbean Spice Blend Remix. Smoky, a
 focusKeyphrase: "Caribbean spice blend"
 date: 2025-08-19
 draft: false
-image: caribbean-spice-blend.png
+image: caribbean-spice-blend.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT5M

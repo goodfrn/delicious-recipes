@@ -7,7 +7,7 @@ ogDescription: "Handmade Pasta using truffle oil and parmesan for an umami hit. 
 focusKeyphrase: "Fresh Handmade Pasta"
 date: 2025-09-27
 draft: false
-image: fresh-handmade-pasta.png
+image: fresh-handmade-pasta.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT3M

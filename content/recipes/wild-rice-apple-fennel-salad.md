@@ -7,7 +7,7 @@ ogDescription: "Experience a burst of flavors with Wild Rice Apple Fennel Salad,
 focusKeyphrase: "Wild Rice Apple Fennel Salad"
 date: 2025-09-28
 draft: false
-image: wild-rice-apple-fennel-salad.png
+image: wild-rice-apple-fennel-salad.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT45M

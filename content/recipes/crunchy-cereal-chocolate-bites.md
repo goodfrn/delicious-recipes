@@ -7,7 +7,7 @@ ogDescription: "Enjoy Crunchy Cereal Chocolate Bites, a fulfilling snack blendin
 focusKeyphrase: "Crunchy Cereal Chocolate Bites"
 date: 2025-08-05
 draft: false
-image: crunchy-cereal-chocolate-bites.png
+image: crunchy-cereal-chocolate-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

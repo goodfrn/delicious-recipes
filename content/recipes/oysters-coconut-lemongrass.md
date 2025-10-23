@@ -7,7 +7,7 @@ ogDescription: "Chilled oysters with coconut lemongrass sauce, perfect for summe
 focusKeyphrase: "Oysters Coconut Lemongrass"
 date: 2025-08-08
 draft: false
-image: oysters-coconut-lemongrass.png
+image: oysters-coconut-lemongrass.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Try this smoky Kentucky BBQ Sauce with a bourbon twist. Perfect 
 focusKeyphrase: "Smoky Kentucky BBQ Sauce"
 date: 2025-07-23
 draft: false
-image: smoky-kentucky-bbq-sauce.png
+image: smoky-kentucky-bbq-sauce.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

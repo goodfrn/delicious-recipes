@@ -7,7 +7,7 @@ ogDescription: "Roasted Carrots with Dried Fruits offers tender carrots enhanced
 focusKeyphrase: "Roasted Carrots with Dried Fruits"
 date: 2025-09-29
 draft: false
-image: roasted-carrots-with-fruits.png
+image: roasted-carrots-with-fruits.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

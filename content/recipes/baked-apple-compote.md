@@ -7,7 +7,7 @@ ogDescription: "Delight in the Baked Apple Compote Variation with roasted apples
 focusKeyphrase: "Baked Apple Compote"
 date: 2025-07-24
 draft: false
-image: baked-apple-compote.png
+image: baked-apple-compote.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Handheld Crunchy Chile Relleno Monte Cristo sandwich, featuring 
 focusKeyphrase: "Crunchy Chile Relleno Monte Cristo"
 date: 2025-10-06
 draft: false
-image: crunchy-chile-relleno-monte-cristo.png
+image: crunchy-chile-relleno-monte-cristo.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT6M

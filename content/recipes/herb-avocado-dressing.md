@@ -7,7 +7,7 @@ ogDescription: "Bright, herbaceous Creamy Avocado Dressing bursts with flavor; i
 focusKeyphrase: "Herb Avocado Dressing"
 date: 2025-10-04
 draft: false
-image: herb-avocado-dressing.png
+image: herb-avocado-dressing.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

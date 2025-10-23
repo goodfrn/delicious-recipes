@@ -7,7 +7,7 @@ ogDescription: "Try Red Sangria Twist. Spiced rum, citrus notes, and sparkling w
 focusKeyphrase: "Red Sangria Twist"
 date: 2025-08-16
 draft: false
-image: red-sangria-twist.png
+image: red-sangria-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Delve into Herbed Seafood Pizza, featuring a creamy base, fresh 
 focusKeyphrase: "Herbed Seafood Pizza"
 date: 2025-07-30
 draft: false
-image: herbed-seafood-pizza.png
+image: herbed-seafood-pizza.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

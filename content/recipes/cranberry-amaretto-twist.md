@@ -7,7 +7,7 @@ ogDescription: "Cranberry Amaretto Sour Twist cocktail combines tart cranberries
 focusKeyphrase: "Cranberry Amaretto Sour Twist"
 date: 2025-09-29
 draft: false
-image: cranberry-amaretto-twist.png
+image: cranberry-amaretto-twist.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Bright, sparkling jelly cubes with a punch of citrus and floral 
 focusKeyphrase: "Sparkling Gin Jelly Cubes"
 date: 2025-08-10
 draft: false
-image: sparkling-gin-jelly-cubes.png
+image: sparkling-gin-jelly-cubes.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT6H

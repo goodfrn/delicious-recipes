@@ -7,7 +7,7 @@ ogDescription: "Transform your grilling with Smoky Citrus Fajita Rub. Bold flavo
 focusKeyphrase: "Smoky Citrus Fajita Rub"
 date: 2025-10-13
 draft: false
-image: smoky-citrus-fajita-rub.png
+image: smoky-citrus-fajita-rub.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

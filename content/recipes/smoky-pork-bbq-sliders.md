@@ -7,7 +7,7 @@ ogDescription: "Savor Smoky Pork BBQ Sliders with grilled pork chops, caramelize
 focusKeyphrase: "Smoky Pork BBQ Sliders"
 date: 2025-09-09
 draft: false
-image: smoky-pork-bbq-sliders.png
+image: smoky-pork-bbq-sliders.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT30M

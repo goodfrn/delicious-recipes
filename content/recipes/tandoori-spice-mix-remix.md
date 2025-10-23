@@ -7,7 +7,7 @@ ogDescription: "Revamp your cooking with Tandoori Spice Mix Remix. This unique b
 focusKeyphrase: "Tandoori Spice Mix Remix"
 date: 2025-09-24
 draft: false
-image: tandoori-spice-mix-remix.png
+image: tandoori-spice-mix-remix.jpg
 author: "Kate"
 prepTime: PT8M
 cookTime: PT6M

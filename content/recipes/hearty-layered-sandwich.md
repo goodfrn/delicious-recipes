@@ -7,7 +7,7 @@ ogDescription: "Experience a Hearty Layered Sandwich. Crafted with smoky meats a
 focusKeyphrase: "Hearty Layered Sandwich"
 date: 2025-08-08
 draft: false
-image: hearty-layered-sandwich.png
+image: hearty-layered-sandwich.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT15M

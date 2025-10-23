@@ -7,7 +7,7 @@ ogDescription: "Oven BBQ Chicken Twist brings layers of flavor. Juicy, spicy, un
 focusKeyphrase: "BBQ Chicken Recipe"
 date: 2025-07-30
 draft: false
-image: oven-bbq-chicken-twist.png
+image: oven-bbq-chicken-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H20M

@@ -7,7 +7,7 @@ ogDescription: "Mushroom Tart Twist A delightful savory tart of mushrooms and on
 focusKeyphrase: "Mushroom Tart Twist"
 date: 2025-07-21
 draft: false
-image: mushroom-tart-twist.png
+image: mushroom-tart-twist.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT30M

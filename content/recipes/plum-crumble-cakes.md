@@ -7,7 +7,7 @@ ogDescription: "Try Plum Crumble Cakes. Juicy plums with nutty crumble—perfect
 focusKeyphrase: "plum crumble cakes"
 date: 2025-08-01
 draft: false
-image: plum-crumble-cakes.png
+image: plum-crumble-cakes.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

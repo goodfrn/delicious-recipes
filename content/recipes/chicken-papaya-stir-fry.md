@@ -7,7 +7,7 @@ ogDescription: "Chicken Papaya Stir-Fry: A quick, bold recipe with spice and swe
 focusKeyphrase: "Chicken Papaya Stir-Fry"
 date: 2025-08-06
 draft: false
-image: chicken-papaya-stir-fry.png
+image: chicken-papaya-stir-fry.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

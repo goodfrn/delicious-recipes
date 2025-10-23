@@ -7,7 +7,7 @@ ogDescription: "One-Pot Red Beans Rice marries sausage, vegetables, and rice in 
 focusKeyphrase: "One-Pot Red Beans Rice"
 date: 2025-10-06
 draft: false
-image: one-pot-red-beans-rice.png
+image: one-pot-red-beans-rice.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT28M

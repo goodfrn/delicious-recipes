@@ -7,7 +7,7 @@ ogDescription: "Savor Honey Ginger Roasted Peaches. Juicy peaches, warm ginger s
 focusKeyphrase: "Honey Ginger Roasted Peaches"
 date: 2025-09-29
 draft: false
-image: honey-ginger-roasted-peaches.png
+image: honey-ginger-roasted-peaches.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Slow-braised Chicken Drumsticks Lentils with sweet potatoes and 
 focusKeyphrase: "Chicken Drumsticks Lentils"
 date: 2025-08-03
 draft: false
-image: chicken-drumsticks-lentils.png
+image: chicken-drumsticks-lentils.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H5M

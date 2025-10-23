@@ -7,7 +7,7 @@ ogDescription: "Savor Creamy Garlic Fennel Corn — a sensory delight with tende
 focusKeyphrase: "Creamy Garlic Fennel Corn"
 date: 2025-08-28
 draft: false
-image: creamy-garlic-fennel-corn.png
+image: creamy-garlic-fennel-corn.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT50M

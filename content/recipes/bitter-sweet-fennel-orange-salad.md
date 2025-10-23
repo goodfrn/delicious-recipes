@@ -7,7 +7,7 @@ ogDescription: "Fennel Orange Salad bursts with fresh citrus and pomegranate not
 focusKeyphrase: "Bitter-Sweet Fennel Orange Salad"
 date: 2025-08-06
 draft: false
-image: bitter-sweet-fennel-orange-salad.png
+image: bitter-sweet-fennel-orange-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

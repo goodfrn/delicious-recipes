@@ -7,7 +7,7 @@ ogDescription: "Delightful Honey Balsamic Salmon Board combines tender salmon wi
 focusKeyphrase: "Honey Balsamic Salmon Board"
 date: 2025-07-25
 draft: false
-image: honey-balsamic-salmon.png
+image: honey-balsamic-salmon.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

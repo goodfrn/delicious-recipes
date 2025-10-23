@@ -7,7 +7,7 @@ ogDescription: "Indulge in Spiced Rum Eggnog Crème Brûlée. Creamy custard wit
 focusKeyphrase: "Spiced Rum Eggnog Crème Brûlée"
 date: 2025-07-28
 draft: false
-image: spiced-rum-eggnog-brulee.png
+image: spiced-rum-eggnog-brulee.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Experience a flavorful Anchovy Tuna Fettuccine Twist: seafood pa
 focusKeyphrase: "Anchovy Tuna Fettuccine"
 date: 2025-09-30
 draft: false
-image: anchovy-tuna-fettuccine.png
+image: anchovy-tuna-fettuccine.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT18M

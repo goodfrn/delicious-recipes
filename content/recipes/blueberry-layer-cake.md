@@ -7,7 +7,7 @@ ogDescription: "Indulge in a Blueberry Layer Cake featuring fluffy layers and fr
 focusKeyphrase: "Blueberry Layer Cake"
 date: 2025-08-06
 draft: false
-image: blueberry-layer-cake.png
+image: blueberry-layer-cake.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT40M

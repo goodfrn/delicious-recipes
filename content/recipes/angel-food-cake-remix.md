@@ -7,7 +7,7 @@ ogDescription: "Discover the secrets to Angel Food Cake Remix. Almond extract an
 focusKeyphrase: "Angel Food Cake"
 date: 2025-09-24
 draft: false
-image: angel-food-cake-remix.png
+image: angel-food-cake-remix.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT55M

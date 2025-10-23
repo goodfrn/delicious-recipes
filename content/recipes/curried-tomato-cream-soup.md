@@ -7,7 +7,7 @@ ogDescription: "Experience a twist with Curried Tomato Cream Soup; a creamy blen
 focusKeyphrase: "Curried Tomato Cream Soup"
 date: 2025-08-09
 draft: false
-image: curried-tomato-cream-soup.png
+image: curried-tomato-cream-soup.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

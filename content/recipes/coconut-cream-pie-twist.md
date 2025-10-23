@@ -7,7 +7,7 @@ ogDescription: "Discover a unique Coconut Cream Pie Twist with a flaky almond fl
 focusKeyphrase: "Coconut Cream Pie Twist"
 date: 2025-07-20
 draft: false
-image: coconut-cream-pie-twist.png
+image: coconut-cream-pie-twist.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Stuffed Vegetables Parmesan, a hearty medley of roasted veggies 
 focusKeyphrase: "Stuffed Vegetables Parmesan"
 date: 2025-09-27
 draft: false
-image: stuffed-vegetables-parmesan.png
+image: stuffed-vegetables-parmesan.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT60M

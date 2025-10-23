@@ -7,7 +7,7 @@ ogDescription: "Discover the White Minestrone Twist; a hearty soup with chickpea
 focusKeyphrase: "White Minestrone Twist"
 date: 2025-09-28
 draft: false
-image: white-minestrone-twist.png
+image: white-minestrone-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

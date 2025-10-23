@@ -7,7 +7,7 @@ ogDescription: "Grilled Chinese eggplants with a tangy-sweet miso glaze. Quick a
 focusKeyphrase: "Miso-Glazed Eggplants"
 date: 2025-08-13
 draft: false
-image: miso-glazed-eggplants.png
+image: miso-glazed-eggplants.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT7M

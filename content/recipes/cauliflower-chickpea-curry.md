@@ -7,7 +7,7 @@ ogDescription: "Warm spices, tender cauliflower, and chickpeas create a deeply s
 focusKeyphrase: "Cauliflower Chickpea Curry"
 date: 2025-08-09
 draft: false
-image: cauliflower-chickpea-curry.png
+image: cauliflower-chickpea-curry.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT25M

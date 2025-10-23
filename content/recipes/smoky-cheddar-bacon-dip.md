@@ -7,7 +7,7 @@ ogDescription: "Indulge in a smoky, creamy dip with pancetta and two kinds of ch
 focusKeyphrase: "Smoky Cheddar Bacon Dip"
 date: 2025-09-27
 draft: false
-image: smoky-cheddar-bacon-dip.png
+image: smoky-cheddar-bacon-dip.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT20M

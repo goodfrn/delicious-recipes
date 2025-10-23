@@ -7,7 +7,7 @@ ogDescription: "Rustic Savory Scones with cheddar and herbs. Flaky, golden, and 
 focusKeyphrase: "savory scones"
 date: 2025-09-27
 draft: false
-image: rustic-savory-scones.png
+image: rustic-savory-scones.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT18M

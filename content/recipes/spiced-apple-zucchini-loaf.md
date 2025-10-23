@@ -7,7 +7,7 @@ ogDescription: "Moist apple-zucchini loaf, warm spices blended for depth; a perf
 focusKeyphrase: "Spiced Apple-Zucchini Loaf"
 date: 2025-10-07
 draft: false
-image: spiced-apple-zucchini-loaf.png
+image: spiced-apple-zucchini-loaf.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

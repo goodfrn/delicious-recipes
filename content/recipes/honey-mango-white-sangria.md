@@ -7,7 +7,7 @@ ogDescription: "Enjoy Honey Mango White Sangria at your next party. Fresh flavor
 focusKeyphrase: "Honey Mango White Sangria"
 date: 2025-08-12
 draft: false
-image: honey-mango-white-sangria.png
+image: honey-mango-white-sangria.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Roasted Tomato Garlic Soup made with roasted veggies and c
 focusKeyphrase: "Roasted Tomato Garlic Soup"
 date: 2025-07-28
 draft: false
-image: roasted-tomato-garlic-soup.png
+image: roasted-tomato-garlic-soup.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "A vibrant Crunchy Asparagus Tuna Salad with fresh veggies and so
 focusKeyphrase: "Crunchy Asparagus Tuna Salad"
 date: 2025-08-02
 draft: false
-image: crunchy-asparagus-tuna-salad.png
+image: crunchy-asparagus-tuna-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

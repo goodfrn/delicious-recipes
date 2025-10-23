@@ -7,7 +7,7 @@ ogDescription: "Savor the Rosemary Garlic Focaccia Twist, a tactile and aromatic
 focusKeyphrase: "Rosemary Garlic Focaccia Twist"
 date: 2025-09-23
 draft: false
-image: rosemary-garlic-focaccia.png
+image: rosemary-garlic-focaccia.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

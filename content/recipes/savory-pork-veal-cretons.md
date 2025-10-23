@@ -7,7 +7,7 @@ ogDescription: "Experience the rich flavors of Savory Pork-Veal Cretons, a rusti
 focusKeyphrase: "Savory Pork-Veal Cretons"
 date: 2025-08-08
 draft: false
-image: savory-pork-veal-cretons.png
+image: savory-pork-veal-cretons.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H15M

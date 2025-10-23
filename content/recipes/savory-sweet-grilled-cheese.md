@@ -7,7 +7,7 @@ ogDescription: "Discover Savory Sweet Grilled Cheese with layered fillings and b
 focusKeyphrase: "Savory Sweet Grilled Cheese"
 date: 2025-08-13
 draft: false
-image: savory-sweet-grilled-cheese.png
+image: savory-sweet-grilled-cheese.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT5M

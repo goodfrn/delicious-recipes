@@ -7,7 +7,7 @@ ogDescription: "Experience fall flavors with Pumpkin Peanut Fudge made from whit
 focusKeyphrase: "Pumpkin Peanut Fudge"
 date: 2025-10-05
 draft: false
-image: pumpkin-peanut-fudge.png
+image: pumpkin-peanut-fudge.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT12M

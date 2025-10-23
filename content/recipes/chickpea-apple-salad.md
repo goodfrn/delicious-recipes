@@ -7,7 +7,7 @@ ogDescription: "Chickpea Apple Salad brings together chickpeas and apple in a cr
 focusKeyphrase: "Chickpea Apple Salad"
 date: 2025-09-28
 draft: false
-image: chickpea-apple-salad.png
+image: chickpea-apple-salad.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

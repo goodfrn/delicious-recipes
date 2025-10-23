@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Braised Pork Tacos Twist. Tender pork, fres
 focusKeyphrase: "braised pork tacos"
 date: 2025-07-21
 draft: false
-image: braised-pork-tacos.png
+image: braised-pork-tacos.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT2H50M

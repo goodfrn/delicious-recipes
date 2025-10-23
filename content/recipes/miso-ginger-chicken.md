@@ -7,7 +7,7 @@ ogDescription: "Grilled Miso Ginger Chicken Twist creates tender, juicy chicken 
 focusKeyphrase: "Miso Ginger Chicken"
 date: 2025-08-07
 draft: false
-image: miso-ginger-chicken.png
+image: miso-ginger-chicken.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT17M

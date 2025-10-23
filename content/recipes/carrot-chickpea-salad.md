@@ -7,7 +7,7 @@ ogDescription: "Try this Carrot Chickpea Salad Twist packed with roasted chickpe
 focusKeyphrase: "Carrot Chickpea Salad"
 date: 2025-07-22
 draft: false
-image: carrot-chickpea-salad.png
+image: carrot-chickpea-salad.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT50M

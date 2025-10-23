@@ -7,7 +7,7 @@ ogDescription: "Enjoy this Rustic Morello Cherry Tart packed with juicy cherries
 focusKeyphrase: "Rustic Morello Cherry Tart"
 date: 2025-09-27
 draft: false
-image: rustic-morello-cherry-tart.png
+image: rustic-morello-cherry-tart.jpg
 author: "Kate"
 prepTime: PT55M
 cookTime: PT50M

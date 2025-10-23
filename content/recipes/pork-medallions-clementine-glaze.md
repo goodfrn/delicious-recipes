@@ -7,7 +7,7 @@ ogDescription: "Savor the quick sear of Pork Medallions with a bright clementine
 focusKeyphrase: "pork medallions with clementine glaze"
 date: 2025-07-27
 draft: false
-image: pork-medallions-clementine-glaze.png
+image: pork-medallions-clementine-glaze.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

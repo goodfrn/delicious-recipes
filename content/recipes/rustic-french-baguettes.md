@@ -7,7 +7,7 @@ ogDescription: "Discover Rustic French Baguettes with smokiness and herbs. A det
 focusKeyphrase: "Rustic French Baguettes"
 date: 2025-07-24
 draft: false
-image: rustic-french-baguettes.png
+image: rustic-french-baguettes.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy a vibrant Egg & Zucchini Club Sandwich layered with crispy
 focusKeyphrase: "Egg Zucchini Club Sandwich"
 date: 2025-09-23
 draft: false
-image: egg-zucchini-club-sandwich.png
+image: egg-zucchini-club-sandwich.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

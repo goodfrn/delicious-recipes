@@ -7,7 +7,7 @@ ogDescription: "Create Smoky Cheese Sauce with Monterey Jack and smoked mozzarel
 focusKeyphrase: "Smoky Cheese Sauce"
 date: 2025-08-19
 draft: false
-image: smoky-cheese-sauce.png
+image: smoky-cheese-sauce.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Warm Broccoli Cheddar Dip swaps ingredients for freshness and fl
 focusKeyphrase: "Warm Broccoli Cheddar Dip"
 date: 2025-08-14
 draft: false
-image: warm-broccoli-cheddar-dip.png
+image: warm-broccoli-cheddar-dip.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT6M

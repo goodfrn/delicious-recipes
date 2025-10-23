@@ -7,7 +7,7 @@ ogDescription: "Savor pork loin tartines with sweet and tangy pineapple chutney.
 focusKeyphrase: "Pork loin tartines"
 date: 2025-07-23
 draft: false
-image: pork-loin-tartines.png
+image: pork-loin-tartines.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H30M

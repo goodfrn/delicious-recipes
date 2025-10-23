@@ -7,7 +7,7 @@ ogDescription: "Enjoy Roasted Sweet Potatoes with Camelina Oil, a simple yet fla
 focusKeyphrase: "Roasted Sweet Potatoes"
 date: 2025-07-28
 draft: false
-image: roasted-sweet-potatoes.png
+image: roasted-sweet-potatoes.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT35M

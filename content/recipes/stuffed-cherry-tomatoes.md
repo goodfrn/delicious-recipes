@@ -7,7 +7,7 @@ ogDescription: "Mini tomatoes filled with tapenade and mascarpone cream. Fresh b
 focusKeyphrase: "Stuffed Cherry Tomatoes"
 date: 2025-08-12
 draft: false
-image: stuffed-cherry-tomatoes.png
+image: stuffed-cherry-tomatoes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT5M

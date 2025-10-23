@@ -7,7 +7,7 @@ ogDescription: "Craft Translucent Dim Sum Dough with potato and tapioca starch f
 focusKeyphrase: "translucent dim sum dough"
 date: 2025-08-18
 draft: false
-image: translucent-dim-sum-dough.png
+image: translucent-dim-sum-dough.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT10M

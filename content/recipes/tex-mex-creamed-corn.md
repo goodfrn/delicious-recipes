@@ -7,7 +7,7 @@ ogDescription: "Creamed corn meets Tex-Mex flavors. Smoky chipotle, fresh cilant
 focusKeyphrase: "Tex-Mex Creamed Corn"
 date: 2025-09-23
 draft: false
-image: tex-mex-creamed-corn.png
+image: tex-mex-creamed-corn.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

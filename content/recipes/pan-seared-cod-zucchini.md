@@ -7,7 +7,7 @@ ogDescription: "Experience Pan-Seared Cod Ginger Zucchini. A crisp crust on fish
 focusKeyphrase: "Pan-Seared Cod"
 date: 2025-07-28
 draft: false
-image: pan-seared-cod-zucchini.png
+image: pan-seared-cod-zucchini.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT18M

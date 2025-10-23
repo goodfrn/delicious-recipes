@@ -7,7 +7,7 @@ ogDescription: "Comforting Chicken Lemon Rice Soup with tender chicken, bright l
 focusKeyphrase: "Chicken Lemon Rice Soup"
 date: 2025-09-25
 draft: false
-image: chicken-lemon-rice-soup.png
+image: chicken-lemon-rice-soup.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H10M

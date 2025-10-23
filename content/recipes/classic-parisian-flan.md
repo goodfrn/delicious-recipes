@@ -7,7 +7,7 @@ ogDescription: "Savor the twist on Classic Parisian Flan Revamped. Indulge in a 
 focusKeyphrase: "Classic Parisian Flan Revamped"
 date: 2025-08-18
 draft: false
-image: classic-parisian-flan.png
+image: classic-parisian-flan.jpg
 author: "Kate"
 prepTime: PT60M
 cookTime: PT1H40M

@@ -7,7 +7,7 @@ ogDescription: "Savor rich Creamy Coconut Rice Pudding made with coconut milk; a
 focusKeyphrase: "Creamy Coconut Rice Pudding"
 date: 2025-08-14
 draft: false
-image: creamy-coconut-rice-pudding.png
+image: creamy-coconut-rice-pudding.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT45M

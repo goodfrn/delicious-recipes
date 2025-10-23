@@ -7,7 +7,7 @@ ogDescription: "Chocolate Pain Doré with day-old brioche, chocolate melting ato
 focusKeyphrase: "Chocolate Pain Doré"
 date: 2025-09-21
 draft: false
-image: chocolate-pain-dore.png
+image: chocolate-pain-dore.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT13M

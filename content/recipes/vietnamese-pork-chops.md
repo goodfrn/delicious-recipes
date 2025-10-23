@@ -7,7 +7,7 @@ ogDescription: "Discover a fusion twist on pork chops featuring juicy meat, crun
 focusKeyphrase: "Vietnamese pork chops"
 date: 2025-07-27
 draft: false
-image: vietnamese-pork-chops.png
+image: vietnamese-pork-chops.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

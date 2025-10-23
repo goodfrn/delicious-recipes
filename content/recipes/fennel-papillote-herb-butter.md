@@ -7,7 +7,7 @@ ogDescription: "Enjoy Fennel Papillote with Herb Butter — a grilled delight th
 focusKeyphrase: "Fennel Papillote"
 date: 2025-09-29
 draft: false
-image: fennel-papillote-herb-butter.png
+image: fennel-papillote-herb-butter.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Spanish-inspired Spiced Chicken Chorizo Rice. A mix of f
 focusKeyphrase: "Spiced Chicken Chorizo Rice"
 date: 2025-07-29
 draft: false
-image: spiced-chicken-chorizo-rice.png
+image: spiced-chicken-chorizo-rice.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

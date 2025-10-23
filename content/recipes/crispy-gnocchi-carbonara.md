@@ -7,7 +7,7 @@ ogDescription: "Try Crispy Gnocchi Carbonara Twist with guanciale, fresh asparag
 focusKeyphrase: "Crispy Gnocchi Carbonara Twist"
 date: 2025-08-10
 draft: false
-image: crispy-gnocchi-carbonara.png
+image: crispy-gnocchi-carbonara.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

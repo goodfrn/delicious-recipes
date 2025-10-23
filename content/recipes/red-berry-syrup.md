@@ -7,7 +7,7 @@ ogDescription: "Elevate drinks and desserts with Red Berry Syrup Twist. Unique b
 focusKeyphrase: "Red Berry Syrup"
 date: 2025-09-25
 draft: false
-image: red-berry-syrup.png
+image: red-berry-syrup.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

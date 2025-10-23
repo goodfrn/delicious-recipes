@@ -7,7 +7,7 @@ ogDescription: "Try Raspberry Whoopie Pies Twist, with blackberries and a creamy
 focusKeyphrase: "raspberry whoopie pies"
 date: 2025-08-13
 draft: false
-image: raspberry-whoopie-pies.png
+image: raspberry-whoopie-pies.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT40M

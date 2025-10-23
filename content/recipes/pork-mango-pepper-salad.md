@@ -7,7 +7,7 @@ ogDescription: "Try this Pork Mango Pepper Salad. Layers of grilled pork, mango,
 focusKeyphrase: "Pork Mango Pepper Salad"
 date: 2025-07-29
 draft: false
-image: pork-mango-pepper-salad.png
+image: pork-mango-pepper-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

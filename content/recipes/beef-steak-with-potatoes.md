@@ -7,7 +7,7 @@ ogDescription: "Enjoy Beef Steak with Crispy Potato Zucchini, a simple yet flavo
 focusKeyphrase: "Beef Steak with Crispy Potato Zucchini"
 date: 2025-08-04
 draft: false
-image: beef-steak-with-potatoes.png
+image: beef-steak-with-potatoes.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

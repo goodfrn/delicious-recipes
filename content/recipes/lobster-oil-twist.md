@@ -7,7 +7,7 @@ ogDescription: "Discover how to create Lobster Oil Twist; a rich infusion for sa
 focusKeyphrase: "Lobster Oil Twist"
 date: 2025-08-17
 draft: false
-image: lobster-oil-twist.png
+image: lobster-oil-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

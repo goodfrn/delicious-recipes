@@ -7,7 +7,7 @@ ogDescription: "Warm, chewy Molasses Ginger Galettes with a hint of ginger and c
 focusKeyphrase: "Molasses Ginger Galettes"
 date: 2025-08-06
 draft: false
-image: molasses-ginger-galettes.png
+image: molasses-ginger-galettes.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT14M

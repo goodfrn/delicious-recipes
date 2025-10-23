@@ -7,7 +7,7 @@ ogDescription: "Dive into Cheesy Rustic Shepherd's Pie for a comforting twist on
 focusKeyphrase: "Cheesy Rustic Shepherd's Pie"
 date: 2025-08-07
 draft: false
-image: cheesy-rustic-shepherds-pie.png
+image: cheesy-rustic-shepherds-pie.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H5M

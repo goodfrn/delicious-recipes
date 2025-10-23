@@ -7,7 +7,7 @@ ogDescription: "Unique Blueberry Pancake Mix using almond flour and cranberries;
 focusKeyphrase: "Blueberry Pancake Mix"
 date: 2025-08-04
 draft: false
-image: blueberry-pancake-mix.png
+image: blueberry-pancake-mix.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT6M

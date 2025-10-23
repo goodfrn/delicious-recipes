@@ -7,7 +7,7 @@ ogDescription: "Indulge in a Ricotta Strawberry Raspberry Cake, bursting with fr
 focusKeyphrase: "Ricotta Strawberry Raspberry Cake"
 date: 2025-09-07
 draft: false
-image: ricotta-strawberry-raspberry-cake.png
+image: ricotta-strawberry-raspberry-cake.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT70M

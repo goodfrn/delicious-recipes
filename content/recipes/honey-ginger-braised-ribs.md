@@ -7,7 +7,7 @@ ogDescription: "Indulge in Honey Ginger Braised Ribs. Tender short ribs braised 
 focusKeyphrase: "Honey Ginger Braised Ribs"
 date: 2025-10-06
 draft: false
-image: honey-ginger-braised-ribs.png
+image: honey-ginger-braised-ribs.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT2H45M

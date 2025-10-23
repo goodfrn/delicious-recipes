@@ -7,7 +7,7 @@ ogDescription: "Enjoy Olive Thyme Focaccias from your waffle iron. These small s
 focusKeyphrase: "Olive Thyme Focaccias"
 date: 2025-08-11
 draft: false
-image: olive-thyme-focaccias.png
+image: olive-thyme-focaccias.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT13M

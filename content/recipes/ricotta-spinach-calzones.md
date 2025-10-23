@@ -7,7 +7,7 @@ ogDescription: "Enjoy Ricotta Spinach Calzones stuffed with rich cheeses and fre
 focusKeyphrase: "Ricotta Spinach Calzones"
 date: 2025-08-28
 draft: false
-image: ricotta-spinach-calzones.png
+image: ricotta-spinach-calzones.jpg
 author: "Kate"
 prepTime: PT28M
 cookTime: PT18M

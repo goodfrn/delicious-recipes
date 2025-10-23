@@ -7,7 +7,7 @@ ogDescription: "Twisted Guacamole Dip features smoky poblano peppers and fresh h
 focusKeyphrase: "Twisted Guacamole Dip"
 date: 2025-07-30
 draft: false
-image: twisted-guacamole-dip.png
+image: twisted-guacamole-dip.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT10M

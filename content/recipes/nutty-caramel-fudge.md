@@ -7,7 +7,7 @@ ogDescription: "Nutty Caramel Fudge combines chocolate and walnuts for a rich, n
 focusKeyphrase: "Nutty Caramel Fudge"
 date: 2025-07-23
 draft: false
-image: nutty-caramel-fudge.png
+image: nutty-caramel-fudge.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT10M

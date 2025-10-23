@@ -7,7 +7,7 @@ ogDescription: "Dive into Shrimp with White Chocolate Cauliflower Purée. Discov
 focusKeyphrase: "Shrimp with White Chocolate"
 date: 2025-08-08
 draft: false
-image: shrimp-white-chocolate-puree.png
+image: shrimp-white-chocolate-puree.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

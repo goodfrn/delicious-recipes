@@ -7,7 +7,7 @@ ogDescription: "Crisp Legume Apple Herb Salad with raw cauliflower, tart apples,
 focusKeyphrase: "Legume Apple Herb Salad"
 date: 2025-09-28
 draft: false
-image: legume-apple-herb-salad.png
+image: legume-apple-herb-salad.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

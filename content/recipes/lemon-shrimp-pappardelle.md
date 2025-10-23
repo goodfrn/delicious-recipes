@@ -7,7 +7,7 @@ ogDescription: "Bright lemon and tender shrimp tossed with pappardelle. A creamy
 focusKeyphrase: "Lemon Shrimp Pappardelle"
 date: 2025-09-23
 draft: false
-image: lemon-shrimp-pappardelle.png
+image: lemon-shrimp-pappardelle.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT18M

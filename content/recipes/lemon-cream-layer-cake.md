@@ -7,7 +7,7 @@ ogDescription: "Lemon Cream Layer Cake combines fluffy layers with a zesty filli
 focusKeyphrase: "Lemon Cream Layer Cake"
 date: 2025-10-17
 draft: false
-image: lemon-cream-layer-cake.png
+image: lemon-cream-layer-cake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

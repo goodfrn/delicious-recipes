@@ -7,7 +7,7 @@ ogDescription: "Enjoy crunchy shrimp toasts with sesame seeds. Great as a snack 
 focusKeyphrase: "crunchy shrimp toasts"
 date: 2025-07-25
 draft: false
-image: crunchy-shrimp-toasts.png
+image: crunchy-shrimp-toasts.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Savor Cherry Tomato Zucchini Spaghetti, fresh veggies and pecori
 focusKeyphrase: "Cherry Tomato Zucchini Spaghetti"
 date: 2025-08-06
 draft: false
-image: cherry-tomato-zucchini-spaghetti.png
+image: cherry-tomato-zucchini-spaghetti.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT20M

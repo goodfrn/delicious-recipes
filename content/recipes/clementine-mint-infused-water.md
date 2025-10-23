@@ -7,7 +7,7 @@ ogDescription: "Clementine Mint Infused Water. Refreshing citrus and herb flavor
 focusKeyphrase: "Clementine Mint Infused Water"
 date: 2025-08-02
 draft: false
-image: clementine-mint-infused-water.png
+image: clementine-mint-infused-water.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT5M

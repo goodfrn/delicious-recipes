@@ -7,7 +7,7 @@ ogDescription: "Vanilla Reduced Fat Cake with Citrus Twist; lightened cake using
 focusKeyphrase: "vanilla reduced fat cake"
 date: 2025-08-02
 draft: false
-image: vanilla-reduced-fat-cake.png
+image: vanilla-reduced-fat-cake.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT48M

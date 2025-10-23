@@ -7,7 +7,7 @@ ogDescription: "Homemade Chicken Vol-au-Vent. Bread shells alternate to pastry; 
 focusKeyphrase: "Chicken Vol-au-Vent"
 date: 2025-08-11
 draft: false
-image: homemade-chicken-vol-au-vent.png
+image: homemade-chicken-vol-au-vent.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT28M

@@ -7,7 +7,7 @@ ogDescription: "A comforting Italian Wedding Soup Remix with rich broth, savory 
 focusKeyphrase: "Italian Wedding Soup Remix"
 date: 2025-09-26
 draft: false
-image: italian-wedding-soup-remix.png
+image: italian-wedding-soup-remix.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H35M

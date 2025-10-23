@@ -7,7 +7,7 @@ ogDescription: "Lemon Raspberry Scones; tender with fresh raspberries. Buttery g
 focusKeyphrase: "Lemon Raspberry Scones"
 date: 2025-09-30
 draft: false
-image: lemon-raspberry-scones.png
+image: lemon-raspberry-scones.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT20M

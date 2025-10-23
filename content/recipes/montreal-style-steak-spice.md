@@ -7,7 +7,7 @@ ogDescription: "Enhance your grilling with Montreal Style Steak Spice Mix. A coa
 focusKeyphrase: "Montreal Style Steak Spice Mix"
 date: 2025-08-15
 draft: false
-image: montreal-style-steak-spice.png
+image: montreal-style-steak-spice.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT0M

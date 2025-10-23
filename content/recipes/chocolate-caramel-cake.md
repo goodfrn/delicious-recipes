@@ -7,7 +7,7 @@ ogDescription: "Craft layers of chocolate and salted caramel buttercream. Experi
 focusKeyphrase: "Chocolate Caramel Buttercream Cake"
 date: 2025-08-12
 draft: false
-image: chocolate-caramel-cake.png
+image: chocolate-caramel-cake.jpg
 author: "Kate"
 prepTime: PT1H35M
 cookTime: PT1H25M

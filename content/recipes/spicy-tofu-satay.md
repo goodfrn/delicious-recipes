@@ -7,7 +7,7 @@ ogDescription: "Try Air Fryer Spicy Tofu Satay; crispy tofu with tahini sauce re
 focusKeyphrase: "Spicy Tofu Satay"
 date: 2025-09-25
 draft: false
-image: spicy-tofu-satay.png
+image: spicy-tofu-satay.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

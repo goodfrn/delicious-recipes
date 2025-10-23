@@ -7,7 +7,7 @@ ogDescription: "Enjoy a citrusy Citrus Pom Cosmo Twist cocktail blending fresh j
 focusKeyphrase: "Citrus Pom Cosmo Twist"
 date: 2025-07-25
 draft: false
-image: citrus-pom-cosmo-twist.png
+image: citrus-pom-cosmo-twist.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT4M

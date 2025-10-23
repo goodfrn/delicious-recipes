@@ -7,7 +7,7 @@ ogDescription: "Crunchy cornmeal sausage sticks - crispy exterior, savory interi
 focusKeyphrase: "Cornmeal Sausage Sticks"
 date: 2025-08-07
 draft: false
-image: cornmeal-sausage-sticks.png
+image: cornmeal-sausage-sticks.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

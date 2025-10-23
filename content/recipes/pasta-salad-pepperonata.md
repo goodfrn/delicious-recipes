@@ -7,7 +7,7 @@ ogDescription: "Enjoy Pasta Salad with Pepperonata Twist; a vibrant dish with sa
 focusKeyphrase: "Pasta Salad with Pepperonata Twist"
 date: 2025-08-04
 draft: false
-image: pasta-salad-pepperonata.png
+image: pasta-salad-pepperonata.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

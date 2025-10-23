@@ -7,7 +7,7 @@ ogDescription: "Artichokes in Tomato Vinaigrette; a delicious dish with creamy y
 focusKeyphrase: "Artichokes in Tomato Vinaigrette"
 date: 2025-08-10
 draft: false
-image: artichokes-in-tomato-vinaigrette.png
+image: artichokes-in-tomato-vinaigrette.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

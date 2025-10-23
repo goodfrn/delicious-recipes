@@ -7,7 +7,7 @@ ogDescription: "Indulge in Pistachio Raspberry Ice Cake. With meringue layers, c
 focusKeyphrase: "Pistachio Raspberry Ice Cake"
 date: 2025-07-25
 draft: false
-image: pistachio-raspberry-ice-cake.png
+image: pistachio-raspberry-ice-cake.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT35M

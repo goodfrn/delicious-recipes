@@ -7,7 +7,7 @@ ogDescription: "Savor Quick Spiced Fish Stew. Bold flavors of tilapia, shrimp, s
 focusKeyphrase: "Quick Spiced Fish Stew"
 date: 2025-07-24
 draft: false
-image: quick-spiced-fish-stew.png
+image: quick-spiced-fish-stew.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

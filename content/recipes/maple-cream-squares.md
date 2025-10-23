@@ -7,7 +7,7 @@ ogDescription: "Indulge in Maple Cream Squares; rich maple flavor meets creamy c
 focusKeyphrase: "Maple Cream Squares"
 date: 2025-08-14
 draft: false
-image: maple-cream-squares.png
+image: maple-cream-squares.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

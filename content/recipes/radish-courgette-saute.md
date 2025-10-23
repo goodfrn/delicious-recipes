@@ -7,7 +7,7 @@ ogDescription: "Try Radish Courgette Sauté for an aromatic, vibrant side dish p
 focusKeyphrase: "Radish Courgette Sauté"
 date: 2025-08-04
 draft: false
-image: radish-courgette-saute.png
+image: radish-courgette-saute.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

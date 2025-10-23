@@ -7,7 +7,7 @@ ogDescription: "Experience a refreshing Herbed Yogurt Cucumber Dip that blends h
 focusKeyphrase: "Herbed Yogurt Cucumber Dip"
 date: 2025-08-16
 draft: false
-image: herbed-yogurt-cucumber-dip.png
+image: herbed-yogurt-cucumber-dip.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Creamy Chicken Fettuccine Twist is a rich pasta dish with chicke
 focusKeyphrase: "Chicken Fettuccine Twist"
 date: 2025-08-15
 draft: false
-image: chicken-fettuccine-twist.png
+image: chicken-fettuccine-twist.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

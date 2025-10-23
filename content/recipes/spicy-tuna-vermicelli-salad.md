@@ -7,7 +7,7 @@ ogDescription: "Try Spicy Tuna Vermicelli Salad. Boldly spiced tuna, crunchy veg
 focusKeyphrase: "Spicy Tuna Vermicelli Salad"
 date: 2025-08-11
 draft: false
-image: spicy-tuna-vermicelli-salad.png
+image: spicy-tuna-vermicelli-salad.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT4M

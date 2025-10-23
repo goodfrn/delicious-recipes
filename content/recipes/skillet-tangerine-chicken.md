@@ -7,7 +7,7 @@ ogDescription: "Enjoy bold flavors with Skillet Tangerine Chicken Twist, a savor
 focusKeyphrase: "Tangerine Chicken Recipe"
 date: 2025-10-03
 draft: false
-image: skillet-tangerine-chicken.png
+image: skillet-tangerine-chicken.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

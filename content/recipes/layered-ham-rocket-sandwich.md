@@ -7,7 +7,7 @@ ogDescription: "Layered Ham Rocket Sandwich delivers flavor-packed layers; a sop
 focusKeyphrase: "Layered Ham Rocket Sandwich"
 date: 2025-08-13
 draft: false
-image: layered-ham-rocket-sandwich.png
+image: layered-ham-rocket-sandwich.jpg
 author: "Kate"
 prepTime: PT1H25M
 cookTime: PT0M

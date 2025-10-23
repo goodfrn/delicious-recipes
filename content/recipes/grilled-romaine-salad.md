@@ -7,7 +7,7 @@ ogDescription: "Enjoy Grilled Romaine Salad with charred heirloom tomatoes and t
 focusKeyphrase: "Grilled Romaine Salad"
 date: 2025-08-12
 draft: false
-image: grilled-romaine-salad.png
+image: grilled-romaine-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

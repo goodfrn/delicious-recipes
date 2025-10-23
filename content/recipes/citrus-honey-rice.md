@@ -7,7 +7,7 @@ ogDescription: "Citrus Honey Rice. Bright, tangy notes from lime and agave necta
 focusKeyphrase: "citrus honey rice"
 date: 2025-07-29
 draft: false
-image: citrus-honey-rice.png
+image: citrus-honey-rice.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT20M

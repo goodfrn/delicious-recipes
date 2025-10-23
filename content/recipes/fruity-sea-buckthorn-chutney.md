@@ -7,7 +7,7 @@ ogDescription: "Flavorful Fruity Sea Buckthorn Chutney bursting with vibrant ing
 focusKeyphrase: "Fruity Sea Buckthorn Chutney"
 date: 2025-09-30
 draft: false
-image: fruity-sea-buckthorn-chutney.png
+image: fruity-sea-buckthorn-chutney.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT35M

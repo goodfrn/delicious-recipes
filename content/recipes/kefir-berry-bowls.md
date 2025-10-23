@@ -7,7 +7,7 @@ ogDescription: "Experience Kefir Berry Breakfast Bowls; grains, seeds, and juicy
 focusKeyphrase: "kefir breakfast bowls"
 date: 2025-09-06
 draft: false
-image: kefir-berry-bowls.png
+image: kefir-berry-bowls.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT0M

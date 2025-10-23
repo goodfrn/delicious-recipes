@@ -7,7 +7,7 @@ ogDescription: "Savor Grilled Halloumi Chickpea Salad—quick, fresh, and a perf
 focusKeyphrase: "Grilled Halloumi Chickpea Salad"
 date: 2025-08-29
 draft: false
-image: grilled-halloumi-chickpea-salad.png
+image: grilled-halloumi-chickpea-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT15M

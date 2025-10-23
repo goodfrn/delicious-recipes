@@ -7,7 +7,7 @@ ogDescription: "Curried Mussels Fusilli features grilled mussels in a creamy coc
 focusKeyphrase: "Curried Mussels Fusilli"
 date: 2025-08-04
 draft: false
-image: curried-mussels-fusilli.png
+image: curried-mussels-fusilli.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT22M

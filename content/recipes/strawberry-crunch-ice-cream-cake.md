@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Strawberry Crunch Ice Cream Cake with a cookie base, ice
 focusKeyphrase: "Strawberry Crunch Ice Cream Cake"
 date: 2025-10-14
 draft: false
-image: strawberry-crunch-ice-cream-cake.png
+image: strawberry-crunch-ice-cream-cake.jpg
 author: "Kate"
 prepTime: PT75M
 cookTime: PT12M

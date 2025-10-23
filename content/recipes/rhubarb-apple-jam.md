@@ -7,7 +7,7 @@ ogDescription: "Rhubarb Apple Jam Variation blends tart rhubarb and sweet apples
 focusKeyphrase: "Rhubarb Apple Jam"
 date: 2025-08-10
 draft: false
-image: rhubarb-apple-jam.png
+image: rhubarb-apple-jam.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT23M

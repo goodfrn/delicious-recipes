@@ -7,7 +7,7 @@ ogDescription: "Elevate your chicken wings with a blend of maple, horseradish, a
 focusKeyphrase: "Maple Horseradish Chicken Wings"
 date: 2025-09-26
 draft: false
-image: maple-horseradish-wings.png
+image: maple-horseradish-wings.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

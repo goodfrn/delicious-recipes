@@ -7,7 +7,7 @@ ogDescription: "Delve into Osso Buco Adapted, where tender veal dives into a hea
 focusKeyphrase: "Osso Buco"
 date: 2025-09-25
 draft: false
-image: osso-buco.png
+image: osso-buco.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT2H10M

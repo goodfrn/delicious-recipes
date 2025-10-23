@@ -7,7 +7,7 @@ ogDescription: "Experience the twist of Raspberry Maple S’mores with grilled m
 focusKeyphrase: "Raspberry Maple S'mores"
 date: 2025-09-25
 draft: false
-image: raspberry-maple-smores.png
+image: raspberry-maple-smores.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT6M

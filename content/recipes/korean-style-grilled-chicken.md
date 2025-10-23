@@ -7,7 +7,7 @@ ogDescription: "Experience smoky, sweet Korean-Style Grilled Chicken. Fresh herb
 focusKeyphrase: "Korean grilled chicken"
 date: 2025-07-28
 draft: false
-image: korean-style-grilled-chicken.png
+image: korean-style-grilled-chicken.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Ribeye steak seared to perfection, topped with spicy miso butter
 focusKeyphrase: "Steak with Jalapeño Miso Butter"
 date: 2025-09-28
 draft: false
-image: steak-with-jalapeno-butter.png
+image: steak-with-jalapeno-butter.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT7M

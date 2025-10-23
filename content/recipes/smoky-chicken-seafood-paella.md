@@ -7,7 +7,7 @@ ogDescription: "Dive into Smoky Chicken Seafood Paella with smoky flavors from p
 focusKeyphrase: "Smoky Chicken Seafood Paella"
 date: 2025-08-15
 draft: false
-image: smoky-chicken-seafood-paella.png
+image: smoky-chicken-seafood-paella.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT1H35M

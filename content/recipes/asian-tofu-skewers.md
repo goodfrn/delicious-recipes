@@ -7,7 +7,7 @@ ogDescription: "Grilled Asian Tofu Skewers with umami marinade, vibrant bell pep
 focusKeyphrase: "Asian Tofu Skewers"
 date: 2025-09-26
 draft: false
-image: asian-tofu-skewers.png
+image: asian-tofu-skewers.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT25M

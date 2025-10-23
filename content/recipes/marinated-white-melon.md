@@ -7,7 +7,7 @@ ogDescription: "Explore Marinated White Melon Julienne. A refreshing vegan condi
 focusKeyphrase: "Marinated White Melon Julienne"
 date: 2025-07-29
 draft: false
-image: marinated-white-melon.png
+image: marinated-white-melon.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

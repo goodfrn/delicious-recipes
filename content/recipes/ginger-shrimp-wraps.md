@@ -7,7 +7,7 @@ ogDescription: "Try these vibrant Ginger Shrimp Wraps packed with savory shrimp,
 focusKeyphrase: "Ginger Shrimp Wraps"
 date: 2025-10-03
 draft: false
-image: ginger-shrimp-wraps.png
+image: ginger-shrimp-wraps.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT13M

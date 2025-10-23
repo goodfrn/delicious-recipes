@@ -7,7 +7,7 @@ ogDescription: "Rustic Pork Cretons; a classic French-Canadian pork spread, simm
 focusKeyphrase: "Rustic Pork Cretons recipe"
 date: 2025-09-03
 draft: false
-image: rustic-pork-cretons.png
+image: rustic-pork-cretons.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H5M

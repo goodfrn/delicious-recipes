@@ -7,7 +7,7 @@ ogDescription: "A Crispy Caesar Salad with toasted sourdough and smoky pancetta.
 focusKeyphrase: "Crispy Caesar Salad"
 date: 2025-08-05
 draft: false
-image: crispy-caesar-salad.png
+image: crispy-caesar-salad.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT17M

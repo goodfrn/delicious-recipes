@@ -7,7 +7,7 @@ ogDescription: "Savor the depth of Chicken Roulades with sundried tomato pesto a
 focusKeyphrase: "Chicken Roulades"
 date: 2025-08-07
 draft: false
-image: chicken-roulades.png
+image: chicken-roulades.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT55M

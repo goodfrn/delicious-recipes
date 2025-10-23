@@ -7,7 +7,7 @@ ogDescription: "Enjoy a rich Valentine Chocolate Raspberry Cake with layers of t
 focusKeyphrase: "Valentine Chocolate Raspberry Cake"
 date: 2025-07-20
 draft: false
-image: valentine-chocolate-cake.png
+image: valentine-chocolate-cake.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT40M

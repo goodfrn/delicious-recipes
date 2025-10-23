@@ -7,7 +7,7 @@ ogDescription: "Elevate your salad game with Mimosa Asparagus Salad. A unique tw
 focusKeyphrase: "Mimosa Asparagus Salad"
 date: 2025-07-25
 draft: false
-image: mimosa-asparagus-salad.png
+image: mimosa-asparagus-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT4M

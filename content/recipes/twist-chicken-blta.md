@@ -7,7 +7,7 @@ ogDescription: "Try Twist Chicken BLT. A unique blend with turkey and prosciutto
 focusKeyphrase: "Twist Chicken BLT"
 date: 2025-07-30
 draft: false
-image: twist-chicken-blta.png
+image: twist-chicken-blta.jpg
 author: "Kate"
 prepTime: PT5M
 cookTime: PT5M

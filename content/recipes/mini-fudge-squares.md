@@ -7,7 +7,7 @@ ogDescription: "Indulge in mini fudge squares — rich chocolate bites that pack
 focusKeyphrase: "mini fudge squares"
 date: 2025-08-02
 draft: false
-image: mini-fudge-squares.png
+image: mini-fudge-squares.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT18M

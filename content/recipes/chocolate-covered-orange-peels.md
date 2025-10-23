@@ -7,7 +7,7 @@ ogDescription: "Craft your own Chocolate-Covered Candied Orange Peels. Bitter to
 focusKeyphrase: "Chocolate-Covered Candied Orange Peels"
 date: 2025-09-23
 draft: false
-image: chocolate-covered-orange-peels.png
+image: chocolate-covered-orange-peels.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT60M

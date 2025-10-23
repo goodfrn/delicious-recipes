@@ -7,7 +7,7 @@ ogDescription: "Vegan Energy Bites. A blend of oats, seeds, and fruits. Tasty, n
 focusKeyphrase: "Vegan Energy Bites"
 date: 2025-08-11
 draft: false
-image: vegan-energy-bites.png
+image: vegan-energy-bites.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Savor Gluten-Free Tuna Fritters made with masa harina and spiced
 focusKeyphrase: "Gluten-Free Tuna Fritters"
 date: 2025-07-29
 draft: false
-image: gluten-free-tuna-fritters.png
+image: gluten-free-tuna-fritters.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

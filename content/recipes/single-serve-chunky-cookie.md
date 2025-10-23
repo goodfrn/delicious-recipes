@@ -7,7 +7,7 @@ ogDescription: "Quickly whip up a Single-Serve Chunky Chip Cookie. Thick, fudgy 
 focusKeyphrase: "Single-Serve Chunky Chip Cookie"
 date: 2025-10-14
 draft: false
-image: single-serve-chunky-cookie.png
+image: single-serve-chunky-cookie.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT18M

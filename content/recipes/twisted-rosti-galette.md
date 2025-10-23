@@ -7,7 +7,7 @@ ogDescription: "Crispy Twisted Rösti Galette with Yukon Gold potatoes and olive
 focusKeyphrase: "Twisted Rösti Galette"
 date: 2025-08-05
 draft: false
-image: twisted-rosti-galette.png
+image: twisted-rosti-galette.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

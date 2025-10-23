@@ -7,7 +7,7 @@ ogDescription: "Juicy grilled pears topped with a sticky maple lime glaze, a fre
 focusKeyphrase: "Grilled pears"
 date: 2025-08-05
 draft: false
-image: grilled-pears-maple-lime.png
+image: grilled-pears-maple-lime.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT15M

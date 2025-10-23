@@ -7,7 +7,7 @@ ogDescription: "Delight in Apple Oat Squares Remix. An oat-based dessert bar fea
 focusKeyphrase: "apple oat squares recipe"
 date: 2025-08-13
 draft: false
-image: apple-oat-squares.png
+image: apple-oat-squares.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT50M

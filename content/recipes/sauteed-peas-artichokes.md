@@ -7,7 +7,7 @@ ogDescription: "Try Sautéed Peas with Artichokes Twist—quick to make, packed 
 focusKeyphrase: "Sautéed Peas with Artichokes"
 date: 2025-07-31
 draft: false
-image: sauteed-peas-artichokes.png
+image: sauteed-peas-artichokes.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT15M

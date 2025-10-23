@@ -7,7 +7,7 @@ ogDescription: "Grilled mini peppers filled with halloumi and olives, a quick su
 focusKeyphrase: "Stuffed Mini Peppers"
 date: 2025-08-04
 draft: false
-image: stuffed-mini-peppers.png
+image: stuffed-mini-peppers.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT10M

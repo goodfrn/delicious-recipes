@@ -7,7 +7,7 @@ ogDescription: "Enjoy Crunchy Veggie Salad with colorful carrots, radishes, kale
 focusKeyphrase: "Crunchy Veggie Salad"
 date: 2025-09-25
 draft: false
-image: crunchy-veggie-salad.png
+image: crunchy-veggie-salad.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

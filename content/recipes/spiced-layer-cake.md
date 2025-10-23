@@ -7,7 +7,7 @@ ogDescription: "Indulge in a Spiced Layer Cake With Dulce Frosting. Layers of sp
 focusKeyphrase: "Spiced Layer Cake"
 date: 2025-08-01
 draft: false
-image: spiced-layer-cake.png
+image: spiced-layer-cake.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT27M

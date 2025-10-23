@@ -7,7 +7,7 @@ ogDescription: "Enjoy our Rose Grapefruit Fizz cocktail, a zesty and floral mix 
 focusKeyphrase: "Rose Grapefruit Fizz"
 date: 2025-07-26
 draft: false
-image: rose-grapefruit-fizz.png
+image: rose-grapefruit-fizz.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT5M

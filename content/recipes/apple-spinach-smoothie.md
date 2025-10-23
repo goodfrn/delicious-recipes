@@ -7,7 +7,7 @@ ogDescription: "Enjoy a refreshing Apple Spinach Smoothie Twist with apples, kal
 focusKeyphrase: "Apple Spinach Smoothie"
 date: 2025-07-21
 draft: false
-image: apple-spinach-smoothie.png
+image: apple-spinach-smoothie.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT0M

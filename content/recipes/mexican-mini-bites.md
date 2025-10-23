@@ -7,7 +7,7 @@ ogDescription: "Delicious Mexican Mini Bites with creamy scrambled eggs on crunc
 focusKeyphrase: "Mexican Mini Bites"
 date: 2025-07-27
 draft: false
-image: mexican-mini-bites.png
+image: mexican-mini-bites.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT6M

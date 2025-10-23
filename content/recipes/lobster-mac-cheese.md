@@ -7,7 +7,7 @@ ogDescription: "Indulge in Lobster Mac Cheese, a creamy blend of macaroni, shred
 focusKeyphrase: "Lobster Mac Cheese"
 date: 2025-10-07
 draft: false
-image: lobster-mac-cheese.png
+image: lobster-mac-cheese.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT35M

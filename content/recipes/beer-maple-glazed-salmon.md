@@ -7,7 +7,7 @@ ogDescription: "Enjoy Beer Maple Glazed Salmon - a quick, flavorful way to prepa
 focusKeyphrase: "Beer Maple Glazed Salmon"
 date: 2025-07-30
 draft: false
-image: beer-maple-glazed-salmon.png
+image: beer-maple-glazed-salmon.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT14M

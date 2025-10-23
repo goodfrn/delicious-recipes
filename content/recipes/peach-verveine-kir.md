@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Peach-Verveine Kir. A light cocktail that combines spark
 focusKeyphrase: "Peach-Verveine Kir"
 date: 2025-07-29
 draft: false
-image: peach-verveine-kir.png
+image: peach-verveine-kir.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Crispy Shrimp Arancini Bites, great for sharing or as a main. Ea
 focusKeyphrase: "Shrimp Arancini Bites"
 date: 2025-09-27
 draft: false
-image: shrimp-arancini-bites.png
+image: shrimp-arancini-bites.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT25M

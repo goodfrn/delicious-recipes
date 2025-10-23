@@ -7,7 +7,7 @@ ogDescription: "Flavorful Squash Apple Crackers blend roasted squash and apple. 
 focusKeyphrase: "Squash Apple Crackers"
 date: 2025-08-28
 draft: false
-image: squash-apple-crackers.png
+image: squash-apple-crackers.jpg
 author: "Kate"
 prepTime: 18
 cookTime: 20

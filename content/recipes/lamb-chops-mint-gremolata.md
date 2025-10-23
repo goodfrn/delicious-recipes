@@ -7,7 +7,7 @@ ogDescription: "Lamb Chops with Mint Gremolata. A quick, flavorful dish that sho
 focusKeyphrase: "Lamb Chops"
 date: 2025-08-01
 draft: false
-image: lamb-chops-mint-gremolata.png
+image: lamb-chops-mint-gremolata.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT7M

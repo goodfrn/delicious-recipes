@@ -7,7 +7,7 @@ ogDescription: "Delicious Salmon Tartare Remix featuring red onion and dill. Qui
 focusKeyphrase: "Salmon Tartare"
 date: 2025-07-29
 draft: false
-image: salmon-tartare-remix.png
+image: salmon-tartare-remix.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Bright and flavorful Giant Scallops. Lime, turmeric, agave creat
 focusKeyphrase: "Giant Scallops"
 date: 2025-07-28
 draft: false
-image: giant-scallops-lemon-ginger.png
+image: giant-scallops-lemon-ginger.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Experience a chilled bowl of Chickpea Rocket Cold Soup. A vibran
 focusKeyphrase: "Chickpea Rocket Cold Soup"
 date: 2025-08-07
 draft: false
-image: chickpea-rocket-cold-soup.png
+image: chickpea-rocket-cold-soup.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Savory Italian Sausage Patties using ground pork, dry white wine
 focusKeyphrase: "Italian Sausage Patties"
 date: 2025-08-01
 draft: false
-image: italian-sausage-patties.png
+image: italian-sausage-patties.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT18M

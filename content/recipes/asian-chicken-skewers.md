@@ -7,7 +7,7 @@ ogDescription: "Flavor-packed Asian Chicken Skewers Twist. Unique marinade. Quic
 focusKeyphrase: "Asian Chicken Skewers"
 date: 2025-07-27
 draft: false
-image: asian-chicken-skewers.png
+image: asian-chicken-skewers.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT9M

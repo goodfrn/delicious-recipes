@@ -7,7 +7,7 @@ ogDescription: "Experience the creamy labneh with za'atar twist; a quick guide t
 focusKeyphrase: "Labneh with Za'atar Twist"
 date: 2025-08-14
 draft: false
-image: labneh-with-zaatar-twist.png
+image: labneh-with-zaatar-twist.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT0M

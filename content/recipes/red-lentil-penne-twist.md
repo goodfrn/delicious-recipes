@@ -7,7 +7,7 @@ ogDescription: "Discover Red Lentil Penne Twist, a vegetarian delight combining 
 focusKeyphrase: "Red Lentil Penne Twist"
 date: 2025-07-23
 draft: false
-image: red-lentil-penne-twist.png
+image: red-lentil-penne-twist.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT28M

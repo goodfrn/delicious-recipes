@@ -7,7 +7,7 @@ ogDescription: "Enjoy Corn Muffin Variation with unique combinations of corn and
 focusKeyphrase: "corn muffins"
 date: 2025-07-21
 draft: false
-image: corn-muffin-variation.png
+image: corn-muffin-variation.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

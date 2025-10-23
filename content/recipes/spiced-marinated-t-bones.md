@@ -7,7 +7,7 @@ ogDescription: "Spiced Marinated T-Bones, grilled to perfection. Experience the 
 focusKeyphrase: "Spiced Marinated T-Bones"
 date: 2025-09-28
 draft: false
-image: spiced-marinated-t-bones.png
+image: spiced-marinated-t-bones.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT12M

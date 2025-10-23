@@ -7,7 +7,7 @@ ogDescription: "Explore Leek Milk & Crispy Cheese Verrines; a tangy, creamy deli
 focusKeyphrase: "Leek Milk & Crispy Cheese Verrines"
 date: 2025-08-17
 draft: false
-image: leek-milk-crispy-cheese.png
+image: leek-milk-crispy-cheese.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT30M

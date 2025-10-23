@@ -7,7 +7,7 @@ ogDescription: "Delight in Cajun-Spiced Salmon Veggies featuring smokiness from 
 focusKeyphrase: "Cajun-Spiced Salmon Veggies"
 date: 2025-07-23
 draft: false
-image: cajun-spiced-salmon-veggies.png
+image: cajun-spiced-salmon-veggies.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

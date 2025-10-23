@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Hearty Club Breakfast with layers of turkey bacon, cream
 focusKeyphrase: "Hearty Club Breakfast"
 date: 2025-07-28
 draft: false
-image: hearty-club-breakfast.png
+image: hearty-club-breakfast.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT18M

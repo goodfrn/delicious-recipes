@@ -7,7 +7,7 @@ ogDescription: "Creamy cheese, crunchy celery—Celery Cheese Shooters bring tex
 focusKeyphrase: "Celery Cheese Shooters"
 date: 2025-09-27
 draft: false
-image: celery-cheese-shooters.png
+image: celery-cheese-shooters.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Experience the Twisted Blue Hawaiian; a beautiful mix of fresh j
 focusKeyphrase: "Twisted Blue Hawaiian cocktail"
 date: 2025-09-14
 draft: false
-image: twisted-blue-hawaiian.png
+image: twisted-blue-hawaiian.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

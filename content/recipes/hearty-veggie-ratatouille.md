@@ -7,7 +7,7 @@ ogDescription: "Try Hearty Veggie Ratatouille packed with eggplant, zucchini, an
 focusKeyphrase: "Hearty Veggie Ratatouille"
 date: 2025-09-27
 draft: false
-image: hearty-veggie-ratatouille.png
+image: hearty-veggie-ratatouille.jpg
 author: "Kate"
 prepTime: PT0H35M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Make Yogurt Flour Pizza Dough for easy homemade pizza with Greek
 focusKeyphrase: "Yogurt Flour Pizza Dough"
 date: 2025-10-04
 draft: false
-image: yogurt-flour-pizza.png
+image: yogurt-flour-pizza.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT18M

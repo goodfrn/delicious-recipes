@@ -7,7 +7,7 @@ ogDescription: "Enjoy a flavorful Red Curry Tofu Stir-Fry with marinated tofu an
 focusKeyphrase: "Red Curry Tofu Stir-Fry"
 date: 2025-07-26
 draft: false
-image: red-curry-tofu-stir-fry.png
+image: red-curry-tofu-stir-fry.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT20M

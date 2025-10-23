@@ -7,7 +7,7 @@ ogDescription: "Choco-Orange Truffle Cake features chocolate, ginger, and a nutt
 focusKeyphrase: "Choco-Orange Truffle Cake"
 date: 2025-08-04
 draft: false
-image: choco-orange-truffle-cake.png
+image: choco-orange-truffle-cake.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT40M

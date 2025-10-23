@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked veal shank with honey glaze, rosemary, and apple cid
 focusKeyphrase: "Honey-Braised Veal Shank"
 date: 2025-08-11
 draft: false
-image: honey-braised-veal-shank.png
+image: honey-braised-veal-shank.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT3H

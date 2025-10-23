@@ -7,7 +7,7 @@ ogDescription: "Experience a rustic Lentil Salad Duck Blueberry featuring savory
 focusKeyphrase: "Lentil Salad Duck Blueberry"
 date: 2025-08-11
 draft: false
-image: lentil-salad-duck-blueberry.png
+image: lentil-salad-duck-blueberry.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

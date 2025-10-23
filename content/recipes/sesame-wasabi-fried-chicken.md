@@ -7,7 +7,7 @@ ogDescription: "Enjoy Sesame Wasabi Fried Chicken with a spicy mayo dip. Quick t
 focusKeyphrase: "Sesame Wasabi Fried Chicken"
 date: 2025-07-21
 draft: false
-image: sesame-wasabi-fried-chicken.png
+image: sesame-wasabi-fried-chicken.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

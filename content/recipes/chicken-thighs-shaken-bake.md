@@ -7,7 +7,7 @@ ogDescription: "Enjoy Chicken Thighs Shake'n Bake Kick, with crunchy toasted cou
 focusKeyphrase: "Chicken Thighs Shake'n Bake"
 date: 2025-08-11
 draft: false
-image: chicken-thighs-shaken-bake.png
+image: chicken-thighs-shaken-bake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

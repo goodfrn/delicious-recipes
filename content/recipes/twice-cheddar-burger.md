@@ -7,7 +7,7 @@ ogDescription: "Savor the Twice-Cheddar Double Burger. Layered with juicy pattie
 focusKeyphrase: "Twice-Cheddar Double Burger"
 date: 2025-10-09
 draft: false
-image: twice-cheddar-burger.png
+image: twice-cheddar-burger.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT18M

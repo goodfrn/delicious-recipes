@@ -7,7 +7,7 @@ ogDescription: "Berry Pineapple Financiers offer a vegan twist on classic financ
 focusKeyphrase: "Berry Pineapple Financiers"
 date: 2025-08-08
 draft: false
-image: berry-pineapple-financiers.png
+image: berry-pineapple-financiers.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

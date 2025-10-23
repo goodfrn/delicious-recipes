@@ -7,7 +7,7 @@ ogDescription: "This Garlic Herb Butter Toast is a savory side perfect for any m
 focusKeyphrase: "Garlic Herb Butter Toast"
 date: 2025-09-27
 draft: false
-image: garlic-herb-butter-toast.png
+image: garlic-herb-butter-toast.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Pasta Salad with Asparagus and Bocconcini features fresh ingredi
 focusKeyphrase: "Pasta Salad with Asparagus and Bocconcini"
 date: 2025-07-29
 draft: false
-image: pasta-salad-asparagus-bocconcini.png
+image: pasta-salad-asparagus-bocconcini.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT17M

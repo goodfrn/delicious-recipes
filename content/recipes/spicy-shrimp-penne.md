@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spicy Shrimp Penne with a kick! Sear shrimp, simmer in spi
 focusKeyphrase: "Spicy Shrimp Penne"
 date: 2025-07-24
 draft: false
-image: spicy-shrimp-penne.png
+image: spicy-shrimp-penne.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

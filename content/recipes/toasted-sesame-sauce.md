@@ -7,7 +7,7 @@ ogDescription: "Quick blend of creamy and toasted sesame flavors. Use on noodles
 focusKeyphrase: "Toasted Sesame Sauce Remix"
 date: 2025-08-09
 draft: false
-image: toasted-sesame-sauce.png
+image: toasted-sesame-sauce.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

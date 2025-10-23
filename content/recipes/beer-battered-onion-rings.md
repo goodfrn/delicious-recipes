@@ -7,7 +7,7 @@ ogDescription: "Crispy beer battered onion rings, easy and satisfying. Dive into
 focusKeyphrase: "beer battered onion rings"
 date: 2025-08-11
 draft: false
-image: beer-battered-onion-rings.png
+image: beer-battered-onion-rings.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

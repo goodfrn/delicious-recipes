@@ -75,33 +75,23 @@
     <!-- En-tête recette responsive -->
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8 lg:gap-12 items-start mb-12 md:mb-16 pb-6 md:pb-8">
       
-      <!-- Image responsive -->
+<!-- Image responsive -->
       {{ with .Params.image }}
         <div class="w-full max-w-sm mx-auto lg:mx-0 lg:max-w-none order-1 lg:order-1">
-          {{ $img := resources.Get (printf "images/%s" .) }}
-          {{ if $img }}
-            {{ $webp := $img.Fill "400x600 q65 webp" }}
-            {{ $fallback := $img.Fill "400x600 q70" }}
-            
-            <div class="relative p-1 md:p-2 bg-gradient-to-br from-white via-gray-50 to-white rounded-2xl md:rounded-3xl shadow-lg md:shadow-2xl">
-              <picture>
-                <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                <img src="{{ $fallback.RelPermalink }}" 
-                     alt="{{ $.Title }}" 
-                     class="rounded-xl md:rounded-2xl w-full h-auto object-cover"
-                     loading="eager"
-                     width="600" 
-                     height="900">
-              </picture>
-              <!-- Accents décoratifs cachés sur mobile -->
-              <div class="hidden md:block absolute -top-1 -left-1 w-4 h-4 md:w-6 md:h-6 border-t-2 border-l-2 rounded-tl-xl" style="border-color: var(--primary);"></div>
-              <div class="hidden md:block absolute -bottom-1 -right-1 w-4 h-4 md:w-6 md:h-6 border-b-2 border-r-2 rounded-br-xl" style="border-color: var(--secondary);"></div>
+          <div class="relative p-1 md:p-2 bg-gradient-to-br from-white via-gray-50 to-white rounded-2xl md:rounded-3xl shadow-lg md:shadow-2xl">
+            <div class="rounded-xl md:rounded-2xl overflow-hidden">
+              {{ partial "recipe-image.html" (dict 
+                "image" . 
+                "title" $.Title 
+                "variant" "single"
+                "loading" "eager" 
+                "fetchpriority" "high"
+              ) }}
             </div>
-          {{ else }}
-            <div class="w-full h-64 md:h-80 bg-gradient-to-br from-gray-100 to-gray-200 rounded-2xl flex items-center justify-center">
-              <span class="text-gray-400 text-sm md:text-base">Recipe image coming soon</span>
-            </div>
-          {{ end }}
+            <!-- Accents décoratifs cachés sur mobile -->
+            <div class="hidden md:block absolute -top-1 -left-1 w-4 h-4 md:w-6 md:h-6 border-t-2 border-l-2 rounded-tl-xl" style="border-color: var(--primary);"></div>
+            <div class="hidden md:block absolute -bottom-1 -right-1 w-4 h-4 md:w-6 md:h-6 border-b-2 border-r-2 rounded-br-xl" style="border-color: var(--secondary);"></div>
+          </div>
         </div>
       {{ end }}
       

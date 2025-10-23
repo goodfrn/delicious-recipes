@@ -7,7 +7,7 @@ ogDescription: "Sear pork chops in pancetta fat, layered with creamy goat cheese
 focusKeyphrase: "Pork Chops with Creamy Bacon Sauce"
 date: 2025-10-16
 draft: false
-image: pork-chops-bacon-sauce.png
+image: pork-chops-bacon-sauce.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

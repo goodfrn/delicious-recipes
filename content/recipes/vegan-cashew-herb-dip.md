@@ -7,7 +7,7 @@ ogDescription: "Vegan Cashew Herb Dip delivers creamy goodness loaded with herbs
 focusKeyphrase: "Vegan Cashew Herb Dip"
 date: 2025-08-03
 draft: false
-image: vegan-cashew-herb-dip.png
+image: vegan-cashew-herb-dip.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

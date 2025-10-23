@@ -7,7 +7,7 @@ ogDescription: "This Velvety Hazelnut Cream Dip combines cream cheese, hazelnut 
 focusKeyphrase: "Velvety Hazelnut Cream Dip"
 date: 2025-10-05
 draft: false
-image: velvety-hazelnut-cream-dip.png
+image: velvety-hazelnut-cream-dip.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT0M

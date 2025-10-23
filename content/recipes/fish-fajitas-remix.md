@@ -7,7 +7,7 @@ ogDescription: "Fish Fajitas Remix offers a vibrant mix of fish and fresh salsa 
 focusKeyphrase: "Fish Fajitas Remix"
 date: 2025-08-16
 draft: false
-image: fish-fajitas-remix.png
+image: fish-fajitas-remix.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

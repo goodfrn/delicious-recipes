@@ -7,7 +7,7 @@ ogDescription: "Zesty Spicy Herb Coriander Sauce with a kick. Perfect on grilled
 focusKeyphrase: "Spicy Herb Coriander Sauce"
 date: 2025-09-25
 draft: false
-image: spicy-herb-coriander-sauce.png
+image: spicy-herb-coriander-sauce.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT18M

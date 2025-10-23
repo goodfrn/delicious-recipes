@@ -7,7 +7,7 @@ ogDescription: "Indulge in Twisted Vanilla Frozen Yogurt. A mix of coconut sugar
 focusKeyphrase: "Twisted Vanilla Frozen Yogurt"
 date: 2025-07-27
 draft: false
-image: twisted-vanilla-frozen-yogurt.png
+image: twisted-vanilla-frozen-yogurt.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

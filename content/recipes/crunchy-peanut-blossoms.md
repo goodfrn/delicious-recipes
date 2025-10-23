@@ -7,7 +7,7 @@ ogDescription: "Crunchy Peanut Blossoms. Almond-based with coconut oil replace. 
 focusKeyphrase: "Crunchy Peanut Blossoms"
 date: 2025-10-13
 draft: false
-image: crunchy-peanut-blossoms.png
+image: crunchy-peanut-blossoms.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

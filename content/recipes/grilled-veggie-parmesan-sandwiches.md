@@ -7,7 +7,7 @@ ogDescription: "Enjoy Grilled Veggie Parmesan Spread Sandwiches with layered gri
 focusKeyphrase: "Grilled Veggie Parmesan Spread Sandwiches"
 date: 2025-07-25
 draft: false
-image: grilled-veggie-parmesan-sandwiches.png
+image: grilled-veggie-parmesan-sandwiches.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Savor Beer Chili Twist. A smoky, warming dish combining ground t
 focusKeyphrase: "Beer Chili Twist"
 date: 2025-08-17
 draft: false
-image: beer-chili-twist.png
+image: beer-chili-twist.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H

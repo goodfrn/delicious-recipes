@@ -7,7 +7,7 @@ ogDescription: "Enjoy a hearty Lentil Cream with Roasted Veggies, blending earth
 focusKeyphrase: "Lentil Cream Soup"
 date: 2025-08-08
 draft: false
-image: lentil-cream-roasted-veggies.png
+image: lentil-cream-roasted-veggies.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

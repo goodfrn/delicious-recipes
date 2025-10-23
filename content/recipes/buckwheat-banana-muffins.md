@@ -7,7 +7,7 @@ ogDescription: "Enjoy Buckwheat Banana Almond Muffins full of ripe bananas, roas
 focusKeyphrase: "Buckwheat Banana Almond Muffins"
 date: 2025-09-15
 draft: false
-image: buckwheat-banana-muffins.png
+image: buckwheat-banana-muffins.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT20M

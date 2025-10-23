@@ -7,7 +7,7 @@ ogDescription: "Delve into the eerie crunch of Witch Fingers Cookies. Chewy and 
 focusKeyphrase: "Witch Fingers Cookies"
 date: 2025-08-10
 draft: false
-image: witch-fingers-cookies.png
+image: witch-fingers-cookies.jpg
 author: "Kate"
 prepTime: PT22M
 cookTime: PT14M

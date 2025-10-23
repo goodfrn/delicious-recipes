@@ -7,7 +7,7 @@ ogDescription: "Potato Crêpes Twist, crispy edges and tender inside. A versatil
 focusKeyphrase: "potato crêpes"
 date: 2025-09-07
 draft: false
-image: potato-crepes-twist.png
+image: potato-crepes-twist.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT22M

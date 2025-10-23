@@ -7,7 +7,7 @@ ogDescription: "Discover Zucchini Ribbon Bake. Vegan dish. Smoky paprika, fresh 
 focusKeyphrase: "Zucchini Ribbon Bake"
 date: 2025-07-25
 draft: false
-image: zucchini-ribbon-bake.png
+image: zucchini-ribbon-bake.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

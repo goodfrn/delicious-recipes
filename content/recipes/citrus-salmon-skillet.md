@@ -7,7 +7,7 @@ ogDescription: "Enjoy a savory Citrus Salmon Mushroom Skillet featuring salmon a
 focusKeyphrase: "Citrus Salmon Mushroom Skillet"
 date: 2025-07-25
 draft: false
-image: citrus-salmon-skillet.png
+image: citrus-salmon-skillet.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

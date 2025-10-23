@@ -7,7 +7,7 @@ ogDescription: "Enjoy a savory Salmon Lentil Bed where honey-glazed salmon meets
 focusKeyphrase: "Salmon Lentil Bed"
 date: 2025-07-24
 draft: false
-image: salmon-lentil-bed.png
+image: salmon-lentil-bed.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Delicious Strawberry Oat Crisps with a crispy oat topping and fr
 focusKeyphrase: "Strawberry Oat Crisps"
 date: 2025-07-21
 draft: false
-image: strawberry-oat-crisps.png
+image: strawberry-oat-crisps.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT50M

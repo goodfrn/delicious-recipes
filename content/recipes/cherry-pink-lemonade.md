@@ -7,7 +7,7 @@ ogDescription: "Refreshing Cherry Pink Lemonade Twist with griottes and rose wat
 focusKeyphrase: "Cherry Pink Lemonade Twist"
 date: 2025-07-21
 draft: false
-image: cherry-pink-lemonade.png
+image: cherry-pink-lemonade.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT10M

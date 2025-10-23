@@ -7,7 +7,7 @@ ogDescription: "Indulge in Hot Crab Butter where snow crab legs simmer in rich b
 focusKeyphrase: "Hot Crab Butter"
 date: 2025-08-15
 draft: false
-image: hot-crab-butter.png
+image: hot-crab-butter.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

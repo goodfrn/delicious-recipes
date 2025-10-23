@@ -7,7 +7,7 @@ ogDescription: "Experience the crunch of kale and arugula in a Winter Citrus Kal
 focusKeyphrase: "Winter Citrus Kale Salad"
 date: 2025-10-11
 draft: false
-image: winter-citrus-kale-salad.png
+image: winter-citrus-kale-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT5M

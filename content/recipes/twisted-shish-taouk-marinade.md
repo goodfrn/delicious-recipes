@@ -7,7 +7,7 @@ ogDescription: "Twisted Shish Taouk Marinade delivers rich flavors with labneh a
 focusKeyphrase: "Twisted Shish Taouk Marinade"
 date: 2025-08-02
 draft: false
-image: twisted-shish-taouk-marinade.png
+image: twisted-shish-taouk-marinade.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

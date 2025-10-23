@@ -7,7 +7,7 @@ ogDescription: "Grill up Spiced Beef Skewers. Savory sirloin marinated with brig
 focusKeyphrase: "Spiced Beef Skewers"
 date: 2025-09-26
 draft: false
-image: spiced-beef-skewers.png
+image: spiced-beef-skewers.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Golden Cake Chocolate Glaze with rich chocolate frosting. Perfec
 focusKeyphrase: "Golden Cake Chocolate Glaze"
 date: 2025-08-20
 draft: false
-image: golden-cake-chocolate-glaze.png
+image: golden-cake-chocolate-glaze.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT40M

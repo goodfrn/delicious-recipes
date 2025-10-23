@@ -7,7 +7,7 @@ ogDescription: "Explore spicy crab fritters. Crispy, flavorful bites with a kick
 focusKeyphrase: "Spicy Crab Fritters"
 date: 2025-08-15
 draft: false
-image: spicy-crab-fritters.png
+image: spicy-crab-fritters.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

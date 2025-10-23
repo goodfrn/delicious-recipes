@@ -7,7 +7,7 @@ ogDescription: "Creamy texture, tangy flavor without mustard. This mayo remix wi
 focusKeyphrase: "No-mustard Mayonnaise Remix"
 date: 2025-07-30
 draft: false
-image: no-mustard-mayonnaise-remix.png
+image: no-mustard-mayonnaise-remix.jpg
 author: "Kate"
 prepTime: PT3M
 cookTime: PT10M

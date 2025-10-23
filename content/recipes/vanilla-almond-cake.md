@@ -7,7 +7,7 @@ ogDescription: "Indulge in Gluten-free Vanilla Almond Cake GF with airy meringue
 focusKeyphrase: "gluten-free vanilla almond cake"
 date: 2025-09-27
 draft: false
-image: vanilla-almond-cake.png
+image: vanilla-almond-cake.jpg
 author: "Kate"
 prepTime: PT1H15M
 cookTime: PT1H5M

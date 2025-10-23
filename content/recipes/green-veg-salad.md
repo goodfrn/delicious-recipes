@@ -7,7 +7,7 @@ ogDescription: "A vibrant green salad featuring asparagus, green beans, roasted 
 focusKeyphrase: "Green Veg Salad"
 date: 2025-08-03
 draft: false
-image: green-veg-salad.png
+image: green-veg-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spaghetti with Pesto Artichokes, refreshing and savory. A 
 focusKeyphrase: "spaghetti with pesto artichokes"
 date: 2025-08-13
 draft: false
-image: spaghetti-with-pesto-artichokes.png
+image: spaghetti-with-pesto-artichokes.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT13M

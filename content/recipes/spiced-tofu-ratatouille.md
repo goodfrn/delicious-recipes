@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spiced Tofu Ratatouille for a hearty vegan meal. Tofu, tom
 focusKeyphrase: "Spiced Tofu Ratatouille"
 date: 2025-08-06
 draft: false
-image: spiced-tofu-ratatouille.png
+image: spiced-tofu-ratatouille.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

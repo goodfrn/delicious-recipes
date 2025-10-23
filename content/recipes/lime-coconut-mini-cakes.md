@@ -7,7 +7,7 @@ ogDescription: "Try these Lime Coconut Mini-Cakes topped with creamy coconut fro
 focusKeyphrase: "Lime Coconut Mini-Cakes"
 date: 2025-08-10
 draft: false
-image: lime-coconut-mini-cakes.png
+image: lime-coconut-mini-cakes.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT15M

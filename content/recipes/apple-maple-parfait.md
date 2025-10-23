@@ -7,7 +7,7 @@ ogDescription: "Indulge in layers of warm apples, creamy yogurt, and sticky cara
 focusKeyphrase: "Apple Maple Parfait"
 date: 2025-09-19
 draft: false
-image: apple-maple-parfait.png
+image: apple-maple-parfait.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

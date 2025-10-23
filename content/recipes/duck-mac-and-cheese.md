@@ -7,7 +7,7 @@ ogDescription: "Delve into Duck Mac and Cheese Twist. Features duck confit, saut
 focusKeyphrase: "Duck Mac and Cheese"
 date: 2025-09-27
 draft: false
-image: duck-mac-and-cheese.png
+image: duck-mac-and-cheese.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT35M

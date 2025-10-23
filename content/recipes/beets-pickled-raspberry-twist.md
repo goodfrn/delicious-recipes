@@ -7,7 +7,7 @@ ogDescription: "Explore Beets Pickled with Raspberry Twist; a savory balance of 
 focusKeyphrase: "pickled beets recipe"
 date: 2025-08-02
 draft: false
-image: beets-pickled-raspberry-twist.png
+image: beets-pickled-raspberry-twist.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy the finesse of Sous Vide Flank Steak with vibrant rainbow 
 focusKeyphrase: "sous vide flank steak"
 date: 2025-08-12
 draft: false
-image: sous-vide-flank-steak.png
+image: sous-vide-flank-steak.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT1H20M

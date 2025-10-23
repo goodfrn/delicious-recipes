@@ -7,7 +7,7 @@ ogDescription: "Baked Honey Mustard Chicken Thighs with roasted vegetables. Simp
 focusKeyphrase: "Honey Mustard Chicken Thighs"
 date: 2025-08-17
 draft: false
-image: honey-mustard-chicken-thighs.png
+image: honey-mustard-chicken-thighs.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT60M

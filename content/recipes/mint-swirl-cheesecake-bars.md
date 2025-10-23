@@ -7,7 +7,7 @@ ogDescription: "Mint Swirl Cheesecake Bars combine creamy layers of mint and van
 focusKeyphrase: "Mint Swirl Cheesecake Bars"
 date: 2025-10-11
 draft: false
-image: mint-swirl-cheesecake-bars.png
+image: mint-swirl-cheesecake-bars.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT45M

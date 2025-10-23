@@ -7,7 +7,7 @@ ogDescription: "Bright Raspberry Citrus Fizz mocktail combines raspberry syrup, 
 focusKeyphrase: "Raspberry Citrus Fizz"
 date: 2025-09-28
 draft: false
-image: raspberry-citrus-fizz.png
+image: raspberry-citrus-fizz.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT5M

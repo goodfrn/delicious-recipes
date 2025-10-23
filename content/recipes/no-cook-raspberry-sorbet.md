@@ -7,7 +7,7 @@ ogDescription: "Enjoy a bright tasty Raspberry Lime Sorbet recipe. No cooking ne
 focusKeyphrase: "Raspberry Lime Sorbet"
 date: 2025-08-15
 draft: false
-image: no-cook-raspberry-sorbet.png
+image: no-cook-raspberry-sorbet.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

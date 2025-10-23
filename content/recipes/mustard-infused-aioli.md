@@ -7,7 +7,7 @@ ogDescription: "Mustard-Infused Aioli, a tangy twist on classic mayo. Rich egg y
 focusKeyphrase: "Mustard-Infused Aioli"
 date: 2025-09-30
 draft: false
-image: mustard-infused-aioli.png
+image: mustard-infused-aioli.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

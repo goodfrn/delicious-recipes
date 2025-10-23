@@ -7,7 +7,7 @@ ogDescription: "Crispy shishito peppers tossed in a savory miso-lime glaze, pair
 focusKeyphrase: "shishito peppers recipe"
 date: 2025-08-02
 draft: false
-image: shishito-peppers-mayo.png
+image: shishito-peppers-mayo.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Beef Tartare with Roasted Bone Marrow served alongsid
 focusKeyphrase: "Beef Tartare with Roasted Bone Marrow"
 date: 2025-09-28
 draft: false
-image: beef-tartare-bone-marrow.png
+image: beef-tartare-bone-marrow.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT27M

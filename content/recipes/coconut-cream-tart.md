@@ -7,7 +7,7 @@ ogDescription: "Indulge in the Coconut Cream Tart with its crispy biscuit base a
 focusKeyphrase: "Coconut Cream Tart"
 date: 2025-07-24
 draft: false
-image: coconut-cream-tart.png
+image: coconut-cream-tart.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

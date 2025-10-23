@@ -7,7 +7,7 @@ ogDescription: "Delicious poached pears in dark chocolate sauce. Perfect dessert
 focusKeyphrase: "Poached Pears Dark Chocolate"
 date: 2025-07-30
 draft: false
-image: poached-pears-dark-chocolate.png
+image: poached-pears-dark-chocolate.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

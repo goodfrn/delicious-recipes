@@ -7,7 +7,7 @@ ogDescription: "Crispy Green Tomatoes with Smoky Dip. Crunchy fried goodness mee
 focusKeyphrase: "Crispy Green Tomatoes"
 date: 2025-08-11
 draft: false
-image: crispy-green-tomatoes.png
+image: crispy-green-tomatoes.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT15M

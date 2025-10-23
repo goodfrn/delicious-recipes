@@ -7,7 +7,7 @@ ogDescription: "Savor the robust flavors of Braised Beef Pappardelles; beef, fig
 focusKeyphrase: "Braised Beef Pappardelles"
 date: 2025-09-20
 draft: false
-image: braised-beef-pappardelle.png
+image: braised-beef-pappardelle.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H40M

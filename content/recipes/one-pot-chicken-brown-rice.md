@@ -7,7 +7,7 @@ ogDescription: "Sizzle of chicken, aroma of fennel; One-Pot Chicken Brown Rice F
 focusKeyphrase: "One-Pot Chicken Brown Rice Fennel"
 date: 2025-08-07
 draft: false
-image: one-pot-chicken-brown-rice.png
+image: one-pot-chicken-brown-rice.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT55M

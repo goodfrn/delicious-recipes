@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Glazed Pork Salad featuring tender pork and
 focusKeyphrase: "Glazed Pork Salad"
 date: 2025-08-15
 draft: false
-image: glazed-pork-salad.png
+image: glazed-pork-salad.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT18M

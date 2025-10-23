@@ -7,7 +7,7 @@ ogDescription: "Indulge in Beer Chicken with Apricots. Tender chicken with a tan
 focusKeyphrase: "Beer Chicken with Apricots"
 date: 2025-08-03
 draft: false
-image: beer-chicken-apricots.png
+image: beer-chicken-apricots.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT1H15M

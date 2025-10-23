@@ -7,7 +7,7 @@ ogDescription: "Enjoy a rich Mushroom Buckwheat Wellington, a savory vegetarian 
 focusKeyphrase: "Mushroom Buckwheat Wellington"
 date: 2025-07-30
 draft: false
-image: mushroom-buckwheat-wellington.png
+image: mushroom-buckwheat-wellington.jpg
 author: "Kate"
 prepTime: PT70M
 cookTime: PT45M

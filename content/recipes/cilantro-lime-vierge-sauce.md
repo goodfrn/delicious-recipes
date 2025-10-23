@@ -7,7 +7,7 @@ ogDescription: "Zesty Cilantro-Lime Vierge Sauce. Fresh, herbaceous, a perfect c
 focusKeyphrase: "Cilantro-Lime Vierge Sauce"
 date: 2025-09-29
 draft: false
-image: cilantro-lime-vierge-sauce.png
+image: cilantro-lime-vierge-sauce.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

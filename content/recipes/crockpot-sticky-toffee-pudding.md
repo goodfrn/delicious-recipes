@@ -7,7 +7,7 @@ ogDescription: "Dive into Crockpot Sticky Toffee Pudding, a dense British desser
 focusKeyphrase: "Crockpot Sticky Toffee Pudding"
 date: 2025-08-04
 draft: false
-image: crockpot-sticky-toffee-pudding.png
+image: crockpot-sticky-toffee-pudding.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT3H10M

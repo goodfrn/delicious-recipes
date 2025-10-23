@@ -7,7 +7,7 @@ ogDescription: "Spicy Aioli Twist brings smoky, citrusy flavor with a creamy bas
 focusKeyphrase: "spicy aioli recipe"
 date: 2025-08-16
 draft: false
-image: spicy-aioli-twist.png
+image: spicy-aioli-twist.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PTN

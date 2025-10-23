@@ -7,7 +7,7 @@ ogDescription: "Discover Roasted Strawberry Eton Mess, a unique summer dessert w
 focusKeyphrase: "Roasted Strawberry Eton Mess"
 date: 2025-08-16
 draft: false
-image: roasted-strawberry-eton-mess.png
+image: roasted-strawberry-eton-mess.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

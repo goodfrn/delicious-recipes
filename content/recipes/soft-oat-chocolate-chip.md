@@ -7,7 +7,7 @@ ogDescription: "Delightful oat-based cookies made lighter with coconut sugar and
 focusKeyphrase: "oat chocolate chip cookies"
 date: 2025-08-02
 draft: false
-image: soft-oat-chocolate-chip.png
+image: soft-oat-chocolate-chip.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Macadamia nuts, cranberries, and cookie magic make these Blondie
 focusKeyphrase: "Blondie White Choc Cookies"
 date: 2025-10-08
 draft: false
-image: blondie-white-choc-cookies.png
+image: blondie-white-choc-cookies.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT9M

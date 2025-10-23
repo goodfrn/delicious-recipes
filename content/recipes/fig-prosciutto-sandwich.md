@@ -7,7 +7,7 @@ ogDescription: "Enjoy the unique Fig Prosciutto Baguette. Sweet figs, savory pro
 focusKeyphrase: "Fig Prosciutto Baguette"
 date: 2025-07-26
 draft: false
-image: fig-prosciutto-sandwich.png
+image: fig-prosciutto-sandwich.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

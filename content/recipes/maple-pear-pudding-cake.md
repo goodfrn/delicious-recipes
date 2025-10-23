@@ -7,7 +7,7 @@ ogDescription: "Enjoy Maple Pear Pudding Cake with its glossy fruit base and flu
 focusKeyphrase: "Maple Pear Pudding Cake"
 date: 2025-08-05
 draft: false
-image: maple-pear-pudding-cake.png
+image: maple-pear-pudding-cake.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT45M

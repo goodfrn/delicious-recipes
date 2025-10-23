@@ -7,7 +7,7 @@ ogDescription: "Indulge in Eggless Sweet Corn Waffles; a nutty, crispy take perf
 focusKeyphrase: "Eggless Sweet Corn Waffles"
 date: 2025-08-15
 draft: false
-image: eggless-sweet-corn-waffles.png
+image: eggless-sweet-corn-waffles.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT12M

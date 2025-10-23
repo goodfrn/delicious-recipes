@@ -7,7 +7,7 @@ ogDescription: "Twist into flaky jam-filled goodness with these puff pastry stri
 focusKeyphrase: "Jam-Swirled Puff Pastry"
 date: 2025-09-26
 draft: false
-image: jam-swirled-puff-pastry.png
+image: jam-swirled-puff-pastry.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT20M

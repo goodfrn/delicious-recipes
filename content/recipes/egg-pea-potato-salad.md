@@ -7,7 +7,7 @@ ogDescription: "Savor the mix of fingerling potatoes, sugar snap peas, and rich 
 focusKeyphrase: "Egg Pea Potato Salad"
 date: 2025-09-26
 draft: false
-image: egg-pea-potato-salad.png
+image: egg-pea-potato-salad.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

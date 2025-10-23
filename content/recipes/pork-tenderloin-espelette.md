@@ -7,7 +7,7 @@ ogDescription: "Juicy Pork Tenderloin Espelette; a blend of flavors, textures, a
 focusKeyphrase: "Pork Tenderloin Espelette"
 date: 2025-08-01
 draft: false
-image: pork-tenderloin-espelette.png
+image: pork-tenderloin-espelette.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT20M

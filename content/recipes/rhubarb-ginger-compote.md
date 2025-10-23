@@ -7,7 +7,7 @@ ogDescription: "Rhubarb Ginger Compote is a tangy, ginger-spiced delight. Use fr
 focusKeyphrase: "Rhubarb Ginger Compote"
 date: 2025-09-26
 draft: false
-image: rhubarb-ginger-compote.png
+image: rhubarb-ginger-compote.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT65M

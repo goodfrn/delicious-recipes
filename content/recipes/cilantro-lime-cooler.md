@@ -7,7 +7,7 @@ ogDescription: "Cilantro Lime Cooler makes for a refreshing, herb-infused water 
 focusKeyphrase: "Cilantro Lime Cooler"
 date: 2025-08-03
 draft: false
-image: cilantro-lime-cooler.png
+image: cilantro-lime-cooler.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT0M

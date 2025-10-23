@@ -7,7 +7,7 @@ ogDescription: "Savor Spiced Lamb Patties with grilled citrus. Balanced flavors 
 focusKeyphrase: "Spiced Lamb Patties"
 date: 2025-08-14
 draft: false
-image: spiced-lamb-patties.png
+image: spiced-lamb-patties.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT12M

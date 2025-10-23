@@ -7,7 +7,7 @@ ogDescription: "Indulge in Chocolate Religieuses Twist; light choux pastry with 
 focusKeyphrase: "Chocolate Religieuses Twist"
 date: 2025-08-18
 draft: false
-image: chocolate-religieuses-twist.png
+image: chocolate-religieuses-twist.jpg
 author: "Kate"
 prepTime: PT55M
 cookTime: PT50M

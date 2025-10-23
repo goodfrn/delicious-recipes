@@ -7,7 +7,7 @@ ogDescription: "Enjoy a delicious Brown Rice Lentil Bowl with bold flavors of gi
 focusKeyphrase: "Brown Rice Lentil Bowl"
 date: 2025-07-26
 draft: false
-image: brown-rice-lentil-bowl.png
+image: brown-rice-lentil-bowl.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Microwave Brownie Mug Twist, a quick chocolate dessert with text
 focusKeyphrase: "Microwave Brownie Mug"
 date: 2025-08-18
 draft: false
-image: microwave-brownie-mug.png
+image: microwave-brownie-mug.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT50S

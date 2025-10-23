@@ -7,7 +7,7 @@ ogDescription: "Enjoy Maple Apple Turnovers with a tangy fruit filling and crisp
 focusKeyphrase: "Maple Apple Turnovers"
 date: 2025-09-29
 draft: false
-image: maple-apple-turnovers.png
+image: maple-apple-turnovers.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Discover a unique Warm Broccoli Blood Orange Salad. Crunchy, tan
 focusKeyphrase: "Warm Broccoli Blood Orange Salad"
 date: 2025-07-24
 draft: false
-image: warm-broccoli-blood-orange-salad.png
+image: warm-broccoli-blood-orange-salad.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT15M

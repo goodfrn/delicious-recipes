@@ -7,7 +7,7 @@ ogDescription: "Pistachio Marble Loaf, a nutty delight, great for coffee breaks.
 focusKeyphrase: "Pistachio Marble Loaf"
 date: 2025-08-09
 draft: false
-image: pistachio-marble-loaf.png
+image: pistachio-marble-loaf.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT1H15M

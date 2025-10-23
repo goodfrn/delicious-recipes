@@ -7,7 +7,7 @@ ogDescription: "Create your own ranch mix for dips and salads. Fast 6-minute pre
 focusKeyphrase: "Homemade Ranch Mix Twist"
 date: 2025-10-03
 draft: false
-image: homemade-ranch-mix.png
+image: homemade-ranch-mix.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

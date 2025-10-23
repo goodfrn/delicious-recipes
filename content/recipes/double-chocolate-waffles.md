@@ -7,7 +7,7 @@ ogDescription: "Indulge in Double Chocolate Waffles Revamped; an irresistible mi
 focusKeyphrase: "Double Chocolate Waffles"
 date: 2025-08-14
 draft: false
-image: double-chocolate-waffles.png
+image: double-chocolate-waffles.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

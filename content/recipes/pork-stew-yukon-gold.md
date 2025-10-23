@@ -7,7 +7,7 @@ ogDescription: "Enjoy a comforting Pork Stew with Yukon Gold potatoes, tender me
 focusKeyphrase: "Pork Stew"
 date: 2025-08-10
 draft: false
-image: pork-stew-yukon-gold.png
+image: pork-stew-yukon-gold.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT2H20M

@@ -7,7 +7,7 @@ ogDescription: "Discover Butternut Tartines Agrodolce: roasted squash, sharp che
 focusKeyphrase: "Butternut Tartines Agrodolce"
 date: 2025-07-24
 draft: false
-image: butternut-tartines-agrodolce.png
+image: butternut-tartines-agrodolce.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT25M

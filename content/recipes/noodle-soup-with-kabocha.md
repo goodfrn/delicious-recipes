@@ -7,7 +7,7 @@ ogDescription: "Noodle Soup with Kabocha and Tempeh. Roasted squash pairs with s
 focusKeyphrase: "Noodle Soup with Kabocha and Tempeh"
 date: 2025-08-05
 draft: false
-image: noodle-soup-with-kabocha.png
+image: noodle-soup-with-kabocha.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT30M

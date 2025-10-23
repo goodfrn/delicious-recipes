@@ -7,7 +7,7 @@ ogDescription: "Cheesy Breakfast Egg Cheese Muffins with soft boiled eggs blend 
 focusKeyphrase: "Breakfast Egg Cheese Muffins"
 date: 2025-10-08
 draft: false
-image: breakfast-egg-cheese-muffins.png
+image: breakfast-egg-cheese-muffins.jpg
 author: "Kate"
 prepTime: PT50M
 cookTime: PT25M

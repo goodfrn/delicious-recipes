@@ -7,7 +7,7 @@ ogDescription: "Dive into Vegetable Demi-Glace Twist. Dark, rich sauce from roas
 focusKeyphrase: "Vegetable Demi-Glace"
 date: 2025-08-03
 draft: false
-image: vegetable-demi-glace.png
+image: vegetable-demi-glace.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT50M

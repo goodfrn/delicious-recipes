@@ -7,7 +7,7 @@ ogDescription: "Light Yogurt Mousse paired with fresh fruit salad offers a refre
 focusKeyphrase: "Greek yogurt mousse"
 date: 2025-08-16
 draft: false
-image: light-yogurt-mousse-fruit-salad.png
+image: light-yogurt-mousse-fruit-salad.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT10M

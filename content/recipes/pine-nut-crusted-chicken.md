@@ -7,7 +7,7 @@ ogDescription: "Savor the crunch with Pine Nut Crusted Chicken. Coated in aprico
 focusKeyphrase: "Pine Nut Crusted Chicken"
 date: 2025-09-28
 draft: false
-image: pine-nut-crusted-chicken.png
+image: pine-nut-crusted-chicken.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

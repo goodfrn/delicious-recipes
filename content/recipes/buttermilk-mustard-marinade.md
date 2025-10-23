@@ -7,7 +7,7 @@ ogDescription: "Try Buttermilk Mustard Marinade; a tangy mix perfect for chicken
 focusKeyphrase: "Buttermilk Mustard Marinade"
 date: 2025-08-06
 draft: false
-image: buttermilk-mustard-marinade.png
+image: buttermilk-mustard-marinade.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT0M

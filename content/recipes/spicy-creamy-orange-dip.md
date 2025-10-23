@@ -7,7 +7,7 @@ ogDescription: "Kick up snack time with Spicy Creamy Orange Dip. Savory with a h
 focusKeyphrase: "Spicy Creamy Orange Dip"
 date: 2025-08-28
 draft: false
-image: spicy-creamy-orange-dip.png
+image: spicy-creamy-orange-dip.jpg
 author: "Kate"
 prepTime: PT7M
 cookTime: PT0M

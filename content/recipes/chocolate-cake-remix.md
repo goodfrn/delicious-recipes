@@ -7,7 +7,7 @@ ogDescription: "Indulge in our Chocolate Cake Remix, a delectable twist with alm
 focusKeyphrase: "Chocolate Cake Remix"
 date: 2025-07-26
 draft: false
-image: chocolate-cake-remix.png
+image: chocolate-cake-remix.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT55M

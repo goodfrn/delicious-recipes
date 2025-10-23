@@ -7,7 +7,7 @@ ogDescription: "Try these Twisted Tater Tot Nachos with spiced beef, crispy tots
 focusKeyphrase: "Twisted Tater Tot Nachos"
 date: 2025-10-21
 draft: false
-image: twisted-tater-tot-nachos.png
+image: twisted-tater-tot-nachos.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT35M

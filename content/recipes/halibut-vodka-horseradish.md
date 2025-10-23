@@ -7,7 +7,7 @@ ogDescription: "Experience the unique flavors of Halibut Vodka Horseradish. Citr
 focusKeyphrase: "Halibut Vodka Horseradish"
 date: 2025-07-21
 draft: false
-image: halibut-vodka-horseradish.png
+image: halibut-vodka-horseradish.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT23M

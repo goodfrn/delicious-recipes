@@ -7,7 +7,7 @@ ogDescription: "Discover Rhubarb Hibiscus Spritz; a refreshing tart drink with f
 focusKeyphrase: "Rhubarb Hibiscus Spritz"
 date: 2025-09-10
 draft: false
-image: rhubarb-hibiscus-spritz.png
+image: rhubarb-hibiscus-spritz.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT20M

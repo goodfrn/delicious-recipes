@@ -7,7 +7,7 @@ ogDescription: "Fresh Grilled Asparagus Tofu Salad with crunchy radishes and a h
 focusKeyphrase: "Grilled Asparagus Tofu Salad"
 date: 2025-08-04
 draft: false
-image: grilled-asparagus-tofu-salad.png
+image: grilled-asparagus-tofu-salad.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT15M

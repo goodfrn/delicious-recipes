@@ -7,7 +7,7 @@ ogDescription: "Roasted chicken thighs seasoned with lemon and paprika; a simple
 focusKeyphrase: "Lemon Paprika Chicken Thighs"
 date: 2025-08-03
 draft: false
-image: lemon-paprika-chicken-thighs.png
+image: lemon-paprika-chicken-thighs.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT1H20M

@@ -7,7 +7,7 @@ ogDescription: "Savory Broccoli Bacon Quiche with flaky crust and rich filling. 
 focusKeyphrase: "Broccoli Bacon Quiche"
 date: 2025-09-23
 draft: false
-image: broccoli-bacon-quiche.png
+image: broccoli-bacon-quiche.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H

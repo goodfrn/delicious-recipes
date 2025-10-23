@@ -7,7 +7,7 @@ ogDescription: "Delve into Herbed Ricotta Tomato Tartines. Creamy ricotta, fresh
 focusKeyphrase: "Herbed Ricotta Tomato Tartines"
 date: 2025-07-28
 draft: false
-image: herbed-ricotta-tartines.png
+image: herbed-ricotta-tartines.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT8M

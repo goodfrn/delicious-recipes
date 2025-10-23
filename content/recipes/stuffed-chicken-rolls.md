@@ -7,7 +7,7 @@ ogDescription: "Try Stuffed Chicken Rolls with Sun-Dried Ricotta. A delightful f
 focusKeyphrase: "Stuffed Chicken Rolls"
 date: 2025-07-31
 draft: false
-image: stuffed-chicken-rolls.png
+image: stuffed-chicken-rolls.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT20M

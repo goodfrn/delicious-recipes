@@ -7,7 +7,7 @@ ogDescription: "Grilled Pork Chops with Fruity Ketchup, paired with roasted squa
 focusKeyphrase: "Pork Chops with Fruity Ketchup"
 date: 2025-08-16
 draft: false
-image: pork-chops-with-fruity-ketchup.png
+image: pork-chops-with-fruity-ketchup.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT55M

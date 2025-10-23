@@ -7,7 +7,7 @@ ogDescription: "Discover a Rustic Vegan Gluten-Free Pâté full of flavors, text
 focusKeyphrase: "Rustic Vegan Gluten-Free Pâté"
 date: 2025-08-03
 draft: false
-image: rustic-vegan-pate.png
+image: rustic-vegan-pate.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT1H

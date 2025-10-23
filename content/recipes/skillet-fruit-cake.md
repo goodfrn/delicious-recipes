@@ -7,7 +7,7 @@ ogDescription: "Experience Skillet Fruit Cake Twist—moist, packed with dried f
 focusKeyphrase: "Skillet Fruit Cake"
 date: 2025-08-15
 draft: false
-image: skillet-fruit-cake.png
+image: skillet-fruit-cake.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

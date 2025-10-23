@@ -7,7 +7,7 @@ ogDescription: "Savor Grilled Chickpea Stuffed Eggplants — smoky and hearty, t
 focusKeyphrase: "Grilled Chickpea Stuffed Eggplants"
 date: 2025-08-19
 draft: false
-image: grilled-chickpea-stuffed-eggplants.png
+image: grilled-chickpea-stuffed-eggplants.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Creamy Rosemary Pink Sauce is a flavorful blend of tomato, herbs
 focusKeyphrase: "Rosemary Pink Sauce"
 date: 2025-08-28
 draft: false
-image: rosemary-pink-sauce.png
+image: rosemary-pink-sauce.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Delicious Grilled Beef Melon Tacos with smoky beef, fresh cantal
 focusKeyphrase: "Grilled Beef Melon Tacos"
 date: 2025-07-26
 draft: false
-image: grilled-beef-melon-tacos.png
+image: grilled-beef-melon-tacos.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT10M

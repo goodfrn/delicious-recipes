@@ -7,7 +7,7 @@ ogDescription: "Carrot Ginger Potage recipe combines earthy carrots with fresh g
 focusKeyphrase: "Carrot Ginger Potage"
 date: 2025-08-29
 draft: false
-image: carrot-ginger-potage.png
+image: carrot-ginger-potage.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT28M

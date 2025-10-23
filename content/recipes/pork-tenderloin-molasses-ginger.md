@@ -7,7 +7,7 @@ ogDescription: "Pork tenderloin gets a kick from molasses and ginger. Learn tech
 focusKeyphrase: "Pork Tenderloin with Molasses and Ginger"
 date: 2025-09-23
 draft: false
-image: pork-tenderloin-molasses-ginger.png
+image: pork-tenderloin-molasses-ginger.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

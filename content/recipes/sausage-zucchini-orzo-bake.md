@@ -7,7 +7,7 @@ ogDescription: "Savor the flavors of Sausage Zucchini Orzo Bake. A delightful mi
 focusKeyphrase: "Sausage Zucchini Orzo Bake"
 date: 2025-08-17
 draft: false
-image: sausage-zucchini-orzo-bake.png
+image: sausage-zucchini-orzo-bake.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT40M

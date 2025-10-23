@@ -7,7 +7,7 @@ ogDescription: "Roast Stuffed Turkey with Sage Apple delivers flavor and moist m
 focusKeyphrase: "Roast Stuffed Turkey"
 date: 2025-08-02
 draft: false
-image: roast-stuffed-turkey.png
+image: roast-stuffed-turkey.jpg
 author: "Kate"
 prepTime: PT55M
 cookTime: PT3H10M

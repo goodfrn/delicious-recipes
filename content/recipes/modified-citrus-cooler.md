@@ -7,7 +7,7 @@ ogDescription: "Modified Citrus Cooler: a vibrant mix of citrus, honey sweetness
 focusKeyphrase: "Modified Citrus Cooler"
 date: 2025-08-15
 draft: false
-image: modified-citrus-cooler.png
+image: modified-citrus-cooler.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT5M

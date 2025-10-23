@@ -7,7 +7,7 @@ ogDescription: "Bright Layered Green Salad with tender greens and nutty dressing
 focusKeyphrase: "Layered Green Salad"
 date: 2025-07-22
 draft: false
-image: layered-green-salad.png
+image: layered-green-salad.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

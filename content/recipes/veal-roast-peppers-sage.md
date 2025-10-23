@@ -7,7 +7,7 @@ ogDescription: "Roasted veal loin with oregano, smoked paprika, and colorful pep
 focusKeyphrase: "Veal Roast with Peppers and Sage"
 date: 2025-09-26
 draft: false
-image: veal-roast-peppers-sage.png
+image: veal-roast-peppers-sage.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Try Endives Stuffed Eggs Bacon for a crunchy and creamy bite, pe
 focusKeyphrase: "Endives Stuffed Eggs Bacon"
 date: 2025-08-19
 draft: false
-image: endives-stuffed-eggs.png
+image: endives-stuffed-eggs.jpg
 author: "Kate"
 prepTime: PT20M
 cookTime: PT25M

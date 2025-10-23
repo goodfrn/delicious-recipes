@@ -7,7 +7,7 @@ ogDescription: "Crunchy Boozy Cocoa Balls packed with pecans and bourbon. Perfec
 focusKeyphrase: "Boozy Cocoa Balls"
 date: 2025-10-17
 draft: false
-image: boozy-cocoa-balls.png
+image: boozy-cocoa-balls.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

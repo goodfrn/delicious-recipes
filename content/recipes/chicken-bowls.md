@@ -7,7 +7,7 @@ ogDescription: "Explore Chicken Bowls with Roasted Eggplant Sumac Pitas. Juicy m
 focusKeyphrase: "Chicken Bowls with Roasted Eggplant Sumac Pitas"
 date: 2025-09-25
 draft: false
-image: chicken-bowls.png
+image: chicken-bowls.jpg
 author: "Kate"
 prepTime: PT30M
 cookTime: PT30M

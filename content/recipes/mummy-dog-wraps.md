@@ -7,7 +7,7 @@ ogDescription: "Mummy Dog Wraps are a spooky, tasty treat. Sausages wrapped in p
 focusKeyphrase: "Mummy Dog Wraps"
 date: 2025-10-17
 draft: false
-image: mummy-dog-wraps.png
+image: mummy-dog-wraps.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT20M

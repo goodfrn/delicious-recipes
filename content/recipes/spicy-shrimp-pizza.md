@@ -7,7 +7,7 @@ ogDescription: "Experience the heat in Spicy Shrimp Pizza Twist. Thick crust, fi
 focusKeyphrase: "Spicy Shrimp Pizza"
 date: 2025-08-06
 draft: false
-image: spicy-shrimp-pizza.png
+image: spicy-shrimp-pizza.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT15M

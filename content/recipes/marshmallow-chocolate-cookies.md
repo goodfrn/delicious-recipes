@@ -7,7 +7,7 @@ ogDescription: "Crunchy shortbread coated in marshmallow and dipped in rich choc
 focusKeyphrase: "Marshmallow Chocolate Cookies"
 date: 2025-08-05
 draft: false
-image: marshmallow-chocolate-cookies.png
+image: marshmallow-chocolate-cookies.jpg
 author: "Kate"
 prepTime: PT45M
 cookTime: PT15M

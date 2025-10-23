@@ -7,7 +7,7 @@ ogDescription: "Chilled Mussels in white wine broth, brightened with lemon zest.
 focusKeyphrase: "Chilled Mussels White Wine"
 date: 2025-08-10
 draft: false
-image: chilled-mussels-white-wine.png
+image: chilled-mussels-white-wine.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Dive into spiced lamb-stuffed aubergines topped with yogurt sauc
 focusKeyphrase: "lam-stuffed aubergines"
 date: 2025-09-30
 draft: false
-image: damascus-lamb-stuffed-aubergines.png
+image: damascus-lamb-stuffed-aubergines.jpg
 author: "Kate"
 prepTime: PT70M
 cookTime: PT100M

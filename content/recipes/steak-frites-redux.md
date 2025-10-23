@@ -7,7 +7,7 @@ ogDescription: "Enjoy a classic Steak Frites Redux with smoky paprika, perfectly
 focusKeyphrase: "Steak Frites Redux"
 date: 2025-10-07
 draft: false
-image: steak-frites-redux.png
+image: steak-frites-redux.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT20M

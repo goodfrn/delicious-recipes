@@ -7,7 +7,7 @@ ogDescription: "Spiced Bloody Beer Twist combines beer and tomato juice with lim
 focusKeyphrase: "Spiced Bloody Beer Twist"
 date: 2025-07-20
 draft: false
-image: spiced-bloody-beer.png
+image: spiced-bloody-beer.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Rocket Salad with Trout and Golden Beets serves bright flavors a
 focusKeyphrase: "Rocket Salad"
 date: 2025-09-27
 draft: false
-image: rocket-salad-trout-beets.png
+image: rocket-salad-trout-beets.jpg
 author: "Kate"
 prepTime: 25 minutes
 cookTime: 15 minutes

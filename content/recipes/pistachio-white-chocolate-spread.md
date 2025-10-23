@@ -7,7 +7,7 @@ ogDescription: "Rich Pistachio White Chocolate Spread, creamy and nutty. Perfect
 focusKeyphrase: "Pistachio White Chocolate Spread"
 date: 2025-08-02
 draft: false
-image: pistachio-white-chocolate-spread.png
+image: pistachio-white-chocolate-spread.jpg
 author: "Kate"
 prepTime: PT15M
 cookTime: PT0M

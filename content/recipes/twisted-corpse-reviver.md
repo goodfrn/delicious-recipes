@@ -7,7 +7,7 @@ ogDescription: "Twisted Corpse Reviver uses herbal notes, citrus bites. Chill, s
 focusKeyphrase: "Twisted Corpse Reviver"
 date: 2025-08-29
 draft: false
-image: twisted-corpse-reviver.png
+image: twisted-corpse-reviver.jpg
 author: "Kate"
 prepTime: PT12M
 cookTime: PT0M

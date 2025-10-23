@@ -7,7 +7,7 @@ ogDescription: "Discover Grilled Veggie Salad with Goat Cheese—smoky flavors, 
 focusKeyphrase: "Grilled Veggie Salad"
 date: 2025-09-26
 draft: false
-image: grilled-veggie-salad.png
+image: grilled-veggie-salad.jpg
 author: "Kate"
 prepTime: PT18M
 cookTime: PT17M

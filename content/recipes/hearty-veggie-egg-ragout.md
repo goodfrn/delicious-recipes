@@ -7,7 +7,7 @@ ogDescription: "Enjoy Hearty Veggie Egg Ragout with flavorful eggs poached in ri
 focusKeyphrase: "Hearty Veggie Egg Ragout"
 date: 2025-08-19
 draft: false
-image: hearty-veggie-egg-ragout.png
+image: hearty-veggie-egg-ragout.jpg
 author: "Kate"
 prepTime: PT10M
 cookTime: PT15M

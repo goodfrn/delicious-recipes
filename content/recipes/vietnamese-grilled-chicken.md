@@ -7,7 +7,7 @@ ogDescription: "Enjoy Vietnamese Grilled Chicken with a bold marinade over fresh
 focusKeyphrase: "Vietnamese Grilled Chicken"
 date: 2025-09-28
 draft: false
-image: vietnamese-grilled-chicken.png
+image: vietnamese-grilled-chicken.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT7M

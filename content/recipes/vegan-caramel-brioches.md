@@ -7,7 +7,7 @@ ogDescription: "Indulge in Vegan Caramel Brioches filled with luscious caramel. 
 focusKeyphrase: "Vegan Caramel Brioches"
 date: 2025-07-21
 draft: false
-image: vegan-caramel-brioches.png
+image: vegan-caramel-brioches.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Try the Chicken Cheese Apple Sandwich; a mouthwatering mix of ta
 focusKeyphrase: "Chicken Cheese Apple Sandwich"
 date: 2025-08-07
 draft: false
-image: chicken-cheese-apple-sandwich.png
+image: chicken-cheese-apple-sandwich.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Tender cookies with crunchy coconut edges and fruity apricot cen
 focusKeyphrase: "Jam Coconut Crunch Cookies"
 date: 2025-08-09
 draft: false
-image: jam-coconut-crunch-cookies.png
+image: jam-coconut-crunch-cookies.jpg
 author: "Kate"
 prepTime: PT40M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Savor the Warm Fennel Grape Fish Salad, where tender fish, juicy
 focusKeyphrase: "Warm Fennel Grape Fish Salad"
 date: 2025-08-29
 draft: false
-image: warm-fennel-grape-fish.png
+image: warm-fennel-grape-fish.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT15M

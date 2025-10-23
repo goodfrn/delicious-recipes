@@ -7,7 +7,7 @@ ogDescription: "Savor the taste of Salted Spicy Edamames. Quick, simple, and bur
 focusKeyphrase: "Salted Spicy Edamames"
 date: 2025-07-29
 draft: false
-image: salted-spicy-edamames.png
+image: salted-spicy-edamames.jpg
 author: "Kate"
 prepTime: PT6M
 cookTime: PT11M

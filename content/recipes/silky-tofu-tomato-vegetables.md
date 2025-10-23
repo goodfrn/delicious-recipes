@@ -7,7 +7,7 @@ ogDescription: "Discover Silky Tofu Tomato Vegetables; a plant-based dish that d
 focusKeyphrase: "Silky Tofu Tomato Vegetables"
 date: 2025-08-09
 draft: false
-image: silky-tofu-tomato-vegetables.png
+image: silky-tofu-tomato-vegetables.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT35M

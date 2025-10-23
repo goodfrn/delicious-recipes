@@ -7,7 +7,7 @@ ogDescription: "Enjoy the delightful Rhubarb Spice Cake with its rich texture an
 focusKeyphrase: "Rhubarb Spice Cake"
 date: 2025-07-20
 draft: false
-image: rhubarb-spice-cake.png
+image: rhubarb-spice-cake.jpg
 author: "Kate"
 prepTime: PT35M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Savor a Greek-Style Veal Roast with tender meat, rich sauce, and
 focusKeyphrase: "Greek-Style Veal Roast"
 date: 2025-08-14
 draft: false
-image: greek-style-veal-roast.png
+image: greek-style-veal-roast.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT3H

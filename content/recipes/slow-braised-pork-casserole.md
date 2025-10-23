@@ -7,7 +7,7 @@ ogDescription: "Indulge in Slow-Braised Pork Shoulder Casserole loaded with hear
 focusKeyphrase: "Slow-Braised Pork Shoulder"
 date: 2025-07-21
 draft: false
-image: slow-braised-pork-casserole.png
+image: slow-braised-pork-casserole.jpg
 author: "Kate"
 prepTime: PT25M
 cookTime: PT4H35M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy Twisted Nut-Free Beignets warm, coated in sugar. Unique co
 focusKeyphrase: "Nut-Free Beignets"
 date: 2025-07-26
 draft: false
-image: twisted-nut-free-beignets.png
+image: twisted-nut-free-beignets.jpg
 author: "Kate"
 prepTime: PT38M
 cookTime: PT28M
