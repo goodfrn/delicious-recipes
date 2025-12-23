@@ -1,0 +1,97 @@
+---
+title: "Slow Braised Beef Birria Tacos"
+slug: "slow-braised-beef-birria"
+description: "Chuck roast braised slowly in a spicy roasted pepper and tomato paste made with chipotle, guajillo, and ancho chiles. Braising liquid strained to remove solids, fats settled and skimmed. Beef shredded tender after falling off the bone. Toasted dried peppers and sesame seeds cooked gently in grapeseed oil build a rich salsa macha with vinegar and roasted peanuts. Tacos dipped in broth, sprinkled cheese, seared on griddle for crispy edges. Fresh onion, cilantro, lime wedges balance richness. Oven or pressure cooker methods with adjusted timing for flexibility. Cheese swapped for mozzarella; peanuts changed to sunflower seeds for allergen alternative."
+metaDescription: "Slow Braised Beef Birria Tacos showcase tender chuck roast, rich salsa macha, and crispy tortillas for an unbeatable flavor burst."
+ogDescription: "Savor Slow Braised Beef Birria Tacos with tender meat, smoky salsa macha, and crispy edges. A fiesta of flavors in every bite."
+focusKeyphrase: "Slow Braised Beef Birria Tacos"
+date: 2025-12-23
+draft: false
+image: slow-braised-beef-birria.jpg
+author: "Kate"
+prepTime: PT40M
+cookTime: PT1H10M
+totalTime: PT1H50M
+recipeYield: "10 servings"
+categories: ["Hearty Mains"]
+tags:
+- "Mexican"
+- "tacos"
+- "beef"
+- "salsa macha"
+- "braising"
+keywords:
+- "beef tacos"
+- "salsa macha"
+- "slow braising"
+breadcrumb: ["Home", "Recipes", "Hearty Mains"]
+nutrition: 
+ calories: "380"
+ fatContent: "19g"
+ carbohydrateContent: "20g"
+ proteinContent: "28g"
+ingredients:
+- "3 dried chipotle peppers, chopped"
+- "2 dried guajillo chiles, stems and seeds removed"
+- "2 dried ancho chiles, stems and seeds removed"
+- "3 Roma tomatoes, quartered"
+- "6 cloves garlic, peeled"
+- "1 medium white onion, chopped"
+- "2 tsp chili powder"
+- "1 tsp dried oregano"
+- "1 tsp ground cumin"
+- "2 tsp smoked paprika"
+- "3 whole cloves"
+- "1 small cinnamon stick"
+- "3 tbsp apple cider vinegar"
+- "3 cups water divided"
+- "3-4 lbs beef chuck roast, trimmed"
+- "Salt and fresh ground black pepper"
+- "4 tbsp vegetable oil divided"
+- "1 cup grated mozzarella cheese"
+- "20-24 small corn tortillas"
+- "Fresh cilantro leaves, chopped"
+- "1 small white onion, finely diced"
+- "2 limes, cut into wedges"
+- "For Salsa Macha:"
+- "½ cup grapeseed oil"
+- "5 dried arbol chiles, stems removed"
+- "1 small white onion chopped"
+- "4 cloves garlic minced"
+- "½ cup roasted unsalted sunflower seeds"
+- "2 tbsp white sesame seeds"
+- "2 tbsp apple cider vinegar"
+- "1 tsp cane sugar"
+- "1 tsp kosher salt"
+instructions:
+- "=== Braised Beef ==="
+- "Soak all dried chiles in 2 cups hot water 15 minutes to soften. Drain reserving soaking liquid. Drop chipotle, guajillo, ancho into blender or food processor with tomatoes, garlic, onion, chili powder, oregano, cumin, paprika, cloves, cinnamon, vinegar. Pulse till coarse paste, adding 1 cup of soaking liquid slowly for blending. Should be thick but pourable. Taste for brightness and heat. Adjust vinegar or add a pinch salt if needed."
+- "Pat seasoning all over chuck roast with kosher salt and freshly ground pepper. Heat 2 tablespoons vegetable oil in Dutch oven or large heavy pot over medium-high heat until shimmering. Lay meat flat. Brown without moving 3 minutes per side till deep mahogany crust forms. Don't crowd pan; brown in batches if needed."
+- "Pour chile tomato paste over meat. Add remaining 1 cup water just to barely cover meat. Increase heat to bring to gentle simmer. Reduce heat to low, cover tightly with lid. Cook low and slow in oven preheated to 300 degrees F for 2 ¾ hours. Meat should be fork tender and juices reduced but still saucy."
+- "Remove beef from pot to large plate. Let rest 10 minutes for easier shredding. Strain braising liquid through fine mesh sieve into bowl. Set aside 5 minutes to let fat rise and skim off carefully. Keep broth warm for dabbing tortillas. Shred beef using two forks until stringy and tender."
+- "=== Salsa Macha ==="
+- "Warm grapeseed oil in skillet over medium heat. Add arbol chiles whole, turning often, until puffed and just beginning to brown, about 5 minutes. Watch carefully to avoid bitterness. Transfer chiles to paper towel lined bowl."
+- "In same oil, add chopped onion and soften 3 minutes until translucent but not browned. Add minced garlic and toast 1 more minute. Lower heat to low. Stir in sunflower seeds, sesame seeds, vinegar, sugar, salt, reserved toasted chiles. Cook gently stirring often 8-10 minutes till fragrant and blended. Remove from heat and cool 20 minutes before pulsing twice in food processor to coarse texture. Adjust salt if needed."
+- "=== Tacos ==="
+- "Heat 1 tablespoon vegetable oil in wide skillet on medium-high. Dip 2 tortillas at a time briefly in warm broth. Place immediately into skillet and spread thinly. Sprinkle 1 tablespoon mozzarella cheese on each tortilla, then add 2-3 heaping tablespoons shredded beef. Fold over carefully, pressing seams together."
+- "Cook 1 ½ - 2 minutes per side until crisp golden brown patches form and cheese melts. Rotate gently with spatula to avoid tearing tortillas."
+- "Serve topped with diced onion, cilantro, lime wedges, spoonfuls of salsa macha. Juicy, crisp, spicy, smoky."
+- "=== Oven Option for Braising ==="
+- "Follow all steps for browning and sauce preparation. Cover Dutch oven tightly and place in 300-degree oven for 3 hours or until meat pulls apart effortlessly. Proceed to shredding and broth skimming as above."
+- "Alternate options: swap mozzarella for Oaxaca or Chihuahua cheese for stringier melt. For nut allergies replace sunflower seeds with toasted pumpkin seeds in salsa macha. If skillet too small, warm tortillas and assemble tacos in batches under foil to keep warm."
+introduction: "Tossing dried chiles into hot water unlocks their smoky flavor. Thick chile and roasted tomato paste coats the chuck roast, building richness as it braises low and slow. That crust you sear? It’s flavor bedrock. Watch for gentle bubble simmer, not a boil — too aggressive and meat toughness rises. Post-braise, strain fat carefully; excess dulls flavor and sogs tortillas. Salsa macha gets personality by toasting chiles till puffed, not burnt; oils warm easy nutty notes, sesame seeds lend earthiness. Quick plunge of tortillas in broth before skillet crisps edges for layered texture. The tactile crips and melt-tooth cheese dance whispers all about contrast, essential for tacos that sing."
+ingredientsNote: "Chipotle and guajillo chiles form a smoky, fruity backbone; if unavailable use dried pasilla and ancho with a pinch smoked paprika. Replacing peanuts with sunflower or pumpkin seeds avoids allergy pitfalls but keeps crunch and bitter sweetness. Do not substitute apple cider vinegar with balsamic—too heavy. Mozzarella brings mild creaminess but Oaxaca cheese or Chihuahua are more authentic melts. Use good quality corn tortillas; stiffer tortillas hold better when dipped in broth; thin ones tear. Vegetable oil works consistently but grapeseed or avocado oils add subtle nutty notes especially in salsa macha. Tomato quantity tuned down here to cut acidity; add a pinch sugar if sauce tastes sharp."
+instructionsNote: "Soak chiles well. Skipping this results in gritty texture and poor blending. Pulse to rough paste; a few whole bits keep rustic texture in sauce. Browning is not optional—color means flavor Maillard reaction. Avoid steaming meat by drying surface before sear. Let beef rest after braise for easy shredding—hot meat resists forks. Straining hot broth removes grit and bones; chill broth briefly to lift fat or use fat separator if handy. Toast dried chiles slowly on medium, not high, or they’ll burn bitter instead of puffing. Stir salsa macha ingredients gently, do not fry hard or seeds scorch. Dip tortillas fast in broth; soaking too long makes them limp and soggy. Folding tacos carefully holds filling while searing—too full and they fall apart. Serve immediately; crispy, warm tacos lose their edge sitting too long."
+tips:
+- "Soak dried chiles for 15 minutes. Not just softening. It unlocks essential smoky flavors. Drain and blend with other ingredients until coarse. Keep texture rustic."
+- "Searing is critical. Don't rush it or overcrowd the pot. Deep browning creates depth. Meat must rest after braising for shredding. Hot beef fights forks."
+- "Broth skimming matters. Wait for fat to rise, then skim. Fat can dull flavors. Keep broth warm but not boiling when dipping tortillas. Quick dip only."
+- "Tortilla choice impacts texture. Use quality corn tortillas. If they tear, they’re too thin. Stiff tortillas hold up better when dipped in broth. Test before cooking."
+- "Experiment with cheese types. Oaxaca or Chihuahua melt well. Mozzarella works in a pinch but has different melt profile. Adjust based on moisture level."
+faq:
+- "q: How long can I store leftover birria? a: Refrigerate up to four days. Freeze if longer storage needed. Thaw overnight, reheat gently. Avoid boiling."
+- "q: Can I use a different cut of beef? a: Yes, chuck is ideal. Brisket or short ribs work too. Cooking time may vary. Aim for fork-tender texture."
+- "q: What if the meat isn’t shredding well? a: Slow and low is key. Braise longer if needed. It should fall apart easily. Overcooking can also toughen meat."
+- "q: Is salsa macha necessary? a: Not essential but adds depth. Can substitute with fire-roasted salsa. Adjust spice to taste. Try roasted tomato sauce too."
+
+---
