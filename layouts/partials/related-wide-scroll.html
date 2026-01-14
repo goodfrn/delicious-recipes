@@ -36,17 +36,18 @@
     </a>
   </div>
 
-    <!-- Scroll HORIZONTAL MAIS CLIPPÉ -->
+  <!-- Scroll HORIZONTAL MAIS CLIPPÉ -->
   <div class="w-full max-w-full overflow-hidden">
     <div
-      class="related-rail flex gap-4 overflow-x-auto pb-4 snap-x snap-mandatory scroll-smooth cursor-grab active:cursor-grabbing select-none"
+      class="related-rail flex gap-4 overflow-x-auto pb-4 scroll-smooth cursor-grab active:cursor-grabbing select-none"
       style="-webkit-overflow-scrolling: touch;"
       data-related-rail
       data-related-interval="2500"
+      data-related-resume="4000"
     >
       {{ range $items }}
         <a href="{{ .RelPermalink }}"
-           class="snap-start flex-shrink-0 w-[85%] sm:w-[55%] lg:w-[33%] group"
+           class="flex-shrink-0 w-[85%] sm:w-[55%] lg:w-[33%] group"
            data-related-item>
 
           <article class="rounded-2xl overflow-hidden border border-gray-100 bg-white hover:shadow-sm transition">
