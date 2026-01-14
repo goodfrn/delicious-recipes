@@ -1,0 +1,80 @@
+{{/* layouts/partials/related-wide-scroll.html */}}
+
+{{ $config := .Site.Data.config }}
+{{ $recipe_page := $config.recipe_page }}
+
+{{/* Catégorie principale (1ère) */}}
+{{ $cat := "" }}
+{{ with .Params.categories }}
+  {{ if gt (len .) 0 }}
+    {{ $cat = index . 0 }}
+  {{ end }}
+{{ end }}
+
+{{/* Pages candidates: recettes uniquement */}}
+{{ $all := where .Site.RegularPages "Section" "recipes" }}
+
+{{/* Même catégorie, hors page courante */}}
+{{ $sameCat := slice }}
+{{ if ne $cat "" }}
+  {{ $sameCat = where $all "Params.categories" "intersect" (slice $cat) }}
+  {{ $sameCat = where $sameCat "RelPermalink" "ne" .RelPermalink }}
+{{ end }}
+
+{{/* Prend jusqu’à 10 */}}
+{{ $items := first 10 $sameCat }}
+
+{{/* Fallback: related Hugo si pas assez */}}
+{{ if lt (len $items) 6 }}
+  {{ $fallback := first 10 ( .Site.RegularPages.Related . ) }}
+  {{ range $fallback }}
+    {{ if and (ne .RelPermalink $.RelPermalink) (lt (len $items) 10) }}
+      {{ $items = $items | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $items) 0 }}
+<section class="mt-14">
+  <div class="flex items-center justify-between mb-5">
+    <h2 class="text-lg md:text-xl font-medium"
+        style="color: var(--color-text); font-family: var(--font-serif);">
+      {{ $recipe_page.sections.related | default "You will also love" }}
+      {{ if ne $cat "" }}<span class="opacity-60"> · {{ $cat }}</span>{{ end }}
+    </h2>
+    <a href="/recipes/" class="text-sm font-medium hover:underline" style="color: var(--primary);">
+      {{ $recipe_page.sections.view_all_recipes }}
+    </a>
+  </div>
+
+  <!-- Full width scroll -->
+  <div class="-mx-4 sm:-mx-6 lg:-mx-10 px-4 sm:px-6 lg:px-10">
+    <div class="flex gap-4 overflow-x-auto pb-4 snap-x snap-mandatory scroll-smooth">
+      {{ range $items }}
+        <a href="{{ .RelPermalink }}" class="snap-start flex-shrink-0 w-[82vw] sm:w-[46vw] lg:w-[32vw] group">
+          <article class="rounded-2xl overflow-hidden border border-gray-100 bg-white hover:shadow-sm transition">
+            {{ with .Params.image }}
+              <div class="aspect-[16/10] overflow-hidden">
+                {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
+              </div>
+            {{ end }}
+
+            <div class="p-4">
+              <h3 class="text-base font-medium leading-snug line-clamp-2"
+                  style="color: var(--color-text); font-family: var(--font-serif);">
+                {{ .Title }}
+              </h3>
+
+              <div class="mt-2 text-xs" style="color: var(--color-text-muted);">
+                {{ with .Params.totalTime }}
+                  {{ . | replaceRE "\\s+" "" | replaceRE "^PT0H(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)M$" "$1 min" }}
+                {{ end }}
+              </div>
+            </div>
+          </article>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
