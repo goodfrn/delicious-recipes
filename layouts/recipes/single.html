@@ -205,7 +205,7 @@
     <div class="grid lg:grid-cols-[2fr_1fr] gap-6 md:gap-8 lg:gap-12 items-start">
       
       <!-- Colonne principale -->
-      <div class="w-full space-y-8 md:space-y-12">
+      <div class="w-full min-w-0 space-y-8 md:space-y-12">
         
         <!-- SECTION INGRÉDIENTS responsive -->
         <div class="card card--large bg-white/95 md:bg-gradient-to-br md:from-white/80 md:via-white/60 md:to-white/40 border border-white/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-8" id="ingredients">
@@ -232,7 +232,7 @@
           </div>
         </div>
         
-       {{/* {{ partial "related-wide-scroll.html" . }} */}}
+       {{ partial "related-wide-scroll.html" . }}
 
         <!-- Note ingrédients responsive -->
         {{ with .Params.ingredientsNote }}
