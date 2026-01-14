@@ -12,7 +12,7 @@
 {{ $items := slice }}
 
 {{ range $all }}
-  {{ if and (ne .RelPermalink $.RelPermalink) (in (.Params.categories | default (slice)) $cat) }}
+  {{ if ne .RelPermalink $.RelPermalink }}
     {{ $items = $items | append . }}
   {{ end }}
 {{ end }}
