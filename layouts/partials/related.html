@@ -1,71 +1,73 @@
-{{/*  layouts/partials/related.html  */}}
+{{/* layouts/partials/related-wide-scroll.html */}}
 
 {{ $config := .Site.Data.config }}
 {{ $recipe_page := $config.recipe_page }}
 
-{{/* Récupère jusqu'à 4 pages liées, hors page courante */}}
-{{ $related := first 4 ( .Site.RegularPages.Related . ) }}
-{{ if gt (len $related) 0 }} 
-  <section class="border-t border-gray-100 pt-8 mt-12">
-    <div class="flex items-center justify-between mb-6">
-      <h2 class="text-lg font-medium" style="color: var(--color-text); font-family: var(--font-serif);">
-        {{ $recipe_page.sections.related }}
-      </h2>
-      <a href="/recipes/" class="text-sm font-medium hover:underline" style="color: var(--primary);">
-        {{ $recipe_page.sections.view_all_recipes }}
-      </a>
-    </div>
+{{/* Catégorie principale */}}
+{{ $cat := "" }}
+{{ with index .Params.categories 0 }}{{ $cat = . }}{{ end }}
 
-    <div class="space-y-4">
-      {{ range $related }}
-        <a href="{{ .RelPermalink }}" class="group flex items-center gap-4 p-3 -mx-3 rounded-lg hover:bg-gray-50 transition-colors duration-200 block">
-<!-- Image compacte style NYT -->
-          <div class="flex-shrink-0">
+{{/* Récupère des recettes de la même catégorie */}}
+{{ $all := where .Site.RegularPages "Section" "recipes" }}
+{{ $items := slice }}
+
+{{ range $all }}
+  {{ if and (ne .RelPermalink $.RelPermalink) (in (.Params.categories | default (slice)) $cat) }}
+    {{ $items = $items | append . }}
+  {{ end }}
+{{ end }}
+
+{{ $items = first 20 $items }}
+
+{{ if gt (len $items) 0 }}
+<section class="mt-12 w-full max-w-full overflow-hidden">
+
+  <!-- Header -->
+  <div class="flex items-center justify-between mb-5">
+    <h2 class="text-lg md:text-xl font-medium"
+        style="color: var(--color-text); font-family: var(--font-serif);">
+      You’ll Also Love
+      {{ if $cat }}<span class="opacity-60"> · {{ $cat }}</span>{{ end }}
+    </h2>
+
+    <a href="/recipes/" class="text-sm font-medium hover:underline"
+       style="color: var(--primary);">
+      Explore all →
+    </a>
+  </div>
+
+  <!-- Rail -->
+  <div class="w-full max-w-full overflow-hidden">
+    <div
+      class="related-rail flex gap-4 overflow-x-auto pb-4 scroll-smooth cursor-grab active:cursor-grabbing select-none touch-pan-x"
+      style="-webkit-overflow-scrolling: touch;"
+      data-related-rail
+      data-related-interval="2500"
+      data-related-resume="4000"
+    >
+      {{ range $items }}
+        <a href="{{ .RelPermalink }}"
+           class="flex-shrink-0 w-[85%] sm:w-[55%] lg:w-[33%] group"
+           data-related-item>
+
+          <article class="rounded-2xl overflow-hidden border border-gray-100 bg-white hover:shadow-sm transition">
             {{ with .Params.image }}
-              <div class="w-20 h-20 rounded-lg overflow-hidden group-hover:scale-105 transition-transform duration-200">
+              <div class="aspect-[16/10] overflow-hidden">
                 {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
               </div>
             {{ end }}
-          </div>
 
-          <!-- Contenu style magazine -->
-          <div class="flex-1 min-w-0">
-            <h3 class="font-medium text-sm leading-snug mb-1 line-clamp-2 group-hover:text-gray-900 transition-colors" style="color: var(--color-text); font-family: var(--font-serif);">
-              {{ .Title }}
-            </h3>
-            
-            <!-- Meta info discrète -->
-            <div class="flex items-center gap-3 text-xs" style="color: var(--color-text-muted);">
-              {{ with .Params.totalTime }}
-                <span class="flex items-center gap-1">
-                  <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <circle cx="12" cy="12" r="10"/>
-                    <polyline points="12,6 12,12 16,14"/>
-                  </svg>
-                  {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
-                </span>
-              {{ end }}
-              
-              {{ with .Params.nutrition.calories }}
-                <span>{{ . }} calories</span>
-              {{ end }}
-              
-              {{ with index .Params.categories 0 }}
-                <span class="px-2 py-0.5 rounded-full text-xs" style="background-color: var(--color-bg-alt); color: var(--color-text-muted);">
-                  {{ . }}
-                </span>
-              {{ end }}
+            <div class="p-4">
+              <h3 class="text-base font-medium leading-snug line-clamp-2"
+                  style="color: var(--color-text); font-family: var(--font-serif);">
+                {{ .Title }}
+              </h3>
             </div>
-          </div>
+          </article>
 
-          <!-- Chevron discret -->
-          <div class="flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
-            <svg class="w-4 h-4" style="color: var(--color-text-muted);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-            </svg>
-          </div>
         </a>
       {{ end }}
     </div>
-  </section>
+  </div>
+</section>
 {{ end }}
