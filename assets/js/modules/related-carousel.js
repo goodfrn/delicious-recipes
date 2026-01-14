@@ -1,3 +1,4 @@
+// assets/js/modules/related-carousel.js
 export function initRelatedCarousel() {
   const rails = document.querySelectorAll("[data-related-rail]");
   if (!rails.length) return null;
@@ -16,6 +17,27 @@ export function initRelatedCarousel() {
     let startScrollLeft = 0;
     let dragged = false;
 
+    // ===== ✅ Infinite loop: duplicate items once =====
+    const originals = Array.from(rail.children);
+    if (originals.length) {
+      originals.forEach((node) => rail.appendChild(node.cloneNode(true)));
+    }
+
+    const halfWidth = () => rail.scrollWidth / 2;
+
+    const wrapIfNeeded = () => {
+      const half = halfWidth();
+      if (!half) return;
+
+      // if we entered the duplicated half, jump back by half (same visual position)
+      if (rail.scrollLeft >= half) {
+        const prev = rail.style.scrollBehavior;
+        rail.style.scrollBehavior = "auto";
+        rail.scrollLeft = rail.scrollLeft - half;
+        rail.style.scrollBehavior = prev || "smooth";
+      }
+    };
+
     const stopAuto = () => {
       if (timer) clearInterval(timer);
       timer = null;
@@ -24,14 +46,15 @@ export function initRelatedCarousel() {
     const startAuto = () => {
       stopAuto();
       timer = setInterval(() => {
-        const maxScroll = rail.scrollWidth - rail.clientWidth - 2;
         const step = Math.max(rail.clientWidth, 320);
-        const next = rail.scrollLeft + step;
 
         rail.scrollTo({
-          left: next >= maxScroll ? 0 : next,
+          left: rail.scrollLeft + step,
           behavior: "smooth",
         });
+
+        // wrap shortly after the smooth scroll begins
+        setTimeout(wrapIfNeeded, 450);
       }, interval);
     };
 
@@ -39,6 +62,9 @@ export function initRelatedCarousel() {
       if (resumeTimeout) clearTimeout(resumeTimeout);
       resumeTimeout = setTimeout(startAuto, resumeDelay);
     };
+
+    // keep loop correct even if user scrolls manually (trackpad etc.)
+    rail.addEventListener("scroll", wrapIfNeeded, { passive: true });
 
     // ===== Mouse drag =====
     rail.addEventListener("mousedown", (e) => {
@@ -60,6 +86,7 @@ export function initRelatedCarousel() {
       const dx = e.pageX - startX;
       if (Math.abs(dx) > 6) dragged = true;
       rail.scrollLeft = startScrollLeft - dx;
+      wrapIfNeeded();
     });
 
     window.addEventListener("mouseup", () => {
@@ -86,6 +113,7 @@ export function initRelatedCarousel() {
       true
     );
 
+    // start
     startAuto();
 
     instances.push({
