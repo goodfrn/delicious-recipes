@@ -136,7 +136,7 @@
               <div class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
               <div class="flex flex-col min-w-0">
                 <span class="font-medium text-slate-700 text-xs uppercase tracking-wide truncate">{{ $recipe_page.summary_labels.prep }}</span>
-                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</span>
               </div>
             </div>
           {{ end }}
@@ -145,7 +145,7 @@
               <div class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--secondary), var(--primary));"></div>
               <div class="flex flex-col min-w-0">
                 <span class="font-medium text-slate-700 text-xs uppercase tracking-wide truncate">{{ $recipe_page.summary_labels.cook }}</span>
-                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</span>
               </div>
             </div>
           {{ end }}
@@ -154,7 +154,7 @@
               <div class="w-2 h-2 md:w-3 md:h-3 rounded-full flex-shrink-0" style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></div>
               <div class="flex flex-col min-w-0">
                 <span class="font-medium text-slate-700 text-xs uppercase tracking-wide truncate">{{ $recipe_page.summary_labels.total }}</span>
-                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+                <span class="text-slate-600 text-xs md:text-sm font-semibold">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</span>
               </div>
             </div>
           {{ end }}
