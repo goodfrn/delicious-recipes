@@ -1,50 +1,69 @@
 {{/* layouts/partials/related-sidebar-trending.html */}}
 
 {{ $all := where .Site.RegularPages "Section" "recipes" }}
-
-{{/* On enlève la page courante */}}
 {{ $items := where $all "RelPermalink" "ne" .RelPermalink }}
 
-{{/* Trending = récentes */}}
-{{ $items = first 6 ($items.ByDate.Reverse) }}
+{{/* trending = les plus récents pour l’instant */}}
+{{ $items = first 7 (sort $items "Date" "desc") }}
 
 {{ if gt (len $items) 0 }}
-<section class="card bg-white/95 border border-gray-200/60 rounded-2xl p-4 md:p-5 shadow-sm">
+<div class="card bg-white/95 md:bg-gradient-to-br md:from-white/80 md:to-gray-50/60 border border-slate-200/50 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl p-4 md:p-6">
 
-  <h3 class="text-sm uppercase tracking-wide mb-4 text-center"
-      style="color: var(--color-text-secondary); font-family: var(--font-serif);">
-    Trending Recipes
-  </h3>
+  <!-- HEADER -->
+  <div class="text-center">
+    <h3 class="text-sm md:text-base font-semibold tracking-widest uppercase"
+        style="color: var(--color-text); font-family: var(--font-serif); letter-spacing: .18em;">
+      People Love
+    </h3>
+    <div class="mx-auto mt-3 h-[2px] w-20 rounded-full"
+         style="background: linear-gradient(90deg, transparent, #e5b95b, transparent);"></div>
+  </div>
 
-  <ul class="space-y-3">
+  <div class="mt-6 space-y-6">
     {{ range $items }}
-      <li>
-        <a href="{{ .RelPermalink }}" class="flex items-center gap-3 group">
+      <a href="{{ .RelPermalink }}" class="block group">
+        <article class="relative overflow-hidden rounded-2xl border border-slate-200/60 bg-white shadow-sm">
 
           {{ with .Params.image }}
-            <div class="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0">
-              {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
+            <div class="relative aspect-[4/5] overflow-hidden">
+              {{ partial "recipe-image.html" (dict "image" . "title" $.Title "variant" "sidebar") }}
+
+              <!-- Overlay -->
+              <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent"></div>
+
+              <!-- Category pill -->
+              {{ with index (.Params.categories | default (slice)) 0 }}
+                <div class="absolute top-4 left-1/2 -translate-x-1/2">
+                  <span class="inline-flex items-center gap-2 px-4 py-2 rounded-full text-xs font-semibold uppercase tracking-wider"
+                        style="background: rgba(255,255,255,.18); color: white; border: 1px solid rgba(255,255,255,.25); backdrop-filter: blur(8px);">
+                    <span class="inline-block w-2 h-2 rounded-full bg-white/80"></span>
+                    {{ . }}
+                  </span>
+                </div>
+              {{ end }}
+
+              <!-- Title + meta -->
+              <div class="absolute inset-x-0 bottom-0 p-5 text-center">
+                <h4 class="text-2xl md:text-3xl font-extrabold leading-tight"
+                    style="color: white; font-family: var(--font-serif); text-shadow: 0 6px 18px rgba(0,0,0,.35);">
+                  {{ .Title }}
+                </h4>
+
+                {{ if .Date }}
+                  <p class="mt-3 text-sm italic text-white/85"
+                     style="font-family: var(--font-serif);">
+                    {{ .Date.Format "January 2, 2006" }} <span class="opacity-70">—</span>
+                    <span class="not-italic">4 Mins read</span>
+                  </p>
+                {{ end }}
+              </div>
             </div>
           {{ end }}
 
-          <div class="min-w-0">
-            <div class="text-sm leading-snug line-clamp-2 group-hover:underline"
-                 style="color: var(--color-text); font-family: var(--font-serif);">
-              {{ .Title }}
-            </div>
-
-            {{ with .Params.totalTime }}
-              <div class="mt-1 text-xs opacity-70"
-                   style="color: var(--color-text-secondary);">
-                {{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT0H([0-9]+)M$" "$1 min" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "$1h $2min" | replaceRE "^PT([0-9]+)H0M$" "$1h" | replaceRE "^PT([0-9]+)H$" "$1h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "$1 min" }}
-              </div>
-            {{ end }}
-          </div>
-
-        </a>
-      </li>
+        </article>
+      </a>
     {{ end }}
-  </ul>
+  </div>
 
-</section>
+</div>
 {{ end }}
