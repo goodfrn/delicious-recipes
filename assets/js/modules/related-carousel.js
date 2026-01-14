@@ -1,16 +1,22 @@
-// assets/js/related-carousel.js
+// assets/js/modules/related-carousel.js
 export function initRelatedCarousel() {
   const rails = document.querySelectorAll("[data-related-rail]");
-  if (!rails.length) return;
+  if (!rails.length) return null;
+
+  const instances = [];
 
   rails.forEach((rail) => {
-    const interval = parseInt(rail.getAttribute("data-related-interval") || "2500", 10);
+    const interval = parseInt(rail.getAttribute("data-related-interval") || "3000", 10);
+    const resumeDelay = parseInt(rail.getAttribute("data-related-resume") || "4000", 10);
 
     let timer = null;
+    let resumeTimeout = null;
+
+    // drag
     let isDown = false;
     let startX = 0;
     let startScrollLeft = 0;
-    let paused = false;
+    let dragged = false;
 
     const stopAuto = () => {
       if (timer) clearInterval(timer);
@@ -19,17 +25,13 @@ export function initRelatedCarousel() {
 
     const startAuto = () => {
       stopAuto();
-      if (paused) return;
-
       timer = setInterval(() => {
-        // scroll d’environ 1 carte (responsive)
-        const firstItem = rail.querySelector("[data-related-item]");
-        const gap = 16; // approx, ok
-        const step = firstItem ? firstItem.getBoundingClientRect().width + gap : rail.clientWidth * 0.8;
-
         const maxScroll = rail.scrollWidth - rail.clientWidth - 2;
-        const next = rail.scrollLeft + step;
 
+        // scroll "par écran" (pas par carte)
+        const step = rail.clientWidth;
+
+        const next = rail.scrollLeft + step;
         rail.scrollTo({
           left: next >= maxScroll ? 0 : next,
           behavior: "smooth",
@@ -37,54 +39,64 @@ export function initRelatedCarousel() {
       }, interval);
     };
 
-    // Pause auto quand user interagit
-    const pause = () => {
-      paused = true;
-      stopAuto();
-    };
-    const resume = () => {
-      paused = false;
-      startAuto();
+    const scheduleResume = () => {
+      if (resumeTimeout) clearTimeout(resumeTimeout);
+      resumeTimeout = setTimeout(() => {
+        startAuto();
+      }, resumeDelay);
     };
 
-    // DRAG souris (click & drag)
+    // ===== Drag souris (prise de contrôle au click) =====
     rail.addEventListener("mousedown", (e) => {
       isDown = true;
-      pause();
-      rail.classList.add("is-dragging");
+      dragged = false;
+      stopAuto(); // on prend le contrôle seulement ici
       startX = e.pageX;
       startScrollLeft = rail.scrollLeft;
+      rail.classList.add("is-dragging");
+      e.preventDefault();
+    });
+
+    window.addEventListener("mousemove", (e) => {
+      if (!isDown) return;
+      const dx = e.pageX - startX;
+      if (Math.abs(dx) > 6) dragged = true;
+      rail.scrollLeft = startScrollLeft - dx;
     });
 
     window.addEventListener("mouseup", () => {
       if (!isDown) return;
       isDown = false;
       rail.classList.remove("is-dragging");
-      // on reprend après un petit délai
-      setTimeout(resume, 1200);
+      scheduleResume(); // reprend auto après 4s
     });
 
-    window.addEventListener("mousemove", (e) => {
-      if (!isDown) return;
-      const dx = e.pageX - startX;
-      rail.scrollLeft = startScrollLeft - dx;
-    });
-
-    // Touch (mobile) : pause / resume
-    rail.addEventListener("touchstart", pause, { passive: true });
-    rail.addEventListener("touchend", () => setTimeout(resume, 800), { passive: true });
-
-    // Hover (desktop) : pause / resume
-    rail.addEventListener("mouseenter", pause, { passive: true });
-    rail.addEventListener("mouseleave", () => setTimeout(resume, 600), { passive: true });
-
-    // Wheel : pause / resume
-    rail.addEventListener("wheel", () => {
-      pause();
-      setTimeout(resume, 1200);
+    // ===== Touch (mobile) =====
+    rail.addEventListener("touchstart", () => {
+      stopAuto();
     }, { passive: true });
 
-    // Start
+    rail.addEventListener("touchend", () => {
+      scheduleResume();
+    }, { passive: true });
+
+    // ===== Bloquer click sur liens si on a drag =====
+    rail.addEventListener("click", (e) => {
+      if (!dragged) return;
+      e.preventDefault();
+      e.stopPropagation();
+    }, true);
+
+    // Start auto direct
     startAuto();
+
+    instances.push({
+      stop: () => {
+        stopAuto();
+        if (resumeTimeout) clearTimeout(resumeTimeout);
+      },
+    });
   });
+
+  return instances;
 }
