@@ -17,7 +17,7 @@
   {{ end }}
 {{ end }}
 
-{{ $items = first 10 $items }}
+{{ $items = first 30 (shuffle $items) }}
 
 {{ if gt (len $items) 0 }}
 <section class="mt-12 w-full max-w-full overflow-hidden">
