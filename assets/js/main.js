@@ -6,7 +6,7 @@ import { initContactForm } from './modules/contact-form.js';
 import { initRandomHome } from './modules/random-home.js';
 import { initStickyNav } from './modules/recipe-sticky-nav.js';
 import { initCTAButtons } from './modules/cta-buttons.js';
-import { initRelatedCarousel } from './modules/related-carousel.js';
+import { initRelatedCarousel } from './modules/related-carousel';
 
 // Gestionnaire principal de l'application
 class App {
