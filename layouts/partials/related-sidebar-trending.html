@@ -1,0 +1,50 @@
+{{/* layouts/partials/related-sidebar-trending.html */}}
+
+{{ $all := where .Site.RegularPages "Section" "recipes" }}
+
+{{/* On enlève la page courante */}}
+{{ $items := where $all "RelPermalink" "ne" .RelPermalink }}
+
+{{/* Trending = récentes */}}
+{{ $items = first 6 ($items.ByDate.Reverse) }}
+
+{{ if gt (len $items) 0 }}
+<section class="card bg-white/95 border border-gray-200/60 rounded-2xl p-4 md:p-5 shadow-sm">
+
+  <h3 class="text-sm uppercase tracking-wide mb-4 text-center"
+      style="color: var(--color-text-secondary); font-family: var(--font-serif);">
+    Trending Recipes
+  </h3>
+
+  <ul class="space-y-3">
+    {{ range $items }}
+      <li>
+        <a href="{{ .RelPermalink }}" class="flex items-center gap-3 group">
+
+          {{ with .Params.image }}
+            <div class="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0">
+              {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
+            </div>
+          {{ end }}
+
+          <div class="min-w-0">
+            <div class="text-sm leading-snug line-clamp-2 group-hover:underline"
+                 style="color: var(--color-text); font-family: var(--font-serif);">
+              {{ .Title }}
+            </div>
+
+            {{ with .Params.totalTime }}
+              <div class="mt-1 text-xs opacity-70"
+                   style="color: var(--color-text-secondary);">
+                {{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT0H([0-9]+)M$" "$1 min" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "$1h $2min" | replaceRE "^PT([0-9]+)H0M$" "$1h" | replaceRE "^PT([0-9]+)H$" "$1h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "$1 min" }}
+              </div>
+            {{ end }}
+          </div>
+
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+
+</section>
+{{ end }}
