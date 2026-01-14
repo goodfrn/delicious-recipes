@@ -1,4 +1,3 @@
-// assets/js/modules/related-carousel.js
 export function initRelatedCarousel() {
   const rails = document.querySelectorAll("[data-related-rail]");
   if (!rails.length) return null;
@@ -12,7 +11,6 @@ export function initRelatedCarousel() {
     let timer = null;
     let resumeTimeout = null;
 
-    // drag
     let isDown = false;
     let startX = 0;
     let startScrollLeft = 0;
@@ -27,11 +25,9 @@ export function initRelatedCarousel() {
       stopAuto();
       timer = setInterval(() => {
         const maxScroll = rail.scrollWidth - rail.clientWidth - 2;
-
-        // scroll "par écran" (pas par carte)
-        const step = rail.clientWidth;
-
+        const step = Math.max(rail.clientWidth, 320);
         const next = rail.scrollLeft + step;
+
         rail.scrollTo({
           left: next >= maxScroll ? 0 : next,
           behavior: "smooth",
@@ -41,19 +37,21 @@ export function initRelatedCarousel() {
 
     const scheduleResume = () => {
       if (resumeTimeout) clearTimeout(resumeTimeout);
-      resumeTimeout = setTimeout(() => {
-        startAuto();
-      }, resumeDelay);
+      resumeTimeout = setTimeout(startAuto, resumeDelay);
     };
 
-    // ===== Drag souris (prise de contrôle au click) =====
+    // ===== Mouse drag =====
     rail.addEventListener("mousedown", (e) => {
+      if (e.button !== 0) return;
       isDown = true;
       dragged = false;
-      stopAuto(); // on prend le contrôle seulement ici
+      stopAuto();
+
       startX = e.pageX;
       startScrollLeft = rail.scrollLeft;
+
       rail.classList.add("is-dragging");
+      rail.style.scrollBehavior = "auto";
       e.preventDefault();
     });
 
@@ -68,26 +66,26 @@ export function initRelatedCarousel() {
       if (!isDown) return;
       isDown = false;
       rail.classList.remove("is-dragging");
-      scheduleResume(); // reprend auto après 4s
+      rail.style.scrollBehavior = "smooth";
+      scheduleResume();
     });
 
-    // ===== Touch (mobile) =====
-    rail.addEventListener("touchstart", () => {
-      stopAuto();
-    }, { passive: true });
+    // ===== Touch =====
+    rail.addEventListener("touchstart", stopAuto, { passive: true });
+    rail.addEventListener("touchend", scheduleResume, { passive: true });
+    rail.addEventListener("touchcancel", scheduleResume, { passive: true });
 
-    rail.addEventListener("touchend", () => {
-      scheduleResume();
-    }, { passive: true });
+    // ===== Block click if dragged =====
+    rail.addEventListener(
+      "click",
+      (e) => {
+        if (!dragged) return;
+        e.preventDefault();
+        e.stopPropagation();
+      },
+      true
+    );
 
-    // ===== Bloquer click sur liens si on a drag =====
-    rail.addEventListener("click", (e) => {
-      if (!dragged) return;
-      e.preventDefault();
-      e.stopPropagation();
-    }, true);
-
-    // Start auto direct
     startAuto();
 
     instances.push({
