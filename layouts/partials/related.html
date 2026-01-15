@@ -1,11 +1,8 @@
-{{/* layouts/partials/related-wide-scroll.html */}}
+{{/* layouts/partials/related.html */}}
 
 {{ $config := .Site.Data.config }}
 {{ $recipe_page := $config.recipe_page }}
 
-{{/* Catégorie principale */}}
-{{ $cat := "" }}
-{{ with index .Params.categories 0 }}{{ $cat = . }}{{ end }}
 
 {{/* Récupère des recettes de la même catégorie */}}
 {{ $all := where .Site.RegularPages "Section" "recipes" }}
@@ -17,7 +14,8 @@
   {{ end }}
 {{ end }}
 
-{{ $items = first 20 $items }}
+{{ $items = shuffle $items }}
+{{ $items = first 30 $items }}
 
 {{ if gt (len $items) 0 }}
 <section class="mt-12 w-full max-w-full overflow-hidden">
@@ -35,10 +33,10 @@
     </a>
   </div>
 
-  <!-- Rail -->
+  <!-- Scroll HORIZONTAL MAIS CLIPPÉ -->
   <div class="w-full max-w-full overflow-hidden">
     <div
-      class="related-rail flex gap-4 overflow-x-auto pb-4 scroll-smooth cursor-grab active:cursor-grabbing select-none touch-pan-x"
+      class="related-rail flex gap-4 overflow-x-auto pb-4 scroll-smooth cursor-grab active:cursor-grabbing select-none"
       style="-webkit-overflow-scrolling: touch;"
       data-related-rail
       data-related-interval="2500"
@@ -70,3 +68,4 @@
   </div>
 </section>
 {{ end }}
+
